@@ -182,3 +182,57 @@ yesterday.
 - He is as stupid as a donkey. 
 ### not as...as 
 - 否定: not as adj. as ...不如...
+## not & no & none 
+### not any/a.an=no+n.= none
+- There aren’t any students. 
+- There are no students. 
+- There are none.
+## so neither 
+### 时态⼀致，⼈称⼀致 
+### 肯定: so+助动词/情态动词/be+主语 
+- I have a happy family. So do I.
+- I can swim. So can I.
+- I've got a cold. So have I. 
+### 否定: neither+助动词/情态动词/be+主语 
+- I don’t want to work. Neither do I. 
+- I can’t swim. Neither can I.
+- I haven't got a headache. Neither have I. 
+## 过去进⾏时: was/were + doing
+- I was doing my homework at 8 o’clock last night. 
+### 时间状语从句 定义：句⼦作时间状语
+- He was cooking a meal when he was listening to music.
+## 过去完成时：强调过去某⼀动作发⽣在另⼀动作或状态之前。(过去的过去)
+### had + done
+### had + not + done 
+### Had(提句⾸)+主语+其他
+### 经常与after before 连⽤
+- After I had seen the film, I read the book. 
+- I read the book after I had seen the film.
+- Before they ate the dinner, they had washed their hands. 
+- They had washed their hands before they ate the dinner.
+## 定语从句：⼀个句⼦做定语 (adj.) 
+### 定语从句修饰【⼈】⽤who/whom/that 
+- He is the man who met me yesterday.
+### 定语从句修饰【物】⽤which/that 
+- This is the letter which/that he sent me. 
+## have to ⼀般现在时 含义：必须 / 不得不 
+### 一般现在时
+- I have to leave now.
+- She doesn’t have to leave now. 
+### 一般将来时
+- I have lost my key, so I will have to stay at home this afternoon.
+- He won’t have to leave tonight.
+### ⼀般过去时
+- I had to work for my family when I was 16.
+- She didn’t have to get up very early this morning. 
+## have to VS must 
+### must 必须；主观 
+### have to 不得不；客观 (如章程或他⼈命令)
+- I must stop smoking.
+- I have to stop smoking.
+## must 表推测 
+### 确信度⾼/对现在的肯定推测：⼀定是 
+- They must be drinking tea.
+## can’t 表推测 
+### 确信度⾼/对现在的否定推测：⼀定不是
+- They can’t be drinking tea. 
