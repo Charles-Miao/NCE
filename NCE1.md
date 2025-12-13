@@ -233,6 +233,62 @@ yesterday.
 ## must 表推测 
 ### 确信度⾼/对现在的肯定推测：⼀定是 
 - They must be drinking tea.
+### 确信度⾼/对过去的肯定推测：当时⼀定是
+- I must have been crazy.
+- He must have been tired.
+- They must have been having a party. 
 ## can’t 表推测 
 ### 确信度⾼/对现在的否定推测：⼀定不是
-- They can’t be drinking tea. 
+- They can’t be drinking tea.
+### 确信度⾼/对过去的肯定推测：当时⼀定不是 
+- She can’t have been ill.
+- They can’t have been having dinner.
+## may might 表推测 
+### 确信度低/对现在的肯定推测：可能是
+- She may be from China. 
+- He may be drinking. 
+### 确信度低/对过去的肯定推测：当时可能是 
+- He may have been a doctor.
+- He may have been repairing his car. 
+## 直接引语&间接引语 主句：⼀般过去时
+### 直接引语：⼀般现在时 am/is/are/do/does 
+### 间接引语：⼀般过去时 was/were/did 
+- He said that he was tired. 
+- She said that the book was interesting. 
+### 直接引语：现在进⾏时 am/is/are+doing 
+### 间接引语：过去进⾏时 was/were+doing
+- She told me that she was waiting for the taxi. 
+### 直接引语：现在完成时 have+done / ⼀般过去时 was/were/did 
+### 间接引语：过去完成时 had+done
+- She said that she had finished her homework. 
+- He said that he had lost his key. 
+### 直接引语：⼀般将来时 am/is/are+going to do 
+### 间接引语：过去将来时 was/were going to do 
+- She said she was going to take a bath. 
+### 直接引语can 间接引语could
+- He said that he could recognize him. 
+### 直接引语will 间接引语would
+- She told me that she would go to the supermarket. 
+### 直接引语may 间接引语might
+- He said that they might arrive tomorrow. 
+## 主将从现
+### if ...(现), 主语 will do ...(将)
+- If you cook dinner, I will wash the dishes. 
+## 宾语从句 
+### 定义：⼀个句⼦做宾语,陈述句(肯&否)做宾语从句
+### ⼀般疑问句做宾语从句 
+- I want to know if you want an apple.
+### 特殊疑问句做宾语从句
+- I want to know who she is. 
+- I want to know what you are talking about.
+- I want to know where you are from. 
+- I want to know when you will go overseas.
+## 被动
+### ⼀般现在时被动: am/is/are + done 
+- My hair is cut every month. 
+### ⼀般过去时被动: was/were + done 
+- My hair was cut last month. 
+### 现在完成时被动: have been+done 
+- 100 trees have been planted by students.
+### ⼀般将来时被动: will be + done 
+- It will be cleaned. 
