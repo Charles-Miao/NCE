@@ -1,0 +1,63 @@
+- go to the theatre
+- have a good seat
+- get angry
+- turn round
+- pay attention
+- in the end
+- counldn't bear it
+- it's none of your business
+- get up early/late
+- just then
+- have breakfast
+- teach sb. sth.
+- lend sb. sth.
+- think ahout sth./sb.
+- on the last day
+- make a decision
+- send sth. to sb.
+- spend st. sw.
+- receive sth. from sb.
+- work for sb.
+- a great number of
+- have gone to sw.
+- have been to sw.
+- fly to sw.
+- find n. adj.
+- A is 5 miles from B
+- get sth. for sb.
+- cover the distance in st.
+- a great many
+- send a request for sth.
+- up to now
+- in this way
+- move to sw.
+- knock at the door
+- ask sb. for sth.
+- stand on sb's head
+- call at
+- in return for this
+- once a st.
+- ask for sth.
+- all morning
+- a parcel of sth.
+- a few hours earlier
+- keep guard
+- to sb.'s surprise
+- try to do sth.
+- A be full of B
+- swimming pool
+- enter the competition
+- that's neat
+- enter for
+- make a path
+- build a bridge
+- win a prize
+- a clod welcome
+- a warm welcome
+- gather round
+- shout at sb.
+- shout to sb.
+- refuse to do sth.
+- laugh at sb.
+- the last day of the year
+- a large crowd of
