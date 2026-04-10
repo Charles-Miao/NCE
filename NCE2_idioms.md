@@ -61,3 +61,6 @@
 - laugh at sb.
 - the last day of the year
 - a large crowd of
+- in twenty minutes' time
+- at that moment
+- begin to do sth.
