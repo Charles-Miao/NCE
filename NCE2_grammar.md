@@ -1,3 +1,5 @@
+# 语法笔记
+
 ## 造句：6123456（时间，主，谓，宾，⽅式，地点，时间）
 
 ## 现在进行时/一般现在时
@@ -17,7 +19,7 @@
 - 双音节：辅音字母+y 结尾，把 y 变成 i，加 er/est
 - 不规则 good/bad/much/little
 - 多音节 adj（大约等于 3），加 more most 表肯定
-- 多音节 adj（大约等于 3），加 less least 表否定
+- 多音节 adj（大约等于 3），加 less least表否定
 - 主语+be+adj.er+than+⽐较对象 (I formal/ me informal)
 - 主语+be+the+adj.est +n.+范围
 - 主语+be+the+adj.est+n.+I've ever met/seen
@@ -37,3 +39,9 @@
 - I start work at 8 o'clock.
 - The shops close at 5:30.
 - At midnight, they were still studying.
+
+## 被动-be+done
+- am/is/are+done
+- was/were+done
+- am/is/are+being+done
+- have/has been done
