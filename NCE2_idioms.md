@@ -1,3 +1,5 @@
+# 习惯性用法
+
 - go to the theatre
 - have a good seat
 - get angry
@@ -64,3 +66,8 @@
 - in twenty minutes' time
 - at that moment
 - begin to do sth.
+- be allowed to do sth.
+- allow sb. to do sth.
+- be made in sw.
+- belong to sb.
+- play jazz
