@@ -71,3 +71,10 @@
 - be made in sw.
 - belong to sb.
 - play jazz
+- one good turn deserves another.
+- get a good salary
+- it's your turn
+- borrow sth. from sb.
+- pay it back
+- pay for sth.
+- ask sb. to do sth.
