@@ -45,3 +45,13 @@
 - was/were+done
 - am/is/are+being+done
 - have/has been done
+
+---
+
+## 一般将来时：will-shall（我/我们用 shall，英式英语，目前很少用）
+- 主 + will + do
+- 主 +will + not (won't)
+- Will + 主 + do ...?
+- I/We+ shall + do + 其他 
+- I/We+ shall + not(shan't) /ʃɑːnt/ 
+- Shall + I/we ...

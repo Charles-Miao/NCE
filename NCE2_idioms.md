@@ -78,3 +78,16 @@
 - pay it back
 - pay for sth.
 - ask sb. to do sth.
+
+---
+
+- lucky dog
+- be proud of
+- I got a very important question to ask you.
+- sail from sw.
+- set out
+- have plenty of time
+- will be away
+- A be proud of B
+- say goodbye to sb.
+- take part in
