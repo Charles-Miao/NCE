@@ -91,9 +91,6 @@
 - A be proud of B
 - say goodbye to sb.
 - take part in
-
----
-
 - a group of
 - pop music/song/star
 - give a performance
