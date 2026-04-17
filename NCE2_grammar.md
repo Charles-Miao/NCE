@@ -55,3 +55,15 @@
 - I/We+ shall + do + 其他 
 - I/We+ shall + not(shan't) /ʃɑːnt/ 
 - Shall + I/we ...
+
+### 将来进行时
+#### 未来动作正在进⾏
+- Don't call me after 10. I will be sleeping.
+#### 计划
+- I will be meeting him tomorrow.
+#### 同，都表示将来计划
+- He is taking a test next week.
+- He will be taking a test next week.
+- He is going to take a test next week.
+#### 异，现在进行时表将来，需要加未来时间
+- am/is/are doing 表将来最好 + 未来时间
