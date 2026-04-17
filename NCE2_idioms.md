@@ -91,3 +91,16 @@
 - A be proud of B
 - say goodbye to sb.
 - take part in
+
+---
+
+- a group of
+- pop music/song/star
+- give a performance
+- on this occasion
+- at present
+- all parts of the country
+- as usual
+- have a difficult time
+- give five performances
+- keep order
