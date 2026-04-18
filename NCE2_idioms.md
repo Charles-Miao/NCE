@@ -101,3 +101,14 @@
 - have a difficult time
 - give five performances
 - keep order
+- have an amusing experience
+- wave to sb.
+- take a lift/ ask for a lift
+- A give B a lift
+- replay to the email/letter
+- go on a journey
+- drvie on to sw.
+- on the way
+- ask sb. for a lift
+- apart from
+- in French(语言)
