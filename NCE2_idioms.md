@@ -112,3 +112,11 @@
 - ask sb. for a lift
 - apart from
 - in French(语言)
+- be nervous about sth./ doing sth.
+- afford sth.
+- sorry to interrupt, but...
+- some extra sleep/ time/ money/ hand/ help
+- look up
+- afford to pay
+- my turn had come
+- in a weak voice

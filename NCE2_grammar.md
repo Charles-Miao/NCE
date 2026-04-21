@@ -73,3 +73,21 @@
 - We weren't hungry. We had just had lunch
 #### ⼀个动作从过去 A 持续或重复到过去 B (have done 的过去时) 
 - By 2020, I had lived in Beijing for 9 years.
+
+### 宾语从句（⼀个句⼦做宾语，这个句⼦叫宾语从句）
+#### 直接引语 — 间接引语
+- ⼈称变化 
+- 从句时态变化
+- 添加连词 (宾从连词 that)
+#### 从句时态变化 
+- am/is/are — was/were
+- am/is/are doing — was/were doing 
+- does/do — did
+- have/has done — had done
+- did — had done 
+#### 从句情态动词变化 
+- can-could 
+- may-might 
+- will-would 
+- shall-should 
+- must-had to
