@@ -91,3 +91,12 @@
 - will-would 
 - shall-should 
 - must-had to
+
+### if 引导的条件从句
+#### 主将从现 
+- If you give us 20 minutes, we will give you 10 years back.
+- If I don't feel well tomorrow, I'll stay at home. 
+#### 主情从现
+- If you need money, I can lend you some. 
+#### 主祈从现
+- If you don't like it, don't eat it.

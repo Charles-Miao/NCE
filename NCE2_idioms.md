@@ -120,3 +120,12 @@
 - afford to pay
 - my turn had come
 - in a weak voice
+- parking lot
+- heavy traffic
+- traffic police/lights/jam/ticket/rules
+- make notes/ make a note
+- leave a note
+- remind sb. of sth./sb.
+- fail to do sth.
+- park sb's car
+- pay attention to
