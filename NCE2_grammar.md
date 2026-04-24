@@ -100,3 +100,64 @@
 - If you need money, I can lend you some. 
 #### 主祈从现
 - If you don't like it, don't eat it.
+
+### must/ have to/ can
+#### must 用法
+##### 肯定，现在时
+- I must do it
+##### 肯定，过去时
+- I had to do it.
+##### 否定，没有过去时
+- Don't open that door. 
+- You can't open that door.
+- You'd better not open that door.
+##### 一般疑问，没有过去时
+- ⼤多数情况⽤have to
+
+#### have to 用法（比 must 更常用）
+##### 肯定，现在时
+- I have to go to class today.
+##### 肯定，过去时
+- I had to go to class yesterday.
+##### 否定，现在时
+- I don't have to go to class today.
+##### 否定，过去时
+- I didn't have to go to class yesterday.
+##### 一般疑问，现在时
+- Do you have to leave? 
+##### 一般疑问，过去时
+- Did you have to leave last night?
+
+#### have to VS must
+##### 主观个人感受
+- I must do some more work.
+##### 客观外界情况
+- I have to work from 9 to 5.
+##### 美式全⽤have to
+
+#### have got to 口语
+##### 表必须
+- I have got to go to class today.
+- I've gotta go to class today.
+- I gotta go to class today.
+##### 过去时
+- I had to go to class yesterday.
+##### 一般疑问
+- Do you have to go?
+
+#### 对现在很确信的肯定推测。"⼀定是" 
+- must do
+- must be adj./n. 
+- must be doing 
+#### 对现在很确信的否定推测。"⼀定不是" 
+- can't do
+- can't be adj./n. 
+- can't be doing 
+#### 对过去很确信的肯定推测。"当时⼀定是" 
+- must have done
+- must have been adj./n. 
+- must have been doing 
+#### 对过去很确信的否定推测。"当时⼀定不是"
+- can't have done
+- can't have been adj./n. 
+- can't have been doing

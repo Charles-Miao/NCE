@@ -129,3 +129,7 @@
 - fail to do sth.
 - park sb's car
 - pay attention to
+- at least
+- in spite of this
+- take part in
+- it must be terrible to do sth.
