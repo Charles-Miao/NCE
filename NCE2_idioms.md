@@ -137,3 +137,11 @@
 - look for
 - have a good meal
 - in a few minutes
+- hurry to sw.
+- in a hurry
+- what a pity
+- it's a pity that
+- don't yell at me
+- sold out
+- at once
+- might as well

@@ -169,3 +169,20 @@
 - had to
 - have got
 - have吃喝玩乐等
+
+#### may/might表现在推测
+##### 对现在不确信的肯定（否定）推测，也许是（也许不是）
+- may/might (not) do
+- may/might (not) be adj./n.
+- may/might (not) be doing
+- He may be in his office.
+- He might be having lunch.
+- She might know.
+- I might not have time to meet you.
+##### 对过去不确信的肯定（否定）推测，当时也许是（当时也许不是）
+- may/might (not) have done.
+- may/might (not) have been adj./n.
+- may/might (not) have been doing.
+- She may have been asleep.
+- You might have left it in the shop.
+- He may not have been feeling well.
