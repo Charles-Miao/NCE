@@ -161,3 +161,11 @@
 - can't have done
 - can't have been adj./n. 
 - can't have been doing
+
+#### have常见用法
+- have - has - having - had - had
+- have + done
+- had + done
+- had to
+- have got
+- have吃喝玩乐等

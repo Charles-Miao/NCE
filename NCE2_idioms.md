@@ -133,3 +133,7 @@
 - in spite of this
 - take part in
 - it must be terrible to do sth.
+- pay the bill
+- look for
+- have a good meal
+- in a few minutes
