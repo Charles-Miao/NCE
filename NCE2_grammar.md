@@ -186,3 +186,7 @@
 - She may have been asleep.
 - You might have left it in the shop.
 - He may not have been feeling well.
+
+#### 动名词 v.+ing 动词变名词
+- Sleeping is good for you.
+- I like sleeping.

@@ -145,3 +145,12 @@
 - sold out
 - at once
 - might as well
+- catch your eye
+- catch a bus
+- watch your tongue
+- that's rubbish
+- you're wasting time
+- sb. realized that ...
+- instead of doing sth.
+- give up doing sth.
+- be interested in doing sth.
