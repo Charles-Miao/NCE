@@ -154,3 +154,4 @@
 - instead of doing sth.
 - give up doing sth.
 - be interested in doing sth.
+- I can't listen to him without getting bored.(我一听他说话，就会觉得无聊。)
