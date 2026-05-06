@@ -155,3 +155,10 @@
 - give up doing sth.
 - be interested in doing sth.
 - I can't listen to him without getting bored.(我一听他说话，就会觉得无聊。)
+
+- be mad at sb.
+- for some reason
+- a large sum of money
+- be determined to do sth.
+- drive sb. mad
+- come into use

@@ -190,3 +190,29 @@
 #### 动名词 v.+ing 动词变名词
 - Sleeping is good for you.
 - I like sleeping.
+
+### 情态动词的被动
+#### will/would be done
+- The work will be done tomorrow.
+
+#### can/could be done
+- This problem can be solved easily.
+- The book could be found everywhere.
+
+#### must be done
+- This must be finished today.
+- All the mistakes must be corrected.
+
+#### have to be done
+- This has to be done carefully.
+- The meeting has to be postponed.
+
+#### must have been done 当时一定是被（对过去的肯定推测）
+- My watch must have been stolen. 我的表当时一定是被偷了。
+- He must have been told the news.
+
+#### could have been done 当时可能是被
+- The letter could have been sent by mistake.
+
+#### can't have been done 当时不可能是被
+- He can't have been the thief. 他不可能是小偷。
