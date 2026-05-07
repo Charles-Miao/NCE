@@ -216,3 +216,30 @@
 
 #### can't have been done 当时不可能是被
 - He can't have been the thief. 他不可能是小偷。
+
+### v. + of/from/in/on...
+#### v. + of
+- dream of doing sth.
+- be afraid of doing sth.
+- be tired of doing sth.
+- be sure of doing sth.
+- be proud of doing sth.
+
+#### v. + from
+- receive sth. from sb.
+- learn from sth./sb.
+- suffer from sth.
+
+#### v. + in
+- be interested in doing sth.
+- be experienced in doing sth.
+- succeed in doing sth.
+
+#### v. + on
+- depend on doing sth.
+- insist on doing sth.
+- rely on doing sth.
+- focus on doing sth.
+
+#### be keen on doing sth. 热衷于
+- He is keen on collecting stamps.

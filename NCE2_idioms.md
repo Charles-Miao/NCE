@@ -162,3 +162,9 @@
 - be determined to do sth.
 - drive sb. mad
 - come into use
+- dream of doing sth.
+- at my age
+- throw away
+- think of sth.
+- write to sb.
+- decide to do sth.
