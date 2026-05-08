@@ -168,3 +168,9 @@
 - think of sth.
 - write to sb.
 - decide to do sth.
+- You complete me.
+- have a letter from sb.
+- get a surprise
+- get/be upset about sth.
+- complain about sth.
+- start to do sth.
