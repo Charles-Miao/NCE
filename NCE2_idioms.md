@@ -174,3 +174,9 @@
 - get/be upset about sth.
 - complain about sth.
 - start to do sth.
+
+---
+
+- railway station
+- no wonder
+- not know the way to sw.

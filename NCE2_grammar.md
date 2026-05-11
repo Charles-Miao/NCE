@@ -243,3 +243,26 @@
 
 #### be keen on doing sth. 热衷于
 - He is keen on collecting stamps.
+
+---
+
+#### 并列连词
+##### and, but, or, so
+- 同一主语情况下，主语不必重复
+- He finished lunch and (he) went into the garden.
+##### both...and, either...or, neither...nor
+- 连接主语
+- Both my wife and I are going to Pairs. 
+- 连接主语时就近原则
+- Either the teacher or the students are wrong. 
+- Neither dad nor mum is at home today.
+- 连接谓语
+- When the girl is happy, she either sings or dances.
+- When the boy is sad, he neither sings nor dances.
+- 连接宾语
+- I want neither this one nor that one. 
+##### not only...but also (as well)
+- 连接主谓宾（主语就近原则）
+- Not only the doctor but also the patients don't know about it. 
+- You must not only wash the dishes but sweep the floor as well. (= but also sweep the floor.)
+- Shakespeare was not only a writer but also an actor.
