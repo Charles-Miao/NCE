@@ -180,3 +180,9 @@
 - railway station
 - no wonder
 - not know the way to sw.
+
+---
+
+- sb. pretend that + 句子
+- I really appreciate that.
+- It's all right
