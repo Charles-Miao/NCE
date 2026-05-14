@@ -190,3 +190,6 @@
 - wake up
 - leap out
 - sleep soundly
+- have trouble with sth.
+- have no effect
+- have trouble doing sth.
