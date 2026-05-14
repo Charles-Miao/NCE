@@ -183,3 +183,10 @@
 - sb. pretend that + 句子
 - I really appreciate that.
 - It's all right
+- put up the tent
+- tell a story/stories
+- put out the fire
+- begin doing sth.
+- wake up
+- leap out
+- sleep soundly
