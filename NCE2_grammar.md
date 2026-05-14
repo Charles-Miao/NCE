@@ -266,3 +266,26 @@
 - Not only the doctor but also the patients don't know about it. 
 - You must not only wash the dishes but sweep the floor as well. (= but also sweep the floor.)
 - Shakespeare was not only a writer but also an actor.
+
+#### 定语从句
+##### 一句汉语变两句英文
+- 中文：我喜欢那个帮助我的女孩
+- 拆两句：I like the girl. She helps me.
+##### 确定被修饰词
+- 被修饰词：the girl
+##### 确定who/whom/which/that
+- 选连接词：人、主语 → who
+##### 确定是否可以省略（替代宾语）
+##### who/whom/which/that替代被修饰词，并提句首
+- 替代 + 提前：who helps me
+##### 定从紧随被修饰词之后
+- 紧跟名词：I like the girl who helps me.
+##### 一些例句
+- The man who lives next door is a doctor.
+- We know a lot of people who live in London.
+- The machine which broke down has been repaired.
+- The woman who I wanted to see was away on holiday.
+- We saw some people whose car had broken down.
+- I met a man whose wife is a English teacher.
+- I met somebody whose parents work in a bank.
+- I met somebody whose mother writes stories.
