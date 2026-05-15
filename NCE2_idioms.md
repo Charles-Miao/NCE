@@ -193,3 +193,4 @@
 - have trouble with sth.
 - have no effect
 - have trouble doing sth.
+- take a taxi

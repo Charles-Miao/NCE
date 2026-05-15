@@ -289,3 +289,19 @@
 - I met a man whose wife is a English teacher.
 - I met somebody whose parents work in a bank.
 - I met somebody whose mother writes stories.
+
+#### done做定语
+- The 'taxi' is a small Swiss airplane called a 'Pilatus Porter'. on a ploughed field deserted car park.
+##### 通常表被动 一般/被动完成
+- a broken cup
+##### 偶尔表示主动完成
+- fallen leaves
+- a retired captain
+
+#### done做定语
+- The 'taxi' is a small Swiss airplane called a 'Pilatus Porter'. on a ploughed field deserted car park.
+##### 通常表被动 一般/被动完成
+- a broken cup
+##### 偶尔表示主动完成
+- fallen leaves
+- a retired captain
