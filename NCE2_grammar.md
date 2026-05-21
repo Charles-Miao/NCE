@@ -298,10 +298,16 @@
 - fallen leaves
 - a retired captain
 
-#### done做定语
-- The 'taxi' is a small Swiss airplane called a 'Pilatus Porter'. on a ploughed field deserted car park.
-##### 通常表被动 一般/被动完成
-- a broken cup
-##### 偶尔表示主动完成
-- fallen leaves
-- a retired captain
+#### doing现在分词做定语：主动进行/主动一般
+- the sinking ship（正在下沉的船）
+- the rising sun（冉冉升起的太阳）
+- the sleeping child（正在睡觉的孩子）
+- I like the girl dancing with that guy.（我喜欢和那个家伙跳舞的女孩。）
+##### 定语的一般结构
+- adj. + n.（形容词+名词）
+- done + n.（过去分词+名词，表被动/完成）
+- doing + n.（现在分词+名词，表主动/进行）
+- 短语+prep.引导（如：the girl in red）
+- 短语+done引导（如：the book written by Mo Yan）
+- 短语+doing引导（如：the boy standing there）
+- 定语从句（如：the girl who helps me）

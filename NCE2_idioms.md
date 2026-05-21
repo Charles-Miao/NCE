@@ -194,3 +194,7 @@
 - have no effect
 - have trouble doing sth.
 - take a taxi
+- kick his ass（口语：狠狠教训他/打败他）
+- in sight / out of sight（在视线内/外）
+- water polo（水球）
+- call out to sb.（大声喊某人）
