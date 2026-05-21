@@ -311,3 +311,12 @@
 - 短语+done引导（如：the book written by Mo Yan）
 - 短语+doing引导（如：the boy standing there）
 - 定语从句（如：the girl who helps me）
+
+#### used to do...过去发生，现在已经不发生了
+- I used to be a student.（我以前是个学生。）
+- 否定：didn't use to do...（过去常常不做...）
+  - I didn't use to like coffee.（我以前不喜欢咖啡。）
+- 一般疑问：Did 主语 use to do...
+  - Did you use to play basketball?（你以前打篮球吗？）
+##### 对比：be used to doing（习惯于做某事）
+- I am used to getting up early.（我习惯于早起。）

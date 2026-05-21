@@ -198,3 +198,6 @@
 - in sight / out of sight（在视线内/外）
 - water polo（水球）
 - call out to sb.（大声喊某人）
+- save sb's life（救某人的命）
+- it is/was sb's job to do sth.（做某事是某人的职责）
+- in sb's twenties（在某人二十多岁时）
