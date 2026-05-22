@@ -201,3 +201,17 @@
 - save sb's life（救某人的命）
 - it is/was sb's job to do sth.（做某事是某人的职责）
 - in sb's twenties（在某人二十多岁时）
+- once upon a time 从前，很久以前（常用于故事开头）
+  - Once upon a time, there was a king who had three beautiful daughters.
+- resist the temptation 抵制诱惑
+  - It's hard to resist the temptation of delicious food when you're on a diet.
+- wrap up sth. 把...包起来；完成（会议、交易等）
+  - Let me wrap up this meeting and then we can leave.
+  - She wrapped up the gift beautifully with a red ribbon.
+- it is easy for sb. to do sth. 对某人来说做某事很容易
+  - It is easy for children to learn a new language.
+- hand sth. to sb. 把某物递给某人
+  - Please hand the salt to me.（Please pass the salt to me.）
+  - He handed the document to the manager.
+- as quickly as possible 尽可能快地
+  - We need to finish this project as quickly as possible.

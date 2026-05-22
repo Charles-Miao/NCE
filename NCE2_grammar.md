@@ -320,3 +320,18 @@
   - Did you use to play basketball?（你以前打篮球吗？）
 ##### 对比：be used to doing（习惯于做某事）
 - I am used to getting up early.（我习惯于早起。）
+
+### as...as 结构
+##### 第一个 as：副词，"同等地/一样地"
+##### 第二个 as：连词，"像...一样"
+- The blue car is as clean as the red car.（蓝车和红车一样干净。）
+- He runs as fast as his brother.（他跑得和他兄弟一样快。）
+- She is as tall as her mother.（她和妈妈一样高。）
+##### 否定：not as(so)...as...（不如...那样...）
+- He is not as(so) honest as his father.（他不如他父亲那样诚实。）
+- This movie is not so interesting as that one.（这部电影不如那部有趣。）
+##### 变肯定为否定：中间加 not 或 so/as
+- She sings beautifully, but not as beautifully as her sister.
+##### 修饰程度：中间可加 adj./adv. 的比较级
+- This room is twice as big as that one.（这个房间是那个的两倍大。）
+- He can run twice as fast as I can.
