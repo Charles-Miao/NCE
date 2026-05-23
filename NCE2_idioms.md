@@ -215,3 +215,13 @@
   - He handed the document to the manager.
 - as quickly as possible 尽可能快地
   - We need to finish this project as quickly as possible.
+- explain sth. to sb. 向某人解释某事
+  - Can you explain this rule to me?
+  - The teacher explained the problem to the students.
+- go ahead 去吧；继续；（礼貌地）请便
+  - — Can I use your phone? — Go ahead.
+  - Go ahead, I'm listening.
+  - The project is going ahead as planned.
+- On doing sth,... 一...就...（= as soon as）
+  - On hearing the news, she burst into tears.（一听到消息，她就哭了。）
+  - On arriving home, he called his mother.（一到家，他就给妈妈打了电话。）
