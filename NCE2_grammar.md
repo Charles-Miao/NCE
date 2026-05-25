@@ -74,6 +74,12 @@
 #### ⼀个动作从过去 A 持续或重复到过去 B (have done 的过去时) 
 - By 2020, I had lived in Beijing for 9 years.
 
+#### 过去完成时被动 had been + done
+- 表示：过去的过去发生的动作，且主语是动作的承受者
+- The china had never been used.（这些瓷器从未被使用过。）
+- The document had been signed before I arrived.（在我到达之前，文件已经被签署了。）
+- All the tickets had been sold out by the time we got there.（我们到那里时，所有的票都已经售完了。）
+
 ### 宾语从句（⼀个句⼦做宾语，这个句⼦叫宾语从句）
 #### 直接引语 — 间接引语
 - ⼈称变化 

@@ -225,3 +225,6 @@
 - On doing sth,... 一...就...（= as soon as）
   - On hearing the news, she burst into tears.（一听到消息，她就哭了。）
   - On arriving home, he called his mother.（一到家，他就给妈妈打了电话。）
+- expect sth. to be found 预期某物会被找到
+  - The police expected the missing child to be found safe.（警方预计失踪的孩子会被安全找到。）
+  - We didn't expect the keys to be found so quickly.（我们没想到钥匙会这么快被找到。）
