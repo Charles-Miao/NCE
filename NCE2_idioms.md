@@ -228,3 +228,25 @@
 - expect sth. to be found 预期某物会被找到
   - The police expected the missing child to be found safe.（警方预计失踪的孩子会被安全找到。）
   - We didn't expect the keys to be found so quickly.（我们没想到钥匙会这么快被找到。）
+- a short while ago 不久前
+  - I saw him a short while ago.（我不久前见过他。）
+  - A short while ago, the phone rang.（不久前，电话响了。）
+- regret sth. 后悔/遗憾某事
+  - I regret my decision.（我后悔我的决定。）
+  - She regrets not studying harder.（她后悔没有更努力学习。）
+- rush out of/towards 冲出/冲向
+  - He rushed out of the room without saying a word.（他一言不发地冲出房间。）
+  - The children rushed towards the playground.（孩子们冲向操场。）
+- go straight ahead 直走
+  - Go straight ahead for 100 meters and then turn left.（直走100米然后左转。）
+  - The shop is just straight ahead.（商店就在正前方。）
+- give me a fright 吓了我一跳（口语）
+  - You gave me such a fright!（你吓死我了！）
+- get a fright 受到惊吓
+  - She got a fright when the dog barked.（狗叫的时候她吓了一跳。）
+- shortly afterwards 不久之后
+  - He left, and shortly afterwards the police arrived.（他离开了，不久之后警察就到了。）
+- see sb. do sth. 看见某人做了某事（全程/经常）
+  - I saw Tom get into his car and drive away.（我看见 Tom 上了车然后开走了。）
+- see sb. doing sth. 看见某人正在做某事（进行中）
+  - I saw Kate waiting for a bus.（我看见 Kate 正在等公交车。）

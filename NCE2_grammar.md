@@ -341,3 +341,22 @@
 ##### 修饰程度：中间可加 adj./adv. 的比较级
 - This room is twice as big as that one.（这个房间是那个的两倍大。）
 - He can run twice as fast as I can.
+
+### so & such 结构
+##### so + adj./adv.（so修饰形容词或副词）
+- The story was so stupid.（这个故事太蠢了。）
+- She spoke so quickly that I couldn't understand.（她说得太快，我听不懂。）
+##### such + (adj.) + n.（such修饰名词）
+- It was such a stupid story.（这是一个如此愚蠢的故事。）
+- It was such a good book that I couldn't put it down.（这本书太好了，我爱不释手。）
+##### so...that...  如此...以至于...
+- The ball struck him so hard that he nearly fell into the water.（球砸得他如此之重，他差点掉进水里。）
+- It was so cold that we stayed at home.（天气太冷了，我们待在家里。）
+##### such...that...  如此...以至于...
+- It was such a good book that I couldn't put it down.
+- It was such bad weather that we cancelled the trip.（天气太糟糕了，我们取消了旅行。）
+##### 对比总结
+- so + adj./adv. + that
+- such + (a/an) + (adj.) + n. + that
+- He ran so fast that I couldn't catch him.（so + adv.）
+- He was such a fast runner that no one could catch him.（such + n.）
