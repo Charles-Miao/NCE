@@ -250,3 +250,27 @@
   - I saw Tom get into his car and drive away.（我看见 Tom 上了车然后开走了。）
 - see sb. doing sth. 看见某人正在做某事（进行中）
   - I saw Kate waiting for a bus.（我看见 Kate 正在等公交车。）
+- set up a new world record 创下新世界纪录
+  - She set up a new world record in the 100-meter race.（她在100米比赛中创下了新世界纪录。）
+- break the record 打破纪录
+  - He broke the world record for high jump.（他打破了跳高世界纪录。）
+- as strong as a horse 强壮如牛（习语）
+  - My grandfather is 80, but he's still as strong as a horse.（我爷爷80岁了，但还是强壮如牛。）
+- strong like a horse 强壮如牛（口语，非正式）
+  - He works out every day and is strong like a horse.
+- succeed in doing sth. 成功做了某事
+  - She succeeded in passing the exam.（她成功通过了考试。）
+  - They succeeded in reaching the top of the mountain.（他们成功登顶。）
+- train sb. to do sth. 训练某人做某事
+  - The coach trained the team to play better defense.（教练训练球队更好地防守。）
+  - She trained her dog to fetch the newspaper.（她训练她的狗取报纸。）
+- intend to do sth. 打算/想要做某事
+  - I intend to visit my parents next month.（我打算下个月去看望父母。）
+- hope to do sth. 希望做某事
+  - I hope to see you again soon.（希望很快再见到你。）
+- be sure to do sth. 一定会做某事/务必做某事
+  - He is sure to win the game.（他一定会赢这场比赛。）
+  - Be sure to lock the door before you leave.（离开前务必锁门。）
+- take a rest / take some rests 休息一下
+  - Let's take a rest for 10 minutes.（我们休息10分钟吧。）
+  - You've been working all day. You need to take some rests.（你工作了一整天，需要休息一下。）
