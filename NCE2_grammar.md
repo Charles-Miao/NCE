@@ -360,3 +360,17 @@
 - such + (a/an) + (adj.) + n. + that
 - He ran so fast that I couldn't catch him.（so + adv.）
 - He was such a fast runner that no one could catch him.（such + n.）
+
+### 将来完成时 will have done
+##### 用法1：一个动作持续或重复到将来某个时间
+- We will have taken five exams by next Friday.（到下周五，我们将已经考完五门试。）
+- By the end of this year, I will have lived here for 10 years.（到今年年底，我在这里住了10年了。）
+##### 用法2：一个动作截止到未来某个时间前完成
+- I will have finished my homework by next Friday.（到下周五，我将已经完成作业。）
+- They will have arrived by the time we get there.（等我们到那里时，他们将已经到了。）
+##### 否定：will + not = won't
+- I won't have finished the work by tomorrow.（到明天，我还没完成这项工作。）
+- She won't have graduated by next month.（到下个月，她还没毕业。）
+##### 一般疑问句：will 提到句首
+- Will you have finished by 5 o'clock?（你5点前能完成吗？）
+- Will they have left by the time we arrive?（等我们到的时候，他们已经走了吗？）

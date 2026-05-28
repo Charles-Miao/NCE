@@ -274,3 +274,14 @@
 - take a rest / take some rests 休息一下
   - Let's take a rest for 10 minutes.（我们休息10分钟吧。）
   - You've been working all day. You need to take some rests.（你工作了一整天，需要休息一下。）
+- hold a meeting 举行会议
+  - We will hold a meeting next Monday.（我们下周一将举行会议。）
+  - The company holds a monthly meeting.（公司每月举行一次会议。）
+- fantastic 极好的，棒极了
+  - The movie was fantastic!（这部电影太棒了！）
+  - — How was your trip? — It was fantastic!（你的旅行怎么样？棒极了！）
+- look forward to doing sth. 期待做某事
+  - I look forward to seeing you again.（我期待再次见到你。）
+  - We are looking forward to the holiday.（我们期待着假期。）
+  - She looks forward to hearing from you.（她期待收到你的来信。）
+  - ⚠️ 重点：to 是介词，后接名词或动名词（doing），不是不定式 to do
