@@ -374,3 +374,13 @@
 ##### 一般疑问句：will 提到句首
 - Will you have finished by 5 o'clock?（你5点前能完成吗？）
 - Will they have left by the time we arrive?（等我们到的时候，他们已经走了吗？）
+
+### had done 过去完成时（had done）
+##### no sooner...than  一...就...（刚做完A，就做B）
+- He had no sooner returned than he bought a house and settled down in the country.（他刚一回来，就买了一栋房子，在乡下定居了。）
+- No sooner had I gone to sleep than the phone rang.（我刚一睡着，电话就响了。）
+- ⚠️ 否定副词提前，主句倒装：No sooner + had + 主语 + done... than...
+##### hardly...when  几乎刚...就...（几乎还没来得及A，就B了）
+- He had hardly had time to settle down when he sold the house and left the country.（他几乎还没来得及安顿下来，就卖了房子离开了这个国家。）
+- Hardly had I got home when it began to rain.（我刚一到家，天就开始下雨了。）
+- ⚠️ 否定副词提前，主句倒装：Hardly + had + 主语 + done... when...

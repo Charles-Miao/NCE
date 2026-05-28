@@ -162,7 +162,9 @@
 - be determined to do sth.
 - drive sb. mad
 - come into use
-- dream of doing sth.
+- dream of doing sth. 梦想做某事，渴望做某事
+  - He dreams of becoming a pilot.（他梦想成为一名飞行员。）
+  - I have always dreamed of visiting Paris.（我一直梦想着去巴黎。）
 - at my age
 - throw away
 - think of sth.
@@ -172,7 +174,9 @@
 - have a letter from sb.
 - get a surprise
 - get/be upset about sth.
-- complain about sth.
+- complain about sth. 抱怨某事，投诉某事
+  - She complained about the bad service.（她抱怨服务差。）
+  - Stop complaining about the weather.（别再抱怨天气了。）
 - start to do sth.
 
 ---
@@ -285,3 +289,15 @@
   - We are looking forward to the holiday.（我们期待着假期。）
   - She looks forward to hearing from you.（她期待收到你的来信。）
   - ⚠️ 重点：to 是介词，后接名词或动名词（doing），不是不定式 to do
+- bitterly cold 刺骨地寒冷，冰冷
+  - It was bitterly cold that winter.（那年冬天冷得刺骨。）
+  - The wind was bitterly cold.（风刮得刺骨地冷。）
+- plan to do sth. 计划/打算做某事
+  - I plan to travel to Japan next year.（我计划明年去日本旅行。）
+  - They are planning to buy a new house.（他们正计划买一栋新房子。）
+- settle down 定居；安顿下来；平静下来
+  - He settled down in the countryside after he retired.（退休后他在乡下定居了。）
+  - She settled down with a good book.（她安下心来读一本好书。）
+- more than sb. could bear 固定句式：超出某人承受范围、忍无可忍
+  - It was more than he could bear.（这超出了他的承受范围 / 他忍无可忍。）
+  - The noise was more than I could bear.（噪音让我忍无可忍。）
