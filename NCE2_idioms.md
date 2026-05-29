@@ -301,3 +301,18 @@
 - more than sb. could bear 固定句式：超出某人承受范围、忍无可忍
   - It was more than he could bear.（这超出了他的承受范围 / 他忍无可忍。）
   - The noise was more than I could bear.（噪音让我忍无可忍。）
+- have an operation 接受手术，动手术
+  - He had an operation on his knee last week.（他上周做了膝盖手术。）
+  - The doctor said she needs to have an operation.（医生说她需要动手术。）
+- leave me alone 别烦我，让我一个人待着
+  - Leave me alone! I'm studying.（别烦我！我在学习。）
+  - He needs some time to think — just leave him alone.（他需要时间思考——别打扰他。）
+- currency exchange 货币兑换
+  - You can do currency exchange at the airport.（你可以在机场兑换货币。）
+  - Where is the currency exchange counter?（货币兑换柜台在哪里？）
+- inquire about sth./sb. 询问某事/某人（正式，= ask about）
+  - She called to inquire about the job opening.（她打电话来询问招聘职位。）
+  - He inquired about the train schedule.（他询问了火车时刻表。）
+- a relative of the patient 病人的一位亲属
+  - A relative of the patient arrived at the hospital.（病人的一位亲属到了医院。）
+  - Is there a relative of the patient here?（这里有病人的亲属吗？）
