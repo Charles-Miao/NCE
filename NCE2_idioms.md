@@ -298,9 +298,18 @@
 - settle down 定居；安顿下来；平静下来
   - He settled down in the countryside after he retired.（退休后他在乡下定居了。）
   - She settled down with a good book.（她安下心来读一本好书。）
-- more than sb. could bear 固定句式：超出某人承受范围、忍无可忍
-  - It was more than he could bear.（这超出了他的承受范围 / 他忍无可忍。）
-  - The noise was more than I could bear.（噪音让我忍无可忍。）
+- Will you be doing sth? 将来进行时（询问对方将来是否正在做某事，比 will you do 更委婉）
+  - Will you be using the car this evening?（你今晚会用这辆车吗？）
+  - Will you be staying in this weekend?（你这周末会待在家里吗？）
+- in despair 绝望地，陷入绝望
+  - He gave up in despair.（他绝望地放弃了。）
+  - She looked at him in despair.（她绝望地看着他。）
+- take my seat 就座，坐到我的座位上
+  - Please take your seat, the meeting is about to start.（请就座，会议马上开始。）
+  - I took my seat by the window.（我在靠窗的座位坐下。）
+- be busy doing sth. 忙于做某事
+  - She is busy preparing for the exam.（她正忙着备考。）
+  - They were busy decorating the house.（他们正忙着装修房子。）
 - have an operation 接受手术，动手术
   - He had an operation on his knee last week.（他上周做了膝盖手术。）
   - The doctor said she needs to have an operation.（医生说她需要动手术。）

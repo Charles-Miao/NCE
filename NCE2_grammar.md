@@ -384,3 +384,15 @@
 - He had hardly had time to settle down when he sold the house and left the country.（他几乎还没来得及安顿下来，就卖了房子离开了这个国家。）
 - Hardly had I got home when it began to rain.（我刚一到家，天就开始下雨了。）
 - ⚠️ 否定副词提前，主句倒装：Hardly + had + 主语 + done... when...
+
+### 虚拟语气
+##### 结构：If + did/were，主句 + would/should/could/might + do
+- 从句动词用过去式（did / were），但**并非表示过去**，而表示与现在事实相反
+- 主句用 would/should/could/might + 动词原形
+- 含义：说话人认为 if 从句发生的概率**非常低**，纯属假设
+
+##### 例句
+- If I were you, I wouldn't do that.（如果我是你，我就不会那样做。）
+  - ⚠️ 不管主语是谁，虚拟语气中 be 动词统一用 **were**，不用 was
+- If I knew them better, I might invite them to dinner.（如果我和他们更熟的话，我可能会请他们吃饭。）
+- If I had more time, I would learn Japanese.（如果我有更多时间，我会学日语。）
