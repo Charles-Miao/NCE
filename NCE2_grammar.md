@@ -396,3 +396,18 @@
   - ⚠️ 不管主语是谁，虚拟语气中 be 动词统一用 **were**，不用 was
 - If I knew them better, I might invite them to dinner.（如果我和他们更熟的话，我可能会请他们吃饭。）
 - If I had more time, I would learn Japanese.（如果我有更多时间，我会学日语。）
+
+### need
+##### 实义动词（肯定句，主语 + need + 名词/代词）
+- I need your help.（我需要你的帮助。）
+- He needs a new laptop.（他需要一台新笔记本电脑。）
+##### 实义动词（肯定句，主语 + needs to do）
+- She needs to sleep.（她需要睡觉。）
+- They need to finish the report by Friday.（他们需要在周五前完成报告。）
+##### 情态动词（否定句，主语 + needn't + 动词原形）
+- You needn't do that.（你不必那样做。）
+- We needn't hurry.（我们不必着急。）
+##### 情态动词（虚拟用法：needn't have done）
+- needn't have done 本不必如此。但事情已经发生了，有后悔的言语效果。
+  - He needn't have taken an umbrella.（他本不必带伞的。）
+  - You needn't have bought all these.（你本不必买所有这些东西的。）

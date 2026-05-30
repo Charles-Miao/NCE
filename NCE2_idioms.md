@@ -125,8 +125,17 @@
 - traffic police/lights/jam/ticket/rules
 - make notes/ make a note
 - leave a note
-- remind sb. of sth./sb.
-- fail to do sth.
+- remind sb. of sth./sb. 使某人想起某事/某人
+  - This song reminds me of my childhood.（这首歌让我想起了我的童年。）
+  - She reminds me of her mother.（她让我想起她的母亲。）
+- regret doing sth. 后悔做了某事（对已发生的事感到后悔）
+  - I regret telling him the truth.（我后悔告诉了他真相。）
+  - He regretted not studying harder.（他后悔没有更努力学习。）
+  - ⚠️ regret to do sth. 是"很遗憾要做某事"（通知坏消息时的礼貌表达），两者含义不同
+- find sth. adj. 发现/觉得某物怎么样（find + 宾语 + 形容词补足语）
+  - He finds this book very interesting.（他觉得这本书很有趣。）
+  - She finds this mirror very rude.（字面：她觉得这面镜子很无礼——拟人化表达。实际含义：这面镜子照得她很难看/很不衬人，她对此很不满。）
+  - I find this movie boring.（我觉得这部电影很无聊。）
 - park sb's car
 - pay attention to
 - at least
