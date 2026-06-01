@@ -334,3 +334,36 @@
 - a relative of the patient 病人的一位亲属
   - A relative of the patient arrived at the hospital.（病人的一位亲属到了医院。）
   - Is there a relative of the patient here?（这里有病人的亲属吗？）
+- can never/can't ... too + 名词/形容词/副词
+  - 固定含义：**再……也不为过；再多……也不嫌多**
+  - 结构：cannot / can never + be + too + adj. / adv. / noun
+  - 逻辑：字面是"不能太…"，实际表示"无论多么…都不为过"，即"越…越好"
+  - You can never be too careful when crossing the street.（过马路时再小心也不为过。）
+  - We cannot praise him too much for what he has done.（他做的事我们怎么表扬都不为过。）
+  - A woman can never have too many shoes.（女人的鞋子再多也不嫌多。——幽默用法）
+  - ⚠️ 变体：impossible to + overuse / overstate 也有类似含义
+- watch a musical 观看音乐剧
+  - We watched a musical on Broadway last night.（我们昨晚在百老汇看了一场音乐剧。）
+  - She loves watching musicals in her spare time.（她空闲时喜欢看音乐剧。）
+- play a tune 演奏一首曲子
+  - He played a cheerful tune on the piano.（他在钢琴上弹了一首欢快的曲子。）
+  - The musician played a beautiful tune at the wedding.（音乐家在婚礼上演奏了一首优美的曲子。）
+- have a glimpse of sth./sb. 瞥见某物/某人
+  - I caught a glimpse of her in the crowd.（我在人群中瞥见了她。）
+  - He had a glimpse of the famous painting before the museum closed.（博物馆闭馆前他匆匆看了一眼那幅名画。）
+  - ⚠️ glimpse 是短暂、偶然的"一瞥"，比 see 更强调"瞬间、不完整"
+- continue to do sth. 继续做某事
+  - She continued to work after a short break.（短暂休息后她继续工作。）
+  - The rain continued to fall all afternoon.（雨持续下了一整个下午。）
+  - ⚠️ continue + to do / doing 均可，语义差别极小；to do 更强调"接下来继续做"，doing 更强调"一直持续做"
+- tell the difference between A and B 区分A和B，辨别A与B的不同
+  - Can you tell the difference between the twins?（你能分辨出这对双胞胎的区别吗？）
+  - It's hard to tell the difference between the two wines.（很难区分这两种葡萄酒的差别。）
+  - ⚠️ 同义表达：distinguish A from B / spot the difference between A and B
+- have a long walk 走很长一段路，远足
+  - We had a long walk in the countryside last weekend.（上周末我们在乡下走了很长一段路。）
+  - After dinner, she likes to have a long walk along the river.（晚饭后她喜欢沿着河边散步走很久。）
+- at the other side of sth. 在某物的另一边
+  - The supermarket is at the other side of the park.（超市在公园的另一边。）
+  - He stood at the other side of the door, waiting.（他站在门的另一边，等着。）
+  - ⚠️ 也可以说 on the other side of（更常用），at 强调"位于那个方位点"
