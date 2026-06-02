@@ -393,3 +393,45 @@
 - order sb. to do sth. 命令/吩咐某人做某事
   - The doctor ordered him to stay in bed.（医生嘱咐他卧床休息。）
   - The boss ordered the workers to finish the job by Friday.（老板命令工人们在周五前完成工作。）
+- take a risk 冒险，承担风险
+  - You have to take a risk if you want to succeed.（如果你想成功，就得冒险。）
+  - He took a big risk investing all his money in that company.（他把所有钱都投给那家公司，冒了很大风险。）
+  - ⚠️ 同义表达：take a chance（更偏"碰运气"）
+- have a picnic 去野餐，举行野餐
+  - We had a picnic by the lake last Sunday.（上周日我们在湖边野餐了。）
+  - Let's have a picnic in the park this weekend.（这周末我们去公园野餐吧。）
+- at the edge of a forest 在森林边缘
+  - They set up their tent at the edge of a forest.（他们在森林边缘搭起了帐篷。）
+  - A small village lies at the edge of the forest.（一个小村庄坐落在森林边缘。）
+  - ⚠️ at the edge of 也可引申为"即将进入某种状态"：at the edge of despair（在绝望的边缘）
+- in sb's possession 在某人 possession 中，归某人所有
+  - The house is now in my possession.（这栋房子现在归我所有。）
+  - The documents were found in the suspect's possession.（那些文件是在嫌疑人 possession 中发现的。）
+  - ⚠️ 搭配：come into sb's possession（归某人所有）；in the possession of sb.（由某人占有）
+- out of breath 上气不接下气，喘不过气
+  - He ran so fast that he was out of breath.（他跑得太快，上气不接下气。）
+  - After climbing the stairs, I was completely out of breath.（爬完楼梯后，我完全喘不过气来。）
+- the contents of the bag 包里的东西，包 contents
+  - The police examined the contents of the bag carefully.（警方仔细检查了包里的东西。）
+  - She emptied the contents of the bag onto the table.（她把包里的东西都倒在了桌子上。）
+  - ⚠️ content（单数）是"内容"；contents（复数）是"所含的物品/目录"
+- rush up to sb. 冲向某人，急匆匆地跑到某人身边
+  - A little boy rushed up to his mother and hugged her.（一个小男孩冲向他的妈妈，拥抱了她。）
+  - The fan rushed up to the movie star and asked for an autograph.（那个粉丝冲向电影明星，请求签名。）
+  - ⚠️ rush up to 强调"急切地靠近"，区别于 rush at（猛冲向，带攻击性）
+- catch up with sb. 追上某人；赶上某人（进度/成绩等）
+  - Wait for me! I need to catch up with you.（等等我！我得追上你。）
+  - He studied hard to catch up with the rest of the class.（他努力学习，想赶上班上其他同学。）
+  - ⚠️ catch up with 也可表示"（坏事）找上门"：His past mistakes finally caught up with him.（他过去的错误终于找上门了。）
+- go through 仔细检查；经历；通过；用完
+  - They were going through the bag in the forest.（他们正在森林里仔细检查那个包。）
+  - I can't go through that again.（我无法再经历一次那样的事。）
+  - The proposal didn't go through.（那个提案没通过。）
+  - ⚠️ go through 多义短语：①检查 ②经历（苦难） ③通过（法案/审核） ④用完（钱）
+- run straight at sb. 直冲向某人，径直朝某人跑去
+  - The dog ran straight at the stranger.（那只狗直冲向那个陌生人。）
+  - The child ran straight at his father and jumped into his arms.（那个孩子径直朝他爸爸跑去，扑进怀里。）
+- need doing sth. 需要被做（主动形式表被动含义）
+  - Does your suit need cleaning?（你的西装需要清洗吗？= your suit needs to be cleaned）
+  - The flowers need watering.（这些花需要浇水了。= the flowers need to be watered）
+  - ⚠️ 特殊用法：某些及物动词的动名词主动形式可表被动含义，类似结构还有：want doing / require doing
