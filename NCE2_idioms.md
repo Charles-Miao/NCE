@@ -367,3 +367,29 @@
   - The supermarket is at the other side of the park.（超市在公园的另一边。）
   - He stood at the other side of the door, waiting.（他站在门的另一边，等着。）
   - ⚠️ 也可以说 on the other side of（更常用），at 强调"位于那个方位点"
+- catch a flight 赶上飞机，搭乘航班
+  - We need to leave now if we want to catch the 6 pm flight.（如果想赶上下午6点的航班，我们现在就得出发。）
+  - I missed the bus and couldn't catch my flight.（我错过了公交车，没能赶上航班。）
+- run into serious trouble 遇到严重麻烦，陷入大麻烦
+  - The company ran into serious trouble during the financial crisis.（那家公司在金融危机期间遇到了严重麻烦。）
+  - If you keep doing that, you'll run into serious trouble.（如果你继续那样做，你会陷入大麻烦的。）
+- at one point 一度，在某个时刻；曾经有一段时间
+  - At one point, I thought about giving up.（有一度，我想过放弃。）
+  - The project seemed impossible at one point.（这个项目一度看起来不可能完成。）
+- it seems that 看来，似乎，好像
+  - It seems that he is not coming today.（看来他今天不会来了。）
+  - It seems that the meeting has been cancelled.（看来会议已经被取消了。）
+  - ⚠️ 同义表达：it appears that / apparently
+- have a crash （车辆）撞车，碰撞；（电脑）崩溃
+  - He had a crash on the way to work this morning.（他今天早上上班路上撞车了。）
+  - My computer had a crash and I lost all my data.（我的电脑崩溃了，我丢失了所有数据。）
+- food sacks 食物袋，装食物的麻袋/袋子
+  - The refugees were given food sacks by the UN.（难民们收到了联合国发放的食物袋。）
+  - She packed rice and beans into food sacks.（她把大米和豆子装进食物袋里。）
+- clear sth. 清理某物；清除；整理
+  - Please clear the table after dinner.（晚饭后请清理桌子。）
+  - They cleared the snow from the road.（他们清理了路上的积雪。）
+  - ⚠️ clear 还可表示"通过"（clear customs 过海关）或"晴朗的"（clear sky）
+- order sb. to do sth. 命令/吩咐某人做某事
+  - The doctor ordered him to stay in bed.（医生嘱咐他卧床休息。）
+  - The boss ordered the workers to finish the job by Friday.（老板命令工人们在周五前完成工作。）

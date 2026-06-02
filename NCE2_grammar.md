@@ -411,3 +411,21 @@
 - needn't have done 本不必如此。但事情已经发生了，有后悔的言语效果。
   - He needn't have taken an umbrella.（他本不必带伞的。）
   - You needn't have bought all these.（你本不必买所有这些东西的。）
+
+### be able to do sth. 能够做某事
+##### 时态转换
+- **have/has been able to do sth.** 现在完成时：到目前为止一直能够做某事
+  - I have been able to swim since I was five.（我从5岁起就会游泳了。）
+  - She has been able to finish all her work on time.（她一直都能按时完成所有工作。）
+- **will be able to do sth.** 将来时：将来能够做某事
+  - With this new software, you will be able to edit videos easily.（有了这个新软件，你将能够轻松地编辑视频。）
+  - I won't be able to come to the party next week.（我下周不能来参加聚会了。）
+##### could VS was able to do
+- **could** 表示"过去的一般能力"（长期具备的能力）
+  - When I was young, I could run very fast.（我年轻时能跑得很快。）
+  - He could speak French when he was ten.（他10岁时就会说法语了。）
+- **was able to** 表示"过去某次具体成功做到了"（强调结果）
+  - The car broke down, but I was able to fix it.（车坏了，但我成功修好了它。）
+  - Although the exam was hard, she was able to pass it.（尽管考试很难，她还是成功通过了。）
+  - ⚠️ 重要区别：表"过去一般能力"两者可互换；表"过去某次具体成功"时，只能用 was able to，不能用 could
+  - ⚠️ 否定句中 could 和 wasn't able to 可互换：I couldn't / wasn't able to come yesterday.
