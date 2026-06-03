@@ -448,3 +448,26 @@
 - **定语从句**：从句不完整，that 充当主语或宾语
   - The news that he told me is true.（他告诉我的那个消息是真的。——从句缺宾语，that 做 told 的宾语）
 - ⚠️ 判断方法：看 that 后面的从句是否完整 → 完整则是同位语从句，不完整则是定语从句
+
+#### what 引导的名词性从句
+- **what = the thing that**，既引导从句又在从句中充当成分（主语/宾语/表语）
+- He was astonished at what (the thing that) he found.（他对所发现的东西感到惊讶。）
+- I don't know what he wants.（我不知道他想要什么。）
+- This is what I need.（这就是我需要的。）
+##### what 引导的从句作宾语
+- He was astonished at what he found.（他对所发现的东西感到惊讶。）
+  - what he found 是宾语从句，作 at 的宾语
+  - what 在从句中充当 found 的宾语 = the thing that he found
+- She is proud of what she has achieved.（她为自己取得的成就感到自豪。）
+- They were surprised at what he said.（他们对他所说的感到惊讶。）
+##### what 引导的从句作主语
+- What he said is very important.（他所说的非常重要。）
+- What matters most is your attitude.（最重要的是你的态度。）
+##### what 引导的从句作表语
+- This is what I want.（这就是我想要的。）
+- The problem is what we should do next.（问题是我们接下来该做什么。）
+##### ⚠️ what vs. that 的区别
+- **what** 在从句中充当成分（主/宾/表），不能省略
+- **that** 引导名词性从句时不充当成分，宾语从句中可省略
+  - I know what he needs.（我知道他需要什么。——what 做 needs 的宾语）
+  - I know (that) he needs help.（我知道他需要帮助。——that 不做成分，可省略）
