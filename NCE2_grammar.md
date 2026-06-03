@@ -429,3 +429,22 @@
   - Although the exam was hard, she was able to pass it.（尽管考试很难，她还是成功通过了。）
   - ⚠️ 重要区别：表"过去一般能力"两者可互换；表"过去某次具体成功"时，只能用 was able to，不能用 could
   - ⚠️ 否定句中 could 和 wasn't able to 可互换：I couldn't / wasn't able to come yesterday.
+
+### 同位语从句
+##### 同位语：补充说明的名词
+- I have just received a letter from my brother, Tim.（Tim 是 brother 的同位语）
+- We visited the city Paris.（Paris 是 city 的同位语）
+##### 同位语从句：一个（完整）的句子补充说明一个名词
+- No one could account for the fact that one of the boxes was extremely heavy.（没人能解释其中一个箱子极重这一事实。）
+- Scientists have reached the conclusion that the temperature on Earth is getting higher and higher.（科学家们得出结论：地球温度正在越来越高。）
+- We were all happy about the news that the experiment was very successful.（我们都对实验非常成功这一消息感到高兴。）
+- I have a theory that the universe is expanding faster than we thought.（我有一个理论：宇宙膨胀得比我们想象的更快。）
+- I have no doubt that he will help me.（我毫不怀疑他会帮我。）
+##### 常见接同位语从句的名词
+- fact（事实）、news（消息）、idea（想法）、hope（希望）、belief（信念）、doubt（怀疑）、conclusion（结论）、theory（理论）、evidence（证据）
+##### 同位语从句 vs. 定语从句
+- **同位语从句**：从句是完整的句子，that 不充当成分，仅起连接作用
+  - The news that he won the game is true.（他赢了比赛这一消息是真的。——从句完整，that 不做成分）
+- **定语从句**：从句不完整，that 充当主语或宾语
+  - The news that he told me is true.（他告诉我的那个消息是真的。——从句缺宾语，that 做 told 的宾语）
+- ⚠️ 判断方法：看 that 后面的从句是否完整 → 完整则是同位语从句，不完整则是定语从句

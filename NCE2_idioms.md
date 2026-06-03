@@ -459,3 +459,34 @@
     - In time, you will understand why I did this.（最终你会理解我为什么这么做。）
     - Everything will get better in time.（一切迟早会好起来的。）
   - ⚠️ 对比 on time（准时，按点）：The train arrived on time.（火车准点到达。）
+- It occurred to sb. that... 某人突然想到……
+  - It suddenly occurred to me that I had left my keys at home.（我突然想到我把钥匙落在家里了。）
+  - It occurred to her that she could ask for help.（她突然想到她可以求助。）
+  - ⚠️ occur to = 想到、浮现于脑海，主语是 idea/thought，不是人
+- It occurred to sb. to do sth. 某人想到去做某事
+  - It occurred to him to check the answer again.（他想到再检查一遍答案。）
+  - Did it ever occur to you to apologize?（你有没有想过道歉？）
+  - ⚠️ 同义结构：It struck sb. that... / It hit sb. that...（更突然、更强烈）
+- be astonished at sth. 对某事感到惊讶
+  - I was astonished at the news.（我对这个消息感到惊讶。）
+  - She was astonished at his rude behavior.（她对他粗鲁的行为感到震惊。）
+  - ⚠️ 同义表达：be surprised at / be amazed at / be shocked at（程度递增）
+- a pile of woods/books/questions/woolen goods 一堆木头/书/问题/毛织品
+  - There was a pile of books on the desk.（桌子上有一堆书。）
+  - He has a pile of questions to answer.（他有一堆问题要回答。）
+  - ⚠️ pile 强调"堆"，类似结构：a stack of（整齐的一摞）、a heap of（杂乱的一堆）
+- admit doing sth. 承认做过某事
+  - He admitted stealing the money.（他承认偷了钱。）
+  - She admitted making a mistake.（她承认犯了个错误。）
+  - ⚠️ admit 后接动名词 doing，不接 to do
+- sb. admit that... 某人承认……
+  - He admitted that he was wrong.（他承认他错了。）
+  - The company admitted that there was a problem with the product.（公司承认产品有问题。）
+- sth./sb. was confined to + 地点 某人/某物被限制在某个地方
+  - The patient was confined to bed for a week.（病人被限制卧床一周。）
+  - The dog was confined to a small cage.（那只狗被关在一个小笼子里。）
+  - ⚠️ confined to 表示被动限制，非自愿；对比 be limited to（数量/范围有限）
+- sb. account for the fact that + 句子 某人解释……的事实
+  - No one could account for the fact that one of the boxes was extremely heavy.（没人能解释其中一个箱子极重这一事实。）
+  - He couldn't account for the fact that he was late.（他无法解释他迟到的事实。）
+  - ⚠️ account for = 解释、说明原因；常与 fact that 连用，that 从句是同位语从句
