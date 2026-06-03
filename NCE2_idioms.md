@@ -435,3 +435,27 @@
   - Does your suit need cleaning?（你的西装需要清洗吗？= your suit needs to be cleaned）
   - The flowers need watering.（这些花需要浇水了。= the flowers need to be watered）
   - ⚠️ 特殊用法：某些及物动词的动名词主动形式可表被动含义，类似结构还有：want doing / require doing
+- I have a clear conscience. 我问心无愧。
+  - I have a clear conscience because I did the right thing.（我问心无愧，因为我做的是对的。）
+  - He has a clear conscience about the accident.（他对那次事故问心无愧。）
+  - ⚠️ conscience（良心，道德心）vs. conscious（有意识的，清醒的）
+- Are you 100 percent sure about this? 你对这件事百分之百确定吗？
+  - Are you 100 percent sure about this decision?（你对这个决定百分之百确定吗？）
+  - I'm 100 percent sure about the answer.（我对这个答案百分之百确定。）
+  - ⚠️ 同义表达：Are you absolutely certain about this? / Are you completely sure?
+- sb. learn that + 宾从 某人得知/了解到……
+  - She learnt that her father was busy reading the book which she gave him yesterday.（她得知她父亲正忙着读她昨天给他的那本书。）
+  - We learnt that the meeting had been cancelled.（我们得知会议已经取消了。）
+  - ⚠️ learn 在此表示"得知、获悉"，非"学习"；that 从句是宾语从句
+- return sth. to sb. 把某物归还给某人
+  - Please return the book to the library by Friday.（请在周五前把书还给图书馆。）
+  - He returned the money to his friend.（他把钱还给了朋友。）
+  - ⚠️ 同义表达：give sth. back to sb.（更口语化）
+- in time
+  - 含义1：**及时**，在截止时间之前
+    - We arrived at the station just in time to catch the train.（我们及时到达车站，赶上了火车。）
+    - The doctor arrived in time to save his life.（医生及时赶到，救了他的命。）
+  - 含义2：**最终，终究，迟早**（after some time, eventually）
+    - In time, you will understand why I did this.（最终你会理解我为什么这么做。）
+    - Everything will get better in time.（一切迟早会好起来的。）
+  - ⚠️ 对比 on time（准时，按点）：The train arrived on time.（火车准点到达。）
