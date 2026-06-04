@@ -78,9 +78,6 @@
 - pay it back
 - pay for sth.
 - ask sb. to do sth.
-
----
-
 - lucky dog
 - be proud of
 - I got a very important question to ask you.
@@ -126,16 +123,10 @@
 - make notes/ make a note
 - leave a note
 - remind sb. of sth./sb. 使某人想起某事/某人
-  - This song reminds me of my childhood.（这首歌让我想起了我的童年。）
-  - She reminds me of her mother.（她让我想起她的母亲。）
 - regret doing sth. 后悔做了某事（对已发生的事感到后悔）
-  - I regret telling him the truth.（我后悔告诉了他真相。）
-  - He regretted not studying harder.（他后悔没有更努力学习。）
   - ⚠️ regret to do sth. 是"很遗憾要做某事"（通知坏消息时的礼貌表达），两者含义不同
 - find sth. adj. 发现/觉得某物怎么样（find + 宾语 + 形容词补足语）
-  - He finds this book very interesting.（他觉得这本书很有趣。）
   - She finds this mirror very rude.（字面：她觉得这面镜子很无礼——拟人化表达。实际含义：这面镜子照得她很难看/很不衬人，她对此很不满。）
-  - I find this movie boring.（我觉得这部电影很无聊。）
 - park sb's car
 - pay attention to
 - at least
@@ -172,8 +163,6 @@
 - drive sb. mad
 - come into use
 - dream of doing sth. 梦想做某事，渴望做某事
-  - He dreams of becoming a pilot.（他梦想成为一名飞行员。）
-  - I have always dreamed of visiting Paris.（我一直梦想着去巴黎。）
 - at my age
 - throw away
 - think of sth.
@@ -184,7 +173,6 @@
 - get a surprise
 - get/be upset about sth.
 - complain about sth. 抱怨某事，投诉某事
-  - She complained about the bad service.（她抱怨服务差。）
   - Stop complaining about the weather.（别再抱怨天气了。）
 - start to do sth.
 

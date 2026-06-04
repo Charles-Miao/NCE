@@ -176,8 +176,8 @@
 - have got
 - have吃喝玩乐等
 
-#### may/might表现在推测
-##### 对现在不确信的肯定（否定）推测，也许是（也许不是）
+### may/might表现在推测
+#### 对现在不确信的肯定（否定）推测，也许是（也许不是）
 - may/might (not) do
 - may/might (not) be adj./n.
 - may/might (not) be doing
@@ -185,7 +185,7 @@
 - He might be having lunch.
 - She might know.
 - I might not have time to meet you.
-##### 对过去不确信的肯定（否定）推测，当时也许是（当时也许不是）
+#### 对过去不确信的肯定（否定）推测，当时也许是（当时也许不是）
 - may/might (not) have done.
 - may/might (not) have been adj./n.
 - may/might (not) have been doing.
@@ -193,7 +193,7 @@
 - You might have left it in the shop.
 - He may not have been feeling well.
 
-#### 动名词 v.+ing 动词变名词
+### 动名词 v.+ing 动词变名词
 - Sleeping is good for you.
 - I like sleeping.
 
@@ -252,11 +252,11 @@
 
 ---
 
-#### 并列连词
-##### and, but, or, so
+### 并列连词
+#### and, but, or, so
 - 同一主语情况下，主语不必重复
 - He finished lunch and (he) went into the garden.
-##### both...and, either...or, neither...nor
+#### both...and, either...or, neither...nor
 - 连接主语
 - Both my wife and I are going to Pairs. 
 - 连接主语时就近原则
@@ -267,11 +267,21 @@
 - When the boy is sad, he neither sings nor dances.
 - 连接宾语
 - I want neither this one nor that one. 
-##### not only...but also (as well)
+#### not only...but also (as well)
 - 连接主谓宾（主语就近原则）
 - Not only the doctor but also the patients don't know about it. 
 - You must not only wash the dishes but sweep the floor as well. (= but also sweep the floor.)
 - Shakespeare was not only a writer but also an actor.
+
+### 定语
+#### 定语的一般结构
+- adj. + n.（形容词+名词）
+- done + n.（过去分词+名词，表被动/完成）
+- doing + n.（现在分词+名词，表主动/进行）
+- 短语+prep.引导（如：the girl in red）
+- 短语+done引导（如：the book written by Mo Yan）
+- 短语+doing引导（如：the boy standing there）
+- 定语从句（如：the girl who helps me）
 
 #### 定语从句
 ##### 一句汉语变两句英文
@@ -309,118 +319,109 @@
 - the rising sun（冉冉升起的太阳）
 - the sleeping child（正在睡觉的孩子）
 - I like the girl dancing with that guy.（我喜欢和那个家伙跳舞的女孩。）
-##### 定语的一般结构
-- adj. + n.（形容词+名词）
-- done + n.（过去分词+名词，表被动/完成）
-- doing + n.（现在分词+名词，表主动/进行）
-- 短语+prep.引导（如：the girl in red）
-- 短语+done引导（如：the book written by Mo Yan）
-- 短语+doing引导（如：the boy standing there）
-- 定语从句（如：the girl who helps me）
 
-#### used to do...过去发生，现在已经不发生了
+### used to do...过去发生，现在已经不发生了
 - I used to be a student.（我以前是个学生。）
 - 否定：didn't use to do...（过去常常不做...）
   - I didn't use to like coffee.（我以前不喜欢咖啡。）
 - 一般疑问：Did 主语 use to do...
   - Did you use to play basketball?（你以前打篮球吗？）
-##### 对比：be used to doing（习惯于做某事）
+#### 对比：be used to doing（习惯于做某事）
 - I am used to getting up early.（我习惯于早起。）
 
 ### as...as 结构
-##### 第一个 as：副词，"同等地/一样地"
-##### 第二个 as：连词，"像...一样"
+#### 第一个 as：副词，"同等地/一样地"
+#### 第二个 as：连词，"像...一样"
 - The blue car is as clean as the red car.（蓝车和红车一样干净。）
 - He runs as fast as his brother.（他跑得和他兄弟一样快。）
 - She is as tall as her mother.（她和妈妈一样高。）
-##### 否定：not as(so)...as...（不如...那样...）
+#### 否定：not as(so)...as...（不如...那样...）
 - He is not as(so) honest as his father.（他不如他父亲那样诚实。）
 - This movie is not so interesting as that one.（这部电影不如那部有趣。）
-##### 变肯定为否定：中间加 not 或 so/as
+#### 变肯定为否定：中间加 not 或 so/as
 - She sings beautifully, but not as beautifully as her sister.
-##### 修饰程度：中间可加 adj./adv. 的比较级
+#### 修饰程度：中间可加 adj./adv. 的比较级
 - This room is twice as big as that one.（这个房间是那个的两倍大。）
 - He can run twice as fast as I can.
 
 ### so & such 结构
-##### so + adj./adv.（so修饰形容词或副词）
+#### so + adj./adv.（so修饰形容词或副词）
 - The story was so stupid.（这个故事太蠢了。）
 - She spoke so quickly that I couldn't understand.（她说得太快，我听不懂。）
-##### such + (adj.) + n.（such修饰名词）
+#### such + (adj.) + n.（such修饰名词）
 - It was such a stupid story.（这是一个如此愚蠢的故事。）
 - It was such a good book that I couldn't put it down.（这本书太好了，我爱不释手。）
-##### so...that...  如此...以至于...
+#### so...that...  如此...以至于...
 - The ball struck him so hard that he nearly fell into the water.（球砸得他如此之重，他差点掉进水里。）
 - It was so cold that we stayed at home.（天气太冷了，我们待在家里。）
-##### such...that...  如此...以至于...
+#### such...that...  如此...以至于...
 - It was such a good book that I couldn't put it down.
 - It was such bad weather that we cancelled the trip.（天气太糟糕了，我们取消了旅行。）
-##### 对比总结
+#### 对比总结
 - so + adj./adv. + that
 - such + (a/an) + (adj.) + n. + that
 - He ran so fast that I couldn't catch him.（so + adv.）
 - He was such a fast runner that no one could catch him.（such + n.）
 
 ### 将来完成时 will have done
-##### 用法1：一个动作持续或重复到将来某个时间
+#### 用法1：一个动作持续或重复到将来某个时间
 - We will have taken five exams by next Friday.（到下周五，我们将已经考完五门试。）
 - By the end of this year, I will have lived here for 10 years.（到今年年底，我在这里住了10年了。）
-##### 用法2：一个动作截止到未来某个时间前完成
+#### 用法2：一个动作截止到未来某个时间前完成
 - I will have finished my homework by next Friday.（到下周五，我将已经完成作业。）
 - They will have arrived by the time we get there.（等我们到那里时，他们将已经到了。）
-##### 否定：will + not = won't
+#### 否定：will + not = won't
 - I won't have finished the work by tomorrow.（到明天，我还没完成这项工作。）
 - She won't have graduated by next month.（到下个月，她还没毕业。）
-##### 一般疑问句：will 提到句首
+#### 一般疑问句：will 提到句首
 - Will you have finished by 5 o'clock?（你5点前能完成吗？）
 - Will they have left by the time we arrive?（等我们到的时候，他们已经走了吗？）
 
 ### had done 过去完成时（had done）
-##### no sooner...than  一...就...（刚做完A，就做B）
+#### no sooner...than  一...就...（刚做完A，就做B）
 - He had no sooner returned than he bought a house and settled down in the country.（他刚一回来，就买了一栋房子，在乡下定居了。）
 - No sooner had I gone to sleep than the phone rang.（我刚一睡着，电话就响了。）
 - ⚠️ 否定副词提前，主句倒装：No sooner + had + 主语 + done... than...
-##### hardly...when  几乎刚...就...（几乎还没来得及A，就B了）
+#### hardly...when  几乎刚...就...（几乎还没来得及A，就B了）
 - He had hardly had time to settle down when he sold the house and left the country.（他几乎还没来得及安顿下来，就卖了房子离开了这个国家。）
 - Hardly had I got home when it began to rain.（我刚一到家，天就开始下雨了。）
 - ⚠️ 否定副词提前，主句倒装：Hardly + had + 主语 + done... when...
 
 ### 虚拟语气
-##### 结构：If + did/were，主句 + would/should/could/might + do
+#### 结构：If + did/were，主句 + would/should/could/might + do
 - 从句动词用过去式（did / were），但**并非表示过去**，而表示与现在事实相反
 - 主句用 would/should/could/might + 动词原形
 - 含义：说话人认为 if 从句发生的概率**非常低**，纯属假设
-
-##### 例句
+#### 例句
 - If I were you, I wouldn't do that.（如果我是你，我就不会那样做。）
   - ⚠️ 不管主语是谁，虚拟语气中 be 动词统一用 **were**，不用 was
 - If I knew them better, I might invite them to dinner.（如果我和他们更熟的话，我可能会请他们吃饭。）
 - If I had more time, I would learn Japanese.（如果我有更多时间，我会学日语。）
 
 ### need
-##### 实义动词（肯定句，主语 + need + 名词/代词）
+#### 实义动词（肯定句，主语 + need + 名词/代词）
 - I need your help.（我需要你的帮助。）
 - He needs a new laptop.（他需要一台新笔记本电脑。）
-##### 实义动词（肯定句，主语 + needs to do）
+#### 实义动词（肯定句，主语 + needs to do）
 - She needs to sleep.（她需要睡觉。）
 - They need to finish the report by Friday.（他们需要在周五前完成报告。）
-##### 情态动词（否定句，主语 + needn't + 动词原形）
+#### 情态动词（否定句，主语 + needn't + 动词原形）
 - You needn't do that.（你不必那样做。）
 - We needn't hurry.（我们不必着急。）
-##### 情态动词（虚拟用法：needn't have done）
+#### 情态动词（虚拟用法：needn't have done）
 - needn't have done 本不必如此。但事情已经发生了，有后悔的言语效果。
   - He needn't have taken an umbrella.（他本不必带伞的。）
   - You needn't have bought all these.（你本不必买所有这些东西的。）
 
 ### be able to do sth. 能够做某事
-##### 时态转换
+#### 时态转换
 - **have/has been able to do sth.** 现在完成时：到目前为止一直能够做某事
   - I have been able to swim since I was five.（我从5岁起就会游泳了。）
   - She has been able to finish all her work on time.（她一直都能按时完成所有工作。）
 - **will be able to do sth.** 将来时：将来能够做某事
   - With this new software, you will be able to edit videos easily.（有了这个新软件，你将能够轻松地编辑视频。）
   - I won't be able to come to the party next week.（我下周不能来参加聚会了。）
-##### could VS was able to do
+#### could VS was able to do
 - **could** 表示"过去的一般能力"（长期具备的能力）
   - When I was young, I could run very fast.（我年轻时能跑得很快。）
   - He could speak French when he was ten.（他10岁时就会说法语了。）
@@ -431,43 +432,45 @@
   - ⚠️ 否定句中 could 和 wasn't able to 可互换：I couldn't / wasn't able to come yesterday.
 
 ### 同位语从句
-##### 同位语：补充说明的名词
+#### 同位语：补充说明的名词
 - I have just received a letter from my brother, Tim.（Tim 是 brother 的同位语）
 - We visited the city Paris.（Paris 是 city 的同位语）
-##### 同位语从句：一个（完整）的句子补充说明一个名词
+#### 同位语从句：一个（完整）的句子补充说明一个名词
 - No one could account for the fact that one of the boxes was extremely heavy.（没人能解释其中一个箱子极重这一事实。）
 - Scientists have reached the conclusion that the temperature on Earth is getting higher and higher.（科学家们得出结论：地球温度正在越来越高。）
 - We were all happy about the news that the experiment was very successful.（我们都对实验非常成功这一消息感到高兴。）
 - I have a theory that the universe is expanding faster than we thought.（我有一个理论：宇宙膨胀得比我们想象的更快。）
 - I have no doubt that he will help me.（我毫不怀疑他会帮我。）
-##### 常见接同位语从句的名词
+#### 常见接同位语从句的名词
 - fact（事实）、news（消息）、idea（想法）、hope（希望）、belief（信念）、doubt（怀疑）、conclusion（结论）、theory（理论）、evidence（证据）
-##### 同位语从句 vs. 定语从句
+#### 同位语从句 vs. 定语从句
 - **同位语从句**：从句是完整的句子，that 不充当成分，仅起连接作用
   - The news that he won the game is true.（他赢了比赛这一消息是真的。——从句完整，that 不做成分）
 - **定语从句**：从句不完整，that 充当主语或宾语
   - The news that he told me is true.（他告诉我的那个消息是真的。——从句缺宾语，that 做 told 的宾语）
 - ⚠️ 判断方法：看 that 后面的从句是否完整 → 完整则是同位语从句，不完整则是定语从句
 
-#### what 引导的名词性从句
+### what 引导的名词性从句
 - **what = the thing that**，既引导从句又在从句中充当成分（主语/宾语/表语）
 - He was astonished at what (the thing that) he found.（他对所发现的东西感到惊讶。）
 - I don't know what he wants.（我不知道他想要什么。）
 - This is what I need.（这就是我需要的。）
-##### what 引导的从句作宾语
+#### what 引导的从句作宾语
 - He was astonished at what he found.（他对所发现的东西感到惊讶。）
   - what he found 是宾语从句，作 at 的宾语
   - what 在从句中充当 found 的宾语 = the thing that he found
 - She is proud of what she has achieved.（她为自己取得的成就感到自豪。）
 - They were surprised at what he said.（他们对他所说的感到惊讶。）
-##### what 引导的从句作主语
+#### what 引导的从句作主语
 - What he said is very important.（他所说的非常重要。）
 - What matters most is your attitude.（最重要的是你的态度。）
-##### what 引导的从句作表语
+#### what 引导的从句作表语
 - This is what I want.（这就是我想要的。）
 - The problem is what we should do next.（问题是我们接下来该做什么。）
-##### ⚠️ what vs. that 的区别
+#### ⚠️ what vs. that 的区别
 - **what** 在从句中充当成分（主/宾/表），不能省略
 - **that** 引导名词性从句时不充当成分，宾语从句中可省略
   - I know what he needs.（我知道他需要什么。——what 做 needs 的宾语）
   - I know (that) he needs help.（我知道他需要帮助。——that 不做成分，可省略）
+
+---
