@@ -478,3 +478,31 @@
   - No one could account for the fact that one of the boxes was extremely heavy.（没人能解释其中一个箱子极重这一事实。）
   - He couldn't account for the fact that he was late.（他无法解释他迟到的事实。）
   - ⚠️ account for = 解释、说明原因；常与 fact that 连用，that 从句是同位语从句
+- shake sb.'s head 摇头（表示否定、怀疑、不满意）
+  - He shook his head when I asked him for help.（我向他求助时，他摇了摇头。）
+  - She shook her head in disbelief.（她难以置信地摇了摇头。）
+  - ⚠️ 摇头（否定）用 shake one's head；点头（同意）用 nod one's head
+- be up for sale 被出售，待售
+  - The house is up for sale.（这栋房子正在出售。）
+  - The painting will be up for sale next week.（那幅画下周将待售拍卖。）
+  - ⚠️ be up for = 被提出讨论/待售/待考虑；sale 是名词，sell 是动词
+- hear sb./sth. doing sth. 听到某人/某物正在做某事（强调动作进行）
+  - I could hear it raining.（我能听到正在下雨。）
+  - I heard him singing in the shower.（我听到他正在淋浴时唱歌。）
+  - ⚠️ doing 强调动作正在进行，或部分过程
+- hear sb./sth. do sth. 听到某人/某物做了某事（强调动作全程）
+  - I heard them go out.（我听到他们出去了。——强调出去的整个过程）
+  - I heard her play the piano.（我听到她弹钢琴了。——强调弹琴的整个过程）
+  - ⚠️ 不定式（do）强调动作从头到尾的全程；doing 强调进行中的片段
+- private collection 私人收藏
+  - The vase is from a private collection.（这个花瓶来自一个私人收藏。）
+  - The gallery displays works from private collections.（这个美术馆展出私人收藏的作品。）
+  - ⚠️ 对比 public collection（公共收藏，如博物馆）
+- It is impossible for sb. to do sth. 对某人来说做某事是不可能的
+  - It is impossible for me to finish this today.（对我来说，今天完成这个是不可能的。）
+  - It is impossible for him to apologize.（他不可能道歉。）
+  - ⚠️ 同义结构：It is not possible for sb. to do sth. / sb. cannot do sth.
+- rest for a while 休息一会儿
+  - Let's rest for a while before continuing.（我们继续之前先休息一会儿吧。）
+  - He rested for a while and then went back to work.（他休息了一会儿，然后继续工作。）
+  - ⚠️ for a while = 持续一段时间（短）；while 是名词，表示"一会儿"
