@@ -506,3 +506,6 @@
   - Let's rest for a while before continuing.（我们继续之前先休息一会儿吧。）
   - He rested for a while and then went back to work.（他休息了一会儿，然后继续工作。）
   - ⚠️ for a while = 持续一段时间（短）；while 是名词，表示"一会儿"
+
+---
+
