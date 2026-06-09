@@ -473,4 +473,51 @@
   - I know what he needs.（我知道他需要什么。——what 做 needs 的宾语）
   - I know (that) he needs help.（我知道他需要帮助。——that 不做成分，可省略）
 
+### 分词（短语）作状语
+#### 核心规则：三步简化状语从句
+1. 前后主语一致（分词动作的发出者 = 主句主语）
+2. 去掉状语从句的**主语**和**连词**（because/although/when 等可保留）
+3. 从句动词变为分词：
+   - **doing**：主动、进行或一般（省略 be 动词）
+   - **done**：被动、完成或一般
+
+#### doing（现在分词）作状语——主动含义
+- 原始句：Because she felt tired, she went to bed early.
+- 简化：Feeling tired, she went to bed early.（感到累了，她早早去睡觉。）
+- 原始句：After he finished the work, he went home.
+- 简化：Finishing the work, he went home. / Having finished the work, he went home.
+- ⚠️ 主句主语是分词动作的发出者时，才能用 doing 作状语
+
+#### done（过去分词）作状语——被动含义
+- 原始句：Although the city was destroyed during the war, the city has now been rebuilt.
+- 简化：Destroyed during the war, the city has now been rebuilt.（战争期间被毁坏，这座城市如今已重建。）
+- 原始句：When she was asked to speak, she felt nervous.
+- 简化：Asked to speak, she felt nervous.（被要求发言时，她感到紧张。）
+- ⚠️ done 表示被动，强调主语是动作的承受者
+
+#### doing VS done 对比
+- The car had an accident, **hitting** a train.（汽车出了事故，撞上了一列火车。——主动，car 主动撞）
+- The car had an accident, **hit by** a train.（汽车出了事故，被一列火车撞了。——被动，car 被撞）
+- ⚠️ doing = 主语主动发出动作；done = 主语承受动作
+
+#### having done（现在分词完成式）——强调动作先于主句发生
+- 原始句：After he had completed the book, he had a holiday.
+- 简化：Having completed the book, he had a holiday.（完成这本书之后，他休了一个假。）
+- 原始句：After she finished the exam, she went to sleep.
+- 简化：Having finished the exam, she went to sleep.（考完试后，她去睡觉了。）
+- ⚠️ having done 强调分词动作先于主句动作完成；口语中也可用 After + doing 代替
+
+#### not doing（否定式）——分词的否定结构
+- 原始句：Because I didn't want to wake her, I left the house silently.
+- 简化：Not wanting to wake her, I left the house silently.（因为不想吵醒她，我悄悄离开了房子。）
+- ⚠️ not doing 置于分词前，表示"没有做某事"，而做了主句动作
+
+#### be + adj. + n. 结构省略 being，直接做状语
+- 原始句：Because she was excited, she played video games.
+- 简化：Excited, she played video games.（感到兴奋，她玩起了电子游戏。）
+- 原始句：Because he is a doctor, my girlfriend knows what medicine you should take.
+- 简化：Being a doctor, my girlfriend knows what medicine you should take.
+- 简化：A doctor, my girlfriend knows what medicine you should take.
+- ⚠️ be + adj. 作状语时，being 可省略；be + n. 作状语时，being 通常保留（除非非常口语化）
+
 ---

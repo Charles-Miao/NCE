@@ -506,6 +506,38 @@
   - Let's rest for a while before continuing.（我们继续之前先休息一会儿吧。）
   - He rested for a while and then went back to work.（他休息了一会儿，然后继续工作。）
   - ⚠️ for a while = 持续一段时间（短）；while 是名词，表示"一会儿"
+- get/be tired of sth./doing sth. 对某事/做某事感到厌倦
+  - I'm tired of doing the same thing every day.（我厌倦了每天做同样的事情。）
+  - She got tired of waiting and left.（她等烦了就走了。）
+  - ⚠️ be tired of = 主观上感到厌倦；be tired from = 因……而疲惫（from 后接原因）
+- a gust of wind swept... 一阵风刮过/吹过
+  - A gust of wind swept the leaves off the table.（一阵风把桌上的叶子吹走了。）
+  - A sudden gust of wind swept his hat away.（突然一阵风把他的帽子吹跑了。）
+  - ⚠️ gust = 阵风，sudden burst of wind；swept 是 sweep 的过去式（扫、刮、席卷）
+- in the courtyard 在院子里/庭院里
+  - The children were playing in the courtyard.（孩子们在院子里玩耍。）
+  - There is a beautiful fountain in the courtyard.（庭院里有一个美丽的喷泉。）
+  - ⚠️ courtyard = 庭院，通常指建筑物围成的开阔空间；yard = 院子，更偏向围起来的空地
+- smash sth. to pieces 把某物砸成碎片
+  - He smashed the window to pieces.（他把窗户砸得粉碎。）
+  - The vase was smashed to pieces when it fell on the floor.（花瓶掉在地上摔成了碎片。）
+  - ⚠️ smash = 猛击、砸碎，to pieces = 变成碎片（强调彻底粉碎）
+- glanced at sth. 瞥了一眼某物/某人
+  - He glanced at his watch and left in a hurry.（他瞥了一眼手表就匆匆离开了。）
+  - She glanced at the letter and then put it away.（她瞥了一眼那封信，然后把它收了起来。）
+  - ⚠️ glance = 快速看一眼（短暂）；stare = 盯着看（长时间）；glimpse = 一瞥（瞥见的瞬间）
+- save up for years to buy sth. 攒了好几年钱买某物
+  - He saved up for years to buy a new car.（他攒了好几年钱买了一辆新车。）
+  - She saved up for two years to buy that diamond ring.（她攒了两年钱买了那枚钻戒。）
+  - ⚠️ save up = 存钱、攒钱；for years = 好几年，强调积累的时间
+- for the first time in sb.'s life 某人人生中第一次……
+  - For the first time in his life, he felt truly happy.（他人生中第一次感到真正的快乐。）
+  - For the first time in my life, I saw snow.（我这辈子第一次见到雪。）
+  - ⚠️ in one's life = 在某人的一生中；类似表达：in a lifetime
+- go to sleep 去睡觉，入睡
+  - I usually go to sleep at around 11 PM.（我通常大约晚上11点去睡觉。）
+  - He went to sleep quickly after a long day.（经过漫长的一天后，他很快入睡了。）
+  - ⚠️ go to sleep = 入睡的动作，强调过程；be asleep = 睡着状态；fall asleep = 渐渐入睡的瞬间
 
 ---
 
