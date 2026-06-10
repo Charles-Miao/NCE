@@ -539,5 +539,110 @@
   - He went to sleep quickly after a long day.（经过漫长的一天后，他很快入睡了。）
   - ⚠️ go to sleep = 入睡的动作，强调过程；be asleep = 睡着状态；fall asleep = 渐渐入睡的瞬间
 
+- take sb. for a ride 带某人兜风（字面义）；欺骗某人（引申义）
+  - He took his girlfriend for a ride in his new car.（他带女朋友坐新车去兜风。）
+  - I realized too late that they had taken me for a ride.（我意识到得太晚了，他们骗了我。）
+  - ⚠️ 区分：字面义（兜风）vs. 引申义（欺骗、愚弄），需根据上下文判断
+- take A for B 把A当作B；误认为
+  - He took me for my brother.（他把我误认为我弟弟。）
+  - Don't take his silence for agreement.（别把他的沉默当成同意。）
+  - ⚠️ take ... for ... = 把……当作……（常含误判意味）
+- take sth. for granted 视某事为理所当然；认为理所当然
+  - He takes his parents' love for granted.（他把父母的爱视为理所当然。）
+  - Don't take what you have for granted.（不要把你拥有的视为理所当然。）
+  - ⚠️ take ... for granted 含有"不珍惜、不感激"的贬义
+- ride a bike/horse 骑自行车/骑马
+  - She rides a bike to work every day.（她每天骑自行车上班。）
+  - He learned to ride a horse last summer.（他去年夏天学会了骑马。）
+  - ⚠️ ride + 交通工具/动物（bike, horse, motorbike）；by bike / on horseback（介词短语）
+- go on an excursion 去短途旅行/远足
+  - We went on an excursion to the mountains.（我们去山里短途旅行了。）
+  - The school organized an excursion to the museum.（学校组织了一次去博物馆的参观活动。）
+  - ⚠️ excursion = 短途旅行、远足，通常指集体活动；trip = 旅行（泛指）
+- get a good view of sth. 看清楚某物；获得……的好视野
+  - We got a good view of the sunset from the hill.（我们从山上清楚地看到了日落。）
+  - You can get a good view of the city from the tower.（你可以从塔上俯瞰城市美景。）
+  - ⚠️ view = 视野、景色；a good view = 视野开阔、看清
+- love/like doing sth. 喜欢做某事（习惯性动作）
+  - She loves reading novels.（她喜欢读小说。）
+  - He likes playing basketball after school.（他喜欢放学后打篮球。）
+  - ⚠️ doing 强调习惯性、持续性；do（不定式）则强调一次性或具体动作；两者常可互换
+- it takes sb. some time to do sth. 某人花多少时间做某事
+  - It took me two hours to finish the report.（我花了两个小时完成报告。）
+  - It will take us a week to paint the house.（我们将花一周时间粉刷房子。）
+  - ⚠️ it 是形式主语，真正主语是 to do sth.；时间放在 takes 后面
+- 疑问词 + to do（作宾语）
+  - I wonder where to get off.（我不知道该在哪下车。）
+  - I wonder who to invite.（我不知道该邀请谁。）
+  - Tell us what to do.（告诉我们该做什么。）
+  - I don't know where to park the car.（我不知道该在哪停车。）
+  - Tell me when to pay.（告诉我该什么时候付款。）
+  - ⚠️ 疑问词（who/what/where/when/how）+ to do 可作宾语，相当于一个宾语从句的简化形式
+- in the front of / in front of 在……的前部 / 在……前面
+  - The teacher is standing in the front of the classroom.（老师站在教室的前部。——教室内部的前方）
+  - There is a tree in front of the house.（房子前面有一棵树。——房子外部的前面）
+  - ⚠️ in the front of = 在某物内部的前部；in front of = 在某物外部的前面
+- I realized with a shock that... 我震惊地意识到……
+  - I realized with a shock that I had left my passport at home.（我震惊地意识到我把护照落在家里了。）
+  - She realized with a shock that someone was following her.（她震惊地意识到有人在跟踪她。）
+  - ⚠️ with a shock = 震惊地、惊愕地，修饰 realized 的程度
+- prefer 更喜欢；宁愿选择
+  - I prefer tea to coffee.（相比咖啡，我更喜欢茶。）
+  - I prefer staying at home.（我更喜欢待在家里。）
+  - ⚠️ prefer 可接 to do 或 doing，口语中两者常互换
+- prefer doing A to doing B 喜欢做A胜过做B
+  - I prefer walking to taking the bus.（我宁愿走路也不坐公交。）
+  - She prefers reading to watching TV.（她喜欢读书胜过看电视。）
+  - ⚠️ to 是介词，后面接动名词（doing）
+- prefer to do A rather than (do) B 宁愿做A也不做B
+  - I prefer to walk rather than take the bus.（我宁愿走路也不坐公交。）
+  - She prefers to read rather than watch TV.（她宁愿读书也不看电视。）
+  - ⚠️ rather than 后的 do 可省略（保留原形或省略）
+- I'd prefer (= I would prefer) to do sth. 我更愿意做某事
+  - I'd prefer to stay at home tonight.（今晚我更愿意待在家里。）
+  - I'd prefer not to go.（我更愿意不去。）
+  - ⚠️ I'd prefer 比 I prefer 更委婉，常用于表达个人倾向
+- expect/receive/give a reward 期待/收到/给予奖励
+  - He expected a reward for his help.（他期待因帮忙而得到奖励。）
+  - She received a reward for returning the wallet.（她因归还钱包而获得奖励。）
+  - The company gave him a reward for his hard work.（公司因他努力工作而给予奖励。）
+  - ⚠️ reward = 奖励、回报；award = 奖项、奖章
+- go on a diet = be on a diet 节食；控制饮食
+  - She decided to go on a diet to lose weight.（她决定节食减肥。）
+  - He has been on a diet for three months.（他已经节食三个月了。）
+  - ⚠️ go on a diet = 开始节食；be on a diet = 正在节食中
+- forbid sb. to do sth. 禁止某人做某事
+  - The doctor forbade him to smoke.（医生禁止他吸烟。）
+  - The school forbids students to use phones in class.（学校禁止学生在课堂上使用手机。）
+  - ⚠️ forbid sb. to do（不定式）；对比 allow sb. to do（允许）
+- A be strict with B A对B要求严格
+  - My father is strict with me.（我父亲对我要求严格。）
+  - The teacher is strict with his students.（那位老师对学生要求严格。）
+  - ⚠️ strict with 后接人；strict in 后接某方面（如：strict in his work）
+- First of all,... 首先……
+  - First of all, I want to thank everyone for coming.（首先，我想感谢大家的到来。）
+  - First of all, let's review the rules.（首先，让我们复习一下规则。）
+  - ⚠️ 用于讲话开头，引出第一个要点；类似表达：To begin with, ...
+- write out a long list of 列出一长串……
+  - He wrote out a long list of things to buy.（他列了一长串要买的东西。）
+  - She wrote out a long list of questions for the interview.（她为面试列了一长串问题。）
+  - ⚠️ write out = 写出来、列出；a long list of = 一长串……
+- pay sb. a visit 拜访某人
+  - I plan to pay my uncle a visit this weekend.（我计划这周末去拜访我叔叔。）
+  - She paid her teacher a visit after graduation.（毕业后她去拜访了她的老师。）
+  - ⚠️ 同义表达：visit sb.（更口语）
+- ring the bell 按门铃；摇铃
+  - Please ring the bell when you arrive.（到了请按门铃。）
+  - He rang the bell to start the class.（他摇铃开始上课。）
+  - ⚠️ ring（动词）= 按铃、摇铃；bell = 钟、铃
+- was not surprised to see that... 看到……并不感到惊讶
+  - I was not surprised to see that he was late again.（看到他又迟到，我并不惊讶。）
+  - She was not surprised to see that her team had won.（看到她的团队赢了，她并不惊讶。）
+  - ⚠️ 表达预期相符的结果，含"意料之中"的意味
+- It was obvious that... 很明显……
+  - It was obvious that he was lying.（很明显他在撒谎。）
+  - It was obvious that they were tired.（很明显他们累了。）
+  - ⚠️ obvious = 明显的、显而易见；it 是形式主语，that 从句是真正主语
+
 ---
 
