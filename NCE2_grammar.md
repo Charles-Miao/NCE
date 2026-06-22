@@ -473,6 +473,8 @@
   - I know what he needs.（我知道他需要什么。——what 做 needs 的宾语）
   - I know (that) he needs help.（我知道他需要帮助。——that 不做成分，可省略）
 
+---
+
 ### 分词（短语）作状语
 #### 核心规则：三步简化状语从句
 1. 前后主语一致（分词动作的发出者 = 主句主语）
@@ -520,4 +522,4 @@
 - 简化：A doctor, my girlfriend knows what medicine you should take.
 - ⚠️ be + adj. 作状语时，being 可省略；be + n. 作状语时，being 通常保留（除非非常口语化）
 
----
+

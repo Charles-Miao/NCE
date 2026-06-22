@@ -506,6 +506,9 @@
   - Let's rest for a while before continuing.（我们继续之前先休息一会儿吧。）
   - He rested for a while and then went back to work.（他休息了一会儿，然后继续工作。）
   - ⚠️ for a while = 持续一段时间（短）；while 是名词，表示"一会儿"
+
+---
+
 - get/be tired of sth./doing sth. 对某事/做某事感到厌倦
   - I'm tired of doing the same thing every day.（我厌倦了每天做同样的事情。）
   - She got tired of waiting and left.（她等烦了就走了。）
@@ -644,5 +647,5 @@
   - It was obvious that they were tired.（很明显他们累了。）
   - ⚠️ obvious = 明显的、显而易见；it 是形式主语，that 从句是真正主语
 
----
+
 
