@@ -646,6 +646,46 @@
   - It was obvious that he was lying.（很明显他在撒谎。）
   - It was obvious that they were tired.（很明显他们累了。）
   - ⚠️ obvious = 明显的、显而易见；it 是形式主语，that 从句是真正主语
+- on earth 究竟、到底（用于疑问词后加强语气）
+  - Why on earth is she buying that hat?（她到底为什么要买那顶帽子？）
+  - Where on earth have you been?（你究竟去哪儿了？）
+  - What on earth are you doing?（你到底在干什么？）
+  - ⚠️ on earth 不表"在地球上"，而是用于疑问词（what/why/where/how）后，表示惊讶、愤怒或困惑
+- any minute now 随时、马上（指即将发生）
+  - The bus should arrive any minute now.（公交车随时会到。）
+  - She's expecting a baby any minute now.（她随时要生了。）
+  - ⚠️ any minute now = very soon，暗示事情马上就会发生
+- every inch of sth. 每一寸、每一部分（强调完全）
+  - He examined every inch of the room.（他检查了房间的每一个角落。）
+  - She enjoyed every inch of the journey.（她享受旅途中的每一刻。）
+  - ⚠️ every inch = 完完全全、彻头彻尾，用于强调
+- That's actually a good idea. 这实际上是个好主意。
+  - I thought your plan was terrible, but that's actually a good idea.（我以为你的计划很糟糕，但这实际上是个好主意。）
+  - ⚠️ actually 表示出乎意料的转折，含"其实、事实上"的语气
+- get sth. in order 把某物整理好、安排妥当
+  - I need to get my desk in order before the guests arrive.（我得在客人来之前把书桌整理好。）
+  - Let's get everything in order before we leave.（我们出发前把一切都安排妥当吧。）
+  - ⚠️ in order = 整齐的、有条理的；反义：out of order（混乱、坏了）
+- to make matters worse... 更糟糕的是……
+  - It was already raining, and to make matters worse, I forgot my umbrella.（天已经在下雨了，更糟糕的是，我忘了带伞。）
+  - He lost his job, and to make matters worse, his car broke down.（他丢了工作，更糟的是，他的车也坏了。）
+  - ⚠️ 用于在已有不幸的基础上追加另一个不幸，类似表达：what's worse, ...
+- a short while ago... 刚才、不久前
+  - I saw him a short while ago.（我刚才还看见他了。）
+  - She left the office a short while ago.（她不久前才离开办公室。）
+  - ⚠️ a short while = 一小段时间；同义表达：a short time ago, just now
+- help sb. to do sth. / help sb. do sth. 帮助某人做某事
+  - Can you help me to carry this box?（你能帮我搬这个箱子吗？）
+  - She helped her mother clean the house.（她帮她妈妈打扫房子。）
+  - ⚠️ help sb. (to) do sth.，to 可省略，两种形式均可；help sb. with sth. 也常用
+- gaze at sth. 凝视某物（长时间注视）
+  - He gazed at the stars in the night sky.（他凝视着夜空中的星星。）
+  - She gazed at the painting in admiration.（她满怀欣赏地凝视着那幅画。）
+  - ⚠️ gaze = 凝视（含欣赏、深情或好奇）；stare = 盯着看（常含惊讶或无礼）；glance = 瞥一眼
+- in sb.'s spare time 在某人的业余/空闲时间
+  - She reads a lot in her spare time.（她在业余时间读很多书。）
+  - What do you usually do in your spare time?（你业余时间通常做什么？）
+  - ⚠️ spare time = 空闲时间，同义表达：free time, leisure time
 
 
 

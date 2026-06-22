@@ -522,4 +522,30 @@
 - 简化：A doctor, my girlfriend knows what medicine you should take.
 - ⚠️ be + adj. 作状语时，being 可省略；be + n. 作状语时，being 通常保留（除非非常口语化）
 
+### 现在完成进行时 have/has been doing
+#### 用法1：过去的动作刚结束，其影响延续到现在
+- It has been raining.（刚下过雨。——地面是湿的，现在的影响）
+  - Is it raining? No, but the ground is wet. It has been raining.（现在没下雨吗？是的，但地面是湿的。刚才下过雨。）
+  - She has been crying.（她刚才一直在哭。——眼睛红红的）
+  - ⚠️ 动作可能刚停止，但结果/影响仍然明显
+
+#### 用法2：过去的动作持续（重复）到现在，可能还会继续
+- It has been raining for two hours.（雨已经下了两个小时了。——可能还会继续下）
+  - He has been waiting for an hour and he is still waiting.（他已经等了一个小时了，而且还在等。）
+  - I have been learning English for three years.（我学英语已经三年了。——现在还在学）
+  - ⚠️ 强调动作的**持续性**或**重复性**，常与 for / since 连用
+
+#### 现在完成进行时 vs. 现在完成时
+- **have done**：关注**结果**（动作是否完成、完成了多少）
+  - I have read that book.（我已经读完那本书了。——结果：读完了）
+- **have been doing**：关注**过程**（动作持续了多久、是否还在继续）
+  - I have been reading that book.（我一直在读那本书。——过程：可能还没读完）
+- ⚠️ have done 强调"完成了"；have been doing 强调"一直在做"
+
+#### 常见句式
+- How long have you been living here?（你在这里住了多久了？）
+  - ⚠️ 用现在完成进行时询问持续的时间
+- I have been trying to call you all morning.（我整个上午一直在给你打电话。）
+  - ⚠️ 表达不满或抱怨时常用现在完成进行时
+
 
