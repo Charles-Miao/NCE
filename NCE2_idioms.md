@@ -686,6 +686,35 @@
   - She reads a lot in her spare time.（她在业余时间读很多书。）
   - What do you usually do in your spare time?（你业余时间通常做什么？）
   - ⚠️ spare time = 空闲时间，同义表达：free time, leisure time
+- electrical wire / electric wire 电线
+  - Don't touch the electrical wire with wet hands.（不要用湿手触摸电线。）
+  - An electric wire was hanging loose from the ceiling.（一根电线从天花板上垂下来。）
+  - ⚠️ electrical 和 electric 均可修饰 wire，但 electrical 更偏向专业/电气相关，electric 更口语
+- discover + cause 发现原因
+  - The police are still trying to discover the cause of the fire.（警察仍在努力查明火灾原因。）
+  - Scientists have discovered the cause of the disease.（科学家已经发现了这种疾病的病因。）
+  - ⚠️ discover the cause = 找出原因；discover 后可直接接名词（cause, truth, secret）
+- the remains of a snake 蛇的遗骸/残留部分
+  - They found the remains of a snake near the river.（他们在河边发现了蛇的遗骸。）
+  - The remains of the old building were still visible.（那栋老建筑的残骸仍然可见。）
+  - ⚠️ remains = 遗骸、残余部分，可指人或动物的遗体，也可指建筑/物体的残骸
+- solve + problem/mystery 解决/解答问题；解开谜团
+  - Can you solve this problem?（你能解决这个问题吗？）
+  - She managed to solve the mystery of the missing money.（她设法解开了钱失踪之谜。）
+  - ⚠️ solve 后接 problem（问题）、mystery（谜团）、puzzle（难题）、crime（罪行）
+- solve / remain + mystery 解决谜团 / 仍是谜团
+  - The murder mystery was finally solved after ten years.（这起谋杀案十年后终于告破。）
+  - It remains a mystery why she left so suddenly.（她为什么突然离开仍是个谜。）
+  - ⚠️ solve the mystery = 破解谜团（主动）；remain a mystery = 仍是未解之谜（被动/系表结构）
+- find out... 查明、发现、找出
+  - Please find out what time the train leaves.（请查出火车几点出发。）
+  - I need to find out who is responsible for this.（我需要查明谁该为此负责。）
+  - Did you find out where she lives?（你查出她住哪儿了吗？）
+  - ⚠️ find out = 通过调查/询问而发现；find = 偶然发现；find out 更强调有目的地查探
+- throw away... 扔掉、丢弃
+  - He threw away the old newspapers.（他把旧报纸扔掉了。）
+  - Don't throw away your chance to learn English.（别浪费你学英语的机会。）
+  - ⚠️ throw away = 扔掉、抛弃；也可比喻"浪费（机会）"；同义表达：throw out, discard
 
 
 
