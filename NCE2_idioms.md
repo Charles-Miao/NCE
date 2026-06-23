@@ -715,6 +715,82 @@
   - He threw away the old newspapers.（他把旧报纸扔掉了。）
   - Don't throw away your chance to learn English.（别浪费你学英语的机会。）
   - ⚠️ throw away = 扔掉、抛弃；也可比喻"浪费（机会）"；同义表达：throw out, discard
+- stick to the plan 坚持计划、按计划执行
+  - Let's stick to the plan and meet at 8 o'clock.（我们按计划8点见面吧。）
+  - He decided to stick to the original plan.（他决定坚持原来的计划。）
+  - ⚠️ stick to = 坚持、坚守；类似表达：keep to the plan, follow the plan
+- put my finger on it 准确指出（问题所在）
+  - I knew there was something wrong with the report, but I couldn't quite put my finger on it.（我知道报告有问题，但我说不准问题在哪里。）
+  - She could always put her finger on the key issue.（她总是能准确指出关键问题。）
+  - ⚠️ put one's finger on it = exactly identify what is wrong，常用于想说却一时找不到重点的情形
+- point the finger at 指责、指责某人
+  - It's not fair to point the finger at him without knowing the full story.（不了解全部情况就指责他是不公平的。）
+  - Don't point the finger at others; look at yourself first.（别指责别人，先看看自己。）
+  - ⚠️ point the finger at = 公开指责某人；类似表达：blame sb. for sth.
+- be dismayed to do sth. 做某事感到惊愕/沮丧
+  - I was dismayed to hear that she had resigned.（听到她辞职了，我很震惊。）
+  - He was dismayed to find his car had been stolen.（发现车被偷了，他很沮丧。）
+  - ⚠️ dismayed = 惊愕的、沮丧的、感到惊惶的；常用于意外或令人失望的消息
+- recognize the voice of sb. 认出某人的声音
+  - I recognized the voice of my teacher on the phone.（我在电话里认出了老师的声音。）
+  - She can recognize her mother's voice in any crowd.（她能在任何人群中认出母亲的声音。）
+  - ⚠️ recognize = 辨认出、认出；voice = 嗓音；recognize the voice = 通过声音辨识身份
+- persuade sb. (not) to do sth. 说服某人（不）做某事
+  - She persuaded her husband to give up smoking.（她说服了丈夫戒烟。）
+  - Can you persuade him not to leave?（你能说服他不要离开吗？）
+  - ⚠️ persuade = 说服（成功）；try to persuade = 尝试说服（不一定成功）；convince 更正式，口语中两者可互换
+- what a mess 真是乱/糟糕透了
+  - What a mess! The whole room is a disaster.（真是乱！整个房间都一团糟。）
+  - What a mess! I forgot to submit the assignment.（糟糕透了！我忘了交作业。）
+  - ⚠️ what a mess = 对混乱或糟糕情况的感叹；也可说 What a disaster! / What a situation!
+- such a mess 如此糟糕/这么乱
+  - The kitchen was such a mess that we couldn't cook dinner.（厨房乱成这样，我们没法做饭。）
+  - It's such a mess — where do I even start?（这太乱了，我都不知道从哪开始。）
+  - ⚠️ what a mess 偏感叹；such a mess 偏描述状态；两者可互换但语气略有不同
+- sign here 请在这里签字
+  - Sign here, please, and I'll process your application.（请在这里签字，我来处理您的申请。）
+  - Sign here and here, and you're all set.（在这里和这里签字，就完成了。）
+  - ⚠️ 服务行业常用语，礼貌指令；类似：sign on the line
+- sign for sth. 签收（某物）
+  - You need to sign for the package when it arrives.（包裹到达时你需要签收。）
+  - He signed for the delivery and took the box inside.（他签收了快递，把盒子拿进屋。）
+  - ⚠️ sign for = 签字领取、签收；sign = 签字，sign for = 签字并拿到某物
+- a registered letter 挂号信
+  - I sent the contract by registered letter.（我用挂号信寄了合同。）
+  - A registered letter requires a signature upon delivery.（挂号信需要签收。）
+  - ⚠️ registered letter = 挂号信（有追踪和签收记录）；普通信 = ordinary letter / regular mail
+- send sb. to sp. 把某人派往/送到某地
+  - The company sent him to Shanghai for a training course.（公司派他去上海参加培训。）
+  - They sent their children to study abroad.（他们把孩子送到国外读书。）
+  - ⚠️ send sb. to = 派遣、送往；注意 to 后面接地点；send for = 派人去请
+- decide to do sth. 决定做某事
+  - She decided to move to Beijing for work.（她决定去北京工作。）
+  - He couldn't decide whether to accept the offer.（他决定不了要不要接受这个提议。）
+  - ⚠️ decide to do = 决定做某事（已做出决定）；decide on = 选定、决定（经挑选后确定）
+- be busy doing sth. 忙于做某事
+  - I'm busy preparing for the exam.（我正忙着准备考试。）
+  - She was busy writing emails when the boss called.（老板打电话时她正忙着写邮件。）
+  - ⚠️ be busy doing = 忙于做某事，doing 不能换成 to do；同义：be occupied with doing
+- be covered with sth. 被某物覆盖
+  - The floor was covered with dust.（地板上满是灰尘。）
+  - His desk is covered with papers.（他的桌子上堆满了文件。）
+  - ⚠️ covered with = 被……覆盖（表面状态）；covered in = 更强调覆盖过程；covered by = 被……覆盖（强调被动来源）
+- take sb. sth. to do sth. 带某人某物去做某事
+  - I'll take my son to the park to play.（我带我儿子去公园玩。）
+  - She takes her daughter to the museum to learn history.（她带女儿去博物馆学习历史。）
+  - ⚠️ take sb. to sp. to do sth. = 带某人去某地做某事；fetch = 去取来；bring = 带来
+- hang up (the receiver) 挂断电话
+  - Don't hang up! I haven't finished speaking.（别挂断！我还没说完。）
+  - He hung up the receiver angrily.（他气愤地挂断了电话。）
+  - ⚠️ hang up = 挂断电话；the receiver = 电话听筒；hang up the receiver = 挂断电话的动作
+- pick up (the receiver) 接电话；拿起听筒
+  - He picked up the receiver and answered the call.（他拿起听筒接了电话。）
+  - I'll pick up if it's from the office.（如果是办公室打来的我就接。）
+  - ⚠️ pick up the receiver = 拿起电话接听；pick up 还有"接人""捡起""学会（技能）"等含义
+- a pastry shop 糕点店；面包店
+  - I bought some cakes at the pastry shop around the corner.（我在街角的面包店买了些蛋糕。）
+  - There's a lovely pastry shop near the station.（车站附近有一家很棒的糕点店。）
+  - ⚠️ pastry shop = 卖糕点、面包、甜点的店铺；美国常用 bakery；pastry 特指酥皮点心
 
 
 
