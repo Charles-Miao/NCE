@@ -791,6 +791,72 @@
   - I bought some cakes at the pastry shop around the corner.（我在街角的面包店买了些蛋糕。）
   - There's a lovely pastry shop near the station.（车站附近有一家很棒的糕点店。）
   - ⚠️ pastry shop = 卖糕点、面包、甜点的店铺；美国常用 bakery；pastry 特指酥皮点心
+- own + a gold mine 拥有一座金矿
+  - He owns a gold mine in South Africa.（他在南非拥有一座金矿。）
+  - Owning a gold mine would make you incredibly rich.（拥有一座金矿会让你超级富有。）
+  - ⚠️ own = 拥有（动词）；gold mine = 金矿；也可比喻"赚钱的生意"
+- a treasure map 藏宝图
+  - The pirates drew a treasure map with an X marking the spot.（海盗们画了一张藏宝图，用X标记地点。）
+  - They followed the treasure map to the island.（他们跟着藏宝图到了岛上。）
+  - ⚠️ treasure = 财宝、宝藏；map = 地图；treasure map = 藏宝图（常见于冒险故事）
+- in a cave 在洞穴里
+  - He found a secret room in a cave.（他在洞穴里发现了一个秘密房间。）
+  - They sheltered in a cave during the storm.（他们在暴风雨中躲在洞穴里。）
+  - ⚠️ cave = 洞穴、山洞；in a cave = 在洞穴内部；类似：in a tunnel（在隧道里）
+- near/to the seashore 靠近/在海边
+  - They built a small house near the seashore.（他们在海边建了一座小房子。）
+  - We walked to the seashore at sunset.（日落时分我们走到海边。）
+  - ⚠️ seashore = 海岸、海滨；near = 靠近（不一定在海边）；to = 到达海边
+- pirate stories 海盗故事
+  - Children love pirate stories about buried treasure.（孩子们喜欢关于埋藏宝藏的海盗故事。）
+  - He grew up listening to pirate stories.（他听着海盗故事长大。）
+  - ⚠️ pirate = 海盗；pirate stories = 海盗故事（常含冒险、宝藏元素）
+- arm sb./sth. with sth. 用某物武装某人/某物
+  - The government armed the soldiers with modern weapons.（政府用现代武器武装士兵。）
+  - They armed themselves with knowledge.（他们用知识武装自己。）
+  - ⚠️ arm = 武装、配备；arm sb. with = 用……武装某人；引申：arm with knowledge（用知识武装）
+- sb. be armed with sth. 某人被武装着某物；某人带着某物
+  - The police were armed with guns.（警察带着枪。）
+  - She came to the interview armed with all the necessary documents.（她带着所有必要文件来面试。）
+  - ⚠️ be armed with = 被武装着；也可指"带着、准备好"（引申义）
+- in dry soil 在干燥的土壤中
+  - The seeds germinate well in dry soil.（种子在干燥的土壤中发芽良好。）
+  - They found fossils in dry soil.（他们在干燥的土壤中发现了化石。）
+  - ⚠️ dry = 干燥的；soil = 土壤；in dry soil = 在干土里
+- find / miss + entrance 找到/错过入口
+  - They couldn't find the entrance to the cave.（他们找不到洞穴的入口。）
+  - Don't miss the entrance on your right.（别错过你右边的入口。）
+  - ⚠️ entrance = 入口；exit = 出口；find the entrance = 找到入口；miss the entrance = 错过入口
+- You're worthless. 你毫无价值。（贬义，伤人的话）
+  - He told me I was worthless.（他告诉我我毫无价值。）
+  - ⚠️ worthless = 无价值的、没用的；是贬义词，伤人；反义：worthy（有价值的）
+- I'm not worthless. 我不是毫无价值的。
+  - I'm not worthless, and I will prove it.（我不是没用的，我会证明这一点。）
+  - ⚠️ 用于反驳别人的贬低，表达自我价值
+- car trunk 汽车后备箱（美式）；英式：car boot
+  - He put the luggage in the car trunk.（他把行李放在汽车后备箱里。）
+  - The car trunk was full of groceries.（汽车后备箱里装满了食品杂货。）
+  - ⚠️ trunk = 后备箱（美式）；boot = 后备箱（英式）；trunk 还可指"树干""象鼻"
+- sb. be confident that ... 某人相信/确信……
+  - She is confident that she will pass the exam.（她相信自己会通过考试。）
+  - I'm confident that we can finish the project on time.（我相信我们能按时完成项目。）
+  - ⚠️ confident = 自信的、确信的；be confident that + 从句 = 确信……；同义：be sure that
+- something of value 有价值的东西
+  - They found something of value in the old house.（他们在老房子里发现了一些有价值的东西。）
+  - Keep something of value in a safe place.（把贵重物品放在安全的地方。）
+  - ⚠️ of value = 有价值的；同义：valuable；something of value = 有价值的东西
+- dreams come true 梦想成真
+  - She worked hard to make her dreams come true.（她努力工作让梦想成真。）
+  - Never give up until your dreams come true.（永不放弃，直到梦想成真。）
+  - ⚠️ come true = 实现、成真（常用于梦想、愿望）；wish come true（愿望成真）
+- be used to do sth. 被用来做某事（被动语态）
+  - Wood is used to make furniture.（木头被用来做家具。）
+  - This tool is used to cut paper.（这个工具被用来剪纸。）
+  - ⚠️ be used to do = 被用来做……（被动语态，to do 是不定式）；与 be used to doing（习惯于）完全不同
+- fairly soon 不久之后；相当快
+  - The work will be finished fairly soon.（工作会相当快完成。）
+  - We should hear from them fairly soon.（我们应该不久就会收到他们的消息。）
+  - ⚠️ fairly = 相当、还算；fairly soon = 不久、相当快；类似：pretty soon, quite soon
 
 
 

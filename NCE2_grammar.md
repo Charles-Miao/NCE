@@ -548,4 +548,60 @@
 - I have been trying to call you all morning.（我整个上午一直在给你打电话。）
   - ⚠️ 表达不满或抱怨时常用现在完成进行时
 
+### would do VS used to do
+#### 区别1：过去状态（past state）只用 used to do
+- This sort of novel used to be very popular.（这类小说过去很受欢迎。）
+  - ⚠️ would 不能用于表示过去的状态，只能表示过去重复的动作；状态（be, have, know 等）只用 used to
+
+#### 区别2：used to do 暗含现在不发生了
+- He used to bring me little presents.（他过去常常给我带小礼物。——现在不这样了）
+  - He would bring me little presents.（他以前常常给我带小礼物。——不强调现在是否还这样）
+  - ⚠️ used to 暗含"现在不做了"；would 只是描述过去的习惯，不含"现在不做"的意思
+
+#### 区别3：用 used to do 而不用 would 谈论[经常]且[重要]的[习惯行为]
+- Robert used to play a lot of football.（罗伯特以前经常踢很多足球。——这是他生活的重要部分）
+  - ⚠️ 如果要强调某个习惯是"重要的""经常的"，用 used to 更自然；would 更偏向描述"过去的习惯动作"
+
+##### 注意：
+1. 并不很重要——日常交流中 would 和 used to 常可互换
+2. 尽量输入提升语感——多读例句培养直觉
+3. 语法书和人们使用习惯的区别——语法书强调区别，但母语者常混用
+
+#### 相同点：过去重复发生的动作
+- When Leo was angry, he would always walk out of the room.（当利奥生气时，他总是会走出房间。）
+- I used to live near my work and would always get home early.（我以前住得离工作地点近，总是很早到家。）
+  - ⚠️ would 和 used to 都可表示"过去反复发生的动作"；常可互换
+
+### be used to doing VS used to do
+#### be used to doing（to 是介词，后面 + 动名词/名词）
+- He is used to driving.（他习惯开车。）
+- I am used to getting up early.（我习惯早起。）
+  - ⚠️ be used to + doing = 习惯于做某事（现在仍然习惯）；to 是介词，后接名词或动名词
+
+#### used to do（无 be，表过去常常）
+- He used to drive a lot.（他以前经常开车。）
+- I used to get up early.（我以前常常早起。）
+  - ⚠️ used to + do = 过去常常做某事（现在不做了）；to 是不定式符号，后接动词原形
+
+#### 对比总结
+| 结构 | 含义 | to 的词性 | 后接形式 |
+|------|------|-----------|----------|
+| be used to doing | 习惯于（现在） | 介词 | 名词/动名词 |
+| used to do | 过去常常（现在不做） | 不定式符号 | 动词原形 |
+| be used to do | 被用来做（被动） | 不定式符号 | 动词原形 |
+
+### where/whose 引导定语从句
+#### where 引导定语从句（表地点）
+- I recently went back to the town where I was born.（我最近回到了我出生的那个小镇。）
+  - where = 在那个地方；在从句中作地点状语；相当于 in which
+  - I recently went back to the town in which I was born.（我最近回到了我出生的那个小镇。）
+- This is the restaurant where we had dinner last week.（这就是我们上周吃晚饭的那家餐厅。）
+  - ⚠️ where 在定语从句中作地点状语；先行词必须是表示地点的名词（town, restaurant, place 等）
+
+#### whose 引导定语从句（表所属）
+- I met a man whose sister knows you.（我遇到一个男人，他的妹妹认识你。）
+  - whose = 某人的；在从句中作定语，表示所属关系
+- This is the girl whose book you borrowed.（这就是你借了书的那个女孩。）
+  - ⚠️ whose 在定语从句中表示"某人的"，既可指人也可指物；在从句中作定语
+
 
