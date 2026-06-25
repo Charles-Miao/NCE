@@ -857,6 +857,42 @@
   - The work will be finished fairly soon.（工作会相当快完成。）
   - We should hear from them fairly soon.（我们应该不久就会收到他们的消息。）
   - ⚠️ fairly = 相当、还算；fairly soon = 不久、相当快；类似：pretty soon, quite soon
+- make a sound 发出声音
+  - The mouse made a sound and ran away.（老鼠发出一声响就跑掉了。）
+  - Don't make a sound — the baby is sleeping.（别出声——宝宝在睡觉。）
+  - ⚠️ make a sound = 发出声音；否定形式常用于要求安静；sound = 声音（可数）
+- hear a sound 听到声音
+  - I heard a sound outside the window.（我听到窗外有声音。）
+  - Did you hear a sound just now?（你刚才听到声音了吗？）
+  - ⚠️ hear a sound = 听到声音（强调结果）；listen for a sound = 仔细听声音（强调动作）
+- on the course 在球场上；在过程中
+  - He spent the whole afternoon on the golf course.（他在高尔夫球场上待了一下午。）
+  - Everything is going well on the course of the project.（项目进展顺利。）
+  - ⚠️ on the course = 在球场上（高尔夫/球类运动）；in the course of = 在……过程中（正式表达）
+- speed it/things/this up 加快速度
+  - Can you speed things up a bit?（你能把进度加快一点吗？）
+  - We need to speed this up if we want to finish on time.（如果想按时完成，我们需要加快速度。）
+  - ⚠️ speed up = 加速、加快；speed it up / speed things up = 加快它/加快进度；反义：slow down
+- go downhill 走下坡路；衰退、变差
+  - His health has gone downhill since he retired.（他退休后健康状况一直在走下坡路。）
+  - The neighborhood has really gone downhill in the past few years.（这片社区在过去几年里真的变差了。）
+  - ⚠️ go downhill = 走下坡路（字面+比喻）；反义：improve / get better；go downhill 也可指滑雪
+- a great deal of ... + 不可数名词 大量的……
+  - He spent a great deal of money on the project.（他在这个项目上花了很多钱。）
+  - A great deal of time is needed to finish this work.（完成这项工作需大量时间。）
+  - ⚠️ a great deal of + 不可数名词 = 大量……；同义：a large amount of；a great deal = 非常（副词短语）
+- a great many of ... + 可数名词（复数） 大量的……
+  - A great many of the students passed the exam.（很多学生通过了考试。）
+  - I have read a great many of his books.（我读过他很多的书。）
+  - ⚠️ a great many of + 可数名词复数 = 大量……；同义：a large number of；a great many = 很多（可直接修饰名词）
+- break down 出故障；崩溃；分解
+  - The car broke down on the way to the airport.（车子在去机场的路上抛锚了。）
+  - She broke down in tears when she heard the news.（听到消息时她崩溃大哭。）
+  - ⚠️ break down 多义：①车坏了 ②人情绪崩溃 ③机器故障 ④化学物质分解；breakdown = 故障/崩溃（名词）
+- a be different from b. 甲与乙不同
+  - My opinion is different from yours.（我的意见和你的不同。）
+  - The new version is different from the old one.（新版本和旧版本不同。）
+  - ⚠️ be different from = 与……不同（美式常用）；英式也用 be different to；be different than（美式非正式）
 
 
 
