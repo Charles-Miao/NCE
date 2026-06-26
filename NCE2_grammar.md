@@ -604,4 +604,23 @@
 - This is the girl whose book you borrowed.（这就是你借了书的那个女孩。）
   - ⚠️ whose 在定语从句中表示"某人的"，既可指人也可指物；在从句中作定语
 
+### the way (that)... 方式（= how）
+#### 先行词 the way + 三种引导方式
+- the way (that) I look at it = the way in which I look at it = how I look at it
+  - I see things in a different way. = I look at things differently.（我看待事物的方式不同。）
+  - the way (that) I look at it = 我看待这件事的方式
+- The way (that) he explained it was very clear.（他解释这件事的方式非常清楚。）
+  - The way in which he explained it was very clear.（他解释这件事的方式非常清楚。）
+  - How he explained it was very clear.（他解释的方式非常清楚。）
+- I don't like the way (that) he speaks to his parents.（我不喜欢他跟父母说话的方式。）
+- Do it the way I showed you.（按我教你的方式做。）
+
+#### 关键规则
+- the way = 方式、方法（= how），在从句中作方式状语
+- **the way (that)**: that 可省略（口语/日常书面）
+- **the way in which**: in which = that，更正式
+- **how**: 直接引导名词性从句（= the way in which），结构最简洁
+  - I like how she handles problems.（我喜欢她处理问题的方式。）
+- ⚠️ 注意区分：the way 后接定语从句时 that 可省；how 引导的是名词性从句（整个从句作宾语或主语）
+
 

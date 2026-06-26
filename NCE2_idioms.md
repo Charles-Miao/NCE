@@ -894,5 +894,62 @@
   - The new version is different from the old one.（新版本和旧版本不同。）
   - ⚠️ be different from = 与……不同（美式常用）；英式也用 be different to；be different than（美式非正式）
 
+- hesitate to do sth. 犹豫做某事；迟疑做某事
+  - She hesitated to answer the question because she wasn't sure.（她犹豫要不要回答这个问题，因为她不确定。）
+  - Don't hesitate to ask if you need help.（如果你需要帮助，尽管问。）
+  - ⚠️ hesitate to do = 对做某事犹豫不决；常用于邀请：Don't hesitate to contact me（随时联系我）= 欢迎随时联系
+- be eager to do sth. 渴望做某事；急切想做某事
+  - The children are eager to open their presents.（孩子们迫不及待想拆礼物。）
+  - She was eager to start her new job.（她迫不及待想开始新工作。）
+  - ⚠️ be eager to do = 热情高涨、迫不及待；比 want 更强烈；be eager for = 渴望得到（名词）
+- scornfully 轻蔑地；鄙视地
+  - "You can't do it!" he said scornfully.（"你做不到！"他轻蔑地说。）
+  - She looked at him scornfully and walked away.（她轻蔑地看了他一眼，然后走开了。）
+  - ⚠️ scornfully = 副词，修饰动词（said/looked/laughed）；scornful = 形容词（a scornful look = 轻蔑的眼神）；scorn = 名词/动词（轻蔑、鄙视）
+- look down on sb. 看不起某人；轻视某人
+  - Don't look down on people who have less than you.（别看不起那些条件不如你的人。）
+  - He always looks down on others because of his family background.（他总是因为家庭背景而看不起别人。）
+  - ⚠️ look down on = 轻视、看不起（贬义）；反义：look up to = 尊敬、仰慕
+- ask to do sth. 请求做某事（征询许可）
+  - I asked to see the manager.（我请求见经理。）
+  - She asked to leave early because of her headache.（她因为头疼请求早点离开。）
+  - ⚠️ ask to do = 请求做某事（需征得许可）；ask sb. to do = 要求某人做某事（让对方做）；I asked to leave ≠ I asked him to leave
+- be dressed in ... 穿着……（描述某人当时穿着）
+  - The girl was dressed in a red coat.（那女孩穿着一件红色外套。）
+  - He was dressed in uniform at the ceremony.（典礼上他穿着制服。）
+  - ⚠️ be dressed in = 穿着……（强调状态）；dress（动词）= 给……穿衣服；a dressed man = 穿戴整齐的人
+- seek out 找到；找出；寻觅
+  - We sought out the oldest building in the town.（我们找到了镇上最古老的建筑。）
+  - She spent years seeking out her birth parents.（她花了很多年寻找亲生父母。）
+  - ⚠️ seek out = 主动搜寻并找到（= look for and find）；seek = 寻找（正式）；seek advice/help = 寻求建议/帮助
+- make sb. do sth. 让某人做某事；迫使某人做某事
+  - The news made him think twice.（这个消息让他三思。）
+  - Don't make the children study all day long.（别让孩子一整天都在学习。）
+  - ⚠️ make sb. do = 让/迫使某人做某事（不带 to）；变为被动 make sb. be done = 要加 be：He was made to repeat the whole lesson.（被动语态，to 不能省略）
+- take the course 上课；选课；修这门课
+  - I decided to take the course on English grammar.（我决定选修英语语法这门课。）
+  - Did you take the course last semester?（你上学期上这门课了吗？）
+  - ⚠️ take the course = 修读某门课程；take a course（泛泛地说"上课"）；常见搭配：take an online course（上网课）、take a training course（参加培训课程）
+- have a rest 休息一下
+  - You look tired. Go and have a rest.（你看起来很累，去休息一下吧。）
+  - Let's have a rest before we continue climbing.（我们休息一下再继续爬山。）
+  - ⚠️ have a rest = 休息一下（英式常用）；美式更常用 take a rest；同义：take a break（休息/暂停）
+- ask for the salt and pepper 要盐和胡椒（在餐桌上）
+  - Could you ask for the salt and pepper? The chicken needs more flavor.（你能把盐和胡椒递过来吗？鸡翅需要加点味道。）
+  - He asked for the salt and pepper but no one heard him.（他要盐和胡椒，但没人听到。）
+  - ⚠️ ask for = 要求得到；餐桌上"pass me"比"ask for"更自然：Could you pass me the salt and pepper?；"the salt and pepper"视为一组物品
+- have some soup 喝些汤
+  - Would you like to have some soup before the main course?（上主菜之前你要喝点汤吗？）
+  - I had some soup for lunch because I didn't feel well.（午饭我喝了点汤，因为不太舒服。）
+  - ⚠️ have soup = 喝汤（英式）；美式更常用 eat soup 或 drink soup（视温度/碗型而定）；have some soup = 喝一些汤
+- a lovely day 美好的一天
+  - It's a lovely day, isn't it? Let's go for a walk.（天气真好，对吧？我们去散步吧。）
+  - We had a lovely day at the beach.（我们在海滩度过了美好的一天。）
+  - ⚠️ a lovely day = 天气好/心情好；口语中常用于打招呼或开启对话；同义：a beautiful day、a wonderful day
+- What a day! 这一天真够受的！（感叹，可褒可贬）
+  - What a day! I've been working since 6 a.m. and still have three meetings left.（这一天真够呛！我从早上6点工作到现在，还有三个会要开。）
+  - What a lovely day!——Lovely? What a day! It's raining again!（多好的天气啊！——好什么好？这什么破天！又下雨了！）
+  - ⚠️ What a day! = ①（贬）这一天真累/真糟糕 ②（褒）今天真棒；语气决定含义；类似：What a night!、What a game!
+
 
 
