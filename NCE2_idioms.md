@@ -927,5 +927,63 @@
   - Don't make the children study all day long.（别让孩子一整天都在学习。）
   - ⚠️ make sb. do = 让/迫使某人做某事（不带 to）；变为被动 make sb. be done = 要加 be：He was made to repeat the whole lesson.（被动语态，to 不能省略）
 
+- It is a blessing that ... ……是一件幸事
+  - It is a blessing that we have such a helpful neighbor.（有这样的好邻居真是件幸事。）
+  - It is a blessing that nobody was hurt in the accident.（没有人在这场事故中受伤，真是万幸。）
+  - ⚠️ It is a blessing that = ……是件好事/幸事；blessing = 好事、幸事、神恩；反义：a curse（祸事）
+- What a blessing! 真是太好了！真是一件幸事！
+  - The rain finally stopped. What a blessing!（雨终于停了，真是太好了！）
+  - What a blessing it is to have friends like you.（有这样的朋友真是太幸运了。）
+  - ⚠️ What a blessing! = 对好事感到欣慰/感激；与 What a blessing that... 同义；blessing 可数名词
+- God bless you 愿上帝保佑你；上帝保佑（打完喷嚏常说）
+  - "I feel terrible." "God bless you. Go see a doctor."（"我感觉很糟糕。""上帝保佑你，去看医生吧。"）
+  - God bless you, Mom, for everything you've done.（妈妈，你所做的一切，愿上帝保佑你。）
+  - ⚠️ God bless you = ①打完喷嚏后的礼貌回应 ②真诚祈祷/祝福；类似的保佑语：Bless you!（非宗教场合也常用）；God bless America（著名歌词）
+- It's a blessing (that)... ……是件好事
+  - It's a blessing (that) we finished the work on time.（我们按时完成了工作，真是太好了。）
+  - It's a blessing the fire was discovered early.（幸好及早发现了火灾。）
+  - ⚠️ It's a blessing that = It is a blessing that（完全同义）；口语中常省略 that；可与 just in time /Fortunately 等替换
+- a blessing in disguise 塞翁失马；因祸得福
+  - Losing that job was a blessing in disguise — I found something much better.（失去那份工作其实是塞翁失马——我找到了更好的工作。）
+  - His illness turned out to be a blessing in disguise; it made him re-evaluate his life.（他的病后来证明是塞翁失马，让他重新审视了人生。）
+  - ⚠️ a blessing in disguise = 看似不幸实则有益的事（坏事变好事）；类似的：every cloud has a silver lining（黑暗中总有一线光明）；disguise = 伪装，in disguise = 伪装成，实际是
+- In one's possession / in the possession of ... 在某人掌控中 / 被某人拥有
+  - The documents are in my possession.（这些文件在我手上。）
+  - The house has been in the possession of the family for generations.（这栋房子已被这个家族拥有好几代了。）
+  - ⚠️ in one's possession = 某人拥有/持有（在某人手中）；in the possession of = 被……拥有（更正式）；possess = 拥有（动词）
+- go to church 去教堂（做礼拜）
+  - We go to church every Sunday.（我们每周日都去做礼拜。）
+  - She went to church early this morning.（今天早上她早早去了教堂做礼拜。）
+  - ⚠️ go to church = 去教堂参加宗教活动（church 前不加 the）；此时 church = 宗教场所/活动；类比：go to school（上学）/ go to hospital（去看病）
+- go to the church 去那个教堂（不一定做礼拜，可能是参观/找人）
+  - I went to the church to meet my friend.（我去了那个教堂见朋友。）
+  - The wedding took place at the church on Main Street.（婚礼在主街的那个教堂里举行。）
+  - ⚠️ go to the church = 去那个特定教堂（建筑本身）；church 前加 the 表示具体建筑；类比：go to the school（去那所学校，可能办事/参观）；对比：go to church（去礼拜）
+- have a good/bad reputation 享有好/坏名声
+  - This restaurant has a good reputation for its service.（这家餐厅以服务好著称。）
+  - The company has a bad reputation because of its poor working conditions.（这家公司因工作条件差而名声不好。）
+  - ⚠️ have a reputation = 享有名声；reputation = 名声（可数）；good/bad/high reputation = 好/坏/高声誉；have a reputation for = 因……而闻名
+- have a reputation for ... 因……而闻名/著称
+  - Italy has a reputation for its delicious food.（意大利以美食闻名。）
+  - She has a reputation for being honest.（她以诚实著称。）
+  - ⚠️ have a reputation for + 名词/动名词 = 因……著名；for 后接优点或缺点均可；a reputation as + 身份 = 以……身份著称
+- baggage claim 行李提取处；行李转盘
+  - I'll meet you at the baggage claim after we land.（我们降落之后我在行李提取处等你。）
+  - The baggage claim is on the first floor, near Exit 3.（行李提取处在一楼，靠近3号出口。）
+  - ⚠️ baggage claim = 机场行李提取区（名词短语）；claim = 认领、领取；baggage = 行李（美式）；英式：luggage claim；其他机场表达：check-in（值机）、boarding gate（登机口）、departure hall（出发大厅）
+- source of income / information / ... ……的来源
+  - Teaching is her main source of income.（教书是她主要的收入来源。）
+  - The Internet is a major source of information for students.（互联网是学生获取信息的主要来源。）
+  - He is a reliable source of information.（他是一个可靠的信息来源。）
+  - ⚠️ a source of = ……的来源；复数：sources of income（多个收入来源）；同义：a source = 来源；a source of + 名词 = ……的来源
+- a number of ... 若干；许多（接可数名词复数）
+  - A number of students have applied for the scholarship.（很多学生申请了奖学金。）
+  - There are a number of reasons why I can't come tonight.（我今晚不能来有很多原因。）
+  - ⚠️ a number of + 可数名词复数 = 许多、大量；the number of + 可数名词复数 = ……的数量（谓语用单数）；a number of / a large number of / a small number of 可修饰可数；much/little + 不可数
+- sb. point out that ... 某人指出……
+  - He pointed out that there were no buses after midnight.（他指出午夜后没有公交车了。）
+  - The teacher pointed out that my essay had several grammar mistakes.（老师指出我的作文有几处语法错误。）
+  - ⚠️ point out that = 指出（强调说出来让人注意）；point out + 名词 = 指出某物：He pointed out the mistake.（他指出了错误）；point out + wh- = 指出……：Can you point out where it is?（你能指出在哪里吗？）
+
 
 

@@ -623,4 +623,81 @@
   - I like how she handles problems.（我喜欢她处理问题的方式。）
 - ⚠️ 注意区分：the way 后接定语从句时 that 可省；how 引导的是名词性从句（整个从句作宾语或主语）
 
+### 据说……（be said to do / it is said that...）
+#### 两种结构互换
+- **be said to do** = **it is said that...**（据说……）
+  - He is said to be the richest man in the world.（据说他是世界上最富有的人。）
+  - It is said that he is the richest man in the world.（据说他是世界上最富有的人。）
+  - ⚠️ 两种结构意思完全相同，可互换；类似结构：
+    - He **is said to have left** the country.（据说他已离开这个国家。）
+    - It **is said that** he **has left** the country.
+
+#### 常见同类结构（八对）
+| 主动句 | 被动结构 | 含义 |
+|--------|----------|------|
+| They say that he... | **He is said to**... | 据说他…… |
+| People believe that he... | **He is believed to**... | 人们相信他…… |
+| They report that he... | **He is reported to**... | 据报道他…… |
+| Everyone knows that he... | **He is known to**... | 众所周知他…… |
+| They consider him (to be)... | **He is considered to be**... | 他被认为是…… |
+| They expect that he will... | **He is expected to**... | 预计他…… |
+| They suppose that he... | **He is supposed to**... | 据推测他…… |
+| They feel that he... | **He is felt to**... | 人们觉得他…… |
+
+- It is believed that the book was written in the 16th century.（据信这本书写于16世纪。）
+- He is known to have served in the army during the war.（众所周知，他在战争期间服过役。）
+- She is expected to arrive tomorrow morning.（预计她明天上午到达。）
+
+#### 时态变化
+- 过去式：He **was said to** be very rich.（当时据说他非常富有。）
+- 现在完成时：He **has been said to** be the best player.（他一直被认为是最优秀的球员。）
+- ⚠️ 注意：be said to have done = 据说做过某事（完成时）；be said to be doing = 据说是正在做某事
+
+### 强调句（It is/was + 强调部分 + that/who + 剩余部分）
+#### 基本结构
+- It is/was + **强调部分** + that/who + **剩余部分**
+- 强调句的核心：**把任何成分拿出来单独强调**，用 It is/was 开头，剩余部分用 that/who 连接
+- ⚠️ 强调句 ≠ 定语从句：去掉 It is/was...that/who，整个句子仍然完整
+
+#### 原句
+- My secretary sent the bill to Mr. Harding yesterday.
+  - 我的秘书昨天把账单寄给了哈丁先生。
+
+#### 五种强调（逐步拆解）
+
+1. **强调主语（用 who，其余不变）**
+   - It was **my secretary** who sent the bill to Mr. Harding yesterday.
+   - 是我的秘书昨天把账单寄给了哈丁先生。
+   - ⚠️ 主语是人时 that/who 均可，但 who 更自然
+
+2. **强调宾语 the bill（用 that，其余不变）**
+   - It was **the bill** that my secretary sent to Mr. Harding yesterday.
+   - 我秘书昨天寄的是**那张账单**给哈丁先生。（强调是那张账单，不是别的东西）
+   - ⚠️ 宾语用 that，不可用 which
+
+3. **强调间接宾语 Mr. Harding（用 that/who）**
+   - It was **Mr. Harding** that/who my secretary sent the bill to yesterday.
+   - 我秘书昨天是把账单寄给**哈丁先生**的。（强调是哈丁先生，不是别人）
+   - ⚠️ 强调介词短语中的名词时用 that/who 均可
+
+4. **强调地点状语 to the office（用 that）**
+   - It was **to Mr. Harding** that my secretary sent the bill yesterday.
+   - 我秘书昨天是把账单**寄给哈丁先生**的。（强调目的地）
+
+5. **强调时间状语 yesterday（用 that）**
+   - It was **yesterday** that my secretary sent the bill to Mr. Harding.
+   - 是**昨天**我秘书把账单寄给了哈丁先生。（强调是昨天，不是别的日子）
+   - ⚠️ 时间状语用 that，不用 when
+
+#### 更多例句
+- It was **only last week** that I heard the news.（我是直到上周才听到这个消息的。）
+- It was **in the park** that they met for the first time.（他们是在公园里第一次见面的。）
+- It was **because of his illness** that he couldn't come.（正是因为生病他才没能来。）
+- It was **her** that I met at the party.（我在派对上遇到的是她。）
+
+#### 否定强调（It is not...that...）
+- It wasn't **until** he explained it again **that** I understood.（直到他再解释了一遍我才明白。）
+- It wasn't **until yesterday** that I realized the problem.（直到昨天我才意识到问题。）
+- ⚠️ not until... = 直到……才；这是常见的否定强调句型
+
 
