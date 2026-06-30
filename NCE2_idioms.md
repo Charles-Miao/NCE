@@ -985,5 +985,30 @@
   - The teacher pointed out that my essay had several grammar mistakes.（老师指出我的作文有几处语法错误。）
   - ⚠️ point out that = 指出（强调说出来让人注意）；point out + 名词 = 指出某物：He pointed out the mistake.（他指出了错误）；point out + wh- = 指出……：Can you point out where it is?（你能指出在哪里吗？）
 
+- become/be an expert at (doing) sth. 成为/是做某事的高手/专家
+  - She became an expert at identifying birds.（她成了辨别鸟类的专家。）
+  - He is an expert at negotiating business deals.（他是商务谈判的高手。）
+  - ⚠️ be an expert at + 名词/动名词 = 是……方面的专家；become an expert at = 成为……专家；介词也可用 in/on：expert in/at/on sth；反义：be a novice at（新手）
+- have a habit of doing sth. 有做某事的习惯
+  - He has a habit of biting his nails when he's nervous.（他紧张时有咬指甲的习惯。）
+  - I have a bad habit of staying up too late on weekends.（我有周末熬夜的坏习惯。）
+  - ⚠️ have a habit of doing = 有做……的习惯；a bad habit = 坏习惯；a good habit = 好习惯；form/develop a habit = 养成习惯；break/kick a habit = 改掉习惯（习惯是名词，习惯做某事是habit of doing sth.）
+- remove sth. from ... 把某物从……移走/清除
+  - Please remove your shoes before entering the house.（进屋前请脱鞋。）
+  - He removed the nail from the wall.（他把钉子从墙上拔了出来。）
+  - ⚠️ remove = 移走、清除、脱下；remove sth. from = 从某处移除某物；remove 比 take away 更正式；常用场景：remove stains（去污渍）、remove doubts（消除疑虑）、remove from office（撤职）
+- complain of ... 抱怨……（具体说到某种症状/问题）
+  - The patient complained of a headache and dizziness.（病人主诉头痛和头晕。）
+  - He complained of being treated unfairly.（他抱怨受到了不公平对待。）
+  - ⚠️ complain of = 诉说（症状/问题），常用于医疗场景（主诉症状）；complain about = 抱怨（泛泛地）；compared with of，about 更常用于日常抱怨
+- spend sth. doing sth. 花费精力/时间做某事
+  - He spent a lot of time preparing for the exam.（他花了很多时间备考。）
+  - They spent all their energy trying to solve the problem.（他们把所有精力都花在解决这个问题上了。）
+  - ⚠️ spend sth. = 花时间/精力/金钱在……上；spend time (in) doing sth. = 花时间做某事（in可省略）；spend money on sth. = 花钱买某物
+- train sb. to do sth. 训练某人做某事；培训某人做某事
+  - She trained her dog to fetch the newspaper.（她训练狗去取报纸。）
+  - The company trains new employees to use the software.（公司培训新员工使用该软件。）
+  - ⚠️ train sb. to do = 训练/培训某人做某事；train to do = 自己训练做某事：He trained to be a pilot.（他正在接受飞行员培训）；training = 培训（名词），trainer = 培训师，trainee = 受训者
+
 
 

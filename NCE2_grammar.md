@@ -700,4 +700,38 @@
 - It wasn't **until yesterday** that I realized the problem.（直到昨天我才意识到问题。）
 - ⚠️ not until... = 直到……才；这是常见的否定强调句型
 
+### so that 以便；为了（引导目的状语从句）
+#### 基本用法
+- so that = 为了、以便（引导目的状语从句），表示主句动作的目的
+  - He wants to move out of his place so that we can live together.（他想搬出现在住的地方，以便我们能住在一起。）
+  - I got up early so that I could catch the first bus.（我早起是为了赶上头班车。）
+
+#### 结构要点
+- 主句 + **so that** + 从句（从句通常含 can/could/may/might/will/would 等情态动词）
+  - She is saving money **so that** she **can** buy a house.（她正在存钱，以便能买房子。）
+  - He spoke loudly **so that** the audience **would** hear him.（他大声说话，好让观众能听到。）
+  - I'll leave the door open **so that** you **can** come in.（我会把门开着，以便你能进来。）
+
+#### 易混辨析：so that vs so...that
+| 结构 | 含义 | 用法 |
+|------|------|------|
+| **so that** | 为了、以便 | 目的状语从句，从句含情态动词 |
+| **so...that** | 如此……以至于 | 结果状语从句，so + 形容词/副词 + that |
+- 对比：
+  - He studied hard **so that** he **could** pass the exam.（他努力学习，**以便**通过考试。）
+  - He studied **so** hard **that** he passed the exam.（他学习**如此**努力，**以至于**通过了考试。）
+
+#### 位置与省略
+- so that 从句可放在主句后（最常见），也可放在句首（强调目的）
+  - So that he could finish on time, he worked through the night.（为了按时完成，他通宵工作。）
+- 口语中常简化为 **so**：
+  - I left early so I wouldn't be late.（我早点出发，这样就不会迟到。）
+  - ⚠️ so that = 较正式；so = 口语/非正式，意思相同
+
+#### 时态呼应
+- 主句现在时 → so that + can/will/may
+  - He exercises every day so that he can stay healthy.（他每天锻炼以保持健康。）
+- 主句过去时 → so that + could/would/might
+  - He exercised every day so that he could stay healthy.（他那时每天锻炼以保持健康。）
+
 
