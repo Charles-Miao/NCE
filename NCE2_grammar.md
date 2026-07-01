@@ -734,4 +734,40 @@
 - 主句过去时 → so that + could/would/might
   - He exercised every day so that he could stay healthy.（他那时每天锻炼以保持健康。）
 
+### the moment = as soon as 一……就……（时间连词）
+#### 基本用法
+- **the moment** = **as soon as** = 一……就……（引导时间状语从句）
+  - Everything stops **the moment** she walks in the room.（她一走进房间，一切都停了下来。）
+  - I recognized her **the moment** I saw her.（我一看到她就认出了她。）
+  - I fell in love with you **the moment** I saw you.（我对你一见钟情。）
+
+#### 结构要点
+- **the moment + 主语 + 谓语** = 一……就……（相当于 immediately when）
+  - He started screaming **the moment** he saw the mouse.（他一看到老鼠就尖叫起来。）
+  - The phone rang **the moment** I sat down to eat.（我刚坐下来吃饭电话就响了。）
+  - ⚠️ the moment 是名词作连词用，类似用法的还有：the minute、the instant、the second
+
+#### 同类结构（名词作连词）
+| 结构 | 含义 | 例句 |
+|------|------|------|
+| **the moment** | 一……就 | I knew it **the moment** I heard the news. |
+| **the minute** | 一……就（更口语） | She called me **the minute** she arrived. |
+| **the instant** | 一……就（较正式） | **The instant** he opened the door, the alarm went off. |
+| **the second** | 一……就（强调瞬间） | I recognized him **the second** I saw him. |
+| **immediately** | 一……就（英式常用） | **Immediately** he finished, he left. |
+| **directly** | 一……就（英式） | **Directly** I get the results, I'll call you. |
+
+#### 时态呼应
+- 主句现在时 → the moment + 一般现在时/现在进行时
+  - I **know** it **the moment** I **see** it.（我一看到就知道。）
+- 主句过去时 → the moment + 一般过去时
+  - I **knew** it **the moment** I **saw** it.（我当时一看到就知道。）
+  - ⚠️ the moment 引导的从句时态通常与主句一致（主将从现规则也适用：I'll tell him **the moment** he **arrives**.）
+
+#### 与 as soon as 的细微差别
+- **the moment** 更强调"瞬间性"（强调动作发生的那一刹那）
+- **as soon as** 更通用，可用于较长时间的间隔
+  - I'll call you **as soon as** I get home.（我一到家就给你打电话。——可能到家后还要找手机）
+  - I recognized him **the moment** I saw him.（我一看到就认出来了。——强调瞬间的识别）
+
 

@@ -1010,5 +1010,22 @@
   - The company trains new employees to use the software.（公司培训新员工使用该软件。）
   - ⚠️ train sb. to do = 训练/培训某人做某事；train to do = 自己训练做某事：He trained to be a pilot.（他正在接受飞行员培训）；training = 培训（名词），trainer = 培训师，trainee = 受训者
 
+- in the future 将来；未来
+  - I hope to travel around the world in the future.（我希望将来能环游世界。）
+  - Who knows what will happen in the future?（谁知道将来会发生什么？）
+  - ⚠️ in the future = 将来、未来（指从现在算起的将来）；in future = 今后、从今以后（英式，= from now on）；美式通常用 in the future 表示两者
+- at a village fair 在乡村集市上
+  - We bought some homemade jam at a village fair.（我们在乡村集市上买了些自制果酱。）
+  - The whole village turns out for the annual fair.（全村人都出来参加一年一度的集市。）
+  - ⚠️ village fair = 乡村集市（常在户外，有游戏、小吃、手工艺品等）；fair = 集市、展览会；county fair = 县集市；book fair = 书展
+- crystal clear 清澈透明的；非常清楚的
+  - The water in the lake is crystal clear.（湖水清澈见底。）
+  - Her explanation was crystal clear.（她的解释非常清楚。）
+  - ⚠️ crystal clear = ①字面：清澈透明（像水晶一样）②比喻：非常清楚、易懂；crystal = 水晶；clear = 清楚的；类似表达：perfectly clear（完全清楚）
+- a relation of yours 你的一个亲戚
+  - A relation of yours came to see you while you were out.（你出门时有个亲戚来看你。）
+  - She turned out to be a distant relation of yours.（她原来是你的一位远亲。）
+  - ⚠️ a relation of yours = 你的一个亲戚（of yours = 双重所有格，强调是"你的"）；relation = 亲戚（英式常用）；美式更常用 relative；a friend of mine = 我的一个朋友（同类结构）
+
 
 
