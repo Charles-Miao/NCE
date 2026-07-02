@@ -1027,5 +1027,22 @@
   - She turned out to be a distant relation of yours.（她原来是你的一位远亲。）
   - ⚠️ a relation of yours = 你的一个亲戚（of yours = 双重所有格，强调是"你的"）；relation = 亲戚（英式常用）；美式更常用 relative；a friend of mine = 我的一个朋友（同类结构）
 
+- shuttle bus 摆渡车；穿梭巴士；机场/酒店/景点间的往返巴士
+  - There's a free shuttle bus from the airport to the hotel.（有从机场到酒店的免费摆渡车。）
+  - We took the shuttle bus to the amusement park.（我们乘穿梭巴士去了游乐园。）
+  - ⚠️ shuttle bus = 往返于两点之间的固定班车；shuttle = 往返运输；shuttle flight = 往返航班；穿梭巴士常见于：机场-酒店、火车站-市区、景点间接驳
+- faulty 有问题的；有缺陷的；故障的
+  - The accident was caused by a faulty brake.（事故是由刹车故障引起的。）
+  - Please return any faulty goods to the store for a refund.（请将有缺陷的商品退回商店退款。）
+  - ⚠️ faulty = 有毛病的、有缺陷的（形容词）；fault = 故障、毛病（名词）；a fault = 缺点；find fault with = 挑剔、找茬；faulty goods = 有缺陷的商品
+- grab a beer/coffee 顺便喝杯啤酒/咖啡；抓紧时间喝一杯
+  - Let's grab a coffee after the meeting.（会后我们顺便喝杯咖啡吧。）
+  - I usually grab a beer with colleagues on Friday evenings.（我通常周五晚上和同事喝杯啤酒。）
+  - ⚠️ grab = 抓紧时间做、顺便做（强调快、非正式）；grab a coffee = 快速喝杯咖啡（不等正式坐下来）；grab lunch = 随便吃点午餐；grab a bite = 随便吃点东西垫肚子
+- right from the start 从一开始
+  - I knew right from the start that something was wrong.（我从一开始就知道出了问题。）
+  - Right from the start, she made it clear she wouldn't accept late submissions.（从一开始她就明确表示不接受迟交。）
+  - ⚠️ right from the start = 从一开始、最初（right = 加强语气，= completely）；同义：from the very start、from the beginning；right away = 立刻、马上（不同）；from the start = 自始（无 right，语气稍弱）
+
 
 

@@ -770,4 +770,44 @@
   - I'll call you **as soon as** I get home.（我一到家就给你打电话。——可能到家后还要找手机）
   - I recognized him **the moment** I saw him.（我一看到就认出来了。——强调瞬间的识别）
 
+### will have been doing 将来完成进行时
+#### 基本结构
+- **will have been + 现在分词（doing）**
+  - 表示将来某一时刻之前已经开始并一直在进行的动作，常译为"到……时已经一直在……"
+  - ⚠️ 这个时态由两个概念叠加：将来完成时（will have done）+ 进行时（will be doing）→ 将来完成进行时 = will have been doing
+
+#### 与将来完成时的对比
+| 时态 | 结构 | 含义 | 侧重点 |
+|------|------|------|--------|
+| 将来完成时 | will have done | 到将来某时已经完成 | 动作的结果/完成 |
+| 将来完成进行时 | will have been doing | 到将来某时已经一直在做 | 动作的持续性 |
+
+- By the end of this month, I **will have worked** here for three years.（到本月底，我就已经在这里工作三年了。——结果：满三年）
+- By the end of this month, I **will have been working** here for three years continuously.（到本月底，我就已经连续在这里工作三年了。——持续性：一直在做）
+- ⚠️ 如果强调动作持续且可能延续，用将来完成进行时；如果强调动作已经完成，用将来完成时
+
+#### 常见时间状语
+- **by + 将来的时间点**（by then / by the end of... / by 2028）
+  - By this time next year, she **will have been studying** English for ten years.（到明年这个时候，她学英语就满十年了。）
+  - By the time you get back, I **will have been waiting** for two hours.（你回来的时候，我就已经等了两个小时了。）
+  - He **will have been living** in Shanghai for five years by next month.（到下个月，他就在上海住满五年了。）
+
+#### 与现在完成进行时的对应关系
+| 现在完成进行时 | 将来完成进行时 | 含义 |
+|---------------|---------------|------|
+| I **have been working** all morning. | By noon, I **will have been working** all morning. |
+| She **has been learning** piano for years. | She **will have been learning** piano for ten years by next year. |
+
+- 现在完成进行时：动作从过去持续到现在
+- 将来完成进行时：动作从过去开始，持续到将来某时（且可能继续）
+- ⚠️ 两者都强调**持续性**，区别在于时间基准是"现在"还是"将来某时"
+
+#### 常见场景
+- 学习/工作持续时间：
+  - By the time he graduates, he **will have been studying** medicine for eight years.（到他毕业时，他学医就满八年了。）
+- 等待/居住等持续动作：
+  - If we don't leave soon, we **will have been sitting** here for three hours.（如果我们不马上走，我们在这儿坐满三个小时了。）
+- 推测性用法（对持续动作的推测）：
+  - They **will have been traveling** for a week by the time they reach Beijing.（到他们到达北京时，他们就已经旅行一周了。）
+
 
