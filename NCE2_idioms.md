@@ -1044,5 +1044,10 @@
   - Right from the start, she made it clear she wouldn't accept late submissions.（从一开始她就明确表示不接受迟交。）
   - ⚠️ right from the start = 从一开始、最初（right = 加强语气，= completely）；同义：from the very start、from the beginning；right away = 立刻、马上（不同）；from the start = 自始（无 right，语气稍弱）
 
+- at a cost of ... 以……的代价/费用
+  - He built the company at a cost of his health.（他以健康为代价建立了这家公司。）
+  - The project was completed at a cost of two million dollars.（这个项目以200万美元的费用完成。）
+  - ⚠️ at a cost of = 以……的代价/费用；at a high cost = 以很高的代价；at any cost = 不惜任何代价；at all costs = 无论如何；cost = 代价、成本（可指金钱或非金钱）；比较：in cost（就成本而言）
+
 
 
