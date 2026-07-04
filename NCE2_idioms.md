@@ -1049,5 +1049,52 @@
   - The project was completed at a cost of two million dollars.（这个项目以200万美元的费用完成。）
   - ⚠️ at a cost of = 以……的代价/费用；at a high cost = 以很高的代价；at any cost = 不惜任何代价；at all costs = 无论如何；cost = 代价、成本（可指金钱或非金钱）；比较：in cost（就成本而言）
 
-
-
+- get it under control / be under control （把它）控制住；处于控制中
+  - We need to get the situation under control.（我们需要控制住局面。）
+  - The fire was finally got under control after 12 hours.（火势终于在12小时后得到了控制。）
+  - Don't worry, everything is under control.（别担心，一切都在掌控之中。）
+  - ⚠️ get sth. under control = 把……控制住（强调动作）；be under control = 处于控制中（状态）；反义：out of control（失控）；lose control = 失去控制
+- desolate place 荒凉的地方
+  - They found the village a desolate place.（他们发现那个村庄是个荒凉的地方。）
+  - It's a desolate place with no signs of life.（那是个毫无生命迹象的荒凉之地。）
+  - ⚠️ desolate = 荒凉的、荒芜的（形容词）；同义：barren、bleak、lonely；desolation = 荒凉（名词）
+- threaten sb. with sth. 用某物威胁某人
+  - He threatened me with a knife.（他拿刀威胁我。）
+  - The manager threatened him with dismissal if he didn't improve.（经理威胁说如果他不改进就开除他。）
+  - ⚠️ threaten sb. with sth. = 用某物威胁某人（强调手段）；threaten to do sth. = 威胁要做某事（强调内容）
+- threaten to do sth. 威胁要做某事
+  - He threatened to leave if things didn't change.（他威胁说如果情况不改变就离开。）
+  - The boss threatened to cut our pay.（老板威胁要减我们的工资。）
+  - ⚠️ threaten to do = 威胁要做某事；threat = 威胁（名词）；under threat = 受到威胁
+- have the authority to do sth. 有权做某事
+  - The police have the authority to arrest suspects.（警察有权逮捕嫌疑人。）
+  - Only the manager has the authority to approve this.（只有经理有权批准这个。）
+  - ⚠️ have the authority to do = 有权做某事（正式权力）；authority = 权力、权威（不可数）；an authority on = ……方面的权威（可数）
+- a large/ small quantity of sth. 大量/少量的某物
+  - A large quantity of water is needed.（需要大量的水。）
+  - He bought a small quantity of rice.（他买了少量的米。）
+  - ⚠️ a quantity of + 不可数/可数名词 = 一定量的……；quantities of = 大量的（谓语用复数）；同义：a large amount of（不可数）、a large number of（可数）
+- take root 生根；扎根；深入人心
+  - The idea has taken root in his mind.（这个想法在他心中扎了根。）
+  - Democracy has taken root in this country.（民主已在这个国家扎根。）
+  - ⚠️ take root = ①字面：植物生根 ②比喻：思想/制度扎根；deep-rooted = 根深蒂固的
+- for centuries 几个世纪以来；数百年来
+  - This tradition has lasted for centuries.（这个传统已经延续了几个世纪。）
+  - The castle has stood for centuries.（这座城堡已经矗立了几个世纪。）
+  - ⚠️ for centuries = 几个世纪以来（强调时间长）；century = 世纪（100年）
+- a patch of sth. 一小块……；一片……
+  - There's a patch of grass in the garden.（花园里有一小块草地。）
+  - He sat on a patch of sand.（他坐在一片沙地上。）
+  - ⚠️ a patch of = 一小块（可指土地、水面、颜色等）；patch = 小块、补丁（名词）
+- a short time before 不久前；之前不久
+  - I met him a short time before.（不久前我见过他。）
+  - A short time before the accident, she had left the house.（事故发生前不久，她离开了房子。）
+  - ⚠️ a short time before = 不久前（强调时间短）；同义：a little while ago、recently
+- for miles around 方圆几英里；周围几英里
+  - There are no houses for miles around.（方圆几英里内没有房子。）
+  - For miles around, the landscape is flat.（方圆几英里内，地势平坦。）
+  - ⚠️ for miles around = 周围几英里（强调范围广）；类似：for kilometers around
+- in place of... 代替……；取代……
+  - We use this in place of sugar.（我们用这个代替糖。）
+  - She went in place of her sister.（她代替她姐姐去了。）
+  - ⚠️ in place of = 代替（介词短语）；同义：instead of、in lieu of；take the place of = 取代（动词短语）

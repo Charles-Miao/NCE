@@ -810,4 +810,42 @@
 - 推测性用法（对持续动作的推测）：
   - They **will have been traveling** for a week by the time they reach Beijing.（到他们到达北京时，他们就已经旅行一周了。）
 
+### had been doing 过去完成进行时
+#### 基本结构
+- **had been + 现在分词（doing）**
+  - 表示过去某一时刻之前已经开始并一直在进行的动作，常译为"到……时已经一直在……"
+  - ⚠️ 结构拆解：过去完成时（had done）+ 进行时（was/were doing）→ had been doing
 
+#### 两种核心用法
+**1. 过去A进行的动作（已结束）对过去B有影响**
+  - It had been raining.（当时一直在下雨。——暗示地面还是湿的）
+  - She was tired because she had been working all day.（她很累，因为她工作了一整天。——累是结果）
+  - The ground was wet because it had been raining.（地面是湿的，因为之前一直在下雨。）
+  - ⚠️ 强调过去动作对过去某时的影响（类似现在完成进行时对现在的影响）
+
+**2. 过去A进行的动作持续或重复到过去B**
+  - By 2020, I had been teaching English for 9 years.（到2020年，我教英语已经9年了。——持续到2020年）
+  - When he retired, he had been working for the same company for 30 years.（他退休时，已经在同一个公司工作了30年。——持续到退休）
+  - She had been waiting for an hour before he finally arrived.（在他终于到达之前，她已经等了一个小时了。）
+  - ⚠️ 强调动作从更早的过去持续到过去某时
+
+#### 与过去完成时的对比
+| 时态 | 结构 | 侧重点 |
+|------|------|--------|
+| 过去完成时 had done | 到过去某时已经完成 | 动作的结果/完成 |
+| 过去完成进行时 had been doing | 到过去某时已经一直在做 | 动作的持续性 |
+
+- When I got to the station, the train **had left**.（我到车站时，火车已经开走了。——结果：没赶上）
+- He **had been painting** the door for an hour when I arrived.（我到达时，他已经刷了一个小时的门了。——强调持续性）
+
+#### 常见时间状语
+- **by + 过去的时间点**
+  - By the time she was 25, she **had been performing** on stage for 10 years.（到她25岁时，她已经在舞台上表演了10年了。）
+  - By last year, I **had been studying** French for 5 years.（到去年，我学法语已经5年了。）
+- **before + 过去时间点**
+  - They **had been living** in London for 5 years before they moved to Paris.（在搬到巴黎之前，他们已经在伦敦住了5年了。）
+
+#### 更多例句
+- I was out of breath because I **had been running**.（我上气不接下气，因为我一直在跑步。）
+- The children were tired because they **had been playing** all afternoon.（孩子们很累，因为他们玩了一下午。）
+- He **had been writing** the report for three hours before he finished it.（他写了三个小时的报告才写完。）
