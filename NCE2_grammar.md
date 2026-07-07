@@ -849,3 +849,31 @@
 - I was out of breath because I **had been running**.（我上气不接下气，因为我一直在跑步。）
 - The children were tired because they **had been playing** all afternoon.（孩子们很累，因为他们玩了一下午。）
 - He **had been writing** the report for three hours before he finished it.（他写了三个小时的报告才写完。）
+
+### 方式状语从句
+#### 基本概念
+- 方式状语从句说明动作的方式或手段，常译为"按照……的方式"、"像……那样"
+- 常用引导词：**as**（按照）、**as if / as though**（好像/仿佛）
+
+#### as：按照……方式；像……那样
+- Jeremy was a little disappointed by this but he did **as** his daughter asked.（杰里米对此有点失望，但他还是按女儿要求的做了。）
+- Do it **as** I showed you.（按我教你的方法做。）
+- She spoke **as** if nothing had happened.（她说话的样子就好像什么都没发生一样。）
+- He acted **as though** he were the boss.（他表现得就好像自己是老板一样。）
+- ⚠️ as = 按照某种方式（引导方式状语从句）；as if / as though = 好像、仿佛（后接虚拟语气时用 were）
+
+#### as if / as though 的用法
+- **真实条件（可能性较大）**：主句 + as if + 过去式
+  - It looks **as if** it is going to rain.（看起来好像要下雨了。——有可能）
+- **虚拟语气（可能性较小/假设）**：主句 + as if / as though + 过去式（were）
+  - He talks **as if** he knew everything.（他说话的样子就好像他什么都知道似的。——实际上不知道）
+  - She acted **as though** she were rich.（她表现得就好像自己很有钱一样。——实际上没钱）
+- ⚠️ as if 比 as though 更常用；两者后都可接虚拟语气 were
+
+#### 方式状语 vs. 方式副词
+| 方式副词（修饰动词） | 方式状语从句 |
+|------|------|
+| He spoke **politely** to everyone. | He spoke **as** his teacher had taught him. |
+| She answered **quickly**. | She answered **as if** she had practiced. |
+- 方式副词：单词，直接修饰动词
+- 方式状语从句：从句，说明动作的方式

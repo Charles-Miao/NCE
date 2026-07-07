@@ -1098,3 +1098,44 @@
   - We use this in place of sugar.（我们用这个代替糖。）
   - She went in place of her sister.（她代替她姐姐去了。）
   - ⚠️ in place of = 代替（介词短语）；同义：instead of、in lieu of；take the place of = 取代（动词短语）
+
+- a large circle of friends 交际广；有很多朋友
+  - She has a large circle of friends.（她交际很广，有很多朋友。）
+  - He moved to Beijing and quickly built up a large circle of friends.（他搬到北京后很快就结识了很多朋友。）
+  - ⚠️ circle of friends = 朋友圈（强调社交圈层）；a large/wide circle = 交际广；inner circle = 核心圈子
+- admire sb. for sth. / doing sth. 因某事而钦佩某人
+  - I admire her for her courage.（我钦佩她的勇气。）
+  - We all admired him for what he had achieved.（我们都钦佩他所取得的成就。）
+  - ⚠️ admire sb. for sth./doing sth. = 因某事/做某事而钦佩某人；admire = 钦佩、羡慕（及物动词，不加 at）；admire the view = 欣赏风景（不同含义）
+- close friend 密友；亲近的朋友
+  - She is a close friend of mine.（她是我的密友。）
+  - He is my closest friend.（他是我最亲近的朋友。）
+  - ⚠️ close friend = 密友（close = 亲密的）；a close friend = 一位密友；best friend = 最好的朋友（更亲密）
+- at the reception 在招待会上；在欢迎会上
+  - Many guests were gathered at the reception.（许多客人聚集在招待会上。）
+  - At the reception, he gave a short speech.（在招待会上，他致了简短的讲话。）
+  - ⚠️ at the reception = 在招待会上；reception = 接待处、招待会、欢迎会（根据场景含义不同）；reception desk = 前台
+- what sort of... / what kind of... 什么样的……
+  - What sort of music do you like?（你喜欢什么样的音乐？）
+  - What kind of job are you looking for?（你在找什么样的工作？）
+  - ⚠️ what sort of = 什么样的……（比 what kind of 稍正式，英式常用）；what kind of = 什么样的……（美式更常用）；sort of = 有几分、可以说是（口语副词）
+- all sorts of... / all kinds of... 各种各样的……
+  - She collects all sorts of things.（她收集各种各样的东西。）
+  - There are all kinds of reasons for leaving.（离开有各种各样的理由。）
+  - ⚠️ all sorts/kinds of = 各种各样的……（可数名词复数）；a sort/kind of = 某种……；sort of = 有点、几分（副词用法）
+- sense of humour / humor 幽默感
+  - He has a great sense of humor.（他很有幽默感。）
+  - She lost her sense of humor after the accident.（事故后她失去了幽默感。）
+  - ⚠️ sense of humor = 幽默感（不可数名词）；humor = 美式拼写；humorous = 幽默的（形容词）
+- make a speech 发表讲话；做演讲
+  - He made a speech at the wedding.（他在婚礼上发表了讲话。）
+  - She was asked to make a speech at the graduation ceremony.（她被邀请在毕业典礼上演讲。）
+  - ⚠️ make a speech = 发表讲话（正式场合）；give a speech = 做演讲（更常见）；deliver a speech = 发表演讲（更正式）
+- a large number of... 许多……；大量的……
+  - A large number of people attended the meeting.（许多人参加了会议。）
+  - The museum has a large number of visitors every year.（这家博物馆每年都有大量游客。）
+  - ⚠️ a large number of + 可数名词复数（谓语用复数）；a large amount of + 不可数名词；a large quantity of + 可数/不可数均可
+- on the way home 在回家的路上
+  - I bought some flowers on the way home.（我在回家的路上买了一些花。）
+  - On the way home, it started to rain.（在回家的路上，天开始下雨了。）
+  - ⚠️ on the way home = 在回家的路上（home 是副词，前面不加 to）；on the way to + 地点 = 在去……的路上
