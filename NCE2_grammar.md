@@ -877,3 +877,41 @@
 | She answered **quickly**. | She answered **as if** she had practiced. |
 - 方式副词：单词，直接修饰动词
 - 方式状语从句：从句，说明动作的方式
+
+### 虚拟语气：与过去事实相反
+#### 基本结构
+- **If + 主语 + had done（过去分词）, 主语 + would / could / might / should + have done**
+- 表示与过去事实相反（过去没发生，但假设发生了会怎样）
+- ⚠️ 从句用过去完成时（had done），主句用 would/ could/ might/ should + have done
+
+#### 例句
+- I didn't see you when you passed me in the street. **If I had seen you**, of course, **I would have said** hello.（你在街上经过我时我没看到你。如果我看到了你，我当然会打招呼了。——事实上没看到、没打招呼）
+- **If you had told** me earlier, **I would have helped** you.（如果你早点告诉我，我就会帮你了。——事实上没告诉、没帮）
+- ⚠️ 主句 could have done = 本能做却没做；might have done = 或许会做；should have done = 本应该做（含责备意味）
+
+#### If you could have done（= If you had been able to do）
+- You know, Jammy, **if I could have done** anything, **I would have been** a painter.（杰米，你知道，如果我能做任何事，我本来会成为一个画家的。——事实上没做成）
+- ⚠️ could have done 在虚拟语气中 = had been able to do（本能够做却没做）；注意：此处 could have done 不是"过去可能"，而是虚拟语气的"本能够"
+
+### if 真实条件句（一般现在时 → 一般将来时）
+#### 基本结构
+- **If + 一般现在时, 主语 + 一般将来时（will）**
+- 表示有可能发生的事实（真实假设），常译为"如果……，就会……"
+- ⚠️ 主将从现：if 从句用一般现在时表将来，主句用 will + 动词原形
+
+#### 例句
+- **If you don't study** English at school, you **won't understand** this book.（如果你在学校不学英语，你就看不懂这本书。——真实可能发生）
+- **If it rains** tomorrow, we **will stay** at home.（如果明天下雨，我们就待在家里。）
+- ⚠️ 真实条件句 vs 虚拟语气：真实条件句谈"可能发生的"（if + 现在时, will）；虚拟语气谈"与事实相反的"（if + 过去时/ had done, would）
+
+### suggest that... should do（建议性虚拟语气）
+#### 基本结构
+- **suggest + that + 主语 + (should) + 动词原形**
+- should 可省略（美式更常见），但动词必须用原形
+- ⚠️ 这是"建议、要求、命令"类动词后的虚拟语气（一坚持二命令三建议四要求：insist, order/command, suggest/advise, demand/request/require）
+
+#### 例句
+- Her uncle **suggested that she (should) get** a job in a bank.（她叔叔建议她应该在银行找份工作。）
+- He **suggests that she get** a job in a bank.（他建议她在银行找份工作。——美式省略 should）
+- He **suggested that she get** a job in a bank.（他当时建议她在银行找份工作。——过去时 + 原形 get）
+- ⚠️ suggest 表示"建议"时，从句用虚拟语气（should + 原形，should 可省）；若 suggest 表示"暗示、表明"，则从句用正常时态（如 The smile suggested she was happy）

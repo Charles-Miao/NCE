@@ -1139,3 +1139,52 @@
   - I bought some flowers on the way home.（我在回家的路上买了一些花。）
   - On the way home, it started to rain.（在回家的路上，天开始下雨了。）
   - ⚠️ on the way home = 在回家的路上（home 是副词，前面不加 to）；on the way to + 地点 = 在去……的路上
+
+- in the tunnel 在隧道里
+  - The train disappeared into the tunnel.（火车消失在隧道里。）
+  - A light was seen in the tunnel.（隧道里看到有灯光。）
+  - ⚠️ in the tunnel = 在隧道里（强调在内部空间）；tunnel = 隧道、地道；go through the tunnel = 穿过隧道
+- at the port 在港口
+  - The ship will arrive at the port tomorrow.（船明天到达港口。）
+  - We met him at the port before he left.（他离开前我们在港口见到了他。）
+  - ⚠️ at the port = 在港口（指港口区域/码头）；port = 港口、口岸；harbor = 海港（更侧重避风港湾）
+- ventilation system 通风系统
+  - The ventilation system keeps the air fresh.（通风系统保持空气清新。）
+  - The mine's ventilation system was out of order.（矿井的通风系统出故障了。）
+  - ⚠️ ventilation = 通风、换气（名词）；ventilate = 使通风（动词）；system = 系统
+- above / below sea level 海平面以上/以下
+  - The town is 2,000 meters above sea level.（这个小镇海拔2000米。）
+  - The Dead Sea is below sea level.（死海位于海平面以下。）
+  - ⚠️ above sea level = 海拔（高于海平面）；below sea level = 低于海平面；sea level = 海平面
+- double check 再次检查；复核
+  - Double check your answers before submitting.（交卷前再检查一下答案。）
+  - I always double check the door is locked.（我总会再确认一下门是否锁好。）
+  - ⚠️ double check = 复核、再次确认（口语高频）；同义：check again、verify；check = 检查（单次）
+- sb. fear that + 句子 某人担心/害怕……
+  - She fears that she will fail the exam.（她担心自己会考试不及格。）
+  - He feared that he had lost his way.（他害怕自己迷了路。）
+  - ⚠️ fear that + 从句 = 担心/害怕某事发生；fear = 害怕、担忧（动词）；for fear that = 唯恐、生怕（连词）
+- European continent 欧洲大陆
+  - France is part of the European continent.（法国是欧洲大陆的一部分。）
+  - The Alps span several countries on the European continent.（阿尔卑斯山脉横跨欧洲大陆多个国家。）
+  - ⚠️ European = 欧洲的（形容词）；continent = 大陆、洲；the Continent = （英式）欧洲大陆（特指英伦三岛以外）
+- it is possible to do sth. 做某事是可能的
+  - It is possible to finish the work today.（今天有可能完成这项工作。）
+  - Is it possible to cancel the order?（有可能取消订单吗？）
+  - ⚠️ It is possible to do = 可能做某事（客观可能性）；possible = 可能的；反义：impossible；it is possible that + 从句
+- A serve as B A 充当/作为 B
+  - The sofa can serve as a bed.（这个沙发可以当床用。）
+  - He served as captain of the team.（他担任球队队长。）
+  - ⚠️ serve as = 充当、担任、用作；serve = 服务、担任；serve as + 职业/角色/用途
+- put forward a plan... 提出一个计划……
+  - They put forward a plan to reduce costs.（他们提出了一个降低成本的计划。）
+  - Who put forward this idea?（是谁提出这个想法的？）
+  - ⚠️ put forward = 提出（建议、计划、想法）；同义：propose、suggest；put forward a plan = 提出计划
+- solve the problem of A… 解决A的问题……
+  - We need to solve the problem of pollution.（我们需要解决污染问题。）
+  - This app helps solve the problem of time management.（这个应用有助于解决时间管理的问题。）
+  - ⚠️ solve the problem = 解决问题；solution = 解决方案（名词）；solve = 解决（及物动词）
+- draw in 吸入；吸进
+  - He drew in a deep breath.（他深吸了一口气。）
+  - The pump draws in air from outside.（泵从外面吸入空气。）
+  - ⚠️ draw in = 吸入、吸进（draw = 拉、抽）；反义：give out / let out = 呼出、放出；draw in 还可指（天黑）渐早、（火车）进站
