@@ -1189,6 +1189,39 @@
   - The pump draws in air from outside.（泵从外面吸入空气。）
   - ⚠️ draw in = 吸入、吸进（draw = 拉、抽）；反义：give out / let out = 呼出、放出；draw in 还可指（天黑）渐早、（火车）进站
 
+- It is (high) time that + 过去时 是时候……了
+  - It is time that we went home.（是时候回家了。）
+  - It is high time that we started cooking.（我们该开始做饭了。）
+  - ⚠️ It is (high) time that + 过去时 = 是时候……了（用过去时表委婉建议）；= It is time to do sth.；high time = 正是时候（语气更强）
+- sb. admit (to) doing sth. / that... 某人承认做某事
+  - He admitted stealing the money.（他承认偷了钱。）
+  - She admitted to making a mistake.（她承认犯了一个错误。）
+  - He admitted that he had been wrong.（他承认他错了。）
+  - ⚠️ admit doing = 承认做了某事（doing 不是被动）；admit to doing = 同上（to 为介词）；反义：deny doing = 否认做了某事
+- be admitted to... 被……录取/允许进入……
+  - She was admitted to Beijing University.（她被北京大学录取了。）
+  - He was admitted to hospital last night.（他昨晚被送进了医院。）
+  - ⚠️ be admitted to = 被录取/允许进入（正式）；admit to = 承认（介词 to）；admission = 准入、承认（名词）
+- as well as 以及；除……之外（还）
+  - I as well as you am tired.（不但你累，我也累。）
+  - She speaks French as well as English.（她不但会说英语，还会说法语。）
+  - ⚠️ A as well as B = 不但 B，而且 A（强调 A，谓语与 A 一致）；A and B = A 和 B（谓语用复数）；as well as 在句首时语气不同
+- sb. be supposed to do sth. 某人应该做某事
+  - You are supposed to hand in your homework on Friday.（你应该周五交作业。）
+  - Everyone is supposed to wear a seatbelt.（每个人都应该系安全带。）
+  - ⚠️ be supposed to do = 应该做某事（含有被期望/理应的意思）；同义：should do（口语）；supposed = 被认为的（形容词）
+- It is sb.'s turn to do sth. 轮到某人做某事了
+  - It is your turn to answer the question.（轮到你来回答这个问题了。）
+  - It is my turn to drive.（轮到我开车了。）
+  - ⚠️ It is sb.'s turn to do = 轮到某人做某事；take turns = 轮流；in turn = 依次、轮流
+- sb. be delighted to do sth. 某人很高兴做某事
+  - I am delighted to meet you.（很高兴认识你。）
+  - She was delighted to receive your letter.（她很高兴收到你的信。）
+  - ⚠️ be delighted to do = 很高兴/乐于做某事；delighted = 高兴的（形容词，语气比 happy 强）；delight = 使高兴（动词/名词）
+- I owe you for your kindness 感谢你的好意；我欠你一份人情
+  - I owe you for your help.（谢谢你的帮助。）
+  - I owe you one.（我欠你一个人情。）
+  - ⚠️ owe sb. for sth. = 因某事欠某人（感谢）；owe sb. money = 欠某人钱；owe 还可指"归功于"（owe sth. to sb.）
 - a large circle of friends 交际广；有很多朋友
   - She has a large circle of friends.（她交际很广，有很多朋友。）
   - He moved to Beijing and quickly built up a large circle of friends.（他搬到北京后很快就结识了很多朋友。）

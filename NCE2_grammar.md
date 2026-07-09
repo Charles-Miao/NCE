@@ -915,3 +915,38 @@
 - He **suggests that she get** a job in a bank.（他建议她在银行找份工作。——美式省略 should）
 - He **suggested that she get** a job in a bank.（他当时建议她在银行找份工作。——过去时 + 原形 get）
 - ⚠️ suggest 表示"建议"时，从句用虚拟语气（should + 原形，should 可省）；若 suggest 表示"暗示、表明"，则从句用正常时态（如 The smile suggested she was happy）
+### should & ought to（应该）
+#### 基本用法
+- **should / ought to + 动词原形**：表示"应该"、"应当"
+  - You **should study** harder.（你应该更努力学习。）
+  - You **ought to study** harder.（你应该更努力学习。）
+  - ⚠️ should 和 ought to 可互换，ought to 语气稍强，更正式
+
+#### should vs. ought to 的区别
+| | should | ought to |
+|---|---|---|
+| 语气 | 较轻（日常建议） | 稍强（道义/责任） |
+| 正式程度 | 口语/书面均可 | 偏正式 |
+| 否定 | shouldn't | oughtn't |
+| 过去式 | should have done | ought to have done |
+- They **should** finish the work today.（他们今天应该完成工作。——较轻的建议）
+- You **ought to** apologize to her.（你应该向她道歉。——稍强的道义责任）
+
+#### should have done / ought to have done（本应该做却没做）
+- You **should have told** me earlier.（你早该告诉我的。——但你没告诉，含责备）
+- You **ought to have been** more careful.（你本应该更仔细一些的。）
+- ⚠️ should/ought to have done = 本应该做却没做（对过去的遗憾/责备）；shouldn't have done = 本不应该做却做了
+
+#### should 的特殊用法
+1. **表示推测（可能性）**：should + 原形 = 按理说应该……
+   - The train **should arrive** in ten minutes.（火车按理说十分钟后到。）
+   - That **should be** the right answer.（那应该就是正确答案。）
+2. **表示惊讶（竟然）**：should + 动词原形（用在从句中表达意外）
+   - It is strange that he **should be** late.（真奇怪，他竟然迟到了。）
+3. **should 代替 if（书面虚拟）**：Should you need help, call me.
+   - If you need help, call me. → Should you need help, call me.（万一你需要帮助，打给我。）
+
+#### should 在被动语态中
+- The work **should be finished** today.（这项工作今天应该完成。）
+- The letter **ought to be sent** immediately.（这封信应该立刻发出。）
+- ⚠️ should/ought to + be done = 应该被……（被动）；should 本身不变，不随主语变化
