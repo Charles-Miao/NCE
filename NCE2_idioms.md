@@ -1222,6 +1222,40 @@
   - I owe you for your help.（谢谢你的帮助。）
   - I owe you one.（我欠你一个人情。）
   - ⚠️ owe sb. for sth. = 因某事欠某人（感谢）；owe sb. money = 欠某人钱；owe 还可指"归功于"（owe sth. to sb.）
+
+- How much do you weigh? 你体重多少？
+  - How much do you weigh?（你体重多少？）
+  - I weigh 70 kilograms.（我体重70公斤。）
+  - ⚠️ How much do you weigh? = 你体重多少？（weigh = 称重，不及物动词）；What is your weight? = 你体重多少？（名词形式）；回答用 I weigh + 数字 + 单位
+- It is fortunate that + 句子…… 很幸运……
+  - It is fortunate that we arrived early.（很幸运我们早到了。）
+  - It was fortunate that no one was hurt.（幸运的是没人受伤。）
+  - ⚠️ It is fortunate that + 从句 = 很幸运……（fortunate = 幸运的，比 lucky 正式）；It is lucky that... = 同上（更口语）；fortune = 运气、财富（名词）
+- accompany sb. to sp. 陪某人去某地
+  - He accompanied his mother to the hospital.（他陪母亲去医院。）
+  - She accompanied me to the station.（她陪我去车站。）
+  - ⚠️ accompany sb. to sp. = 陪某人去某地（accompany = 陪伴，及物动词）；accompany sb. = 陪伴某人；company = 公司、陪伴（名词）；in the company of = 在…的陪伴下
+- be dressed up as... 打扮成……
+  - She was dressed up as a princess.（她打扮成了公主。）
+  - The children were dressed up as ghosts.（孩子们打扮成了幽灵。）
+  - ⚠️ be dressed up as = 打扮成…（强调装扮）；dress up = 盛装打扮、装扮；dress sb. up = 给某人打扮；be dressed in = 穿着…（不强调装扮）
+- set off 出发；引爆；衬托
+  - They set off for London early in the morning.（他们一早就出发去伦敦了。）
+  - The bomb could be set off by a timer.（炸弹可以由定时器引爆。）
+  - The white background sets off the flowers nicely.（白色背景很好地衬托了花朵。）
+  - ⚠️ set off = 出发（for + 目的地）；引爆（及物）；衬托（及物）；set out = 出发（更强调目的性）；set off fireworks = 放烟花
+- hold up the traffic/line 阻碍交通/排队
+  - An accident held up the traffic for hours.（事故阻碍了交通好几个小时。）
+  - Don't hold up the line. Let others go first.（别挡着队伍，让别人先走。）
+  - ⚠️ hold up = 阻碍、耽搁；hold up the traffic = 阻碍交通；hold up the line = 阻碍排队；hold-up = 抢劫（名词）
+- agreed to do sth. 同意做某事
+  - He agreed to help us.（他同意帮我们。）
+  - They agreed to meet at 7 o'clock.（他们同意7点见面。）
+  - ⚠️ agree to do sth. = 同意做某事（to + 动词原形）；agree with sb. = 同意某人的观点；agree to sth. = 同意某事（to + 名词）；agree on sth. = 就某事达成一致
+- let sb. off 让某人下车；放过某人；从轻发落
+  - The driver let me off at the corner.（司机让我在拐角下车。）
+  - The teacher let him off with a warning.（老师放过他了，只是警告了一下。）
+  - ⚠️ let sb. off = 让某人下车/放过某人；let off steam = 发泄情绪；let sb. off the hook = 放过某人（习语）
 - a large circle of friends 交际广；有很多朋友
   - She has a large circle of friends.（她交际很广，有很多朋友。）
   - He moved to Beijing and quickly built up a large circle of friends.（他搬到北京后很快就结识了很多朋友。）
