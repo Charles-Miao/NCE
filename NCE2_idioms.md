@@ -1252,3 +1252,53 @@
   - The driver let me off at the corner.（司机让我在拐角下车。）
   - The teacher let him off with a warning.（老师放过他了，只是警告了一下。）
   - ⚠️ let sb. off = 让某人下车/放过某人；let off steam = 发泄情绪；let sb. off the hook = 放过某人（习语）
+
+- remote control 遥控器；遥控
+  - He changed the channel with the remote control.（他用遥控器换了台。）
+  - The toy car is operated by remote control.（这辆玩具车是用遥控操作的。）
+  - ⚠️ remote control = 遥控器（名词）；remote = 遥远的、遥控的（形容词）；control = 控制
+- remote house 偏远的房子
+  - They bought a remote house in the mountains.（他们在山里买了一栋偏远的房子。）
+  - The remote house was hard to reach in winter.（那栋偏远的房子冬天很难到达。）
+  - ⚠️ remote house = 偏远的房子（remote = 偏僻的、遥远的）；同义：a house in the middle of nowhere
+- do a survey 做调查；进行问卷调查
+  - We did a survey of customer satisfaction.（我们做了一项顾客满意度调查。）
+  - The students were asked to do a survey in the street.（学生们被要求在街头上做调查。）
+  - ⚠️ do/carry out/conduct a survey = 做调查；survey = 调查、测量（名词/动词）；questionnaire = 问卷
+- Can you imagine that? 你能想象那种情况吗？
+  - Can you imagine that? The whole city was flooded.（你能想象吗？整座城市都被淹了。）
+  - Can you imagine that? He won the lottery twice!（你能想象吗？他中了两次彩票！）
+  - ⚠️ Can you imagine that? = 你能想象吗？（表惊讶、难以置信）；imagine + that 从句 / imagine doing sth.
+- It's hard to imagine. 很难想象。
+  - It's hard to imagine life without the Internet.（很难想象没有互联网的生活。）
+  - It's hard to imagine how she felt at that moment.（很难想象她那一刻的感受。）
+  - ⚠️ It's hard to imagine (that)... = 很难想象……（it 为形式主语）；hard = 困难的（比 difficult 口语）
+- A colony of bees 一群蜜蜂
+  - A colony of bees settled in the tree.（一群蜜蜂在树上安了家。）
+  - The farmer keeps a colony of bees for honey.（农夫养了一群蜜蜂采蜜。）
+  - ⚠️ a colony of + 昆虫/动物 = 一群……（尤指蜜蜂、蚂蚁等群居生物）；colony = 群体、殖民地
+- packing case 包装箱；装货箱
+  - The vase was shipped in a strong packing case.（花瓶装在一个结实的包装箱里运走。）
+  - He opened the packing case and took out the books.（他打开包装箱，拿出了书。）
+  - ⚠️ packing case = 包装箱、装货木箱（packing = 包装的；case = 箱子）；pack = 打包（动词）
+- restore order 恢复秩序
+  - The police arrived to restore order.（警察赶到恢复秩序。）
+  - It took hours to restore order after the riot.（骚乱后花了好几个小时才恢复秩序。）
+  - ⚠️ restore order = 恢复秩序（restore = 恢复、修复）；order = 秩序（不可数）；反义：disorder = 混乱
+- over the years 这些年来；多年来
+  - Over the years, he has become a famous writer.（这些年来，他已成了一名著名作家。）
+  - She has changed a lot over the years.（这些年来她变化很大。）
+  - ⚠️ over the years = 这些年来、多年来（强调从过去持续到现在）；同义：over time, through the years
+- in reasonable / good / perfect condition 处于合理/良好/完美的状态
+  - The car is in good condition.（这辆车状况良好。）
+  - The old books are still in reasonable condition.（这些旧书状况还算可以。）
+  - The painting arrived in perfect condition.（这幅画完好无损地送到了。）
+  - ⚠️ in (good/reasonable/perfect) condition = 处于（良好/尚可/完美）状态；condition = 状态、条件；反义：in poor/bad condition = 状况差
+- be worth doing... 值得做……
+  - This book is worth reading.（这本书值得一读。）
+  - The museum is worth a visit.（这个博物馆值得一看。）
+  - ⚠️ be worth doing = 值得做……（doing 用主动表被动，不可用 to do）；be worth + 名词/钱 = 值……；worthy = 值得的（形容词，搭配不同）
+- turn A into B 把 A 变成 B
+  - The wizard turned the frog into a prince.（巫师把青蛙变成了王子。）
+  - They turned the old factory into a museum.（他们把旧工厂改成了博物馆。）
+  - ⚠️ turn A into B = 把 A 变成 B（into 不可用 to）；change A into B = 同上；turn into = 变成（不及物，如 Ice turned into water）

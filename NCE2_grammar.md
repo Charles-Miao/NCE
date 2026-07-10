@@ -950,3 +950,35 @@
 - The work **should be finished** today.（这项工作今天应该完成。）
 - The letter **ought to be sent** immediately.（这封信应该立刻发出。）
 - ⚠️ should/ought to + be done = 应该被……（被动）；should 本身不变，不随主语变化
+
+### have / get something done（使役：让别人做某事 / 遭遇某事）
+#### 1. 基本结构
+- **have / get + 宾语 + 过去分词（done）**
+  - I **had my hair cut** yesterday.（我昨天理了发。——自己没剪，是理发师剪的）
+  - I'm going to **have my hair cut** this afternoon.（我今天下午要去理发。）
+  - She **got her car repaired** at the garage.（她把车送去修好了。）
+
+#### 2. 含义一：请/让别人做某事（主语自己不做）
+- 主语 **出钱/安排**，由 **别人** 完成动作
+  - We **had the house painted**.（我们请人把房子粉刷了。）
+  - He **got a new suit made**.（他让人做了一套新西装。）
+  - ⚠️ have/get sth. done = 使某事被做（强调"让他人代劳"）；区别：I cut my hair（自己剪）vs. I had my hair cut（别人剪）
+
+#### 3. 含义二：遭遇意外或不幸（常译成"被"）
+- 主语 **被动承受** 了某事，常含 **意外、不幸** 色彩
+  - Gary **had his nose broken** in a fight.（加里在打架时**鼻子被打断**了。）
+  - She **had her bag stolen** on the bus.（她包在公交车上**被偷**了。）
+  - He **got his leg injured** playing football.（他踢球时**腿受伤**了。）
+  - ⚠️ 此用法中 done 是被动含义，主语是"受害者"；get 比 have 更口语，且更强调意外
+
+#### 4. have done vs. get done 的区别
+| | have sth. done | get sth. done |
+|---|---|---|
+| 语体 | 较正式 / 通用 | 更口语 |
+| 语气 | 中性陈述 | 常带"设法做成 / 意外"意味 |
+| 例句 | I had the door opened. | I got the door opened. |
+
+#### 5. 注意
+- done 必须用 **过去分词**，不能用原形或 doing
+- 否定 / 疑问借助 do/does/did：Did you have your photo taken?
+- 与被动句区分：The window was broken.（窗户破了——不知谁破的）vs. He had the window broken.（他让别人/遭遇窗户被打破）
