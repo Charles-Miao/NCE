@@ -1325,3 +1325,9 @@
   - She noticed that the door was open.（她注意到门是开着的。）
   - He noticed that something was wrong.（他注意到有什么不对劲。）
   - ⚠️ notice that + 从句 = 注意到……（notice = 察觉、注意到）；notice sb. doing sth. = 注意到某人做某事（进行时，强调正在发生）；notice sb. do sth. = 注意到某人做过某事（全过程）
+
+- avoid doing sth. 避免做某事
+  - He avoided answering my question.（他回避了不回答我的问题。）
+  - Try to avoid making the same mistake.（尽量避免犯同样的错误。）
+  - She avoided meeting his eyes.（她避开了他的目光。）
+  - ⚠️ avoid + doing = 避免做某事（avoid 后面必须接 doing，不可用 to do）；escape doing = 逃避做某事（avoid 近义）；avoid it = 回避（it 指代前文提到的事）
