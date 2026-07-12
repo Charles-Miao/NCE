@@ -1302,3 +1302,26 @@
   - The wizard turned the frog into a prince.（巫师把青蛙变成了王子。）
   - They turned the old factory into a museum.（他们把旧工厂改成了博物馆。）
   - ⚠️ turn A into B = 把 A 变成 B（into 不可用 to）；change A into B = 同上；turn into = 变成（不及物，如 Ice turned into water）
+
+- What a brilliant idea! 多么聪明的主意！
+  - What a brilliant idea! Let's go there next week.（多么聪明的主意！我们下周去吧。）
+  - What a brilliant idea! You've solved the problem in seconds.（真是绝妙的主意！你几秒钟就解决了问题。）
+  - ⚠️ What a brilliant idea! = 感叹句结构（What + a/an + 形容词 + 名词 + !）；brilliant = 聪明的、精彩的（比 clever/good 语气更强）；That's a brilliant idea! = 同义（that 指代具体想法）
+- That's brilliant! 太棒了！/ 这太聪明了！
+  - "I passed the exam!" "That's brilliant!"（"我考试通过了！""太棒了！"）
+  - He found a shortcut. That's brilliant!（他找到了一条捷径。太聪明了！）
+  - ⚠️ That's brilliant! = 太棒了/太聪明了（口语感叹）；brilliant 还可指"光亮的"、"才华横溢的"
+- name sth. a. 给某物取名为 a.
+  - They named the ship "Titanic".（他们把那艘船命名为"泰坦尼克号"。）
+  - The picture was named "Sunrise".（这幅画被取名为《日出》。）
+  - ⚠️ name sth. + 名称 = 给某物取名；name sb. + 名称 = 给某人取名；name sb. after = 以…命名；a boy named Jack = 一个名叫杰克的男孩（过去分词作定语）
+- set up his camp / tent 搭建营地；支起帐篷
+  - They set up camp by the river.（他们在河边支起了帐篷/营地。）
+  - The soldiers set up their tents before nightfall.（士兵们在天黑前支起了帐篷。）
+  - We decided to set up camp for the night.（我们决定今晚在此扎营。）
+  - ⚠️ set up camp/tent = 搭营/支帐篷；set up = 建立、设立、搭建（更通用）；put up a tent = 支起帐篷（口语）
+- sb. noticed that + 句子 某人注意到……
+  - I noticed that he was looking at me.（我注意到他在看我。）
+  - She noticed that the door was open.（她注意到门是开着的。）
+  - He noticed that something was wrong.（他注意到有什么不对劲。）
+  - ⚠️ notice that + 从句 = 注意到……（notice = 察觉、注意到）；notice sb. doing sth. = 注意到某人做某事（进行时，强调正在发生）；notice sb. do sth. = 注意到某人做过某事（全过程）

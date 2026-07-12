@@ -982,3 +982,30 @@
 - done 必须用 **过去分词**，不能用原形或 doing
 - 否定 / 疑问借助 do/does/did：Did you have your photo taken?
 - 与被动句区分：The window was broken.（窗户破了——不知谁破的）vs. He had the window broken.（他让别人/遭遇窗户被打破）
+
+### managed to do sth. = was able to do sth.（过去成功做到某事）
+#### 含义：过去某一次具体事件中成功做到了某事（通常有难度或障碍）
+- The fire spread quickly, but everybody **managed to escape**.（火势蔓延很快，但大家都**成功逃生了**。）
+- She didn't come yesterday, but I **managed to contact her** by phone.（她昨天没来，但我**成功通过电话联系到她了**。）
+- Did you **manage to tell** him about this?（你**有没有成功**告诉他这件事？）
+
+#### managed to do vs. was able to do（几乎同义，可互换）
+- 两个结构都表示"过去成功做到了某事"，强调**克服了困难或障碍**
+  - He **managed to open** the door.（他终于把门打开了。——暗示门不好开）
+  - He **was able to open** the door.（他能打开门。——强调有能力）
+- **细微区别**：
+  - **managed to do** 更强调"经过努力/克服困难后成功"，语气更重
+  - **was able to do** 更中性，偏重"具备能力并做到了"
+  - 否定时两者几乎完全等同：He **couldn't / wasn't able to / didn't manage to** finish on time.
+
+#### managed to do vs. could do 的区别
+| | managed to do | could do |
+|---|---|---|
+| 含义 | 过去某次成功做到了 | 过去有能力做（不一定实际做） |
+| 强调 | 克服困难后成功 | 能力/可能性 |
+| 例句 | I managed to solve it.（我解决了。） | I could solve it.（我能解决。） |
+| 否定 | didn't manage to | couldn't |
+
+#### 常见陷阱
+- ⚠️ **不要用 was able to do 描述一般能力**，用 could：She **could** speak three languages.（她会说三种语言——一般能力）
+- ⚠️ **不能用 could 表示"成功做到"某一次具体事件**：He managed to climb to the top.（他成功登顶了。）✅ 不能说 He could climb to the top.（❌ 会变成"他有能力爬"）
