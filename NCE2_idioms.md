@@ -1376,3 +1376,9 @@
   - When he finished speaking, everyone started clapping.（他讲完话后，大家开始鼓掌。）
   - She finished reading the book in one day.（她一天之内读完了那本书。）
   - ⚠️ finish + doing = 完成做某事（finish 后面接 doing，不接 to do）；finish with = 用完、结束（关系）；done = 完成了（口语）
+
+- There's no point in doing sth. 做某事没有意义/没必要
+  - There's no point in arguing with him.（和他争论没有意义。）
+  - There's no point in waiting any longer; they're not coming.（再等也没意义了；他们不会来了。）
+  - There's no point in crying over spilt milk.（覆水难收。谚语：泼了的牛奶哭也没用。）
+  - ⚠️ There's no point (in) doing sth. = 做某事没有意义（in 可省略）；同义：It's no use doing sth. / It's pointless to do sth.；口语常用 "What's the point?" = 有什么用呢？
