@@ -1331,3 +1331,48 @@
   - Try to avoid making the same mistake.（尽量避免犯同样的错误。）
   - She avoided meeting his eyes.（她避开了他的目光。）
   - ⚠️ avoid + doing = 避免做某事（avoid 后面必须接 doing，不可用 to do）；escape doing = 逃避做某事（avoid 近义）；avoid it = 回避（it 指代前文提到的事）
+
+- insist on doing sth. 坚持做某事
+  - He insists on paying the bill.（他坚持要买单。）
+  - She insisted on coming with us.（她坚持要跟我们一起去。）
+  - ⚠️ insist on + doing = 坚持做某事（insist 后面必须接 on + doing）；insist that... (should do) = 坚持认为…（虚拟语气，should 可省略）；insist on doing vs. persist in doing = insist on 语气更强、更主观
+- It is no use pretending that + 句子 假装……是没用的
+  - It is no use pretending that you don't understand.（假装你不懂是没用的。）
+  - It is no use pretending that nothing happened.（假装什么都没发生是没用的。）
+  - It is no use complaining about the weather.（抱怨天气是没用的。）
+  - ⚠️ It is no use doing sth. = 做某事是没用的（it 为形式主语，doing 为真正主语）；同义：There's no point in doing sth.；no use = 没有用处
+- prevent sb. from doing sth. 阻止某人做某事
+  - The rain prevented us from going out.（下雨阻止了我们外出。）
+  - Nothing can prevent him from achieving his goal.（没有什么能阻止他实现目标。）
+  - ⚠️ prevent/stop sb. from doing sth. = 阻止某人做某事（from 可省略）；ban/prohibit sb. from doing = 禁止/阻止某人做…；prevent A from B = 阻止 A 做 B
+- fancy meeting you here 真没想到在这里遇见你
+  - Fancy meeting you here! I haven't seen you for years.（真没想到在这里遇见你！我好多年没见到你了。）
+  - "Fancy that!" said the old man.（"真没想到！"老人说。）
+  - ⚠️ fancy doing sth. = 真没想到/竟然……（表惊讶）；fancy + 名词 = 喜欢、想要（口语，如"Fancy a drink?"）；fancy = 想象、设想（动词）
+- enjoy doing sth. 喜欢做某事；享受做某事
+  - I enjoy reading novels in my spare time.（我空闲时喜欢看小说。）
+  - She enjoys travelling abroad.（她喜欢出国旅游。）
+  - He didn't enjoy being laughed at.（他不喜欢被人嘲笑。）
+  - ⚠️ enjoy + doing = 喜欢做某事（enjoy 后面接 doing，不接 to do）；enjoy oneself = 过得愉快（如 We enjoyed ourselves at the party.）；like/enjoy doing vs. love doing = enjoy 强调从中获得乐趣
+- no matter how / what / where / whose / who / which / when … 不管……都……
+  - No matter what you say, I won't change my mind.（不管你说什么，我都不会改变主意。）
+  - No matter how hard it rained, he never missed a day of work.（不管雨下得多大，他一天班都没缺过。）
+  - No matter where you go, I'll follow you.（不管你去哪里，我都会跟着你。）
+  - ⚠️ no matter + 疑问词 = 不管/无论……（引导让步状语从句，等同于 疑问词-ever）；no matter what = whatever；no matter how = however；主句不用倒装
+- follow sb. around 到处跟着某人
+  - The little dog follows the girl around everywhere.（那只小狗到处跟着那个女孩。）
+  - He doesn't like being followed around by reporters.（他不喜欢被记者们到处跟着。）
+  - ⚠️ follow sb. around = 到处跟着某人（around = 到处）；follow sb. home = 跟某人回家；follow one's example = 以某人为榜样
+- I was wondering if / whether + 句子 ……是否方便（礼貌请求）
+  - I was wondering if you could help me.（我想请教一下您是否能帮我个忙。）
+  - I was wondering whether you might have time to look at my report.（不知您是否有时间看看我的报告。）
+  - ⚠️ I was wondering = 我在想……（比 "I wonder" 更礼貌；was 比 am 更委婉，常用于提出请求）；I was wondering if you could... = 非常礼貌的请求句型；不用过去式时语气更强硬
+- would you mind my doing...? ……可以吗？（礼貌请求）
+  - Would you mind my opening the window?（我开一下窗户可以吗？）
+  - Would you mind my sitting here?（我坐这里可以吗？）
+  - ⚠️ would you mind + my/宾格 + doing = ……可以吗？（非常礼貌）；回答：Of course not. / Not at all. / I'm sorry, but...；my doing = 动名词的逻辑主语（属格/宾格均可）
+- finish doing sth. 完成做某事；做完某事
+  - I haven't finished doing my homework yet.（我还没做完作业。）
+  - When he finished speaking, everyone started clapping.（他讲完话后，大家开始鼓掌。）
+  - She finished reading the book in one day.（她一天之内读完了那本书。）
+  - ⚠️ finish + doing = 完成做某事（finish 后面接 doing，不接 to do）；finish with = 用完、结束（关系）；done = 完成了（口语）
