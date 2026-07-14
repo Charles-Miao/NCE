@@ -1410,3 +1410,34 @@
   - Are you pleased with the results?（你对结果满意吗？）
   - I'm not at all pleased with your behaviour.（我对你所做的行为一点都不满意。）
   - ⚠️ be pleased with = 对……感到满意（pleased = 高兴的、满意的）；be pleased at/by = 因……感到高兴；be pleased to do = 很高兴做某事；pleased vs. pleasant = pleased（人感到满意）vs. pleasant（物令人愉快）
+
+- knocked out ① 击倒；使昏迷 ②（因疲劳/惊讶）晕倒；目瞪口呆
+  - The boxer knocked out his opponent in the first round.（拳击手在第一回合击倒了对手。）
+  - I was completely knocked out by the news.（我被这个消息惊呆了。）
+  - She was knocked out for several hours after the accident.（事故后她昏迷了好几个小时。）
+  - ⚠️ knock out = 击倒；使失去知觉（knocked-out 作形容词）；knocked out = 被打败；被打晕；累瘫（口语）；knock over = 撞倒；knock down = 撞倒；拆除
+- want sth done 想要某事被完成；希望某事做好
+  - I want my hair cut this weekend.（我想这周末去理发。）
+  - She wants the report finished by Friday.（她希望报告在周五前完成。）
+  - We want the house painted before we move in.（我们希望搬进去之前房子已经粉刷好。）
+  - ⚠️ want sth done = 希望某事被做（done 的逻辑主语不是主语本身，而是别人）；对比：want to do sth. = 想要自己做某事；need doing = 需要被做（主动表被动）；get sth done = 让某事被做（口语，侧重"搞定"）
+- deliver ① 递送；投递 ② 发表；宣布 ③ 履行；兑现
+  - The package was delivered this morning.（包裹今天早上送到了。）
+  - He delivered an excellent speech at the conference.（他在会议上发表了一篇精彩的演讲。）
+  - The government promised to deliver change.（政府承诺要兑现变革。）
+  - ⚠️ deliver = 递送；发表；履行诺言；deliver a speech/lecture = 发表演讲；deliver on a promise = 履行承诺；delivery = 递送；送货
+- fetch ①（去）取来；（去）接来 ② 卖得（某价钱）
+  - Could you fetch me a glass of water?（你能给我拿杯水吗？）
+  - The painting fetched over a million pounds at auction.（这幅画在拍卖会上卖了一百多万英镑。）
+  - I'll fetch the kids from school.（我去学校接孩子。）
+  - ⚠️ fetch = 去取来（≠ get 更强调有目的地去取/接）；fetch vs. bring vs. take = fetch（去取来）vs. bring（带来）vs. take（带走）；fetch 还可表示"卖得"价钱
+- sales figures 销售数字；销售额
+  - The sales figures for last month were very disappointing.（上个月的销售额非常令人失望。）
+  - Let's look at the sales figures again.（我们再看一下销售数据吧。）
+  - The company released its quarterly sales figures yesterday.（公司昨天发布了季度销售数据。）
+  - ⚠️ sales figures = 销售数据/数字；sales = 销售额；a fall/rise in sales = 销售额下降/上升；sales figures vs. revenue = 销售数字 vs. 总收入
+- the need for economy / need for sth. ……的必要性；对……的需求
+  - There is an urgent need for more affordable housing.（迫切需要更多经济适用的住房。）
+  - The need for economy is greater than ever.（节约的需要比以往任何时候都更迫切。）
+  - We must meet the growing need for clean energy.（我们必须满足日益增长的清洁能源需求。）
+  - ⚠️ need for = 对……的需求/必要；need to do = 需要做某事；need doing = 需要被做（主动表被动）；There's no need to... = 不需要……；in need of = 需要……（如 in need of help）
