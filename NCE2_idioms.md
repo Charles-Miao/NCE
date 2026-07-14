@@ -1382,3 +1382,31 @@
   - There's no point in waiting any longer; they're not coming.（再等也没意义了；他们不会来了。）
   - There's no point in crying over spilt milk.（覆水难收。谚语：泼了的牛奶哭也没用。）
   - ⚠️ There's no point (in) doing sth. = 做某事没有意义（in 可省略）；同义：It's no use doing sth. / It's pointless to do sth.；口语常用 "What's the point?" = 有什么用呢？
+
+- be instructed to do sth. 被指示去做某事
+  - The soldiers were instructed to move to the front line.（士兵们被指示开赴前线。）
+  - I was instructed to report to the manager immediately.（我被指示立即向经理汇报。）
+  - ⚠️ be instructed to do = 被指示去做某事（被动语态，语气正式）；同义：be ordered to do / be told to do；instruct sb. to do = 指示某人做某事（主动）
+- sb. be confident that + 句子 ……对……有信心
+  - I am confident that we can finish the project on time.（我有信心我们能按时完成这个项目。）
+  - She is confident that she passed the exam.（她相信自己通过了考试。）
+  - He felt confident that everything would work out.（他确信一切都会顺利的。）
+  - ⚠️ be confident that + 从句 = 相信/确信……；be confident in sth. / doing = 对某事有信心；confidence = 名词形式；confident vs. sure = confident 更强调自信，sure 更强调确定
+- Let's suppose that… 假设……
+  - Let's suppose that you have one million dollars. What would you do?（假设你有一百万美元，你会做什么？）
+  - Let's suppose that this is the last day on Earth.（假设今天是地球的最后一天。）
+  - ⚠️ Let's suppose that... = 让我们假设……（提出假设进行讨论）；suppose/suppposing that... = 假设……；suppose 还可表示"认为、料想"（I suppose so.）
+- tap on the window 敲窗户
+  - He tapped on the window to get her attention.（他敲了敲窗户来引起她的注意。）
+  - Someone tapped on the door gently.（有人轻轻敲了敲门。）
+  - ⚠️ tap on = 轻敲（强调动作）；knock on/at = 敲门/窗（更常用）；tap = 轻拍、轻敲（可及物可不及物）；tap sb. on the shoulder = 轻拍某人肩膀
+- continue doing / to do 继续做某事
+  - She continued working / to work despite feeling tired.（尽管感到疲倦，她继续工作。）
+  - The rain continued all day.（雨下了一整天。）
+  - Will you continue to learn English?（你会继续学英语吗？）
+  - ⚠️ continue doing = 继续做某事（doing 更自然）；continue to do = 继续去做另一件事（doing 是已开始的，to do 是接下来要做的）；continue = 继续（及物/不及物均可）
+- be pleased with 对……感到满意
+  - The teacher was very pleased with my progress.（老师对我的进步非常满意。）
+  - Are you pleased with the results?（你对结果满意吗？）
+  - I'm not at all pleased with your behaviour.（我对你所做的行为一点都不满意。）
+  - ⚠️ be pleased with = 对……感到满意（pleased = 高兴的、满意的）；be pleased at/by = 因……感到高兴；be pleased to do = 很高兴做某事；pleased vs. pleasant = pleased（人感到满意）vs. pleasant（物令人愉快）

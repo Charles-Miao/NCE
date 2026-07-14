@@ -1009,3 +1009,25 @@
 #### 常见陷阱
 - ⚠️ **不要用 was able to do 描述一般能力**，用 could：She **could** speak three languages.（她会说三种语言——一般能力）
 - ⚠️ **不能用 could 表示"成功做到"某一次具体事件**：He managed to climb to the top.（他成功登顶了。）✅ 不能说 He could climb to the top.（❌ 会变成"他有能力爬"）
+
+### having been done... 完成被动（分词被动完成式）
+#### 含义：表示"已经被……"，强调动作在主句谓语之前完成且为被动
+- After **having been instructed** to drive out of town, I began to acquire confidence.（在被指示开出城之后，我开始有了信心。）
+- **Having been told** many times, he finally understood it.（被告知很多次之后，他终于明白了。）
+- **Having been warned** about the danger, they decided not to go.（在收到危险警告之后，他们决定不去。）
+
+#### 形式：having been + 过去分词（及物动词的被动完成）
+| 主动 | 被动完成（having been done） | 被动（being done） |
+|------|------|------|
+| having done | having been done | being done |
+| 完成主动 | 完成被动 | 进行被动 |
+
+#### 与 before / after + 被动句对比
+- **Having been told** many times, he understood. = 被告知很多次之后，他明白了。（分词独立结构，强调先后）
+- **After he had been told** many times, he understood. = 同上，但用了完整从句
+- **Having been done** 可作状语前置，语气更紧凑
+
+#### 常见陷阱
+- ⚠️ having been done 只能修饰及物动词（必须有宾语才能变被动）；不及物动词没有被动语态
+- ⚠️ having been done = 被动完成（已在过去被……）；having done = 主动完成（已做过……）
+- ⚠️ having been done 作状语时，逻辑主语必须与主句主语一致
