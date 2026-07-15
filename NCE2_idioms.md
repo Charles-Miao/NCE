@@ -1535,3 +1535,36 @@
   - Let me try once more.（让我再试一次。）
   - He explained the problem once more, but I still couldn't understand.（他又解释了一遍问题，但我还是没明白。）
   - ⚠️ once more = 再一次（美式）；once again = 再一次（更正式）；once more的same用法：once more time = 再一次；once and for all = 一劳永逸地
+
+- qualified in physics / be qualified in 有……资格；在……方面有资格
+  - She is well qualified in physics.（她在物理学方面很有资格。）
+  - He is qualified in teaching English as a second language.（他有资格教授英语作为第二语言。）
+  - ⚠️ be qualified in = 在……方面有资格（后接领域/学科）；be qualified to do = 有资格做某事（后接动词）；qualified = 有资格的（形容词）；qualification = 资格（名词）
+- be content with 对……感到满足/满意
+  - He is content with his simple life.（他对他简单的生活感到满足。）
+  - She is not content with being just an ordinary employee.（她不甘心只做一个普通员工。）
+  - ⚠️ be content with = 对……满意、知足（content = 满足的，重音在第二音节）；content = 内容（名词，重音在第一音节）；content to do = 满足于做某事（后接动词）；同义：be satisfied with / be happy with
+- be jealous of 嫉妒；羡慕
+  - She is jealous of her sister's success.（她嫉妒她姐姐的成功。）
+  - He gets jealous when other men talk to his wife.（当其他男人和他妻子说话时，他会嫉妒。）
+  - ⚠️ be jealous of = 嫉妒、吃醋（强调占有欲、害怕失去）；jealous vs. envious = jealous（嫉妒、害怕失去）vs. envious（羡慕别人的）；jealousy = 名词：嫉妒；jealous of 还可表示"珍惜、唯恐失去"
+- be fond of 喜欢；喜爱
+  - She is very fond of children.（她很喜欢孩子。）
+  - I'm not fond of watching TV.（我不太喜欢看电视。）
+  - ⚠️ be fond of = 喜欢、喜爱（比 like 更温暖、更具感情色彩）；fond = 喜爱的、温柔的；fond of doing = 喜欢做某事；同义：like / be keen on / be interested in
+- be faithful to 对……忠诚；忠实于
+  - He has always been faithful to his wife.（他一直对妻子忠贞不渝。）
+  - The dog remained faithful to its owner.（那只狗一直忠于它的主人。）
+  - ⚠️ be faithful to = 对……忠诚（faithful = 忠诚的、忠实的）；faith = 名词：信念、信仰；faithfully = 副词：忠诚地；同义：loyal to / devoted to
+- be efficient at 在……方面效率高
+  - She is very efficient at managing her time.（她在时间管理方面效率很高。）
+  - An efficient secretary is efficient at handling paperwork.（一个高效的秘书在处理文书工作方面很高效。）
+  - ⚠️ be efficient at = 在……方面效率高（efficient = 效率高的）；be efficient in doing = 做某事效率高；efficient vs. effective = efficient（效率高的）vs. effective（有效果的）
+- be cruel to 对……残忍
+  - He was cruel to his younger brother when they were children.（他小时候对弟弟很残忍。）
+  - It's cruel to keep animals in small cages.（把动物关在小笼子里是残忍的。）
+  - ⚠️ be cruel to = 对……残忍（cruel = 残忍的、残酷的）；cruelty = 名词：残忍；cruelly = 副词：残忍地；同义：mean to / harsh to
+- envious 羡慕的；嫉妒的
+  - She was envious of her friend's new car.（她羡慕朋友的新车。）
+  - I'm envious of people who can sleep well every night.（我羡慕那些每晚都能睡好觉的人。）
+  - ⚠️ envious = 羡慕的、嫉妒的（形容词，强调想要拥有别人拥有的东西）；envious of = 羡慕/嫉妒某人/某物；envy = 名词/动词：羡慕、嫉妒；envious vs. jealous = envious（想要别人拥有的）vs. jealous（害怕失去已有的）
