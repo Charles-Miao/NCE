@@ -1441,3 +1441,97 @@
   - The need for economy is greater than ever.（节约的需要比以往任何时候都更迫切。）
   - We must meet the growing need for clean energy.（我们必须满足日益增长的清洁能源需求。）
   - ⚠️ need for = 对……的需求/必要；need to do = 需要做某事；need doing = 需要被做（主动表被动）；There's no need to... = 不需要……；in need of = 需要……（如 in need of help）
+
+- wander alone 独自游荡；独自漫步
+  - She wandered alone along the beach.（她独自沿着海滩漫步。）
+  - The old man was seen wandering alone in the park.（有人看到那个老人在公园里独自徘徊。）
+  - ⚠️ wander alone = 独自游荡（强调没有同伴）；wander = 漫步、闲逛（无目的）；wander vs. stroll = wander（漫无目的地闲逛）vs. stroll（悠闲地散步）
+- be unaware of … 没有意识到……
+  - He was unaware of the danger ahead.（他没有意识到前方的危险。）
+  - She seemed unaware of the fact that everyone was staring at her.（她似乎没有意识到所有人都在盯着她看。）
+  - ⚠️ be unaware of = 没意识到（aware的反义）；be aware of = 意识到；unaware of + 名词/doing/that从句
+- be aware of … 意识到……
+  - Are you aware of the risks involved?（你意识到所涉及的风险了吗？）
+  - She was well aware of his weakness.（她很清楚他的缺点。）
+  - ⚠️ be aware of = 意识到、知道（后接名词/doing）；be aware that + 从句 = 意识到……；well aware = 很清楚；awareness = 名词：意识
+- make that stupid remark 说了那句蠢话
+  - Why did you make that stupid remark?（你为什么要说那句蠢话？）
+  - I regretted making that stupid remark as soon as I said it.（我刚说出那句话就后悔了。）
+  - ⚠️ make a remark = 说话、发表评论；remark = 言论、评论（名词）；make a remark about = 就……发表评论；stupid remark = 蠢话；同义：make a silly/stupid/foolish comment
+- be sensitive about sth. 对……敏感；在意……
+  - He is very sensitive about his weight.（他对自己的体重非常敏感。）
+  - Don't be so sensitive about what others say.（不要太在意别人说什么。）
+  - ⚠️ be sensitive about = 对……敏感（多指对个人问题/身材/外貌等敏感）；be sensitive to = 对……敏感（常指身体对某物的敏感，或敏锐的洞察力）；sensitive vs. sensible = sensitive（敏感的）vs. sensible（明智的、合理的）
+- accept criticism 接受批评
+  - You must learn to accept criticism gracefully.（你必须学会大度地接受批评。）
+  - She finds it hard to accept criticism from others.（她很难接受别人的批评。）
+  - ⚠️ accept criticism = 接受批评；constructive criticism = 建设性的批评；take/accept criticism well = 能做好接受批评
+- charge at sb. 冲向某人；向某人猛扑
+  - The bull charged at him suddenly.（公牛突然朝他冲过来。）
+  - The dog charged at the stranger.（那只狗向陌生人猛冲过去。）
+  - ⚠️ charge at = 冲向、攻击（强调动作的猛烈、快速）；charge = 冲锋、收费、指控（一词多义）；charge at vs. run at = charge 更具攻击性
+- clumsily 笨拙地；笨手笨脚地
+  - He moved clumsily in the heavy raincoat.（他穿着厚重的雨衣动作笨拙。）
+  - She clumsily dropped the plate on the floor.（她笨手笨脚地把盘子掉在地上。）
+  - ⚠️ clumsily = 笨拙地（副词修饰动词）；clumsy = 笨拙的（形容词）；clumsy with = 做某事笨拙；同义：awkwardly（笨拙地、尴尬地）
+- for your safety 为了你的安全
+  - For your safety, please keep your seatbelt fastened at all times.（为了您的安全，请全程系好安全带。）
+  - For your own safety, do not leave the vehicle.（为了你的安全，请不要离开车辆。）
+  - ⚠️ for your safety = 为了你的安全（常见于公共场合的提示/警告）；for one's own safety = 为了某人自身的安全；safety = 安全（名词）；safe = 安全的（形容词）；同义：for your protection
+- be busy with sth. 忙于某事
+  - She is busy with her homework.（她正忙着做作业。）
+  - He has been busy with the preparations for the party.（他一直忙于准备聚会。）
+  - ⚠️ be busy with sth. = 忙于……（后接名词）；be busy doing = 忙着做某事（后接动名词）；busy oneself with = 让自己忙于……；busy = 忙碌的（形容词）
+- at the time 当时；在那时
+  - I was only fifteen at the time.（我当时才十五岁。）
+  - At the time, nobody knew what had really happened.（当时没人知道到底发生了什么。）
+  - ⚠️ at the time = 当时、在那时（指过去某个时间点）；at that time = 在当时（略正式）；by the time = 到……的时候；from that time on = 从那时起
+- catch sight of sb./sth. 一眼瞥见；突然看见
+  - I caught sight of her in the crowd.（我在人群中瞥见了她。）
+  - He caught sight of a rabbit running across the field.（他瞥见一只兔子穿过田野。）
+  - ⚠️ catch sight of = 一眼瞥见（强调突然、短暂看到）；lose sight of = 看不见、忘记；at first sight = 乍一看；come into sight = 出现在视野中
+- grow quiet 安静下来
+  - The room grew quiet when the teacher walked in.（老师走进来时，房间安静了下来。）
+  - As night fell, the city grew quiet.（夜幕降临，城市安静了下来。）
+  - ⚠️ grow + adj. = 逐渐变得……（强调缓慢的变化过程）；grow quiet/calm/silent = 变得安静/平静/沉默；同义：become quiet / get quiet
+- grow dark 变暗；天黑下来
+  - It began to grow dark outside.（外面开始天黑下来了。）
+  - As the sky grew dark, the stars appeared one by one.（天空变暗后，星星一颗颗出现了。）
+  - ⚠️ grow dark = 变暗（自然变化，如天黑）；grow = 变得（强调逐渐过程，类似 get/become）；dark = 黑暗的；darkness = 黑暗（名词）
+- grow nervous 变得紧张起来
+  - He grew nervous as the interview approached.（随着面试的临近，他变得紧张起来。）
+  - She grew nervous when asked to speak in public.（当她被要求在公众面前发言时变得很紧张。）
+  - ⚠️ grow nervous = 变得紧张（grow + adj. 表逐渐变化）；nervous = 紧张的；nervous about = 对……感到紧张；同义：become nervous / get anxious
+- get close to sb./sth. 靠近；接近
+  - The cat got close to the bird.（猫靠近了那只鸟。）
+  - As we got close to the village, we could hear dogs barking.（我们靠近村庄时，能听到狗叫声。）
+  - ⚠️ get close to = 靠近、接近（强调靠近的动作）；close to = 靠近……的（描述位置）；come close to doing = 差点做某事；同义：approach / move near to
+- step aside 让开；靠边站
+  - Please step aside and let the ambulance pass.（请靠边，让救护车过去。）
+  - He stepped aside to make way for an old woman.（他闪到一边给一位老夫人让路。）
+  - ⚠️ step aside = 让开、让路（具体动作）；step aside from = 退出/让位（比喻用法）；同义：step back / move aside / stand aside
+- break into cheers 爆发出欢呼声
+  - The audience broke into cheers when the singer appeared.（当歌手出现时，观众爆发出欢呼声。）
+  - The crowd broke into loud cheers after the goal.（进球后人群爆发出响亮的欢呼声。）
+  - ⚠️ break into + 名词 = 突然……起来（如 break into cheers/laughter/a run/tears）；break out = 爆发（不能接宾语）；同义：burst into cheers / start cheering
+- feel sorry for sb. 为某人感到难过；同情某人
+  - I feel sorry for him; he's had a really tough time.（我为他感到难过；他经历了一段非常艰难的时期。）
+  - Don't feel sorry for me. I'll be fine.（不要同情我。我会没事的。）
+  - ⚠️ feel sorry for = 为某人感到难过、同情（正式说 pity ≈ feel sorry for）；sorry for = 为……感到抱歉/难过（sorry for doing = 为做了某事道歉）；feel sorry about = 对某事感到遗憾
+- look on ① 旁观 ② 看待（常与 as 连用）
+  - People just looked on as the accident happened.（事故发生时人们只是袖手旁观。）
+  - He looks on me as his best friend.（他把我当作他最好的朋友。）
+  - ⚠️ look on = 旁观（不及物动词短语，不接宾语）；look on sb./sth. as = 把某人/某物视为……；同义：watch from the sideline（旁观）/ regard as（看待）
+- out of the way ① 不挡道；让开 ② 偏僻的；不碍事的 ③ Exception: 不再是个问题/已经解决
+  - Get out of the way!（让开！）
+  - Their cabin is out of the way, deep in the woods.（他们的小木屋很偏僻，在树林深处。）
+  - With the exam out of the way, we can finally relax.（考试搞定了，我们终于可以放松了。）
+  - ⚠️ out of the way = 不挡道（反义：in the way = 挡道）；偏僻的（修饰地点）；"解决掉"（口语用法）
+- turn sb.'s attention to sth. 把某人的注意力转向某事
+  - Let's turn our attention to the next topic.（让我们把注意力转向下一个话题。）
+  - The teacher turned our attention to the blackboard.（老师把我们的注意力引向黑板。）
+  - ⚠️ turn one's attention to = 把注意力转向……；pay attention to = 注意……；draw/attract one's attention = 引起某人的注意
+- once more 再一次
+  - Let me try once more.（让我再试一次。）
+  - He explained the problem once more, but I still couldn't understand.（他又解释了一遍问题，但我还是没明白。）
+  - ⚠️ once more = 再一次（美式）；once again = 再一次（更正式）；once more的same用法：once more time = 再一次；once and for all = 一劳永逸地
