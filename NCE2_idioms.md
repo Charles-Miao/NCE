@@ -1568,3 +1568,40 @@
   - She was envious of her friend's new car.（她羡慕朋友的新车。）
   - I'm envious of people who can sleep well every night.（我羡慕那些每晚都能睡好觉的人。）
   - ⚠️ envious = 羡慕的、嫉妒的（形容词，强调想要拥有别人拥有的东西）；envious of = 羡慕/嫉妒某人/某物；envy = 名词/动词：羡慕、嫉妒；envious vs. jealous = envious（想要别人拥有的）vs. jealous（害怕失去已有的）
+
+- make it official 使……正式化；正式确定
+  - We should make it official and sign a contract.（我们应该让它正式化，签一份合同。）
+  - Let's make it official — from now on, we are partners.（让我们正式确认——从现在起，我们是合作伙伴了。）
+  - After dating for two years, they decided to make it official and get married.（约会两年后，他们决定正式结婚。）
+  - ⚠️ make it official = 正式化、正式确认（口语，常指确定关系、签协议等）；official = 官方的、正式的（形容词）；officially = 正式地（副词）；同义：make it formal
+- double check 仔细核查；再确认一遍
+  - Please double check your answers before submitting the test.（交卷前请仔细核查答案。）
+  - I double checked the time — it said 7:30, not 8:00.（我仔细核实了时间——写的是7:30，不是8:00。）
+  - ⚠️ double check = 再次确认、仔细核对（比 check 更强调谨慎）；double-check = 动词/名词（连字符）；同义：check again / verify
+- all over the world 世界各地；全世界
+  - The disease has spread all over the world.（这种疾病已经蔓延到世界各地。）
+  - Millions of people all over the world celebrate the New Year.（全世界数百万人庆祝新年。）
+  - ⚠️ all over the world = 全世界（= worldwide / across the world）；all over = 遍布、到处；all over the country = 全国；all over the place = 到处都是（口语）
+- burn down 烧毁；（使）烧塌
+  - The old church burned down in 1985.（那座老教堂在1985年被烧毁了。）
+  - The fire burned down the entire forest.（大火烧毁了整片森林。）
+  - The building burned down to the ground.（那栋建筑被烧成了一片废墟。）
+  - ⚠️ burn down = 烧毁、烧塌（通常指火势减弱或建筑被毁）；burn up = 烧起来；burn out = 烧尽、燃尽；burn to the ground = 彻底烧毁（程度最强）
+- take its name from 从……得名；由……而来
+  - The town takes its name from the river that flows through it.（这个镇的名字来自流经它的河流。）
+  - English takes its name from the Angles, a Germanic tribe.（英语的名字来源于盎格鲁人，一个日耳曼部落。）
+  - ⚠️ take its name from = 从……得名（被动含义，主语是"名字的来源"）；name A after B = 以 B 的名字为 A 命名；be named after = 以……命名
+- be responsible for 对……负责；是……的原因
+  - He is responsible for the project's success.（他对这个项目的成功负责。）
+  - Who is responsible for this mistake?（谁对这个错误负责？）
+  - Climate change is responsible for the rising sea levels.（气候变化是海平面上升的原因。）
+  - ⚠️ be responsible for = 对……负责；是……的原因；responsible to = 向……负责（人）；responsibility = 名词：责任；take responsibility for = 承担责任
+- be connected to 与……有关联；连接
+  - This road is connected to the main highway.（这条路与高速公路相连。）
+  - All the dots are connected to each other.（所有的点都相互关联。）
+  - ⚠️ be connected to = 与……相连/有关联；be connected with = 与……有关（更强调内在联系）；connection = 名词：联系；disconnect = 断开连接
+- go wrong 出错；出毛病
+  - Something went wrong with the plan.（计划出了差错。）
+  - Everything went wrong that day.（那天所有事情都不顺利。）
+  - If nothing goes wrong, we'll finish by Friday.（如果一切顺利，我们周五前完成。）
+  - ⚠️ go wrong = 出错、出毛病（多指计划/机器/事情不顺利）；something is wrong = 某物有问题；go wrong with = ……出了毛病；right vs. wrong = 对 vs. 错
