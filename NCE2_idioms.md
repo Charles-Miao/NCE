@@ -1605,3 +1605,23 @@
   - Everything went wrong that day.（那天所有事情都不顺利。）
   - If nothing goes wrong, we'll finish by Friday.（如果一切顺利，我们周五前完成。）
   - ⚠️ go wrong = 出错、出毛病（多指计划/机器/事情不顺利）；something is wrong = 某物有问题；go wrong with = ……出了毛病；right vs. wrong = 对 vs. 错
+
+- burst into tears 突然哭起来；一下子哭出来
+  - When she heard the news, she burst into tears.（当她听到那个消息时，突然哭了起来。）
+  - The little boy burst into tears when his toy broke.（小男孩的玩具坏掉时，突然哭了出来。）
+  - ⚠️ burst into tears = 突然哭出来（强调突然性，瞬间动作）；burst into + 名词 = 突然……起来（burst into laughter/anger/cheers）；burst out crying = 突然哭起来（不及物动词结构）；cry vs. burst into tears = cry（泛指哭）vs. burst into tears（突然大哭）
+- follow in sb.'s footsteps 继承衣钵；效仿某人；走某人的路
+  - He followed in his father's footsteps and became a doctor.（他继承父业，成为了一名医生。）
+  - Many young athletes hope to follow in the footsteps of their heroes.（许多年轻运动员希望效仿他们偶像的道路。）
+  - She followed in her mother's footsteps and pursued a career in music.（她追随母亲的脚步，从事音乐事业。）
+  - ⚠️ follow in sb.'s footsteps = 效仿、继承（常指继承家族职业/传统）；footsteps = 脚步；walk in sb.'s footsteps = 同义（更口语）；pave the way for = 为……铺路
+- have difficulty (in) doing sth. 做某事有困难
+  - I have difficulty (in) learning English pronunciation.（我在学习英语发音方面有困难。）
+  - She had great difficulty (in) finding a job after graduation.（她毕业后找工作遇到了很大困难。）
+  - He has difficulty (in) falling asleep at night.（他晚上难以入睡。）
+  - ⚠️ have difficulty (in) doing = 做某事有困难（in 可省略，口语更常见省略）；difficulty = 名词；difficult = 形容词；have difficulty with sth. = 在某方面有困难；difficulty in vs. difficulty with = in+doing vs. with+名词
+- be disappointed to learn that 得知……感到失望
+  - I was disappointed to learn that the concert had been cancelled.（得知音乐会取消，我很失望。）
+  - She was disappointed to learn that she hadn't passed the exam.（她得知自己没通过考试，感到很失望。）
+  - We were disappointed to learn that he would not be joining us.（得知他不会加入我们，我们很失望。）
+  - ⚠️ be disappointed to learn/hear/find that = 得知/听到/发现……而失望；be disappointed with = 对……感到失望（后接事物）；be disappointed in = 对某人/某事感到失望；disappointed vs. disappointing = disappointed（人感到失望）vs. disappointing（令人失望的）
