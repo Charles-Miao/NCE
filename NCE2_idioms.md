@@ -1625,6 +1625,8 @@
   - She was disappointed to learn that she hadn't passed the exam.（她得知自己没通过考试，感到很失望。）
   - We were disappointed to learn that he would not be joining us.（得知他不会加入我们，我们很失望。）
   - ⚠️ be disappointed to learn/hear/find that = 得知/听到/发现……而失望；be disappointed with = 对……感到失望（后接事物）；be disappointed in = 对某人/某事感到失望；disappointed vs. disappointing = disappointed（人感到失望）vs. disappointing（令人失望的）
+
+---
   
 - play truant from school  
   - The boy was punished for playing truant from school.  
