@@ -1661,49 +1661,20 @@
 - over and over again  
   - I've told you over and over again not to do that.  
   - He listened to the song over and over again until he could sing it.  
-  - She read the letter over and over again, trying to understand every word. 
+  - She read the letter over and over again, trying to understand every word.
 
-
-## Lesson 35-36
-
-### tear your coat / torn your coat
-
-**释义**：（被）撕破外套；（引申）在困境中挣扎，左右为难
-
-**例句**：
-- My coat got **torn** on a nail when I was climbing over the fence.  
-  我翻围栏的时候外套被钉子勾破了。
-- He was **torn between** accepting the new job and staying in his current position.  
-  他在接受新工作和留在现岗位之间左右为难。
-
----
-
-### chase a thief / chasing a thief
-
-**释义**：追赶小偷；追捕窃贼
-
-**例句**：
-- The shopkeeper **chased the thief** who had stolen a watch from his store.  
-  店主追赶那个从他店里偷了手表的小偷。
-- Look! The policeman is **chasing a thief** down the street!  
-  看！警察正在街上追小偷！
-
-**相关搭配**：
-- `chase after`：追逐、追求
-- `chase away`：赶走、驱逐
-- `wild goose chase`：徒劳的寻找，白费力气
-
----
-
-### a jumbo jet
-
-**释义**：大型喷气式飞机；巨型客机（特指波音 747 等大型宽体客机）
-
-**例句**：
-- **A jumbo jet** can carry over 500 passengers on a long-haul flight.  
-  一架大型喷气式飞机在长途飞行中可搭载 500 多名乘客。
-- We flew to London on **a Boeing 747 jumbo jet**.  
-  我们乘坐一架波音 747 大型喷气式飞机飞往伦敦。
-
-**补充说明**：
-波音 747 是第一款被称为 "jumbo jet" 的客机，其标志性的"驼峰"上层客舱设计成为了它最显著的特征。
+- torn your coat 撕破外套；在困境中挣扎，左右为难
+  - My coat got torn on a nail when I was climbing over the fence.（我翻围栏的时候外套被钉子勾破了。）
+  - He was torn between accepting the new job and staying in his current position.（他在接受新工作和留在现岗位之间左右为难。）
+  - She was torn between going abroad for further study and working in her hometown.（她在出国深造和留在家乡工作之间难以抉择。）
+  - ⚠️ torn 是 tear 的过去分词；be torn between 是常用搭配，表示"在两者之间左右为难"；tear 作动词还有"流泪"的意思（tears 作名词表示眼泪）
+- chasing a thief 追赶小偷，追捕窃贼
+  - The shopkeeper chased the thief who had stolen a watch from his store.（店主追赶那个从他店里偷了手表的小偷。）
+  - Look! The policeman is chasing a thief down the street!（看！警察正在街上追小偷！）
+  - The brave young man chased the thief for three blocks before catching him.（那个勇敢的年轻人追了小偷三个街区才抓住他。）
+  - ⚠️ chase after 追逐、追求；chase away 赶走、驱逐；wild goose chase 徒劳的寻找，白费力气
+- a jumbo jet 大型喷气式飞机，巨型客机
+  - A jumbo jet can carry over 500 passengers on a long-haul flight.（一架大型喷气式飞机在长途飞行中可搭载 500 多名乘客。）
+  - We flew to London on a Boeing 747 jumbo jet.（我们乘坐一架波音 747 大型喷气式飞机飞往伦敦。）
+  - The airport had to extend its runway to accommodate jumbo jets.（机场不得不延长跑道以容纳大型喷气式飞机。）
+  - ⚠️ jumbo 表示"特大的、巨型的"；波音 747 是最经典的 jumbo jet，其"驼峰"式上层客舱设计是标志性特征
