@@ -1625,3 +1625,38 @@
   - She was disappointed to learn that she hadn't passed the exam.（她得知自己没通过考试，感到很失望。）
   - We were disappointed to learn that he would not be joining us.（得知他不会加入我们，我们很失望。）
   - ⚠️ be disappointed to learn/hear/find that = 得知/听到/发现……而失望；be disappointed with = 对……感到失望（后接事物）；be disappointed in = 对某人/某事感到失望；disappointed vs. disappointing = disappointed（人感到失望）vs. disappointing（令人失望的）
+  
+- play truant from school  
+  - The boy was punished for playing truant from school.  
+  - He decided to play truant and go to the cinema instead.  
+  - Playing truant regularly will affect your academic performance.  
+  
+- be put to shame  
+  - His bad behavior put the whole family to shame.  
+  - Her beautiful singing put all the other performers to shame.  
+  - The old building was put to shame by the modern skyscrapers around it. 
+  
+- put sb. to shame  
+  - His courage put all of us to shame.  
+  - Her generosity puts me to shame.  
+  - The young boy's hard work put the older students to shame.  
+  
+- shame on you  
+  - Shame on you for lying to your parents!  
+  - Shame on you! You should know better than that.  
+  - How could you do such a thing? Shame on you!  
+  
+- hitchhike to sw.  
+  - We decided to hitchhike to the countryside for the weekend.  
+  - He hitchhiked to Paris from London with only 50 pounds in his pocket.  
+  - Hitchhiking alone can be dangerous, especially for young women. 
+  
+- in the meantime  
+  - The doctor will be here soon. In the meantime, try to relax.  
+  - The new computer won't arrive until next week. In the meantime, we have to use the old one.  
+  - She went to buy groceries. In the meantime, I stayed home and cleaned the house.  
+  
+- over and over again  
+  - I've told you over and over again not to do that.  
+  - He listened to the song over and over again until he could sing it.  
+  - She read the letter over and over again, trying to understand every word. 

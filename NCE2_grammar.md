@@ -1031,3 +1031,62 @@
 - ⚠️ having been done 只能修饰及物动词（必须有宾语才能变被动）；不及物动词没有被动语态
 - ⚠️ having been done = 被动完成（已在过去被……）；having done = 主动完成（已做过……）
 - ⚠️ having been done 作状语时，逻辑主语必须与主句主语一致
+  
+  
+### Review L1, L25, L49 Grammar  
+  
+#### L1, Five Basic Sentence Patterns  
+  
+1. Subject + Intransitive Verb  
+   - Example: The boy cried.  
+   - Example: He runs every morning.  
+  
+2. Subject + Transitive Verb + Object  
+   - Example: I love English.  
+   - Example: She bought a book.  
+  
+3. Subject + Linking Verb + Predicative  
+   - Example: He is a teacher.  
+   - Example: The food tastes good.  
+  
+4. Subject + Verb + Indirect Object + Direct Object  
+   - Example: My father bought me a bike.  
+   - Example: She gave him a present.  
+  
+5. Subject + Verb + Object + Object Complement  
+   - Example: We made him our monitor.  
+   - Example: The teacher asked me to clean the blackboard. 
+  
+#### L25, Conjunctions Connecting Simple Sentences  
+  
+1. and - parallel or sequence  
+   - Example: I opened the door and went out.  
+  
+2. but - contrast  
+   - Example: He is rich, but he is not happy.  
+  
+3. or - choice or condition  
+   - Example: Do you want tea or coffee?  
+   - Example: Hurry up, or you will be late.  
+  
+4. so - cause and effect  
+   - Example: It was raining, so we stayed at home.  
+  
+5. both...and..., either...or..., neither...nor..., not only...but also...  
+   - Example: Both you and I are students.  
+   - Example: Either you or he has to go. 
+  
+#### L49, Participles as Adverbials  
+  
+1. Present Participle (active relationship)  
+   - Used for accompanying, reason, time, condition, etc.  
+   - Example (accompanying): He sat in the armchair, reading a newspaper.  
+   - Example (reason): Being ill, he didn't go to school.  
+   - Example (time): Walking along the street, I met an old friend.  
+  
+2. Past Participle (passive relationship)  
+   - The subject is the receiver of the action.  
+   - Example: Seen from the top of the hill, the city looks very beautiful.  
+   - Example: Given more time, I can do it better.  
+  
+Important: The logical subject of the participle must agree with the sentence subject! 
