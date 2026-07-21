@@ -1678,3 +1678,69 @@
   - We flew to London on a Boeing 747 jumbo jet.（我们乘坐一架波音 747 大型喷气式飞机飞往伦敦。）
   - The airport had to extend its runway to accommodate jumbo jets.（机场不得不延长跑道以容纳大型喷气式飞机。）
   - ⚠️ jumbo 表示"特大的、巨型的"；波音 747 是最经典的 jumbo jet，其"驼峰"式上层客舱设计是标志性特征
+
+- stay out of the limelight 远离聚光灯，保持低调，不出风头
+  - The famous actor tried to stay out of the limelight by wearing a mask and sunglasses.（那位著名演员戴着口罩和墨镜，努力保持低调。）
+  - After the scandal, the politician decided to stay out of the limelight for a while.（丑闻发生后，那位政治家决定暂时远离公众视线。）
+  - She prefers to stay out of the limelight and let her work speak for itself.（她更喜欢保持低调，让作品自己说话。）
+  - ⚠️ limelight 原指舞台上的聚光灯，引申为"公众注意的中心"；stay out of = 避开、不参与；类似表达：keep a low profile（保持低调）
+
+- take precaution 采取预防措施
+  - It's wise to take precautions against fire by installing smoke detectors.（安装烟雾探测器来预防火灾是明智的。）
+  - The government took precautions to prevent the spread of the disease.（政府采取了预防措施来防止疾病传播。）
+  - You should take extra precautions when traveling alone at night.（夜间独自旅行时，你应该采取额外的预防措施。）
+  - ⚠️ 常用搭配：take precautions against（预防……）；take safety precautions（采取安全措施）；as a precaution（作为预防措施）
+
+- sb. is a big/huge fan of sb./sth. 某人是……的忠实粉丝/爱好者
+  - My sister is a huge fan of K-pop and she goes to concerts every month.（我姐姐是 K-pop 的超级粉丝，她每个月都去看演唱会。）
+  - He is a big fan of classical music and has a large collection of vinyl records.（他是古典音乐的忠实爱好者，收藏了大量黑胶唱片。）
+  - I'm a big fan of that author—I've read all his books.（我是那位作家的忠实粉丝——他所有的书我都读过。）
+  - ⚠️ 程度表达：a big fan > a huge fan > a massive fan；反义表达：not a fan of（不喜欢，不太感冒）
+
+- on such short notice 这么短时间内，临时通知
+  - I'm sorry I can't come to the party on such short notice—I already have plans.（抱歉，这么临时通知我来不了派对，我已经有安排了。）
+  - It's difficult to book a hotel room on such short notice during the holiday season.（节假日期间，这么短时间内很难订到酒店房间。）
+  - Thank you for coming to the meeting on such short notice.（感谢你在接到临时通知后还来参加会议。）
+  - ⚠️ notice 此处表示"通知、预告"；常用搭配：at short notice（一接到通知就，临时）；give someone notice（通知某人）
+
+- with a sneer / sneer at sb. 带着冷笑 / 嘲笑、讥讽某人
+  - He looked at my old car with a sneer and drove away in his new sports car.（他带着冷笑看着我的旧车，然后开着他的新跑车走了。）
+  - Don't sneer at her efforts—she's doing her best.（别嘲笑她的努力，她已经尽力了。）
+  - The bully sneered at the new student and called him names.（那个恶霸嘲笑新来的学生，还骂他。）
+  - ⚠️ sneer 作动词表示"嘲笑、讥笑"，作名词表示"冷笑、嘲笑的表情"；近义词：mock（嘲讽）、 ridicule（戏弄）
+
+- a party of 一群（人），一队，一组
+  - A party of tourists arrived at the museum this morning.（一群游客今天上午到达了博物馆。）
+  - We went to the restaurant with a party of ten people.（我们一行十人去了餐厅。）
+  - A party of scientists went to the rainforest to study rare plants.（一队科学家去雨林研究稀有植物。）
+  - ⚠️ 常用于表示有组织的一群人；类似表达：a group of（更通用）、a team of（团队）、a delegation of（代表团）
+
+- Why don't we... 我们何不……（表示建议）
+  - Why don't we go for a walk after dinner?（晚饭后我们去散散步怎么样？）
+  - Why don't we ask the teacher for help?（我们为什么不找老师帮忙呢？）
+  - It's a beautiful day—why don't we have a picnic in the park?（天气真好，我们为什么不去公园野餐呢？）
+  - ⚠️ 非常常用的提建议句型，比直接说 "Let's..." 更委婉自然；类似表达：Why not...? / Shall we...?
+
+- carry sth. to sw. 把某物搬到/带到某地
+  - Could you help me carry these boxes to the third floor?（你能帮我把这些箱子搬到三楼吗？）
+  - He carried the heavy suitcase to the train station.（他把沉重的行李箱搬到了火车站。）
+  - Please carry these chairs to the meeting room.（请把这些椅子搬到会议室。）
+  - ⚠️ 近义词：take（带去）、bring（带来）、fetch（去拿来）；注意：carry 强调"搬运、扛、提"，不强调方向
+
+- make oneself comfortable 请随意，别客气，让自己舒服些
+  - Please make yourself comfortable while I prepare some coffee.（我去泡咖啡，你请随意。）
+  - The host told the guests to make themselves comfortable on the sofa.（主人让客人们在沙发上随意坐。）
+  - Come in and make yourself comfortable—would you like something to drink?（进来坐，别客气，想喝点什么吗？）
+  - ⚠️ 主人招待客人时的常用表达；类似表达：Make yourself at home.（就像在自己家一样。）
+
+- don't be too hard on us 别对我们太严厉/苛刻
+  - Please don't be too hard on us—it's our first time doing this.（请别对我们太苛刻，这是我们第一次做这件事。）
+  - Don't be too hard on the children—they're still learning.（别对孩子们太严厉，他们还在学习。）
+  - I know we made a mistake, but don't be too hard on us.（我知道我们犯错了，但别对我们太严厉。）
+  - ⚠️ 常用搭配：be hard on sb.（对某人严厉）；be easy on sb.（对某人宽容）；be tough on sb.（对某人严格）
+
+- get out of here 离开这里；别开玩笑了（口语）
+  - The security guard told the teenagers to get out of here.（保安让那些青少年离开这里。）
+  - Get out of here! I can't believe you actually won the lottery!（别开玩笑了！我不敢相信你真的中了彩票！）
+  - If you don't want to get in trouble, you'd better get out of here right now.（如果你不想惹麻烦，最好现在就离开这里。）
+  - ⚠️ 有两个常用意思：1）字面意思"离开这里"；2）口语中表示惊讶、不相信，相当于"别逗了！怎么可能！"
