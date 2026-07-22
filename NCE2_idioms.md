@@ -1744,3 +1744,45 @@
   - Get out of here! I can't believe you actually won the lottery!（别开玩笑了！我不敢相信你真的中了彩票！）
   - If you don't want to get in trouble, you'd better get out of here right now.（如果你不想惹麻烦，最好现在就离开这里。）
   - ⚠️ 有两个常用意思：1）字面意思"离开这里"；2）口语中表示惊讶、不相信，相当于"别逗了！怎么可能！"
+
+- send a signal 发送信号；发出信号
+  - The ship sent a signal for help when it started sinking.（船开始下沉时发出了求救信号。）
+  - The referee sent a signal to the players to stop the game.（裁判向球员发出信号停止比赛。）
+  - She waved her hand to send a signal that she was ready.（她挥了挥手，发出信号表示她准备好了。）
+  - ⚠️ 常用搭配：send a distress signal（发送求救信号）；send a warning signal（发送警告信号）；signal 也可作动词：signal to sb.（向某人示意）
+
+- stamp out the fire 踩灭火焰；扑灭火灾
+  - He quickly stamped out the fire with his boots before it spread.（在火势蔓延之前，他穿着靴子迅速把火踩灭了。）
+  - The firefighters managed to stamp out the fire after several hours.（几个小时后，消防员成功扑灭了火灾。）
+  - Please stamp out your cigarette before entering the building.（进入大楼前请把香烟踩灭。）
+  - ⚠️ stamp out 本义是"踩灭、扑灭"，也可引申为"消灭、根除"（如 stamp out crime / disease 消灭犯罪/疾病）
+
+- arrive on the scene 到达现场；到场
+  - The police arrived on the scene within five minutes of receiving the call.（警察接到电话后五分钟内就到达了现场。）
+  - By the time the ambulance arrived on the scene, the victim had already been taken to hospital.（救护车到达现场时，伤者已经被送往医院了。）
+  - Reporters from all over the country arrived on the scene to cover the event.（全国各地的记者都赶到现场报道这一事件。）
+  - ⚠️ scene 此处表示"（事故、事件的）发生地点"；常用搭配：on the scene（在现场）；at the scene of the crime（在犯罪现场）
+
+- fly off course 偏离航线；飞行偏离轨道
+  - The plane flew off course due to the severe storm.（由于强烈的暴风雨，飞机偏离了航线。）
+  - The pilot realized they were flying off course and corrected the direction immediately.（飞行员意识到他们偏离了航线，立即纠正了方向。）
+  - The small aircraft flew off course and crashed into the mountains.（那架小型飞机偏离了航线，撞上了山脉。）
+  - ⚠️ course 此处表示"航线、路线"；类似表达：go off course / stray off course（偏离航线）；on course（在正确航线上）
+
+- cover sb./sth. with sth. 用某物覆盖某人/某物
+  - She covered the sleeping child with a blanket.（她给睡着的孩子盖上了毯子。）
+  - Please cover the food with a plastic wrap to keep it fresh.（请用保鲜膜把食物包起来保鲜。）
+  - The mountain was covered with snow all year round.（这座山终年积雪。）
+  - ⚠️ 被动形式：be covered with（被……覆盖）；注意区分 be covered with（覆盖着，强调状态）和 be covered by（被……所覆盖，强调动作执行者）
+
+- get + adj. 变得……（表示状态变化）
+  - It's getting dark—we should go home now.（天越来越黑了，我们该回家了。）
+  - He got angry when he found out someone had damaged his car.（当他发现有人损坏了他的车时，他很生气。）
+  - The food is getting cold—let's start eating.（食物要凉了，我们开始吃吧。）
+  - ⚠️ get 是最常用的系动词之一，表示"变得"，后接形容词；类似用法：become（更正式）、turn（颜色变化）、go（负面变化，如 go bad / go wrong）
+
+- It was not long before... 没过多久就……
+  - It was not long before the rain stopped and the sun came out.（没过多久雨就停了，太阳出来了。）
+  - It was not long before he realized he had made a mistake.（没过多久他就意识到自己犯了个错误。）
+  - It was not long before the whole town knew about the news.（没过多久整个镇子都知道了这个消息。）
+  - ⚠️ 表示"不久之后就发生了某事"；现在时版本：It won't be long before...（用不了多久就会……）
