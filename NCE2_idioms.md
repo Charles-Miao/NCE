@@ -1786,3 +1786,33 @@
   - It was not long before he realized he had made a mistake.（没过多久他就意识到自己犯了个错误。）
   - It was not long before the whole town knew about the news.（没过多久整个镇子都知道了这个消息。）
   - ⚠️ 表示"不久之后就发生了某事"；现在时版本：It won't be long before...（用不了多久就会……）
+
+- on the bulletin board 在公告栏上
+  - The teacher posted the exam results on the bulletin board.（老师把考试成绩贴在了公告栏上。）
+  - You can find the latest school news on the bulletin board near the entrance.（你可以在入口附近的公告栏上看到学校最新消息。）
+  - There's a notice on the bulletin board about the upcoming sports meeting.（公告栏上有一则关于即将到来的运动会的通知。）
+  - ⚠️ bulletin board 表示"公告栏、布告栏"；也可简称为 notice board；类似表达：put up / post sth. on the board（把……贴在板上）
+
+- leading cause of ……的主要原因
+  - Smoking is the leading cause of lung cancer.（吸烟是肺癌的主要原因。）
+  - Lack of exercise is the leading cause of obesity in many countries.（在许多国家，缺乏运动是肥胖的主要原因。）
+  - Car accidents are the leading cause of death among young adults.（车祸是年轻人死亡的主要原因。）
+  - ⚠️ 常用搭配：the main cause of（主要原因）；the root cause of（根本原因）；cause 作动词表示"引起、导致"
+
+- What a splendid/brilliant idea! 真是个好主意！
+  - What a brilliant idea! We should definitely try that.（真是个好主意！我们绝对应该试试。）
+  - What a splendid idea! Why didn't I think of that earlier?（多棒的主意啊！我怎么没想到呢？）
+  - "Let's have a picnic this weekend!" "What a brilliant idea!"（"我们这周末去野餐吧！""真是个好主意！"）
+  - ⚠️ 感叹句，用来表达对某个想法的赞赏；similar expressions: That's a great idea! / Sounds wonderful! / Perfect!
+
+- at the end of... 在……的尽头；在……结束时
+  - There's a coffee shop at the end of this street.（这条街的尽头有一家咖啡店。）
+  - We will have a final exam at the end of the semester.（学期末我们会有一场期末考试。）
+  - At the end of the meeting, we agreed on the next steps.（会议结束时，我们就下一步行动达成了一致。）
+  - ⚠️ 注意区分：in the end（最后、终于），后面不接 of；类似表达：by the end of（到……结束时，常与完成时连用）
+
+- processed food 加工食品
+  - Eating too much processed food is bad for your health.（吃太多加工食品对健康有害。）
+  - Many processed foods contain high levels of salt and sugar.（许多加工食品含有大量的盐和糖。）
+  - It's better to cook fresh food at home than to eat processed food.（在家做新鲜食物比吃加工食品更好。）
+  - ⚠️ 反义词：fresh food（新鲜食品）、whole food（全天然食品）；常用搭配：food processing（食品加工）、food additive（食品添加剂）
