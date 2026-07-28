@@ -1816,3 +1816,57 @@
   - Many processed foods contain high levels of salt and sugar.（许多加工食品含有大量的盐和糖。）
   - It's better to cook fresh food at home than to eat processed food.（在家做新鲜食物比吃加工食品更好。）
   - ⚠️ 反义词：fresh food（新鲜食品）、whole food（全天然食品）；常用搭配：food processing（食品加工）、food additive（食品添加剂）
+
+- have a rare disease 患有一种罕见疾病
+  - He has a rare disease that only affects one in a million people.（他患有一种罕见疾病，百万人中才会有一例。）
+  - The doctor is trying to find a cure for her rare disease.（医生正在努力寻找治疗她罕见疾病的方法。）
+  - Many people with rare diseases have difficulty getting proper treatment.（许多患有罕见疾病的人很难获得适当的治疗。）
+  - ⚠️ 常用搭配：suffer from a disease（患病）；catch a disease（染病）；rare disease（罕见病）；common disease（常见病）
+
+- a section of 一部分；一段；一节
+  - Only a small section of the population can speak this ancient language.（只有一小部分人会说这种古老的语言。）
+  - The first section of the book describes the history of the city.（这本书的第一部分描述了这座城市的历史。）
+  - A section of the road was closed for repairs yesterday.（昨天有一段路因维修而封闭了。）
+  - ⚠️ 近义词：a part of（一部分）；a portion of（一部分，强调份额）；section 还可表示"章节、部门、区域"
+
+- prove to be + adj. 结果是……；证明是……
+  - The task proved to be more difficult than we expected.（这个任务结果比我们预期的要难得多。）
+  - His advice proved to be very helpful in solving the problem.（他的建议对解决这个问题很有帮助。）
+  - The new method proved to be much more efficient than the old one.（新方法证明比旧方法高效得多。）
+  - ⚠️ prove 此处是系动词，表示"结果是、被发现是"；类似结构：turn out to be（结果是）
+
+- have an operation 接受手术；做手术
+  - My grandfather had an operation on his heart last week.（我爷爷上周做了心脏手术。）
+  - She will have to have an operation to remove the tumor.（她得做手术切除肿瘤。）
+  - The doctor said I need to have an operation on my knee.（医生说我的膝盖需要做手术。）
+  - ⚠️ 注意搭配：have an operation（病人接受手术）；perform an operation（医生做手术）；operation on + 身体部位
+
+- died of... 死于……（疾病、衰老等内因）
+  - His grandfather died of cancer at the age of 78.（他爷爷死于癌症，享年 78 岁。）
+  - Many people in that area died of hunger during the war.（战争期间，那个地区有许多人死于饥饿。）
+  - She died of old age peacefully in her sleep.（她在睡梦中安详离世，寿终正寝。）
+  - ⚠️ 注意区分：die of（死于内因，如疾病、饥饿、衰老）；die from（死于外因，如事故、外伤）；die out（灭绝、消失）
+
+- fall to pieces 倒塌；崩溃；散架
+  - The old building fell to pieces during the earthquake.（那座老建筑在地震中倒塌了。）
+  - Their marriage fell to pieces after they had that big argument.（那次大争吵之后，他们的婚姻就破裂了。）
+  - This old chair is so weak that it will fall to pieces if you sit on it.（这把旧椅子太不结实了，你坐上去它就会散架的。）
+  - ⚠️ 也可作 fall apart（意思相同，更常用）；pieces 表示"碎片、零件"；类似表达：break into pieces（摔碎）
+
+- cut it open 把它切开；剖开
+  - The doctor cut the patient's chest open to perform the surgery.（医生切开病人的胸腔进行手术。）
+  - We had to cut the box open because we lost the key.（我们把钥匙丢了，只好把盒子撬开。）
+  - The chef cut the watermelon open and showed us how ripe it was.（厨师把西瓜切开，让我们看它有多熟。）
+  - ⚠️ "动词 + it + open/closed/free" 这种结构很常见：cut it open / break it open / pry it open / set it free
+
+- take plates of... 端上一盘盘的……
+  - The waitress took plates of delicious food to our table.（女服务员把一盘盘美味的食物端到我们桌上。）
+  - She took plates of cookies and cakes to the guests.（她给客人们端上了一盘盘饼干和蛋糕。）
+  - The hostess took plates of fruit and snacks out for everyone.（女主人为大家端出了一盘盘水果和点心。）
+  - ⚠️ plate 表示"盘子"；常用搭配：a plate of food（一盘食物）；on a plate（轻而易举）；also: a dish of / a bowl of
+
+- on the X-ray plates 在 X 光片上
+  - The doctor saw something strange on the X-ray plates.（医生在 X 光片上看到了一些奇怪的东西。）
+  - On the X-ray plates, they could see the broken bone clearly.（在 X 光片上，他们能清楚地看到骨折的地方。）
+  - The expert studied the markings on the X-ray plates carefully.（专家仔细研究了 X 光片上的痕迹。）
+  - ⚠️ X-ray plates 指 X 光胶片、X光片；也可说 X-ray images / radiographs；take an X-ray（拍 X 光）
