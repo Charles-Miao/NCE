@@ -1870,3 +1870,135 @@
   - On the X-ray plates, they could see the broken bone clearly.（在 X 光片上，他们能清楚地看到骨折的地方。）
   - The expert studied the markings on the X-ray plates carefully.（专家仔细研究了 X 光片上的痕迹。）
   - ⚠️ X-ray plates 指 X 光胶片、X光片；也可说 X-ray images / radiographs；take an X-ray（拍 X 光）
+
+- entitle sb. to do sth. 给予某人做某事的权利；使某人有资格做某事
+  - This ticket entitles you to travel first class.（这张票让你有权乘坐头等舱。）
+  - Being a member entitles you to use all the club's facilities.（作为会员，你有权使用俱乐部的所有设施。）
+  - The contract entitles the company to receive 10% of all profits.（这份合同让公司有权获得全部利润的 10%。）
+  - ⚠️ entitlement 作名词表示"权利、资格"；常用搭配：be entitled to sth.（有权获得某物）
+
+- calm down 平静下来；冷静下来
+  - Please calm down—shouting won't solve the problem.（请冷静一下，大喊大叫解决不了问题。）
+  - It took her a long time to calm down after the argument.（争吵之后，她花了很长时间才平静下来。）
+  - The mother tried to calm the crying baby down.（妈妈试着让哭闹的宝宝平静下来。）
+  - ⚠️ 可作及物或不及物动词；calm sb. down（使某人平静）；反义词：panic / get excited
+
+- keep calm 保持冷静
+  - It's important to keep calm during an emergency.（紧急情况下保持冷静很重要。）
+  - Even though he was very angry, he managed to keep calm.（尽管他很生气，但还是设法保持了冷静。）
+  - The teacher told the students to keep calm and not to panic.（老师告诉学生们保持冷静，不要惊慌。）
+  - ⚠️ keep 作系动词，表示"保持某种状态"；类似表达：stay calm / remain calm
+
+- calm my nerves / calm one's nerves 使某人神经放松；镇定下来
+  - A cup of tea before the exam helped calm my nerves.（考前喝杯茶帮我镇定了下来。）
+  - He took a deep breath to calm his nerves before the interview.（面试前他深吸一口气来平复紧张的情绪。）
+  - Listening to soft music is a good way to calm your nerves after a stressful day.（紧张的一天过后，听轻音乐是放松神经的好方法。）
+  - ⚠️ nerve 此处表示"神经、勇气"；注意复数形式 nerves 表示"紧张、焦虑"
+
+- have/get the nerve to do sth. 有勇气做某事；居然有脸做某事（贬义）
+  - I don't know how she has the nerve to ask for more money after doing so little work.（我真不知道她怎么好意思，干了这么点活还想要更多钱。）
+  - He had the nerve to say I was lazy when he did nothing all day!（他居然有脸说我懒，他自己整天什么都没干！）
+  - Do you have the nerve to tell your boss that his idea is wrong?（你有勇气告诉你老板他的想法错了吗？）
+  - ⚠️ 常含贬义，表示某人做了厚颜无耻的事；也可作 the nerve of sb.（某人居然有脸……）
+
+- lose one's nerve 失去勇气；变得慌张
+  - He was going to ask her out, but he lost his nerve at the last minute.（他本来打算约她出去，但最后一刻却胆怯了。）
+  - The driver lost his nerve and hit the brakes too hard.（司机慌了神，猛踩刹车。）
+  - Don't lose your nerve—we're almost there!（别害怕，我们快到了！）
+  - ⚠️ 常用搭配：lose one's courage / lose heart（失去信心）；反义词：keep one's nerve（保持勇气）
+
+- lose/break/have + concentration 失去/打断/保持 注意力
+  - The loud noise made me lose my concentration and I made a mistake.（巨大的噪音让我走神了，结果犯了个错。）
+  - Please don't break my concentration while I'm working.（我工作的时候请别打断我的注意力。）
+  - It's hard to have good concentration when you're tired.（累的时候很难保持高度集中的注意力。）
+  - ⚠️ concentration 是 concentrate 的名词形式；常用搭配：concentrate on（专注于）；pay attention to（注意）
+
+- suffer from 遭受；患有（疾病等）
+  - Many people suffer from stress and anxiety in modern society.（现代社会很多人都承受着压力和焦虑。）
+  - He has suffered from back pain for many years.（他背痛已经很多年了。）
+  - The area suffered from serious flooding last summer.（这个地区去年夏天遭遇了严重的洪灾。）
+  - ⚠️ suffer 作不及物动词接 from 表示"遭受、患有"；作及物动词表示"遭受（痛苦、损失等）"，如 suffer pain / loss
+
+- have a good/bad temper 脾气好/坏
+  - My grandmother has a very good temper—she never gets angry.（我奶奶脾气特别好，从不生气。）
+  - Be careful what you say to him—he has a really bad temper.（跟他说话要小心，他脾气特别差。）
+  - It's hard to work with someone who has a bad temper.（和坏脾气的人一起工作很难受。）
+  - ⚠️ temper 表示"脾气、情绪"；常用搭配：be in a good/bad temper（心情好/不好）；out of temper（发脾气）
+
+- lose one's temper 发脾气；生气
+  - He lost his temper and shouted at the children.（他发脾气了，对着孩子们大喊大叫。）
+  - Try not to lose your temper even if someone makes you angry.（就算有人惹你生气，也尽量别发火。）
+  - The manager lost his temper when he saw the terrible report.（经理看到那份糟糕的报告时大发雷霆。）
+  - ⚠️ 反义表达：keep one's temper（忍住不发脾气）；近义词：get angry / fly into a rage
+
+- have/get a good/great appetite 胃口好；食欲旺盛
+  - Walking in the fresh air all day has given me a really good appetite.（在新鲜空气里走了一整天，让我胃口特别好。）
+  - Children usually have a big appetite after playing outside.（孩子们在外面玩过之后通常胃口都很好。）
+  - He has such a great appetite that he can eat three bowls of rice for dinner.（他胃口特别好，晚饭能吃三碗米饭。）
+  - ⚠️ appetite 表示"食欲、胃口"；常用搭配：appetite for sth.（对……的渴望），如 an appetite for success（渴望成功）
+
+- lose one's appetite 失去胃口；食欲不振
+  - She lost her appetite when she heard the bad news.（听到那个坏消息后，她就没胃口了。）
+  - I've lost my appetite lately—I think I'm too stressed.（我最近没什么胃口，可能是压力太大了。）
+  - The hot weather makes everyone lose their appetite in summer.（夏天炎热的天气让每个人都没胃口。）
+  - ⚠️ 也可说 have no appetite（没胃口）；反义词：have a good appetite（胃口好）
+
+- urge sb. to do sth. 催促/力劝某人做某事
+  - The doctor urged me to stop smoking immediately.（医生强烈建议我立即戒烟。）
+  - My parents have been urging me to find a better job.（我父母一直在催我找份更好的工作。）
+  - We urged them to accept the offer before it was too late.（我们力劝他们趁还来得及接受这个提议。）
+  - ⚠️ urge 也可作名词：an urge to do sth.（做某事的强烈冲动）；也可接 that 从句用虚拟语气
+
+- give him satisfaction / give sb. satisfaction 使某人满意；满足某人
+  - The company apologized and gave him a full refund to give him satisfaction.（公司道歉并全额退款，让他满意了。）
+  - Winning the game gave satisfaction to all the fans.（赢得比赛让所有球迷都很满意。）
+  - She tried her best to give satisfaction to every customer.（她尽全力让每一位顾客都满意。）
+  - ⚠️ satisfaction 是 satisfy 的名词形式；常用搭配：be satisfied with（对……满意）；to one's satisfaction（令某人满意的是）
+
+- sb. be delighted that + 句子 某人很高兴……
+  - I'm delighted that you can come to my birthday party!（我很高兴你能来参加我的生日派对！）
+  - She was delighted that her son got accepted into his dream university.（儿子被梦想的大学录取了，她非常高兴。）
+  - We are delighted that the project was a great success.（我们很高兴项目取得了巨大成功。）
+  - ⚠️ delighted 表示"非常高兴的"，比 happy 语气更强；类似搭配：be delighted to do sth.（很高兴做某事）
+
+- light a cigarette 点烟；点燃一支香烟
+  - He sat down and lit a cigarette after dinner.（晚饭后他坐下来，点了一支烟。）
+  - Please don't light a cigarette here—this is a non-smoking area.（请别在这里抽烟，这里是禁烟区。）
+  - She lit a cigarette and tried to calm her nerves.（她点了一支烟，试着让自己平静下来。）
+  - ⚠️ light 的过去式和过去分词：lit / lighted；类似表达：smoke a cigarette（抽烟）；put out a cigarette（掐灭烟）
+
+- sb. be sure that + 句子 某人确信/肯定……
+  - I'm sure that we will succeed if we keep trying.（我确信只要我们坚持努力就会成功。）
+  - He was sure that he had left his keys on the desk.（他确信自己把钥匙放在桌子上了。）
+  - Are you sure that this is the right way to the station?（你确定这是去车站的正确路线吗？）
+  - ⚠️ 类似表达：be certain that（确信，语气更强）；make sure that（确保、确认）；be sure to do（一定会做）
+
+- keep on doing sth. 继续做某事；反复做某事
+  - Keep on studying hard and you will make progress.（继续努力学习，你会取得进步的。）
+  - He kept on calling me even though I told him to stop.（尽管我让他别打了，他还是不停地给我打电话。）
+  - The rain kept on all night and the roads were flooded.（雨下了一整夜，道路都被淹了。）
+  - ⚠️ 区别：keep doing（一直做，连续状态）；keep on doing（反复做，强调动作重复）；go on doing（继续做同一件事）
+
+- offer sb. sth. / offer sth. to sb. 主动给某人某物；主动提出
+  - She offered me a cup of coffee when I arrived.（我到的时候，她主动给我倒了杯咖啡。）
+  - The company offered him a very good salary to join them.（公司给他开出了很高的薪水邀请他加入。）
+  - He offered his help to anyone who needed it.（任何人需要帮助，他都主动提供。）
+  - ⚠️ offer 还可接 to do：offer to do sth.（主动提出做某事）；也可作名词：job offer（工作邀请）
+
+- make no effort to do sth. 不努力做某事；根本不尝试
+  - He made no effort to hide his disappointment.（他一点也不掩饰自己的失望。）
+  - They made no effort to solve the problem—they just ignored it.（他们根本不努力解决问题，就假装没看见。）
+  - If you make no effort to improve, you will never succeed.（如果你不努力提升自己，就永远不会成功。）
+  - ⚠️ 反义表达：make every effort to do（尽一切努力）；spare no effort to do（不遗余力）
+
+- a packet of... 一包/一盒（小包装）
+  - Can you buy me a packet of cigarettes on your way home?（你回家路上能帮我买包烟吗？）
+  - She gave each child a packet of cookies as a snack.（她给每个孩子一包饼干当点心。）
+  - I need a packet of envelopes to mail these letters.（我需要一包信封来寄这些信。）
+  - ⚠️ packet 表示小包装，常用于香烟、饼干、信封等；类似量词：a box of（一盒，较大）、a package of（包裹）
+
+- return to normal / get back to normal 恢复正常
+  - After the storm, life slowly returned to normal in the town.（暴风雨过后，镇上的生活慢慢恢复了正常。）
+  - It took a few days for my sleep pattern to return to normal after the trip.（旅行过后，我的睡眠模式花了好几天才恢复正常。）
+  - Everything will get back to normal soon—don't worry too much.（一切很快就会恢复正常的，别太担心。）
+  - ⚠️ normal 此处是名词，表示"正常状态、常态"；也可作形容词：normal life（正常生活）；反义词：abnormal（反常的）
