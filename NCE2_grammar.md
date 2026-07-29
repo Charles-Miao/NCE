@@ -1091,3 +1091,38 @@
    - Example: Given more time, I can do it better.  
   
 Important: The logical subject of the participle must agree with the sentence subject! 
+
+
+### 非限定性定语从句：解释、补充、说明
+
+#### 含义：对前面的名词或整个句子进行补充说明，去掉后不影响主句完整意思
+- My mother, who is 50 this year, lives with me now.（我妈妈今年 50 岁，现在和我住在一起。）
+- The book, which I bought last week, is very interesting.（那本书很有意思，是我上周买的。）
+- Beijing, which is the capital of China, has a long history.（北京是中国的首都，有着悠久的历史。）
+
+#### 形式：有逗号隔开，不需要限定也知道是谁/什么
+
+| 限定性定语从句 | 非限定性定语从句 |
+|----------------|------------------|
+| 无逗号，紧跟先行词 | 有逗号，与主句隔开 |
+| 是必需信息，去掉后句意不完整 | 是补充信息，去掉后主句仍完整 |
+| 可用 that 引导 | 不能用 that 引导 |
+| 关系词作宾语时可省略 | 关系词不可省略 |
+| 只修饰先行词 | 可修饰先行词或整个句子 |
+
+#### as 引导非限定性定语从句，指代整个完整句子
+- **As I soon learnt**, he was English himself.（我很快就发现，他自己就是英国人。）
+- **As everyone knows**, China is a developing country.（众所周知，中国是一个发展中国家。）
+- **As we had expected**, the team won the game.（正如我们所料，这支队伍赢得了比赛。）
+- She is very patient, **as all her friends can tell**.（她非常有耐心，这一点她所有的朋友都看得出来。）
+
+#### 与限定性定语从句对比
+- 限定性：**The students who worked hard** passed the exam.（只有努力学习的那些学生通过了考试）→ 限定范围
+- 非限定性：**The students, who worked hard**, passed the exam.（学生们都通过了考试，他们学习都很努力）→ 补充说明
+- 非限定性定语从句的逗号 = "顺便说一句"的语气
+
+#### 常见陷阱
+- ⚠️ 非限定性定语从句**绝对不能用 that** 引导，指人用 who/whom，指物用 which
+- ⚠️ 非限定性定语从句的关系词**不能省略**，即使作宾语也不行
+- ⚠️ which 可指代整个主句，但前面必须有逗号（无逗号的 which 只能指代先行词）
+- ⚠️ as 引导的从句可放句首，which 引导的从句只能放主句后面
