@@ -1126,3 +1126,33 @@ Important: The logical subject of the participle must agree with the sentence su
 - ⚠️ 非限定性定语从句的关系词**不能省略**，即使作宾语也不行
 - ⚠️ which 可指代整个主句，但前面必须有逗号（无逗号的 which 只能指代先行词）
 - ⚠️ as 引导的从句可放句首，which 引导的从句只能放主句后面
+
+
+### 部分倒装
+
+#### 含义：将助动词/情态动词提到主语之前，而非整个谓语动词倒装
+
+部分倒装只把谓语的一部分（如助动词、情态动词）放到主语前面，类似于一般疑问句的语序。
+
+#### only 在句首，主谓（可能）颠倒
+- Only on one occasion have I ever felt frightened.（我只有一次感到害怕过。）
+- Only in this way can you solve the problem.（只有用这种方法你才能解决这个问题。）
+- Only after he left did I realize how much I missed him.（他走了之后我才意识到我有多想他。）
+- Only when you finish your homework can you watch TV.（你写完作业才能看电视。）
+
+#### only 说明主语，主谓不倒装
+- Only policemen can come in.（只有警察才能进来。）
+- Only Tom knows the secret.（只有汤姆知道这个秘密。）
+- Only she can answer this difficult question.（只有她能回答这个难题。）
+
+#### 判断是否倒装的规则
+
+| only 修饰的成分 | 是否倒装 | 例句 |
+|----------------|----------|------|
+| 副词 / 介词短语 / 状语从句 | ✅ 倒装 | Only then did I understand.（直到那时我才明白。） |
+| 主语 | ❌ 不倒装 | Only you can help me.（只有你能帮我。） |
+
+#### 常见陷阱
+- ⚠️ only + 状语在句首时，倒装的是**主句**，从句不倒装：Only when I got home **did I remember** that I had left my keys at work.
+- ⚠️ 如果句子没有助动词，要添加 do / does / did：Only once **did I see** him after graduation.
+- ⚠️ 如果 only 不在句首，也不需要倒装：I **can only** tell you the truth.（我只能告诉你真相。）

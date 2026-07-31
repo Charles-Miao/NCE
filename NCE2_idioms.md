@@ -2002,3 +2002,63 @@
   - It took a few days for my sleep pattern to return to normal after the trip.（旅行过后，我的睡眠模式花了好几天才恢复正常。）
   - Everything will get back to normal soon—don't worry too much.（一切很快就会恢复正常的，别太担心。）
   - ⚠️ normal 此处是名词，表示"正常状态、常态"；也可作形容词：normal life（正常生活）；反义词：abnormal（反常的）
+
+- feel frightened 感到害怕；感到恐惧
+  - She felt frightened when she heard a strange noise in the middle of the night.（半夜听到奇怪的声音时，她感到很害怕。）
+  - Many people feel frightened when they have to speak in front of a large audience.（很多人要在一大群人面前讲话时都会感到紧张害怕。）
+  - The little girl felt frightened and held her mother's hand tightly.（小女孩很害怕，紧紧地抓着妈妈的手。）
+  - ⚠️ frightened 表示"感到害怕的"（修饰人）；frightening 表示"令人害怕的"（修饰物）；类似：interested / interesting, excited / exciting
+
+- sb. be curious to find out + 句子 某人很想弄清楚/查明……
+  - I'm curious to find out what happened to that old house down the street.（我很好奇街对面那栋老房子发生了什么事。）
+  - She was curious to find out why he had suddenly quit his job.（她很想弄清楚他为什么突然辞职了。）
+  - The police are curious to find out more details about the accident.（警方很想查明这起事故的更多细节。）
+  - ⚠️ curious 表示"好奇的"；常用搭配：be curious about sth.（对某事好奇）；curiosity 作名词表示"好奇心"
+
+- plant a bomb 放置炸弹；安放炸弹
+  - The terrorists planned to plant a bomb at the train station.（恐怖分子计划在火车站放置炸弹。）
+  - The police received a warning that someone had planted a bomb in the building.（警方接到警告，说有人在大楼里安放了炸弹。）
+  - Special forces were sent in to find and defuse the planted bomb.（特种部队被派去寻找并拆除那枚安放好的炸弹。）
+  - ⚠️ plant 此处是动词，表示"放置、安置"（通常指秘密放置）；也可表示"种植"；defuse a bomb（拆除炸弹）
+
+- a great deal 大量；非常；很多
+  - She has learned a great deal from her experience working abroad.（她从海外工作的经历中学到了很多。）
+  - A great deal has been done to improve the environment in recent years.（近年来在改善环境方面已经做了大量工作。）
+  - This project means a great deal to everyone involved.（这个项目对每个参与者都意义重大。）
+  - ⚠️ a great deal 可作名词短语或副词短语；修饰名词时用 a great deal of + 不可数名词；类似：a lot / a lot of
+
+- take charge of 负责；接管；掌管
+  - Mr. Smith will take charge of the department while the manager is away.（经理不在期间，史密斯先生将负责这个部门。）
+  - She took charge of the situation and organized everyone to help.（她掌控了局面，组织大家来帮忙。）
+  - The new CEO took charge of the company last month.（新任首席执行官上个月接管了公司。）
+  - ⚠️ 类似表达：be in charge of（负责，表状态）；take over（接管）；be responsible for（对……负责）
+
+- be used to doing... 习惯于做某事
+  - I am used to getting up early every morning for exercise.（我已经习惯每天早起锻炼了。）
+  - She is used to living alone and doesn't mind it at all.（她习惯了独居，一点也不觉得有什么。）
+  - It took me a long time to be used to the new job.（我花了很长时间才适应这份新工作。）
+  - ⚠️ 注意区别：used to do（过去常常做某事，现在不做了）；be used to do（被用来做某事，被动语态）
+
+- take off（飞机）起飞；脱下（衣服）；突然成功
+  - The plane will take off in ten minutes—please fasten your seatbelt.（飞机将在十分钟后起飞，请系好安全带。）
+  - He took off his coat as soon as he entered the warm room.（他一进到温暖的房间就脱下了外套。）
+  - Her career really took off after she released that popular song.（她发布那首热门歌曲后，事业突然腾飞了。）
+  - ⚠️ 这个短语意思很多！常见义：1）起飞 2）脱下 3）突然成功 4）休假（take a day off）
+
+- gain height（飞机）升高；爬高；增加高度
+  - The plane gained height rapidly after take-off.（飞机起飞后迅速爬高。）
+  - The pilot asked for permission to gain height to avoid the storm.（飞行员请求升高以避开暴风雨。）
+  - The balloon slowly gained height as the air inside got warmer.（气球内部空气变暖后，慢慢升高了。）
+  - ⚠️ gain 表示"增加、获得"；类似表达：gain speed（加速）、gain weight（增重）、gain confidence（获得信心）
+
+- touch down（飞机）着陆；降落；触地得分（橄榄球）
+  - The plane touched down smoothly at the airport at 3:00 PM.（飞机下午 3 点在机场平稳着陆。）
+  - We finally touched down in Beijing after a 12-hour flight.（经过 12 小时的飞行，我们终于降落在北京。）
+  - The running back touched down for a touchdown in the final minute of the game.（跑卫在比赛最后一分钟带球触地得分。）
+  - ⚠️ 航空专用短语；反义词：take off（起飞）；橄榄球中表示"达阵得分"
+
+- on board 在船/飞机/火车上；已加入团队
+  - Please have your tickets ready before you get on board the train.（上火车前请准备好车票。）
+  - All passengers on board the flight to New York should go to Gate 5 immediately.（所有飞往纽约航班的乘客请立即前往 5 号登机口。）
+  - We're glad to have Sarah on board our project team.（我们很高兴萨拉加入了我们的项目团队。）
+  - ⚠️ 可用于各种交通工具；引申义表示"加入团队、参与其中"；Welcome on board!（欢迎加入！）
