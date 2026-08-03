@@ -1,4 +1,4 @@
-# 习惯性用法
+﻿# 习惯性用法
 
 - go to the theatre
 - have a good seat
@@ -2062,3 +2062,39 @@
   - All passengers on board the flight to New York should go to Gate 5 immediately.（所有飞往纽约航班的乘客请立即前往 5 号登机口。）
   - We're glad to have Sarah on board our project team.（我们很高兴萨拉加入了我们的项目团队。）
   - ⚠️ 可用于各种交通工具；引申义表示"加入团队、参与其中"；Welcome on board!（欢迎加入！）
+
+- on show / on display 展出；展览中
+  - The new cars will be on show at the exhibition next week.（新车将在下周的展览会上展出。）
+  - Many ancient paintings are on display at the museum.（许多古画正在博物馆展出。）
+  - Her design is on show for the first time in this art gallery.（她的设计首次在这家美术馆展出。）
+  - ⚠️ 这两个短语意思几乎相同，可以互换使用；show 比较口语化，display 更正式一些；类似表达：on exhibition（在展览中）
+
+- make a profit 获利；赚钱
+  - The company made a profit of $5 million last year.（公司去年获利 500 万美元。）
+  - It will be months before we start to make a profit on this project.（我们要过好几个月才能从这个项目中开始盈利。）
+  - Many small businesses struggle to make a profit in their first year.（很多小企业在第一年都很难赚到钱。）
+  - ⚠️ 反义词：make a loss（亏损）；常用搭配：make a profit of + 金额（获利多少）；make a profit from / on sth.（从……获利）
+
+- go to college 上大学
+  - She worked hard in high school so she could go to college.（她高中学习很努力，这样就能上大学了。）
+  - Many students take a gap year before going to college.（很多学生在上大学前会休间隔年。）
+  - He was the first person in his family to go to college.（他是家里第一个上大学的人。）
+  - ⚠️ 注意：go to college / go to university 都表示"上大学"，前面不加冠词 the；类似用法：go to school（上学）、go to hospital（去医院）
+
+- be made of... 由……制成（能看出原材料）
+  - The table is made of wood.（这张桌子是木头做的。）
+  - This beautiful necklace is made of silver.（这条漂亮的项链是银制的。）
+  - Most buildings in this area are made of stone.（这个地区的大多数建筑都是石头建的。）
+  - ⚠️ 区别：be made of（能看出原材料，物理变化）；be made from（看不出原材料，化学变化）；be made in（在某地制造）；be made by（由某人制造）
+
+- of all time 有史以来；一直
+  - Many people think Michael Jordan is the greatest basketball player of all time.（很多人认为迈克尔·乔丹是有史以来最伟大的篮球运动员。）
+  - That movie is one of the best of all time in my opinion.（在我看来，那部电影是史上最佳影片之一。）
+  - She is one of the most successful writers of all time.（她是有史以来最成功的作家之一。）
+  - ⚠️ 常用于形容词最高级之后，表示"在所有……当中"；也可作 for all time（永远）
+
+- in all 总共；总计
+  - There are 150 students in all attending the conference.（总共有 150 名学生参加这次会议。）
+  - The trip cost us $3,000 in all, including hotels and meals.（这次旅行总共花了我们 3000 美元，包括酒店和餐饮。）
+  - In all, we have collected over 10,000 books for the village school.（我们总共为乡村学校募集了一万多本书。）
+  - ⚠️ 同义表达：in total / altogether / all together；注意：all in all 表示"总的来说"，意思不同
