@@ -2146,3 +2146,9 @@
   - With one powerful punch, the boxer knocked his opponent to the ground.（拳击手狠狠一拳，把对手打倒在地。）
   - The strong wind almost knocked me to the ground as I was walking home.（我走路回家时，大风差点把我吹倒在地。）
   - ⚠️ knock sb. down 也表示"把某人撞倒"；类似表达：knock sb. out（把某人打昏）；knock over（打翻、撞倒）
+
+- change out of sth 换下（衣服）；脱掉
+  - She changed out of her work clothes and put on something more comfortable as soon as she got home.（她一到家就换下工作服，穿上了更舒服的衣服。）
+  - You should change out of those wet clothes before you catch a cold.（你应该把湿衣服换掉，不然会感冒的。）
+  - He quickly changed out of his suit and into his sports gear for the game.（他迅速脱下西装，换上运动装备去参加比赛。）
+  - ⚠️ 反义词组：change into sth.（换上衣服）；相关表达：get changed（换衣服）、change one's clothes（换衣服）
