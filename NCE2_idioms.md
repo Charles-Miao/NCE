@@ -2098,3 +2098,51 @@
   - The trip cost us $3,000 in all, including hotels and meals.（这次旅行总共花了我们 3000 美元，包括酒店和餐饮。）
   - In all, we have collected over 10,000 books for the village school.（我们总共为乡村学校募集了一万多本书。）
   - ⚠️ 同义表达：in total / altogether / all together；注意：all in all 表示"总的来说"，意思不同
+
+- walk/act/speak... + boldly 大胆地/勇敢地做某事
+  - She walked boldly into the boss's office and asked for a raise.（她大胆地走进老板的办公室，要求加薪。）
+  - The soldier acted boldly and saved his comrades from the enemy.（那名士兵英勇行动，把战友们从敌人手中救了出来。）
+  - He spoke boldly at the meeting, expressing his disagreement with the plan.（他在会上大胆发言，表达了自己对这个计划的不同意见。）
+  - ⚠️ boldly 是副词，表示"大胆地、勇敢地"；类似副词：bravely（勇敢地）、confidently（自信地）、fearlessly（无畏地）
+
+- grow/change/move... + rapidly 快速地/迅速地做某事
+  - The population of this city has grown rapidly in the past ten years.（这座城市的人口在过去十年里迅速增长。）
+  - Technology changes so rapidly these days that it's hard to keep up.（现在科技变化太快了，很难跟上。）
+  - The car moved rapidly down the highway, overtaking every other vehicle.（汽车在高速公路上疾驰，超过了其他所有车辆。）
+  - ⚠️ rapidly 表示"迅速地、快速地"；同义词：quickly、fast；反义词：slowly、gradually；注意：rapidly 比 quickly 更正式一些
+
+- with a sharp blow 猛地一击；用力一击
+  - He broke the wooden board with a sharp blow of his fist.（他用拳头猛地一击，把木板打碎了。）
+  - The boxer knocked his opponent out with a sharp blow to the head.（拳击手朝对手头部猛击一拳，将其击倒。）
+  - With a sharp blow of the hammer, the nail was driven deep into the wall.（锤子猛地一击，钉子就深深地钉进了墙里。）
+  - ⚠️ sharp 此处表示"猛烈的、急剧的"；blow 表示"击打、一击"；类似表达：with a heavy blow（重重一击）、deal a blow to sb.（给某人打击）
+
+- change into... 变成；换上（衣服）
+  - The caterpillar changed into a beautiful butterfly.（毛毛虫变成了一只美丽的蝴蝶。）
+  - She changed into her swimming suit before jumping into the pool.（她换上泳衣，然后跳进了游泳池。）
+  - The sky changed from blue into dark grey as the storm approached.（暴风雨来临时，天空从蓝色变成了深灰色。）
+  - ⚠️ 常用搭配：change into clothes（换衣服）；change A into B（把 A 变成 B）；类似：turn into（变成）
+
+- up and down 上上下下；来来回回
+  - The little boy was jumping up and down with excitement when he saw the present.（小男孩看到礼物时，兴奋地跳上跳下。）
+  - She walked up and down the hallway, waiting nervously for her turn.（她在走廊里来回踱步，紧张地等着轮到她。）
+  - The price of oil has gone up and down a lot these months.（这几个月石油价格起伏很大。）
+  - ⚠️ 可以表示动作的上下运动，也可以表示价格、情绪等的起伏变化；类似：back and forth（来来回回）
+
+- sb. discovered that 某人发现……
+  - When she opened the box, she discovered that all the jewelry had been stolen.（她打开盒子时，发现所有的珠宝都被偷了。）
+  - Scientists discovered that this plant could be used to treat cancer.（科学家们发现这种植物可以用来治疗癌症。）
+  - He discovered that he had left his wallet at home when he got to the store.（他到商店时才发现钱包落在家里了。）
+  - ⚠️ discover 表示"发现"，通常指发现已经存在但不为人知的事物；区别：invent（发明，创造新事物）；find out（弄清楚、查明）
+
+- stand to attention 立正站好；立正
+  - The soldiers all stood to attention when the general walked past.（将军走过时，士兵们全都立正站好。）
+  - All the students stood to attention as the national flag was raised.（升旗时，所有学生都立正站好。）
+  - He stood to attention immediately when he heard his commander's voice.（听到指挥官的声音，他立刻立正。）
+  - ⚠️ 军事用语，表示正式的立正姿势；类似表达：stand at attention（立正）；stand at ease（稍息）
+
+- knock him to the ground 把他打倒在地
+  - The big man grabbed the thief and knocked him to the ground.（那个大个子抓住小偷，把他打倒在地。）
+  - With one powerful punch, the boxer knocked his opponent to the ground.（拳击手狠狠一拳，把对手打倒在地。）
+  - The strong wind almost knocked me to the ground as I was walking home.（我走路回家时，大风差点把我吹倒在地。）
+  - ⚠️ knock sb. down 也表示"把某人撞倒"；类似表达：knock sb. out（把某人打昏）；knock over（打翻、撞倒）
