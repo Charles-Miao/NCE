@@ -2152,3 +2152,87 @@
   - You should change out of those wet clothes before you catch a cold.（你应该把湿衣服换掉，不然会感冒的。）
   - He quickly changed out of his suit and into his sports gear for the game.（他迅速脱下西装，换上运动装备去参加比赛。）
   - ⚠️ 反义词组：change into sth.（换上衣服）；相关表达：get changed（换衣服）、change one's clothes（换衣服）
+
+- shining example 光辉的榜样；极好的榜样
+  - Her dedication to her work is a shining example to all of us.（她对工作的奉献精神是我们所有人学习的好榜样。）
+  - The soldier was a shining example of courage and bravery.（那名士兵是勇气和英勇的光辉典范。）
+  - He set a shining example of how to live a simple but meaningful life.（他树立了一个光辉榜样，告诉人们如何过简单而有意义的生活。）
+  - ⚠️ shining 此处表示"杰出的、出色的"；类似表达：a good example（好榜样）、a role model（楷模）、set an example（树立榜样）
+
+- claim to have done sth. 声称做过某事
+  - He claims to have climbed Mount Everest three times, but no one believes him.（他声称自己攀登过珠穆朗玛峰三次，但没人信他。）
+  - The man claimed to have witnessed the accident, but his story didn't add up.（那个男人声称目击了事故，但他的说法前后矛盾。）
+  - She claims to have met the president at a conference last year.（她声称去年在一次会议上见过总统。）
+  - ⚠️ claim 表示"声称、断言"，常带怀疑意味；不定式完成时 to have done 表示动作发生在 claim 之前；也可接 that 从句
+
+- laugh at... 嘲笑；笑话
+  - Don't laugh at people when they make mistakes—we all make them.（别人犯错时别笑话他们，我们都会犯错。）
+  - The other children laughed at him because he was wearing different clothes.（其他孩子都笑话他，因为他穿的衣服不一样。）
+  - Everyone laughed at his joke, but I didn't think it was funny at all.（大家都觉得他的笑话好笑，可我一点都不觉得。）
+  - ⚠️ 注意区分：laugh at（嘲笑，贬义）；laugh about（因……而笑，中性）；近义表达：make fun of、mock（更正式的嘲笑）
+
+- it is now known that... 现在人们知道……；现已查明
+  - It is now known that smoking causes many serious health problems.（现在人们都知道，吸烟会导致很多严重的健康问题。）
+  - It is now known that the planet Mars once had water on its surface.（现已查明，火星表面曾经有水。）
+  - It is now known that he was not responsible for the accident.（现在已经查明，他对这起事故没有责任。）
+  - ⚠️ 形式主语句型，真正的主语是 that 从句；类似表达：It is said that...（据说）、It is believed that...（人们认为）、It is well known that...（众所周知）
+
+- at times 有时；偶尔
+  - At times, I really miss the quiet days when I was a student.（有时候，我真的很怀念当学生时那些安静的日子。）
+  - Even the best teachers can make mistakes at times.（即使是最好的老师有时候也会犯错。）
+  - Life can be hard at times, but there are always good things to look forward to.（生活有时会很艰难，但总有美好的事情值得期待。）
+  - ⚠️ 同义表达：sometimes、from time to time、once in a while、occasionally
+
+- out at sea 在海上；出海
+  - The ship has been out at sea for two months and will return next week.（这艘船已经出海两个月了，下周返回。）
+  - When you're out at sea for a long time, you start to miss the feeling of solid ground under your feet.（在海上待久了，你会开始想念脚下坚实地面的感觉。）
+  - Many fishermen lost their lives out at sea during the terrible storm.（许多渔民在那场可怕的暴风雨中葬身大海。）
+  - ⚠️ 相关表达：go to sea（出海当水手）、at sea（在海上；茫然）、by sea（经海路）
+
+- in any way 以任何方式；无论如何
+  - If I can help you in any way, please let me know.（如果我能以任何方式帮到你，请告诉我。）
+  - I don't want this misunderstanding to affect our friendship in any way.（我不希望这个误会以任何方式影响我们的友谊。）
+  - You are not allowed to change the document in any way without permission.（未经许可，你不得以任何方式修改这份文件。）
+  - ⚠️ 常用于否定句或疑问句中；类似表达：at all（根本、丝毫）、in any case（无论如何）
+
+- it was found to be... 结果发现是……；被发现是……
+  - The strange object in the sky was found to be just a weather balloon.（天上那个奇怪的东西，结果发现只是个气象气球。）
+  - When the box was opened, it was found to be full of old books.（打开箱子后，发现里面全是旧书。）
+  - The report was found to be false after a careful investigation.（经过仔细调查，发现这份报告是假的。）
+  - ⚠️ 被动语态句型，常用在新闻报道或调查语境中；类似表达：it turned out to be...（结果是……、原来是……）
+
+- a depth of... 深度为……
+  - The lake has a depth of over 200 meters in some places.（这个湖有些地方的水深超过 200 米。）
+  - The well was dug to a depth of 50 meters before they found water.（这口井挖了 50 米深才找到水。）
+  - The submarine can dive to a depth of more than 500 meters.（这艘潜艇可以下潜到 500 多米深。）
+  - ⚠️ depth 是 deep 的名词形式；类似结构：a height of（高度为……）、a length of（长度为……）、a width of（宽度为……）
+
+- win the election 赢得选举
+  - He won the election by a large majority and became the new mayor.（他以压倒性多数赢得选举，成为新任市长。）
+  - No one expected her to win the election because she was so young and inexperienced.（没人料到她会赢得选举，因为她太年轻又缺乏经验。）
+  - The party has won the last three elections in a row.（这个政党已经连续赢得了最近三次选举。）
+  - ⚠️ 反义词组：lose the election（输掉选举）；相关词汇：vote（投票）、campaign（竞选活动）、candidate（候选人）
+
+- be fanatical about sth./doing sth. 对……狂热；热衷于
+  - He's fanatical about football and watches every match his team plays.（他对足球很狂热，他的球队每场比赛都看。）
+  - My sister is fanatical about keeping fit—she goes to the gym twice a day.（我姐姐对健身很狂热，一天去两次健身房。）
+  - Some people are fanatical about collecting rare stamps or coins.（有些人热衷于收集稀有邮票或硬币。）
+  - ⚠️ fanatical 比 enthusiastic 程度更强，带有"狂热、过分热衷"的意味；名词形式：fanatic（狂热者）；fan（迷、粉丝）也来源于此
+
+- on duty 值班；上班；执勤
+  - I'm sorry, but the doctor you want to see is not on duty today.（抱歉，你要找的医生今天不值班。）
+  - The police officer was on duty when the robbery happened.（抢劫发生时，那名警察正在执勤。）
+  - Nurses work long hours and are often on duty during holidays.（护士工作时间很长，节假日也经常要值班。）
+  - ⚠️ 反义表达：off duty（下班、不值班）；相关搭配：go on duty（上班）、come off duty（下班）、duty roster（值班表）
+
+- On the following day 第二天
+  - On the following day, he went to the office early to prepare for the meeting.（第二天，他早早去了办公室准备会议。）
+  - On the following day after the storm, the whole town was covered in snow.（暴风雨过后的第二天，整个城镇都被白雪覆盖了。）
+  - She said she would give me an answer on the following day.（她说她第二天会给我答复。）
+  - ⚠️ 更正式的表达，常用于书面语或讲故事时；同义表达：the next day、the following day、the day after
+
+- love to do sth. 喜欢做某事
+  - I love to go hiking in the mountains on weekends.（我喜欢周末去山里徒步旅行。）
+  - She loves to read novels before going to bed every night.（她每天晚上睡觉前都喜欢看小说。）
+  - My grandfather loves to tell stories about his childhood.（我爷爷喜欢讲他小时候的故事。）
+  - ⚠️ love to do 和 love doing 都表示"喜欢做"，区别不大；区别：love to do 更强调具体某次或某种习惯，love doing 更强调持续的爱好；比 like to do 感情更强烈
