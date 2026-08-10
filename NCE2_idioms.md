@@ -2236,3 +2236,87 @@
   - She loves to read novels before going to bed every night.（她每天晚上睡觉前都喜欢看小说。）
   - My grandfather loves to tell stories about his childhood.（我爷爷喜欢讲他小时候的故事。）
   - ⚠️ love to do 和 love doing 都表示"喜欢做"，区别不大；区别：love to do 更强调具体某次或某种习惯，love doing 更强调持续的爱好；比 like to do 感情更强烈
+
+- go on strike 罢工；举行罢工
+  - The factory workers went on strike, demanding higher pay and better working conditions.（工厂工人举行了罢工，要求更高的工资和更好的工作条件。）
+  - The train drivers are going on strike next week, so many services will be cancelled.（火车司机下周要罢工，所以很多班次会被取消。）
+  - Teachers have voted to go on strike over proposed cuts to education funding.（教师们已经投票决定就教育经费削减提案举行罢工。）
+  - ⚠️ strike 作名词/动词都表示"罢工"；相关搭配：strike for sth.（为……罢工）、be on strike（在罢工中）、call off a strike（取消罢工）
+
+- sb. have stated that + 句子 某人声明/陈述……
+  - The company has stated that it will create 500 new jobs in the next three years.（公司已声明，将在未来三年内创造 500 个新工作岗位。）
+  - The government stated that they would take strong action against pollution.（政府表示，他们将采取有力措施治理污染。）
+  - He has stated publicly that he has no plans to retire anytime soon.（他公开表示，近期没有退休计划。）
+  - ⚠️ state 是比较正式的"陈述、声明"，常用于官方场合；类似表达：announce（宣布）、declare（声明）、say（说，最普通）
+
+- agreement is reached about sth. 就某事达成协议
+  - Finally, an agreement was reached about the price after hours of negotiation.（经过数小时的谈判，双方最终就价格达成了一致。）
+  - No agreement has been reached about how to solve the problem yet.（目前还没有就如何解决这个问题达成任何协议。）
+  - An agreement was reached about the date of the next meeting.（下次会议的日期已经商定好了。）
+  - ⚠️ 被动语态，更正式；常用搭配：reach an agreement（达成协议）、come to an agreement（达成一致）、sign an agreement（签署协议）
+
+- reach an agreement 达成协议；达成一致
+  - After discussing for a long time, the two sides finally reached an agreement.（经过长时间讨论，双方终于达成了一致。）
+  - We need to reach an agreement before the end of this month.（我们需要在本月底之前达成协议。）
+  - It is unlikely that they will reach an agreement on this issue.（他们不太可能在这个问题上达成一致。）
+  - ⚠️ 主动语态，更常用；同义表达：come to an agreement、reach a deal、reach a compromise（达成妥协）
+
+- sb be relieved to hear that + 句子 某人听到……后感到欣慰/松了口气
+  - I was relieved to hear that my grandmother's operation was successful.（听到奶奶手术成功的消息，我松了口气。）
+  - She was relieved to hear that she had passed the exam.（得知自己通过了考试，她如释重负。）
+  - We were all relieved to hear that no one was hurt in the accident.（听到事故中没人受伤，我们都松了一口气。）
+  - ⚠️ relieved 表示"放心的、释然的"；to hear that 表原因；类似句型：be glad to hear that（很高兴听到）、be sorry to hear that（很遗憾听到）
+
+- relieve pressure 缓解压力；减轻压力
+  - Going for a run after work is a good way to relieve pressure.（下班后跑步是缓解压力的好方法。）
+  - The new highway was built to relieve pressure on the old road.（修建这条新高速公路是为了缓解旧公路的压力。）
+  - Listening to music helps relieve the pressure of studying all day.（听音乐有助于缓解一整天学习的压力。）
+  - ⚠️ relieve 表示"减轻、缓解"；相关搭配：relieve stress（减轻压力）、relieve pain（止痛）、relieve boredom（解闷）
+
+- under a lot of pressure 承受很大压力
+  - She's been under a lot of pressure at work since she got promoted.（自从升职以来，她在工作上一直承受着很大的压力。）
+  - Students are under a lot of pressure before the college entrance exam.（高考前，学生们承受着巨大的压力。）
+  - He's been under a lot of pressure lately, which is why he seems so tired.（他最近压力很大，所以才看起来这么累。）
+  - ⚠️ 常用搭配：under pressure（在压力下）、put pressure on sb.（给某人施加压力）、pressure sb. to do sth.（强迫某人做某事）
+
+- to some extent 在某种程度上
+  - To some extent, I agree with what you said, but there are still some points I disagree with.（在某种程度上，我同意你说的，但有些地方我还是不同意。）
+  - The success of the project was, to some extent, due to good timing.（这个项目的成功，在某种程度上归功于时机选得好。）
+  - Everyone is selfish to some extent—it's human nature.（每个人在某种程度上都是自私的，这是人之常情。）
+  - ⚠️ 同义表达：to a certain degree、in a way、somewhat；也可说 to a great/large extent（在很大程度上）
+
+- volunteer to do sth. 主动/自愿做某事
+  - He volunteered to help organize the charity event.（他主动提出帮忙组织这次慈善活动。）
+  - Many students volunteered to teach in rural areas after graduation.（很多学生毕业后自愿去农村支教。）
+  - She volunteered to stay late to finish the project.（她自愿留下来加班完成项目。）
+  - ⚠️ volunteer 作动词表示"自愿"，作名词表示"志愿者"；相关词汇：voluntary（自愿的）、volunteer work（志愿者工作）
+
+- express sb.'s gratitude to sb. 向某人表达感谢
+  - He expressed his gratitude to his teachers for their help and support over the years.（他向老师们表达了感谢，感谢他们多年来的帮助和支持。）
+  - The winner expressed her gratitude to everyone who had voted for her.（获胜者向所有投票给她的人表示感谢。）
+  - I would like to express my gratitude to you for all you've done for me.（我想对你为我所做的一切表示感谢。）
+  - ⚠️ gratitude 是正式的"感激、感谢"，比 thanks 更正式、程度更深；常用搭配：show gratitude、feel gratitude；grateful 是形容词
+
+- sb. have objected that + 句子 某人反对说……；某人提出异议说……
+  - Some people objected that the new law would limit personal freedom.（一些人反对说，这项新法律会限制个人自由。）
+  - He objected that the plan was too risky and could cause serious problems.（他反对说，这个计划太冒险，可能会导致严重问题。）
+  - Several residents objected that the new building would block their sunlight.（几位居民反对说，新建筑会挡住他们的阳光。）
+  - ⚠️ object 作动词表示"反对、提出异议"，后接 that 从句引出反对的理由；注意重音：动词是 /əbˈdʒekt/，名词是 /ˈɒbdʒɪkt/
+
+- object to sth./sb. 反对某事/某人
+  - Many local residents object to the construction of a new factory near their homes.（很多当地居民反对在他们家附近建新工厂。）
+  - I object to being treated like a child—I'm an adult!（我反对被当成小孩子对待——我是成年人了！）
+  - Do you object to us having the meeting in your office?（你反对我们在你办公室开会吗？）
+  - ⚠️ object to 后面接名词或动名词（doing）；同义表达：be against、oppose、disagree with；反义：agree with、support
+
+- be due to do... 预定要做某事；到期要做
+  - The plane is due to arrive at 3:30 this afternoon.（飞机定于今天下午 3:30 到达。）
+  - The meeting is due to start in ten minutes—hurry up!（会议十分钟后就要开始了，快点！）
+  - She is due to give birth next month.（她下个月就要生了。）
+  - ⚠️ 表示按计划、按时间表预期发生；注意区分：due to + 名词（因为……），如 His success is due to hard work.（他的成功归功于努力。）
+
+- pass/take the test 通过考试/参加考试
+  - I studied really hard and finally passed the driving test on my third attempt.（我学得很努力，终于在第三次尝试时通过了驾照考试。）
+  - You have to take the test again if you don't pass it the first time.（如果你第一次没通过，就得再考一次。）
+  - She was nervous before the exam, but she passed the test with flying colors.（她考前很紧张，但最终以优异的成绩通过了考试。）
+  - ⚠️ 注意区别：take the test（参加考试，不一定过）；pass the test（通过考试）；fail the test（考试不及格）；with flying colors（出色地、成功地）
