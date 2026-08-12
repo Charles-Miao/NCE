@@ -2320,3 +2320,75 @@
   - You have to take the test again if you don't pass it the first time.（如果你第一次没通过，就得再考一次。）
   - She was nervous before the exam, but she passed the test with flying colors.（她考前很紧张，但最终以优异的成绩通过了考试。）
   - ⚠️ 注意区别：take the test（参加考试，不一定过）；pass the test（通过考试）；fail the test（考试不及格）；with flying colors（出色地、成功地）
+
+- sb. inform sb. that + 句子 某人通知某人……
+  - The school informed the parents that the sports day had been postponed to next week.（学校通知家长运动会推迟到下周了。）
+  - He informed us that the meeting had been cancelled.（他通知我们会议取消了。）
+  - The airline informed the passengers that the flight would be delayed by two hours.（航空公司通知乘客航班将延误两小时。）
+  - ⚠️ inform 比 tell 更正式，常用于官方通知、书面告知；inform sb. of sth.（通知某人某事）；keep sb. informed（让某人及时了解情况）
+
+- make a contribution 做出贡献；捐款
+  - Everyone can make a contribution to protecting the environment by recycling.（每个人都可以通过回收利用来为保护环境做出贡献。）
+  - He made a generous contribution of $1 million to the local hospital.（他慷慨地向当地医院捐了 100 万美元。）
+  - Teachers make a huge contribution to society by educating the next generation.（教师通过培养下一代为社会做出了巨大的贡献。）
+  - ⚠️ 常用搭配：make a contribution to（对……做贡献）；make a contribution of + 金额（捐款……）；contribute 是动词形式
+
+- contribute to sth. 有助于……；导致……；为……做贡献
+  - Regular exercise contributes to good health and mental well-being.（经常锻炼有助于身体健康和心理健康。）
+  - Smoking contributed to the development of his lung disease.（吸烟导致了他的肺病恶化。）
+  - She has contributed a lot to the success of the project.（她为项目的成功做出了很大贡献。）
+  - ⚠️ contribute 有三层意思：1）有助于/导致 2）贡献 3）捐献；contribute to 后面接名词或动名词
+
+- lose one's patience 失去耐心
+  - The teacher lost her patience with the naughty students who kept talking during class.（老师对上课一直讲话的调皮学生失去了耐心。）
+  - Don't lose your patience—things will get better soon.（别失去耐心，情况很快就会好转的。）
+  - He lost his patience after waiting for over an hour and decided to leave.（等了一个多小时后，他失去了耐心，决定离开。）
+  - ⚠️ 反义表达：keep one's patience（保持耐心）；patience 是形容词 patient 的名词形式；相关：patiently（耐心地）
+
+- have a lot of patience 很有耐心
+  - You need to have a lot of patience when teaching young children to read.（教小孩子认字时，你需要很有耐心。）
+  - My grandmother has a lot of patience—she never gets angry no matter what happens.（我奶奶很有耐心，不管发生什么事她从不生气。）
+  - Working with animals requires a lot of patience.（和动物打交道需要很大的耐心。）
+  - ⚠️ 反义表达：have no patience for（对……没耐心）；have little patience（没什么耐心）
+
+- give sb. encouragement 给某人鼓励
+  - A good teacher always gives his students encouragement when they are struggling.（一位好老师在学生遇到困难时总会给予鼓励。）
+  - My parents gave me a lot of encouragement when I was training for the marathon.（我备战马拉松的时候，父母给了我很多鼓励。）
+  - Sometimes all it takes is a small word of encouragement to change someone's day.（有时候，一句小小的鼓励就能改变一个人的一天。）
+  - ⚠️ encourage 是动词；encouragement 是不可数名词；常用搭配：words of encouragement（鼓励的话语）、a source of encouragement（鼓励的源泉）
+
+- in one's honor 为了向某人表示敬意；以某人的名义
+  - The party was held in his honor to celebrate his retirement.（这场派对是为他举办的，庆祝他退休。）
+  - A new library was named in her honor after she passed away.（她去世后，一座新图书馆以她的名字命名。）
+  - This dinner is in your honor—thank you for everything you've done.（这顿晚餐是为你举办的，感谢你所做的一切。）
+  - ⚠️ 也可写 in honour of sb.；类似表达：in memory of sb.（纪念某人，用于已故者）
+
+- It is a curious coincidence that + 句子 说来也巧……；真是奇怪的巧合
+  - It is a curious coincidence that we share the same birthday!（真巧，我们居然是同一天生日！）
+  - It is a curious coincidence that we both wore the same shirt to the party.（说来也巧，我们居然穿了同一件衬衫去派对。）
+  - It is a curious coincidence that I met her again on the same street corner ten years later.（说来也巧，十年后我居然在同一个街角又遇到了她。）
+  - ⚠️ curious 此处表示"奇怪的、不寻常的"，不是"好奇的"；coincidence 表示"巧合"；也可说：What a coincidence!（真巧！）
+
+- a total of... 总共……
+  - A total of 500 students took part in the school sports day.（总共有 500 名学生参加了学校运动会。）
+  - The project cost a total of $10 million, much more than originally planned.（这个项目总共花费了 1000 万美元，远超原计划。）
+  - A total of six people were injured in the accident, but none seriously.（事故中总共有 6 人受伤，但都没有大碍。）
+  - ⚠️ 同义表达：in total、in all、altogether；注意 total 也可作动词：total up（合计）
+
+- devote oneself to sth. / doing sth. 致力于某事；全身心投入
+  - She devoted herself to helping the poor after she retired.（退休后，她全身心投入到帮助穷人的事业中。）
+  - The scientist devoted his whole life to finding a cure for cancer.（这位科学家一生致力于寻找治疗癌症的方法。）
+  - He has devoted himself to the study of ancient history for over 30 years.（他致力于古代史研究已经 30 多年了。）
+  - ⚠️ devote 语气较强，表示全心投入；to 是介词，后接名词或动名词；类似表达：dedicate oneself to（献身于）
+
+- mark the occasion 纪念这个时刻；庆祝这个场合
+  - To mark the occasion of the company's 50th anniversary, a big party was held.（为庆祝公司成立 50 周年，举办了一场盛大的派对。）
+  - They planted a tree to mark the occasion of their wedding.（他们种了一棵树来纪念他们的婚礼。）
+  - The school held a special ceremony to mark the occasion of the new building being opened.（学校举行了一场特别仪式来纪念新教学楼落成。）
+  - ⚠️ occasion 表示"场合、时刻"；常用搭配：on a special occasion（在特殊场合）、on the occasion of（在……之际）
+
+- remember sb. for sth. 因某事记住某人
+  - People will remember her for her kindness and generosity.（人们会因她的善良和慷慨而记住她。）
+  - He is remembered for his great achievements in the field of science.（他因在科学领域的巨大成就而被人们铭记。）
+  - I want to be remembered for the good things I did, not for my mistakes.（我希望人们记住我做的好事，而不是我的错误。）
+  - ⚠️ 被动语态：be remembered for（因……而被铭记）；类似表达：be known for（因……而闻名）；be famous for（因……而出名）
