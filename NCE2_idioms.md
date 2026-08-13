@@ -2392,3 +2392,51 @@
   - He is remembered for his great achievements in the field of science.（他因在科学领域的巨大成就而被人们铭记。）
   - I want to be remembered for the good things I did, not for my mistakes.（我希望人们记住我做的好事，而不是我的错误。）
   - ⚠️ 被动语态：be remembered for（因……而被铭记）；类似表达：be known for（因……而闻名）；be famous for（因……而出名）
+
+- swing the speedboat round / turn round 让快艇掉头；转过来
+  - The driver swung the speedboat round and headed back to the shore.（驾驶员把快艇掉头，朝岸边开回去。）
+  - He quickly turned the car round when he realized he was going the wrong way.（他发现自己走错了路，立刻把车掉头。）
+  - The captain swung the ship round to avoid the rocks ahead.（船长把船掉头，避开了前方的礁石。）
+  - ⚠️ swing round 表示"猛地转过来、掉头"；turn round 更通用，表示"转身、掉头"；swing 强调动作更快、更有力
+
+- drift down 漂流而下；顺流漂下
+  - The little boat slowly drifted down the river towards the sea.（小船顺着河流慢慢漂向大海。）
+  - Leaves drifted down from the trees on a gentle autumn breeze.（秋天柔和的微风中，树叶从树上飘落下来。）
+  - The raft drifted down the stream with no one on board.（木筏上没有人，顺着溪流漂了下去。）
+  - ⚠️ drift 表示"漂流、飘移"，强调没有动力、随水势或风力移动；类似表达：float down（漂流而下）、drift away（渐渐漂走）
+
+- sb. noticed with dismay that + 句子 某人惊恐/沮丧地发现……
+  - She noticed with dismay that her wallet had been stolen from her bag.（她惊恐地发现钱包被人从包里偷走了。）
+  - He noticed with dismay that the water level in the river was rising rapidly.（他惊慌地发现河里的水位正在迅速上涨。）
+  - The pilot noticed with dismay that one of the engines had stopped working.（飞行员惊恐地发现其中一个引擎停止了运转。）
+  - ⚠️ dismay 表示"惊恐、沮丧、失望"；类似表达：notice with horror（惊恐地发现）、notice with surprise（惊讶地发现）；to one's dismay（令某人惊恐的是）
+
+- at tremendous speed 以极快的速度
+  - The car was moving at tremendous speed when it crashed into the wall.（那辆车以极快的速度撞上了墙。）
+  - The plane flew over the city at tremendous speed, breaking the sound barrier.（飞机以极快的速度飞过城市上空，突破了音障。）
+  - The athlete ran the last 100 meters at tremendous speed and won the race.（那名运动员以极快的速度跑完了最后 100 米，赢得了比赛。）
+  - ⚠️ tremendous 表示"巨大的、惊人的"，比 very fast 语气强得多；同义表达：at great speed、at high speed；反义：at low speed（以低速）
+
+- come away 脱落；离开；脱开
+  - When I pulled the handle, it came away from the door in my hand.（我拉把手的时候，它从门上脱落了，掉在我手里。）
+  - The paint on the wall is starting to come away because of the damp.（因为潮湿，墙上的油漆开始脱落了。）
+  - He came away from the meeting with a better understanding of the situation.（他离开会议时对情况有了更清楚的了解。）
+  - ⚠️ 常用义：1）脱落、脱开 2）离开（某地）；类似表达：come off（脱落）、peel off（剥落）
+
+- move in a circle 绕圈移动；转圈
+  - The children were dancing and moving in a circle around the campfire.（孩子们围着篝火跳舞，绕圈移动。）
+  - The plane moved in a circle above the airport, waiting for permission to land.（飞机在机场上空盘旋，等待降落许可。）
+  - The shark moved in a circle around the swimmers before suddenly attacking.（鲨鱼在游泳者周围转了一圈，然后突然发起攻击。）
+  - ⚠️ 也可说 move in circles；in a circle 表示"成圆圈状"；类似表达：spin around（旋转）、go around（绕圈走）
+
+- used up 用完；耗尽
+  - All the money was used up by the end of the month—we had to borrow from friends.（到月底钱全花光了，我们不得不向朋友借钱。）
+  - The fuel was used up before we could reach the next gas station.（还没到下一个加油站，油就用完了。）
+  - She has used up all her energy taking care of the children and the house.（她照顾孩子和操持家务，已经耗尽了全部精力。）
+  - ⚠️ use up 表示"用完、耗尽"，强调一点不剩；类似表达：run out of（用完）、exhaust（耗尽，更正式）
+
+- before long 不久之后；很快
+  - Before long, the sun came out and the clouds disappeared.（不久之后，太阳出来了，乌云消散了。）
+  - He started his new job last month, and before long, he was promoted to manager.（他上个月开始新工作，不久之后就被提升为经理了。）
+  - Don't worry—before long, you'll be speaking Chinese fluently.（别担心，用不了多久你就能流利地说中文了。）
+  - ⚠️ 与 before long 不同，long before 表示"很久以前"；before long 用于将来或过去时，表示"没过多久"；可替换为：soon、shortly afterwards
