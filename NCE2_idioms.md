@@ -1,4 +1,4 @@
-﻿# 习惯性用法
+# 习惯性用法
 
 - go to the theatre
 - have a good seat
@@ -2440,3 +2440,123 @@
   - He started his new job last month, and before long, he was promoted to manager.（他上个月开始新工作，不久之后就被提升为经理了。）
   - Don't worry—before long, you'll be speaking Chinese fluently.（别担心，用不了多久你就能流利地说中文了。）
   - ⚠️ 与 before long 不同，long before 表示"很久以前"；before long 用于将来或过去时，表示"没过多久"；可替换为：soon、shortly afterwards
+
+- have an alibi 有不在场证明
+  - The suspect has an alibi for the night of the murder—he was at a party with friends.（嫌疑人有案发当晚的不在场证明——他当时和朋友在派对上。）
+  - Do you have an alibi for where you were at 9 PM last night?（昨晚9点你在哪里，有不在场证明吗？）
+  - She provided a solid alibi and was released by the police.（她提供了确凿的不在场证明，被警方释放了。）
+  - ⚠️ alibi = 不在场证明，法律/侦探用语；常搭配 have/provide an alibi；solid alibi = 铁证般的不在场证明
+
+- commit a murder 犯谋杀罪
+  - He was sentenced to life in prison for committing a murder.（他因犯谋杀罪被判处终身监禁。）
+  - The detective was determined to find out who had committed the murder.（侦探决心找出是谁犯下了这起谋杀案。）
+  - Committing a murder is one of the most serious crimes in any legal system.（在任何法律体系中，谋杀都是最严重的罪行之一。）
+  - ⚠️ commit a crime/murder/theft = 犯罪/谋杀/盗窃；commit 常与罪行类名词搭配
+
+- sb. confirm that + 句子 某人确认/证实……
+  - The company confirmed that the new product will launch next month.（公司确认新产品将于下月推出。）
+  - She confirmed that she would attend the meeting on Friday.（她确认她会参加周五的会议。）
+  - Police have confirmed that the suspect is now in custody.（警方已证实嫌疑人目前已被拘留。）
+  - ⚠️ confirm = 确认、证实（使某事更确定）；后可接 that 从句或名词（confirm the news）
+
+- Are you suggesting... 你是在暗示……吗？
+  - Are you suggesting that I'm lying?（你是在暗示我在撒谎吗？）
+  - Are you suggesting we should give up and go home?（你是在建议我们放弃回家吗？）
+  — Are you suggesting I'm not good enough for this job?（你是在说我不胜任这份工作吗？）
+  - ⚠️ 表示质疑对方话中隐含的意思，语气常带不满或惊讶；suggest 在此表"暗示、言下之意是"
+
+- tell the truth 说实话；讲真话
+  - To tell the truth, I don't really like this movie.（说实话，我不太喜欢这部电影。）
+  - He finally decided to tell the truth about what happened that night.（他最终决定把那晚发生的事如实说出来。）
+  - If you tell the truth, you'll feel much better.（如果你说实话，你会好受很多。）
+  - ⚠️ 常用作插入语 to tell the truth（老实说、说实话）；反义：tell a lie（撒谎）
+
+- on time 准时；按时
+  - The train arrived on time, even though it was raining heavily.（尽管雨下得很大，火车还是准点到达了。）
+  - Please make sure you're on time for the meeting tomorrow morning.（请确保明天早上准时到会。）
+  - She always hands in her assignments on time.（她总是按时交作业。）
+  - ⚠️ 对比 in time（及时）：on time 强调"按预定时间点"，in time 强调"来得及、没迟到"
+
+- on the surface 表面上；从表面看
+  - On the surface, he seems like a very calm person.（表面上看，他是个很冷静的人。）
+  - The plan looks good on the surface, but there are many hidden problems.（这个计划表面上看起来不错，但暗藏很多问题。）
+  - On the surface, everything seemed normal, but I knew something was wrong.（表面上一切正常，但我知道有什么地方不对。）
+  - ⚠️ 常暗示"实际情况并非如此"，有转折意味；类似表达：outwardly、apparently
+
+- in a special capsule 在一个特殊的胶囊/密封舱里
+  - The medicine is stored in a special capsule to protect it from light.（这种药储存在特殊胶囊里以防光照。）
+  - The astronauts lived in a special capsule during their space mission.（宇航员在太空任务期间生活在一个特殊的密封舱里。）
+  - The rare specimen was kept in a special capsule filled with nitrogen.（稀有标本被保存在充满氮气的特殊密封舱中。）
+  - ⚠️ capsule 有多重含义：药物胶囊、太空舱、密封容器；根据上下文判断
+
+- layers of 一层层的；多层……
+  - There are layers of meaning in this poem.（这首诗有层层深意。）
+  - Layers of dust covered the old furniture in the attic.（阁楼上的旧家具上积了一层又一层的灰。）
+  - The wedding cake had three layers of cream and fruit.（这个婚礼蛋糕有三层奶油和水果。）
+  - ⚠️ layer = 层；layers of 强调层数多；可用于具体事物（灰尘、蛋糕）也可用于抽象事物（含义、问题）
+
+- a layer of 一层……
+  - Spread a layer of butter on the bread.（在面包上涂一层黄油。）
+  - There was a thin layer of ice on the lake this morning.（今早湖面上结了薄薄一层冰。）
+  - The painting has a layer of varnish to protect the colors.（这幅画有一层清漆保护色彩。）
+  - ⚠️ a layer of 是单数"一层"；thick/thin layer = 厚/薄层
+
+- make progress 取得进步；取得进展
+  - You've made a lot of progress in English since last year.（从去年以来，你的英语进步很大。）
+  - The project is making progress slowly but steadily.（这个项目正在缓慢但稳步地推进。）
+  - She didn't make much progress in the first few months of training.（训练的前几个月她没取得多大进步。）
+  - ⚠️ progress 是不可数名词，不能说 make a progress；可说 make much/great/good progress
+
+- go/run smoothly 进展顺利；运行顺畅
+  - The wedding went smoothly despite the bad weather.（尽管天气不好，婚礼还是进行得很顺利。）
+  - Everything ran smoothly on the first day of the new system.（新系统第一天一切运行顺畅。）
+  - I hope the meeting will go smoothly tomorrow.（我希望明天的会议能顺利进行。）
+  - ⚠️ 主语通常是事情（project, meeting, event），不用于人；反义：go badly、go wrong
+
+- be trapped in 被困在……中；陷入
+  - The miners were trapped in the tunnel for three days.（矿工们被困在隧道里三天。）
+  - He felt trapped in a job he hated.（他觉得自己被困在一份讨厌的工作里。）
+  - Many people are trapped in poverty through no fault of their own.（许多人并非自身过错而陷入贫困。）
+  - ⚠️ 可用于具体地点（被困在某处），也可用于抽象状态（陷入困境/贫穷等）
+
+- lose one's life 失去生命；丧生
+  - Hundreds of people lost their lives in the earthquake.（数百人在地震中丧生。）
+  - He lost his life trying to save a child from drowning.（他为救一个溺水的孩子而失去了生命。）
+  - Many soldiers lost their lives in the war.（许多士兵在战争中牺牲了。）
+  - ⚠️ 较正式/书面的表达，比 die 更庄重；口语常用 die、pass away
+
+- As it is... 照现状看；事实上；按现在的情况
+  - As it is, we can barely finish the project on time.（照现在的情况，我们几乎没法按时完成项目。）
+  - I can't take on more work—as it is, I'm already overloaded.（我接不了更多工作了——事实上我已经超负荷了。）
+  - As it is, we'll have to cancel the trip because of the storm.（按现在的情况，因为暴风雨我们得取消旅行了。）
+  - ⚠️ 用于引出令人不快的实际情况，常带遗憾或无奈语气；as it is = the way things are now
+
+- enable sb. to do sth. 使某人能够做某事
+  - The scholarship enabled her to study abroad.（奖学金使她能够出国留学。）
+  - New technology enables us to work from anywhere in the world.（新技术使我们可以在世界任何地方工作。）
+  - His hard work enabled him to pass the exam with high marks.（他的努力让他能以高分通过考试。）
+  - ⚠️ enable = 使能够、使成为可能；比 make sb. able to do 更正式、更简洁
+
+- keep in touch with ... 与……保持联系
+  - I still keep in touch with my high school friends.（我还和高中朋友们保持着联系。）
+  - Please keep in touch with us while you're traveling.（你旅行期间请和我们保持联系。）
+  - It's easy to keep in touch with people these days thanks to social media.（如今多亏了社交媒体，和人保持联系很容易。）
+  - ⚠️ 同义表达：stay in touch with、keep in contact with；反义：lose touch with（失去联系）
+
+- run out of ... 用完；耗尽
+  - We've run out of milk—can you buy some on the way home?（我们牛奶喝完了——你回家路上能买点吗？）
+  - The car ran out of gas in the middle of the highway.（车在高速路中途没油了。）
+  - Time is running out—we need to make a decision quickly.（时间不多了——我们得快点做决定。）
+  - ⚠️ 主语通常是人或物（sth. runs out）；后接名词（时间、食物、钱等）；类似表达：use up
+
+- lose heart 灰心；丧失信心
+  - Don't lose heart just because you failed the first time.（别因为第一次失败就灰心。）
+  - After many setbacks, he finally lost heart and gave up.（经历了很多挫折后，他最终灰心放弃了。）
+  - The team lost heart after losing three games in a row.（连输三场比赛后，球队士气低落。）
+  - ⚠️ 近义：give up（放弃）、be discouraged（气馁）；反义：take heart（鼓起勇气）
+
+- cause sb./sth. to do sth. 导致某人/某物做某事
+  - The heavy rain caused the river to flood.（大雨导致河水泛滥。）
+  - What caused him to change his mind so suddenly?（是什么让他突然改变了主意？）
+  - The noise caused me to lose my concentration.（噪音让我无法集中注意力。）
+  - ⚠️ cause = 导致、引起；后接宾语 + 不定式（to do）；比 make sb. do 更正式，make 后接不带 to 的不定式
