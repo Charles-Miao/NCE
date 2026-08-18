@@ -2560,3 +2560,51 @@
   - What caused him to change his mind so suddenly?（是什么让他突然改变了主意？）
   - The noise caused me to lose my concentration.（噪音让我无法集中注意力。）
   - ⚠️ cause = 导致、引起；后接宾语 + 不定式（to do）；比 make sb. do 更正式，make 后接不带 to 的不定式
+
+- a slip of the tongue 口误；说漏嘴
+  - I didn't mean to say that—it was just a slip of the tongue.（我不是故意那么说的——只是口误而已。）
+  - Calling her by his ex-girlfriend's name was a slip of the tongue.（叫错她成前女友的名字，那是个口误。）
+  - The politician made a slip of the tongue during the interview and revealed a secret.（那位政客在采访中一时口误，泄露了一个秘密。）
+  - ⚠️ slip = 失误、疏忽；tongue = 舌头；类似表达：a slip of the pen（笔误）
+
+- a comedy show 喜剧表演；脱口秀
+  - We went to a comedy show last night and laughed the whole time.（我们昨晚去看了一场喜剧表演，全程笑个不停。）
+  - He became famous after appearing on a popular TV comedy show.（他在一个热门电视喜剧节目中亮相后成名了。）
+  - The club hosts a live comedy show every Saturday night.（这家俱乐部每周六晚上都有现场喜剧表演。）
+  - ⚠️ comedy = 喜剧；反义：tragedy（悲剧）；类似表达：stand-up comedy（单口喜剧）
+
+- hold up the queue 插队；挡住队伍
+  - Don't hold up the queue—other people are waiting too.（别插队——别人也在等呢。）
+  - The man at the front was holding up the queue by asking too many questions.（前面那个人问题太多，挡住了队伍前进。）
+  - If you're not ready to order, please don't hold up the queue.（如果你还没准备好点单，请别挡着队伍。）
+  - ⚠️ hold up = 阻挡、耽搁；queue = 队伍（英式英语）；美式常用 line / hold up the line
+
+- do anything to do sth. 想尽一切办法做某事
+  - She would do anything to pass the exam.（她愿意想尽一切办法通过考试。）
+  - He said he'd do anything to get his old job back.（他说他愿意不惜一切代价换回原来的工作。）
+  - I'll do anything to help you—just tell me what you need.（我愿意尽我所能帮你——告诉我你需要什么就行。）
+  - ⚠️ 强调为达到目的愿意付出很大努力；类似表达：do everything possible、go to great lengths
+
+- the news gets around 消息传开了
+  - The news got around quickly that she was getting married.（她要结婚的消息很快传开了。）
+  - News gets around fast in a small town.（小镇上消息传得很快。）
+  - By the next day, the news had gotten around to everyone in the office.（到第二天，消息已经传到办公室每个人那里了。）
+  - ⚠️ get around = 传播、传开；news 是不可数名词；类似表达：spread like wildfire（像野火一样迅速传开）
+
+- feel disappointed 感到失望
+  - I felt disappointed when I heard the trip had been cancelled.（听到旅行被取消的消息，我感到很失望。）
+  - She was deeply disappointed by his response.（他的回复让她深感失望。）
+  - Don't feel disappointed—there will be more opportunities.（别失望——还会有更多机会的。）
+  - ⚠️ be disappointed at/about sth.（对某事失望）、be disappointed in sb.（对某人失望）；disappointing = 令人失望的（修饰物）
+
+- at the beginning of 在……的开始/开端
+  - At the beginning of the meeting, the chairman made a short speech.（会议开始时，主席做了简短的发言。）
+  - I always feel nervous at the beginning of a new job.（新工作刚开始的时候我总是很紧张。）
+  - At the beginning of the movie, we see the main character as a child.（电影开头，我们看到主角还是个孩子。）
+  - ⚠️ 后接时间或事件名词（meeting、year、movie 等）；反义：at the end of（在……末尾）
+
+- burst out laughing 突然大笑起来
+  - Everyone burst out laughing when he walked in with that silly hat.（他戴着那顶傻帽子走进来时，所有人都突然大笑起来。）
+  - I couldn't help bursting out laughing when I saw his face.（看到他的表情，我忍不住哈哈大笑起来。）
+  - The whole class burst out laughing at the teacher's joke.（听了老师的笑话，全班哄堂大笑。）
+  - ⚠️ burst out + doing = 突然……起来；类似结构：burst out crying（突然大哭）、burst into tears/laughter（突然哭/笑起来）
