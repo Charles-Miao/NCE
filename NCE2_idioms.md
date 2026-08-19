@@ -2608,3 +2608,45 @@
   - I couldn't help bursting out laughing when I saw his face.（看到他的表情，我忍不住哈哈大笑起来。）
   - The whole class burst out laughing at the teacher's joke.（听了老师的笑话，全班哄堂大笑。）
   - ⚠️ burst out + doing = 突然……起来；类似结构：burst out crying（突然大哭）、burst into tears/laughter（突然哭/笑起来）
+
+- be scared/frightened out of one's wits 吓得魂飞魄散；吓呆了
+  - I was scared out of my wits when I saw a snake in the garden.（我在花园里看到一条蛇，吓得魂飞魄散。）
+  - She was frightened out of her wits by the sudden loud noise in the middle of the night.（半夜突如其来的巨响把她吓得魂都没了。）
+  - The little boy was frightened out of his wits when he got lost in the mall.（小男孩在商场走丢时，吓得六神无主。）
+  - ⚠️ wits = 理智、智慧；out of one's wits = 失去理智、吓傻了；scared 和 frightened 可互换
+
+- a variety of 各种各样的；多种多样的
+  - There are a variety of foods at the buffet.（自助餐上有各种各样的食物。）
+  - The store sells a variety of products, from food to electronics.（这家店卖多种多样的商品，从食品到电子产品都有。）
+  - She has tried a variety of ways to improve her English.（她尝试了各种各样的方法来提高英语。）
+  - ⚠️ 后接可数名词复数；类似表达：all kinds of、different types of；various（形容词，直接修饰名词）
+
+- it comes as a surprise to learn that 得知……感到惊讶
+  - It came as a surprise to learn that he had quit his well-paid job.（得知他辞掉了高薪工作，大家都很惊讶。）
+  - It came as a surprise to me to learn that she was already married.（得知她已经结婚了，我感到很意外。）
+  - It came as a surprise to everyone to learn that the project had been cancelled.（项目被取消了，得知这个消息所有人都很惊讶。）
+  - ⚠️ 固定句型：it 作形式主语，真正主语是 to learn that...；类似表达：I was surprised to learn that...
+
+- protect A from B 保护A免受B的伤害
+  - Sunscreen protects your skin from the sun.（防晒霜保护皮肤免受阳光伤害。）
+  - The mother tried to protect her child from the harsh reality.（母亲试图保护孩子免受残酷现实的伤害。）
+  - Wearing a helmet can protect you from serious injury.（戴头盔能保护你免受重伤。）
+  - ⚠️ protect ... from ... = 保护……免遭……；from 后接名词或动名词；类似表达：keep ... safe from
+
+- in length 在长度上；长度为
+  - The river is 5,000 kilometers in length.（这条河长5000公里。）
+  - The room is 10 meters in length and 6 meters in width.（这个房间长10米，宽6米。）
+  - The essay should be between 500 and 800 words in length.（这篇文章的长度应在500到800字之间。）
+  - ⚠️ 表示长度的两种表达：sth. is X meters long / sth. is X meters in length；类似结构：in width（宽度）、in height（高度）
+
+- the total absence of 完全没有；全然缺乏
+  - The total absence of evidence meant the suspect had to be released.（完全没有证据意味着嫌疑人必须被释放。）
+  - I was shocked by the total absence of concern from the management.（管理层完全漠不关心，这让我很震惊。）
+  - The total absence of traffic in the city center at night was eerie.（市中心夜晚完全没有车辆，让人感到诡异。）
+  - ⚠️ absence = 缺席、缺乏；total 修饰 absence 强调"完全、彻底"；反义：the presence of（有……存在）
+
+- as a result 结果；因此
+  - He didn't study hard, and as a result, he failed the exam.（他学习不努力，结果考试不及格。）
+  - It rained heavily for days; as a result, the river flooded.（连续下了几天大雨，结果河水泛滥了。）
+  - She was late for work again, and as a result, she was fired.（她上班又迟到了，因此被解雇了。）
+  - ⚠️ 用于引出结果，前后句是因果关系；类似表达：as a consequence、therefore、so；注意 as a result of（因为……，后接原因）
