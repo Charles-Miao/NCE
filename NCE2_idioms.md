@@ -2650,3 +2650,45 @@
   - It rained heavily for days; as a result, the river flooded.（连续下了几天大雨，结果河水泛滥了。）
   - She was late for work again, and as a result, she was fired.（她上班又迟到了，因此被解雇了。）
   - ⚠️ 用于引出结果，前后句是因果关系；类似表达：as a consequence、therefore、so；注意 as a result of（因为……，后接原因）
+
+- spy on sb./sth. 监视；窥探某人/某物
+  - The police were spying on the suspect for weeks before arresting him.（警方监视了嫌疑人数周后才逮捕他。）
+  - She felt like someone was spying on her from across the street.（她感觉有人从街对面在监视她。）
+  - He was accused of spying on the company's confidential files.（他被指控窥探公司机密文件。）
+  - ⚠️ spy on = 秘密监视、窥探，含贬义；类似表达：keep an eye on（留意，较中性）、watch secretly
+
+- keep track of 记录；掌握……的动态；了解……的情况
+  - It's hard to keep track of all the new words you learn.（很难把你学的所有生词都记下来。）
+  - She keeps track of her expenses using a phone app.（她用手机应用记录开支。）
+  - I've lost track of how many times he's been late this month.（我已经记不清他这个月迟到多少次了。）
+  - ⚠️ 反义：lose track of（跟不上、记不清）；track = 踪迹、轨迹；keep track of 原义"跟上足迹"，引申为"掌握动态"
+
+- seem to be doing ... 似乎正在做……
+  - He seems to be working very hard these days.（他这些天似乎工作很努力。）
+  - She seemed to be hiding something when I asked her about it.（我问她这件事时，她好像在隐瞒什么。）
+  - They seem to be having a good time at the party.（他们在派对上似乎玩得很开心。）
+  - ⚠️ seem to be + doing = 似乎正在做（强调进行中的动作）；对比 seem to do（似乎做某事，强调事实或习惯）
+
+- make for sw. 朝某地走去；前往
+  - After the meeting, we made for the nearest coffee shop.（会议结束后，我们直奔最近的咖啡店。）
+  - When it started raining, they made for shelter.（开始下雨时，他们朝避雨处跑去。）
+  - The ship made for the harbor as the storm approached.（暴风雨来临时，船驶向港口。）
+  - ⚠️ make for = 向……方向前进，比 go to 更有目的性或紧迫感；类似表达：head for、leave for
+
+- make out 辨认出；看清；理解
+  - It was so dark that I could barely make out the road ahead.（天太黑了，我几乎看不清前面的路。）
+  - I could just make out a figure in the distance.（我勉强能辨认出远处有个人影。）
+  - Can you make out what he's saying on the phone?（你能听清他电话里在说什么吗？）
+  - ⚠️ 多义短语：① 辨认出（视觉/听觉） ② 理解、明白；类似表达：figure out（理解）、pick out（辨认出）
+
+- soon afterwards 不久之后
+  - He left home at 8 o'clock, and soon afterwards, it started to rain.（他8点出门，不久之后就开始下雨了。）
+  - She graduated from college and soon afterwards got a job in Shanghai.（她大学毕业，不久之后就在上海找到了工作。）
+  - The movie ended, and soon afterwards the audience left the theater.（电影结束，不久之后观众就离开了影院。）
+  - ⚠️ soon afterwards = shortly afterwards、not long after；注意 after 是介词（后接宾语），afterwards 是副词（独立使用）
+
+- be called in 被叫来；被召来
+  - A specialist was called in to handle the difficult case.（一位专家被请来处理这个疑难病例。）
+  - The police were called in to investigate the theft.（警察被召来调查这起盗窃案。）
+  - When the machine broke down, an engineer had to be called in.（机器出故障时，不得不叫来一位工程师。）
+  - ⚠️ call in = 召来、请来（专业人士）；被动语态 be called in 更常用；类似表达：be brought in、be summoned
