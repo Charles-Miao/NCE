@@ -2692,3 +2692,27 @@
   - The police were called in to investigate the theft.（警察被召来调查这起盗窃案。）
   - When the machine broke down, an engineer had to be called in.（机器出故障时，不得不叫来一位工程师。）
   - ⚠️ call in = 召来、请来（专业人士）；被动语态 be called in 更常用；类似表达：be brought in、be summoned
+
+- fast asleep 熟睡；睡得很沉
+  - The baby is fast asleep—don't make any noise.（宝宝睡得很沉——别出声。）
+  - He was fast asleep and didn't hear the phone ring.（他睡得很熟，没听到电话响。）
+  - I was so tired that I fell fast asleep as soon as my head hit the pillow.（我太累了，头一沾枕头就睡沉了。）
+  - ⚠️ fast 在此不是"快"，而是"完全地、深深地"；类似表达：sound asleep（酣睡）、deep asleep（熟睡）；反义：wide awake（完全清醒）
+
+- Are you being sarcastic? 你在讽刺我吗？/ 你是在说反话吧？
+  — You're so good at cooking. — Are you being sarcastic? I almost burned the food!（——你厨艺真好。——你在说反话吧？我差点把菜烧糊了！）
+  - Are you being sarcastic, or do you really mean that?（你是在讽刺我，还是真心这么说？）
+  - I can never tell if he's being sarcastic or not.（我永远搞不清他是不是在说反话。）
+  - ⚠️ sarcastic = 讽刺的、挖苦的；be being + adj. 表示"此刻显得……"，强调当前的态度或行为
+
+- Don't take that tone with me! 别用那种语气跟我说话！
+  - Don't take that tone with me—I'm your boss, not your friend.（别用那种语气跟我说话——我是你老板，不是你朋友。）
+  - "Don't take that tone with me!" she said angrily.（"别用那种口气跟我说话！"她生气地说。）
+  - Don't you take that tone with me, young man!（年轻人，别跟我用这种语气说话！）
+  - ⚠️ take that tone = 用那种语气/口气；tone = 语气、腔调；常用于长辈对晚辈或上级对下级的责备
+
+- hate to do sth. 讨厌/不愿做某事
+  - I hate to disturb you, but I need your help with something.（我不想打扰你，但有件事需要你帮忙。）
+  - She hates to get up early on weekends.（她讨厌周末早起。）
+  - I hate to say this, but I think you're wrong.（我不想这么说，但我觉得你错了。）
+  - ⚠️ hate to do 表示"不愿做、不喜欢做"；口语中 I hate to say / I hate to bother you 是常用的礼貌铺垫，类似于"不好意思说/不想打扰"；对比 hate doing（讨厌做某事，强调习惯性）
