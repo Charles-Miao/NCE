@@ -2716,3 +2716,27 @@
   - She hates to get up early on weekends.（她讨厌周末早起。）
   - I hate to say this, but I think you're wrong.（我不想这么说，但我觉得你错了。）
   - ⚠️ hate to do 表示"不愿做、不喜欢做"；口语中 I hate to say / I hate to bother you 是常用的礼貌铺垫，类似于"不好意思说/不想打扰"；对比 hate doing（讨厌做某事，强调习惯性）
+
+- a noble gift / man 珍贵的礼物/高尚的人
+  - It was a noble gift from the king, given only to his most loyal servants.（这是国王赐予的珍贵礼物，只送给他最忠诚的臣子。）
+  - He was a noble man who always put others before himself.（他是个高尚的人，总是把别人放在自己前面。）
+  - Helping others without asking for anything in return is a truly noble act.（帮助别人不求回报，是真正高尚的行为。）
+  - ⚠️ noble = 高尚的、高贵的、珍贵的；可修饰人（品质高尚）也可修饰物（贵重/珍贵）；类似表达：a precious gift（珍贵礼物）、a man of noble character（品格高尚的人）
+
+- camp site 露营地；营地
+  - We set up our tent at the camp site near the lake.（我们在湖边的露营地支起了帐篷。）
+  - The camp site has toilets, showers, and a small shop.（这个营地有厕所、淋浴和一个小商店。）
+  - We had to book the camp site two months in advance for the holiday.（假期我们得提前两个月预订露营地。）
+  - ⚠️ camp site = camping site / campsite（可连写）；类似表达：campground（露营区，美式）、campsite（营地，英式更常用）
+
+- at the entrance of ... 在……的入口处
+  - I'll meet you at the entrance of the museum at 10 o'clock.（我10点在博物馆入口处和你碰面。）
+  - There's a security guard standing at the entrance of the building.（大楼入口处站着一名保安。）
+  - She was waiting for me at the entrance of the park.（她在公园入口处等我。）
+  - ⚠️ at the entrance of = 在……的入口（强调地点位置）；也可说 at the entrance to（通往……的入口，强调方向）；反义：at the exit of（在……出口）
+
+- take sth. to pieces 把某物拆开；拆散
+  - He took the old clock to pieces to see how it worked.（他把旧钟拆开，看看它的工作原理。）
+  - The mechanic took the engine to pieces to find the problem.（机修工把发动机拆开找问题。）
+  - My little brother loves taking toys to pieces, but he can never put them back together.（我弟弟喜欢把玩具拆开，但永远装不回去。）
+  - ⚠️ take sth. to pieces = 把某物拆成碎片/零件；类似表达：take apart、disassemble（更正式）；反义：put sth. together、assemble（组装）
