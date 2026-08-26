@@ -2740,3 +2740,57 @@
   - The mechanic took the engine to pieces to find the problem.（机修工把发动机拆开找问题。）
   - My little brother loves taking toys to pieces, but he can never put them back together.（我弟弟喜欢把玩具拆开，但永远装不回去。）
   - ⚠️ take sth. to pieces = 把某物拆成碎片/零件；类似表达：take apart、disassemble（更正式）；反义：put sth. together、assemble（组装）
+
+- be instructed in doing sth. 被指导做某事；接受……方面的训练
+  - The new employees were instructed in using the safety equipment.（新员工接受了安全设备使用的指导。）
+  - She was instructed in cooking by her grandmother when she was young.（她小时候跟着奶奶学做饭。）
+  - All soldiers must be instructed in first aid before going on duty.（所有士兵上岗前必须接受急救训练。）
+  - ⚠️ 被动结构，主语是学习者；instruct = 指导、教导、指示；比 teach 更正式，常指系统性的训练或指令
+
+- instruct sb. in sth./doing sth. 指导某人做某事；在某方面教导某人
+  - The coach instructed the team in proper running techniques.（教练指导团队正确的跑步技巧。）
+  - He instructed me in how to use the new software.（他教我怎么使用这个新软件。）
+  - The teacher instructed the students in writing a formal letter.（老师教学生们写正式信函。）
+  - ⚠️ 主动结构，主语是指导者；instruct sb. in sth. = 在某方面指导某人；类似表达：teach sb. sth.、train sb. in sth.
+
+- be reluctant to do sth. 不情愿做某事；勉强做某事
+  - He was reluctant to admit that he had made a mistake.（他不愿承认自己犯了错。）
+  - She was reluctant to leave her friends and move to another city.（她不愿离开朋友们搬到另一个城市。）
+  - The company was reluctant to invest in new technology at first.（公司一开始不情愿投资新技术。）
+  - ⚠️ reluctant = 不情愿的、勉强的；be reluctant to do = be unwilling to do（但 reluctant 语气稍弱，含"勉强还是会做"的意味）；反义：be willing to do（愿意做）
+
+- compete against 与……竞争；对抗
+  - She competed against the best runners in the country and won.（她与全国最优秀的赛跑选手竞争并获胜。）
+  - The two companies have been competing against each other for years.（这两家公司已经互相竞争多年了。）
+  - It's not easy to compete against someone with so much experience.（和经验这么丰富的人竞争不容易。）
+  - ⚠️ compete against = compete with（两者常可互换）；compete in = 参加（比赛/项目）；compete for = 为……而竞争（奖项/职位）
+
+- sb./sth. proved that + 句子 某人/某物证明了……
+  - She proved that she was right all along.（她证明了她一直都是对的。）
+  - The experiment proved that the theory was correct.（实验证明了这个理论是正确的。）
+  - He has proven that he can handle the job well.（他已经证明了自己能做好这份工作。）
+  - ⚠️ prove = 证明、证实；过去式 proved，过去分词 proved 或 proven；类似表达：show that、demonstrate that
+
+- hold one's breath 屏住呼吸；屏息
+  - Hold your breath and count to ten under water.（屏住呼吸，在水下数到十。）
+  - We all held our breath as the acrobat walked on the tightrope.（杂技演员走钢丝时，我们都屏住了呼吸。）
+  - I held my breath and waited for the results.（我屏住呼吸等待结果。）
+  - ⚠️ 字面义是"屏住呼吸"，也可引申为"紧张地等待、提心吊胆"；近义：breathe deeply（深呼吸）；catch one's breath（缓口气）
+
+- be accustomed to doing 习惯于做某事
+  - I'm accustomed to getting up early every day.（我习惯了每天早起。）
+  - She is accustomed to working long hours.（她习惯了长时间工作。）
+  - It took me a while to become accustomed to the new environment.（我花了一段时间才习惯新环境。）
+  - ⚠️ be accustomed to + 名词/动名词（doing），to 是介词；同义：be used to doing；区别：be used to do（被用来做某事，被动语态）
+
+- be popular with ... 受……欢迎
+  - The new teacher is very popular with the students.（这位新老师很受学生欢迎。）
+  - This song is really popular with young people.（这首歌很受年轻人欢迎。）
+  - She's popular with everyone in the office because she's always willing to help.（她在办公室很受欢迎，因为她总是乐于助人。）
+  - ⚠️ be popular with = 受……的欢迎，with 后接人群；be popular among 也可用，两者差别很小；反义：be unpopular with
+
+- be lined up 排成一排；排队
+  - The children were lined up waiting to go into the classroom.（孩子们排好队等着进教室。）
+  - All the cars were lined up at the traffic light.（所有的车都在红绿灯前排成一列。）
+  - The books on the shelf were neatly lined up by size.（书架上的书按大小整齐排列。）
+  - ⚠️ 被动结构，表示"被排成行"；主动：line up（排队、排列）；类似表达：stand in a line、queue up（英式，排队等候）
