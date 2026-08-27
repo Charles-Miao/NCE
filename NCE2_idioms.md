@@ -2794,3 +2794,44 @@
   - All the cars were lined up at the traffic light.（所有的车都在红绿灯前排成一列。）
   - The books on the shelf were neatly lined up by size.（书架上的书按大小整齐排列。）
   - ⚠️ 被动结构，表示"被排成行"；主动：line up（排队、排列）；类似表达：stand in a line、queue up（英式，排队等候）
+
+- live in a fantasy world 生活在幻想世界里；不切实际
+  - He lives in a fantasy world if he thinks he can get rich without working.（如果他觉得不用工作就能发财，那他真是活在幻想世界里。）
+  - Stop living in a fantasy world and face the reality!（别再活在幻想里了，面对现实吧！）
+  - She spends all day reading novels and lives in a fantasy world of her own.（她整天看小说，活在自己的幻想世界里。）
+  - ⚠️ fantasy = 幻想、想象；live in a fantasy world = 不切实际、脱离现实；类似表达：live in a dream world、have one's head in the clouds
+
+- Good heavens! 天啊！/ 我的天！（表惊讶、震惊）
+  - Good heavens! You're still here? I thought you had left!（天啊！你还在这儿？我以为你已经走了！）
+  - Good heavens! It's already 11 o'clock—we're going to be late!（我的天！已经11点了——我们要迟到了！）
+  — Good heavens! Is that really you after all these years?（天啊！这么多年过去了，真的是你吗？）
+  - ⚠️ 口语感叹词，表示惊讶、震惊或不耐烦；类似表达：Good grief!、Oh my goodness!、Heavens above!；比 Oh my god 更文雅一点
+
+- fire a shot 开一枪；发射一发子弹
+  - The soldier fired a shot into the air as a warning.（士兵朝天开了一枪作为警告。）
+  - Someone fired a shot and the crowd started running.（有人开了一枪，人群开始四散奔跑。）
+  - He fired a shot at the target but missed.（他朝靶子开了一枪，但没打中。）
+  - ⚠️ fire 作动词 = 开火、射击；shot = 射击、一枪；类似表达：fire a gun（开枪）、take a shot（射击/尝试）
+
+- get into such a mess 陷入这么糟糕的境地；搞成这么乱
+  - How did we get into such a mess? We were doing so well at first!（我们怎么搞成这么糟的？一开始明明很顺利啊！）
+  - The company got into such a mess that it almost went bankrupt.（公司陷入了如此糟糕的境地，差点破产。）
+  - I don't know how you got yourself into such a mess.（我真不知道你怎么把自己搞成这么乱的。）
+  - ⚠️ get into a mess = 陷入困境/混乱；such 加强语气"如此、这么"；类似表达：get into trouble、be in a mess
+
+- set sth. on fire 放火烧某物；使某物着火
+  - Someone set the building on fire on purpose.（有人故意放火烧了那栋楼。）
+  - The campers set the wood on fire to keep warm.（露营者把木柴点着取暖。）
+  - Be careful with that match—you'll set the curtains on fire!（小心那根火柴——你会把窗帘点着的！）
+  - ⚠️ set sth. on fire = 使某物燃烧（强调动作）；be on fire = 正在燃烧（状态）；类似表达：set fire to sth.（同义，语序不同）
+
+- go on doing sth. 继续做某事；不停地做某事
+  - She went on working until late at night.（她一直工作到深夜。）
+  - Don't go on talking like that—it's rude.（别再那样说话了——不礼貌。）
+  - He went on reading his book as if nothing had happened.（他继续看书，好像什么都没发生一样。）
+  - ⚠️ go on doing = 继续做同一件事；对比 go on to do = 做完一件事后接着做另一件事；类似表达：continue doing、keep doing
+
+- I must get that fellow posted. 我得把那家伙调走。
+  — That new assistant is completely useless—I must get that fellow posted somewhere else.（那个新助理完全没用——我得把那家伙调去别的地方。）
+  - If he keeps making trouble, I'll have to get that fellow posted to another department.（他要是再惹麻烦，我就得把他调到别的部门去。）
+  - ⚠️ 口语化表达，fellow = 家伙、人（略带轻视或随意的语气）；get sb. posted = 把某人调走、派遣；post 在此是"派驻、调派"的意思，英式英语常用
