@@ -45,10 +45,10 @@
 - [X] 新概念英语 2 文章听读
 - [X] 新概念英语 3 文章听读
 - [X] [新概念英语 1 超全面详细讲解和学习](https://github.com/Charles-Miao/NCE/blob/main/NCE1.md)
-- [ ] 新概念英语 2 超全面详细讲解和学习
+- [X] 新概念英语 2 超全面详细讲解和学习
     - [NCE2_idioms](https://github.com/Charles-Miao/NCE/blob/main/NCE2_idioms.md)
     - [NCE2_grammar](https://github.com/Charles-Miao/NCE/blob/main/NCE2_grammar.md)
-- [ ] 新概念 2 熟读成诵
+- [X] 新概念 2 熟读成诵
 - [ ] 雅思托福课 - Leo老师
 - [ ] 天天听英语 泛听美剧/动画/教学剧集
 - [ ] AI 英语原声对话（豆包）
