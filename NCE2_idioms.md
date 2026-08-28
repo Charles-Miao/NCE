@@ -2835,3 +2835,9 @@
   — That new assistant is completely useless—I must get that fellow posted somewhere else.（那个新助理完全没用——我得把那家伙调去别的地方。）
   - If he keeps making trouble, I'll have to get that fellow posted to another department.（他要是再惹麻烦，我就得把他调到别的部门去。）
   - ⚠️ 口语化表达，fellow = 家伙、人（略带轻视或随意的语气）；get sb. posted = 把某人调走、派遣；post 在此是"派驻、调派"的意思，英式英语常用
+
+- make a spectacle of oneself 出洋相；当众出丑
+  - He got drunk at the party and made a spectacle of himself.（他在派对上喝醉了，出尽了洋相。）
+  - Don't make a spectacle of yourself in public—calm down!（别在大庭广众之下出洋相——冷静点！）
+  - She tripped and fell on the stage, making a complete spectacle of herself.（她在舞台上绊倒了，当众出了个大洋相。）
+  - ⚠️ spectacle = 景象、奇观；make a spectacle of oneself = 让自己成为众人瞩目的笑柄、出丑；类似表达：make a fool of oneself、embarrass oneself
