@@ -47,3 +47,51 @@
   - It is disturbing to think that we may never know the truth.（想到我们可能永远不知道真相，让人不安。）
   - It is disturbing to think about what might happen in the future.（想到未来可能发生的事，令人担忧。）
   - ⚠️ disturbing = 令人不安的、引起烦恼的；it 是形式主语，真正主语是 to think that...；类似表达：It is worrying to think that、It is unsettling to think that
+
+- at large 在逃；逍遥法外；普遍的
+  - The escaped prisoner is still at large.（逃犯仍然在逃。）
+  - The terrorist is believed to be at large somewhere in Europe.（据悉那名恐怖分子仍在欧洲某处逍遥法外。）
+  - There is a sense of unease at large among the population.（民众中普遍弥漫着不安的情绪。）
+  - ⚠️ 多义短语：①（罪犯）在逃、未被捕获 ② 普遍的、广泛的（= in general）；类似表达：on the run（在逃，更口语）、still free（仍自由）
+
+- be found in 存在于；产于；在……中被发现
+  - This kind of plant is found in tropical rainforests.（这种植物产于热带雨林。）
+  - High levels of pollution are found in many big cities.（很多大城市都存在严重的污染。）
+  - The protein is mainly found in fish and nuts.（这种蛋白质主要存在于鱼类和坚果中。）
+  - ⚠️ 被动结构，表示"被发现存在于……"；常用于描述事物的分布或存在地点；find 主动形式也常用：Scientists find this chemical in...
+
+- take sth. seriously 认真对待某事；重视
+  - You should take your health more seriously.（你应该更重视自己的健康。）
+  - The company takes customer feedback very seriously.（公司非常重视客户反馈。）
+  - Don't take him seriously—he's just joking.（别把他的话当真——他只是在开玩笑。）
+  - ⚠️ take sth. seriously = 严肃认真地对待；反义：take sth. lightly（轻视、不认真对待）；注意 seriously 是副词，修饰 take
+
+- sth. proved adj. 某事被证明是……的
+  - The plan proved successful after only three months.（仅三个月后，计划就被证明是成功的。）
+  - His advice proved very useful to me.（他的建议对我非常有用。）
+  - The new drug proved effective in treating the disease.（新药被证明对治疗这种疾病有效。）
+  - ⚠️ prove 在此作系动词，后接形容词 = turn out to be；类似表达：sth. turned out to be adj.；注意 prove 不用被动语态，主动形式表被动含义
+
+- sb. confirmed that + 句子 某人确认/证实……
+  - The doctor confirmed that the patient was out of danger.（医生确认病人已脱离危险。）
+  - She confirmed that she would be attending the meeting.（她证实她会参加会议。）
+  - The company confirmed that there would be no layoffs this year.（公司证实今年不会裁员。）
+  - ⚠️ confirm = 确认、证实（使更确定）；后可接 that 从句、名词或代词；类似表达：verify、make sure；区别：prove（证明，提供证据）vs. confirm（确认，肯定已有信息）
+
+- claim to have done sth. 声称做过某事
+  - He claims to have seen a UFO in the sky last night.（他声称昨晚在天空中看到了UFO。）
+  - The man claimed to have found the treasure by accident.（那人声称是偶然发现宝藏的。）
+  - She claims to have worked for the government, but no one believes her.（她声称曾为政府工作，但没人相信她。）
+  - ⚠️ claim to have done = 声称已经做过某事（不定式的完成式，表示动作在 claim 之前发生）；claim 常含"声称但不一定可信"的意味；类似表达：allege to have done（更正式，法律用语）
+
+- find sb. doing sth. 发现某人正在做某事
+  - The teacher found the students cheating on the exam.（老师发现学生们考试作弊。）
+  - I came home early and found my dog sleeping on the sofa.（我早早回家，发现狗在沙发上睡觉。）
+  - She was found reading a book in the library.（有人发现她在图书馆看书。）
+  - ⚠️ find sb. doing = 发现某人正在做某事（强调动作正在进行）；对比 find sb. do sth.（发现某人做了某事，强调全过程）；类似表达：catch sb. doing sth.（当场抓到，语气更强）、spot sb. doing sth.（撞见、偶然发现）
+
+- go on doing sth. 继续做某事
+  - He went on working despite the pain in his leg.（尽管腿疼，他还是继续工作。）
+  - The rain went on falling all day long.（雨持续下了一整天。）
+  - She went on talking about her problems for hours.（她连续几个小时不停地谈论自己的问题。）
+  - ⚠️ go on doing = 继续做同一件事；对比 go on to do = 做完一件事后接着做另一件事；类似表达：continue doing、keep doing、carry on doing
