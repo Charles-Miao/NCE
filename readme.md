@@ -55,6 +55,8 @@
 
 - [ ] 新概念英语 3 详细讲解和学习
     - 2天完成1节课
+    - [语法](https://github.com/Charles-Miao/NCE/blob/main/NCE3_grammar.md)
+    - [习语](https://github.com/Charles-Miao/NCE/blob/main/NCE3_idioms.md)
 - [ ] 雅思托福课 - Leo老师
     - 2周完成1周任务
     - 建立小组讨论
