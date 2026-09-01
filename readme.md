@@ -29,28 +29,52 @@
 - 欧路词典 app
     - [威威的 GPT 单词本](https://ceelog.github.io/DictionaryByGPT4/index.html) - 可导入欧路词典
 
+### Todolist
+- [X] 阅读《我在 100 天内自学英文翻转人生》
+- [X] NCE 单词 1～4 册
+- [X] 新概念英语 1~3 文章听读
+
 ## 2025～
 ### CEFR B2学习资源
 - [新概念英语123 - 胶学](https://space.bilibili.com/1078480983)
 - [雅思托福课 - Leo老师](https://space.bilibili.com/619469225?spm_id_from=333.337.0.0)
 
 ### APP工具
-- 天天听英语 app - 有很多美剧/动画/教学剧集/新概念英语
+- Google搜索 - 可以查询习语
+- 欧路词典 app - 可以汇聚朗文/牛津/柯林斯等词典
+- Microsoft Edge - 可以使用其朗读功能（美式/英式/其他口音）
 - Doubao - 可以英语原声对话
+- 天天听英语 app - 有很多美剧/动画/教学剧集/新概念英语
 
-## Todolist
-- [X] 阅读《我在 100 天内自学英文翻转人生》
-- [X] NCE 单词 1～4 册
-- [X] 新概念英语 1 文章听读
-- [X] 新概念英语 2 文章听读
-- [X] 新概念英语 3 文章听读
-- [X] [新概念英语 1 超全面详细讲解和学习](https://github.com/Charles-Miao/NCE/blob/main/NCE1.md)
-- [X] 新概念英语 2 超全面详细讲解和学习
-    - [NCE2_idioms](https://github.com/Charles-Miao/NCE/blob/main/NCE2_idioms.md)
-    - [NCE2_grammar](https://github.com/Charles-Miao/NCE/blob/main/NCE2_grammar.md)
-- [X] 新概念 2 熟读成诵
+### Todolist
+- [X] 新概念英语 1 详细讲解和学习
+    - [语法](https://github.com/Charles-Miao/NCE/blob/main/NCE1.md)
+- [X] 新概念英语 2 详细讲解和学习
+    - [语法](https://github.com/Charles-Miao/NCE/blob/main/NCE2_grammar.md)
+    - [习语](https://github.com/Charles-Miao/NCE/blob/main/NCE2_idioms.md)
+
+- [ ] 新概念英语 3 详细讲解和学习
+    - 2天完成1节课
 - [ ] 雅思托福课 - Leo老师
-- [ ] 天天听英语 泛听美剧/动画/教学剧集
+    - 2周完成1周任务
+    - 建立小组讨论
+
+- [ ] 每天跟读
+    - 每天都读，最多隔一天
+    - 每天三次跟读，这是底线次数
+    - 一定要有间隔，例如早中晚
+    - 时间⻓度：15min-1h均可
+    - 一定要早上刚起就跟读+晚上临睡前读，剩下跟读时间⾃⾏安排
+    - 跟读材料：初期NCE123，重点23 + 后期：等直播课程讲
+- [ ] 口语练习 topic for discussion 
+    - 思路： 搜（必应Bing+某⾕）+ 英⽂阅读 + 观点总结（1. 汉英均可 2. One word or one sentence）
+
+- [ ] 西方文明史第3章
+    - 每天2页
+- [ ] 语法复习
+    - 不懂的周末查询《英语用法指南》
+- [ ] 习语复习造句
+    - Google搜索，XXX meaning
+
 - [ ] AI 英语原声对话（豆包）
-- [ ] 新概念英语 3 超全面详细讲解和学习
-- [ ] 新概念 3 熟读成诵
+- [ ] 天天听英语 泛听美剧/动画/教学剧集
