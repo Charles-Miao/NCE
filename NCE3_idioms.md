@@ -95,3 +95,75 @@
   - The rain went on falling all day long.（雨持续下了一整天。）
   - She went on talking about her problems for hours.（她连续几个小时不停地谈论自己的问题。）
   - ⚠️ go on doing = 继续做同一件事；对比 go on to do = 做完一件事后接着做另一件事；类似表达：continue doing、keep doing、carry on doing
+
+- be equal to sth. 等于……；与……相当；能胜任
+  - A kilometer is equal to 1,000 meters.（一公里等于一千米。）
+  - He feels that he is not equal to the job.（他觉得自己不能胜任这份工作。）
+  - The total cost is equal to about three months' salary.（总花费大约相当于三个月的工资。）
+  - ⚠️ 多义：① 数量/程度上相等 ② 胜任（= be up to）；be equal to doing sth. = 能胜任做某事；反义：be unequal to（不等于、不胜任）
+
+- raise money 筹款；募集资金
+  - They are raising money for the homeless children.（他们正在为无家可归的孩子们筹款。）
+  - The charity event raised over 100,000 dollars.（这次慈善活动募集了超过十万美元。）
+  - She sold her paintings to raise money for medical treatment.（她卖掉自己的画作来筹集治疗费用。）
+  - ⚠️ raise money = collect money、fundraise；为某事筹款用 for sth.；注意 raise（及物，募集）vs. rise（不及物，上升）
+
+- for one cause or another 由于这样或那样的原因；因为种种原因
+  - For one cause or another, the meeting had to be cancelled.（由于这样或那样的原因，会议不得不取消。）
+  - Many people leave the countryside for one cause or another.（许多人因为种种原因离开了农村。）
+  - For one cause or another, he never finished college.（因为种种原因，他没能读完大学。）
+  - ⚠️ 也可说 for one reason or another（更常用）；两者同义，表示"因为某种不确定的原因"，语气较委婉
+
+- wake up with a start 猛地惊醒；突然惊醒
+  - She woke up with a start when the alarm went off.（闹钟响的时候，她猛地惊醒了。）
+  - I woke up with a start when I heard a loud noise outside.（听到外面一声巨响，我猛地惊醒了。）
+  - He woke up with a start, realizing he was late for work.（他猛地惊醒，意识到自己上班迟到了。）
+  - ⚠️ wake 的过去式 woke，过去分词 woken；with a start = 猛地、一惊地；start 在此是名词，表示"惊跳、惊动"；类似表达：wake up suddenly、jolt awake
+
+- catch sight of sb./sth. 看到；发现；瞥见
+  - She caught sight of an old friend in the crowd.（她在人群中看到了一位老朋友。）
+  - I caught sight of a mouse running across the floor.（我瞥见一只老鼠跑过地板。）
+  - The sailor caught sight of land after three weeks at sea.（在海上航行了三周后，水手看到了陆地。）
+  - ⚠️ catch sight of = 突然看到、瞥见，强调"不经意间看到"；类似表达：spot、glimpse、catch a glimpse of；反义：lose sight of（看不见、失去联系）
+
+- get enough money to do sth. 筹到足够的钱做某事
+  - He finally got enough money to buy a new car.（他终于筹到足够的钱买新车了。）
+  - We need to get enough money to start the business.（我们需要筹到足够的钱来创业。）
+  - She worked two jobs to get enough money to pay for her tuition.（她打两份工来筹够学费。）
+  - ⚠️ 也可表达为：raise enough money to do sth.、have enough money to do sth.；get 在此侧重"获得、筹集到"这个结果
+
+- sb. be armed with sth. 某人配备/带着某物；某人用……武装
+  - The police were armed with guns and shields.（警察配备了枪和盾牌。）
+  - She came to the meeting armed with all the necessary data.（她带着所有必要的数据来参加会议。）
+  - Armed with a map and a compass, they set off into the forest.（带着地图和指南针，他们出发进入森林。）
+  - ⚠️ 可指具体的武器装备，也可引申为"具备（知识、信息、工具等）"；类似表达：be equipped with；主动：arm sb. with sth.
+
+- recognize A as B 认出A是B；承认A为B
+  - I recognized him as my former classmate immediately.（我立刻认出他是我以前的同学。）
+  - The company is recognized as one of the best in the industry.（这家公司被公认为业内最好的公司之一。）
+  - He was recognized as a genius by everyone who knew him.（所有认识他的人都承认他是个天才。）
+  - ⚠️ recognize A as B = 把A认作B、承认A是B；类似表达：identify A as B、acknowledge A as B；注意区别 recognize（认出）vs. realize（意识到）
+
+- give sb. a surprise 给某人一个惊喜
+  - We gave her a surprise birthday party.（我们给她办了一个惊喜生日派对。）
+  - He wanted to give his parents a surprise when he came home.（他想回家时给父母一个惊喜。）
+  - The news gave everyone a big surprise.（这个消息让所有人都大吃一惊。）
+  - ⚠️ 也可说 give a surprise to sb.；surprise 在此是名词；类似表达：surprise sb.（动词形式，更常用，直接表达"使某人惊喜"）
+
+- What's going on? 怎么回事？/ 发生什么了？
+  - What's going on here? Why is everyone so quiet?（这儿怎么了？为什么大家都这么安静？）
+  — There's a lot of noise outside. — Yeah, what's going on?（——外面好吵。——是啊，发生什么事了？）
+  - What's going on with the project? Is it on schedule?（项目怎么样了？还按期吗？）
+  - ⚠️ 口语常用表达，询问正在发生的事；类似表达：What's happening?、What's the matter?、What's up?；go on = happen（发生）
+
+- I'm glad that + 句子 我很高兴……
+  - I'm glad that you passed the exam.（我很高兴你通过了考试。）
+  - I'm so glad that you could come to my party.（你能来参加我的派对，我真的很高兴。）
+  - I'm glad that everything worked out in the end.（我很高兴最后一切都解决了。）
+  - ⚠️ 表达高兴、欣慰的常用句型；that 可省略（I'm glad you came.）；类似表达：I'm happy that、I'm pleased that、It's good that
+
+- get used to sth. 习惯于某事
+  - It took me a while to get used to the new environment.（我花了一段时间才适应新环境。）
+  - You'll get used to the cold weather soon.（你很快就会习惯寒冷天气的。）
+  - She never got used to waking up early every day.（她一直没能习惯每天早起。）
+  - ⚠️ get used to + 名词/动名词（doing），to 是介词；get used to = become used to（逐渐习惯，强调变化过程）；be used to = 习惯于（状态）；注意区别：used to do（过去常常做某事）
