@@ -71,11 +71,9 @@
 - [ ] 口语练习 topic for discussion 
     - 思路： 搜（必应Bing+某⾕）+ 英⽂阅读 + 观点总结（1. 汉英均可 2. One word or one sentence）
 
-- [ ] 西方文明史第3章
-    - 每天2页
 - [ ] 语法复习
     - 不懂的周末查询《英语用法指南》
-- [ ] 习语复习造句
+- [ ] 习语复习
     - Google搜索，XXX meaning
 
 - [ ] AI 英语原声对话（豆包）
