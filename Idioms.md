@@ -35,3 +35,45 @@
   - He lent me his car when mine broke down, so I helped him move this weekend. One good turn deserves another.（我的车坏了的时候他借车给我，所以这周末我帮他搬家。善有善报嘛。）
   - I'll do you a favor. One good turn deserves another, after all.（我会帮你个忙的。毕竟，好人有好报嘛。）
   - ⚠️ turn = 行为、举动；deserve = 应得、值得；字面意思"一次善举应得另一次善举回报"；是英语经典谚语，常用来解释为什么要回报别人的好意
+
+- passed away 去世；逝世（委婉表达）
+  - His grandfather passed away peacefully in his sleep last night.（他爷爷昨晚在睡梦中安详去世了。）
+  - She passed away at the age of 92, surrounded by her family.（她在家人的陪伴下离世，享年92岁。）
+  - I was very sad to hear that your mother passed away.（听说你母亲去世了，我非常难过。）
+  - ⚠️ pass away 是 die 的委婉说法，比 die 更温和、更尊重；类似表达：passed on、departed this life；直接说 die 在很多场合会显得生硬
+
+- drowned 溺水身亡的；淹死的
+  - Three people drowned when the boat capsized in the storm.（船在暴风雨中倾覆，三人溺水身亡。）
+  - The child fell into the river and almost drowned.（那个孩子掉进河里，差点淹死。）
+  - He drowned while trying to save his friend from the water.（他在试图救朋友出水时溺水身亡了。）
+  - ⚠️ drown = 淹死、溺亡；过去式/过去分词都是 drowned；既可作动词也可作形容词；注意区别：drowned（被淹死的，被动）vs. drowning（正在溺水的，进行中）
+
+- gloomy 阴郁的；令人沮丧的；昏暗的
+  - It was a gloomy day with dark clouds and rain.（这是个阴沉的日子，乌云密布，下着雨。）
+  - He looked gloomy when he heard the bad news.（听到坏消息时，他看起来很沮丧。）
+  - The future of the company looks gloomy.（这家公司的前景看起来很黯淡。）
+  - ⚠️ 多义：① 天气阴暗、昏暗 ② 人情绪低落、沮丧 ③ 前景黯淡、不乐观；类似表达：depressing、dreary、gloomy 和 glum（更口语）
+
+- some feelings of resignation 一些无奈/听天由命的感觉
+  - There was a sense of resignation among the workers when they heard the factory would close.（工人们听说工厂要关闭时，都有一种听天由命的感觉。）
+  - He accepted the decision with feelings of resignation.（他带着无可奈何的心情接受了这个决定。）
+  - After so many failures, she felt a deep sense of resignation.（经历了这么多次失败后，她感到一种深深的无奈。）
+  - ⚠️ resignation 在此不是"辞职"，而是"听天由命、顺从、无奈"；常搭配 a sense of resignation / feelings of resignation；resign oneself to = 使自己顺从于
+
+- tribute 致敬；悼念；贡品；礼物
+  - The whole nation paid tribute to the heroes who died in the war.（全国人民向在战争中牺牲的英雄们致敬。）
+  - She gave a moving tribute to her late husband at the funeral.（她在葬礼上向已故丈夫致以动人的悼词。）
+  - The concert was a tribute to the famous musician who passed away last year.（这场音乐会是对去年去世的那位著名音乐家的致敬。）
+  - ⚠️ 常用搭配：pay tribute to（向……致敬/悼念）；tribute 还可以表示"贡品、献礼"；区别：tribute（致敬/悼念，名词）vs. contribute（贡献，动词）
+
+- in recognition of 为表彰；为承认；作为对……的认可
+  - He was given an award in recognition of his outstanding service to the community.（他因对社区的杰出贡献而获得表彰。）
+  - She was promoted in recognition of her hard work and dedication.（她因工作努力和奉献而得到晋升。）
+  - The company donated money in recognition of the charity's important work.（公司捐款，以表彰该慈善机构的重要工作。）
+  - ⚠️ in recognition of = 作为对……的认可/表彰；recognition = 认可、表彰、承认；recognize 的名词形式；类似表达：in honor of（为纪念/庆祝）、in appreciation of（为感谢）
+
+- miracle 奇迹；不可思议的事
+  - It's a miracle that no one was killed in the accident.（事故中无人死亡，真是个奇迹。）
+  - The doctors said it was a miracle she survived the surgery.（医生说她能从手术中活下来是个奇迹。）
+  - After months of drought, rain finally came—it felt like a miracle.（经历了数月干旱后，雨终于来了——感觉就像个奇迹。）
+  - ⚠️ miracle = 奇迹，指超乎寻常、难以解释的好事；常用句型：It's a miracle that...（……真是个奇迹）；work miracles = 创造奇迹；miraculous = 奇迹般的（形容词）
