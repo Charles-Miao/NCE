@@ -167,3 +167,117 @@
   - You'll get used to the cold weather soon.（你很快就会习惯寒冷天气的。）
   - She never got used to waking up early every day.（她一直没能习惯每天早起。）
   - ⚠️ get used to + 名词/动名词（doing），to 是介词；get used to = become used to（逐渐习惯，强调变化过程）；be used to = 习惯于（状态）；注意区别：used to do（过去常常做某事）
+
+- A is/was used as a place of worship. A被用作礼拜场所
+  - The ancient temple was used as a place of worship for thousands of years.（这座古庙数千年来一直被用作礼拜场所。）
+  - The small church is still used as a place of worship by the local community.（这座小教堂仍然被当地社区用作礼拜场所。）
+  - During the war, the building was used as a hospital instead of a place of worship.（战争期间，这栋建筑被用作医院，而不是礼拜场所。）
+  - ⚠️ worship = 礼拜、崇拜；a place of worship = 宗教活动场所（教堂、寺庙、清真寺等）；be used as = 被用作……
+
+- on a/the promontory 在岬角上；在海角上
+  - The lighthouse stands on a rocky promontory overlooking the sea.（灯塔矗立在一块岩石岬角上，俯瞰着大海。）
+  - An ancient castle was built on the promontory to defend the coast.（海角上建了一座古堡来保卫海岸。）
+  - They built a small house on the promontory with a beautiful view of the ocean.（他们在岬角上建了一座小房子，能看到美丽的海景。）
+  - ⚠️ promontory = 岬角、海角（伸入海中的狭长陆地）；地理/旅游常用词；类似表达：cape、headland
+
+- drainage system 排水系统
+  - The city's drainage system failed during the heavy rain, causing floods.（城市的排水系统在大雨中失效了，导致洪水。）
+  - The old building's drainage system needs to be completely replaced.（这栋老建筑的排水系统需要彻底更换。）
+  - A good drainage system is essential for preventing water damage.（良好的排水系统对于防止水患至关重要。）
+  - ⚠️ drainage = 排水、排水系统；system = 系统；相关词汇：sewage system（污水系统）、plumbing（管道系统）
+
+- sacred room/temple/place 神圣的房间/寺庙/地方
+  - Only priests were allowed to enter the sacred room of the temple.（只有祭司才被允许进入寺庙的圣室。）
+  - The mountain is considered a sacred place by the local people.（这座山被当地人视为圣地。）
+  - They traveled thousands of miles to visit the sacred temple.（他们跋涉数千英里来朝拜这座神圣的寺庙。）
+  - ⚠️ sacred = 神圣的、庄严的，带有宗教或精神意义；比 holy 更正式；常修饰 place、temple、ground、object 等
+
+- the remains of sth. ……的遗迹/遗骸/残留部分
+  - The remains of the ancient city were discovered by accident.（这座古城的遗迹是偶然被发现的。）
+  - The remains of the meal were left on the table.（剩饭剩菜留在了桌子上。）
+  - Scientists are studying the remains of a dinosaur found in the desert.（科学家们正在研究在沙漠中发现的恐龙遗骸。）
+  - ⚠️ remains = 遗迹、遗骸、残余，永远用复数形式；可指建筑废墟、动物化石、人的遗体等；类似表达：ruins（废墟）、relics（遗物）
+
+- fragments of sth. ……的碎片/片段
+  - Fragments of the broken vase were scattered across the floor.（破碎花瓶的碎片散落在地板上。）
+  - Archaeologists found fragments of ancient pottery at the site.（考古学家在遗址发现了古代陶器的碎片。）
+  - Only fragments of the original manuscript have survived.（原始手稿只有一些片段留存了下来。）
+  - ⚠️ fragment = 碎片、片段；强调不完整的一部分；常见搭配：fragments of glass/bone/conversation/memory
+
+- have a rest 休息一下
+  - Let's stop and have a rest for a few minutes.（我们停下来休息几分钟吧。）
+  - After working for three hours, he decided to have a rest.（工作了三个小时后，他决定休息一下。）
+  - You've been walking all day—you need to have a rest.（你走了一整天了——需要休息一下。）
+  - ⚠️ 英式英语常用 have a rest，美式常用 take a rest；也可以说 get some rest（更口语）；rest 在此是名词
+
+- rest sth. on sth. 把某物靠在/放在另一物上
+  - She rested her head on his shoulder.（她把头靠在他肩上。）
+  - He rested his elbows on the table and leaned forward.（他把胳膊肘撑在桌上，身体前倾。）
+  - The ladder is resting against the wall.（梯子靠在墙上。）
+  - ⚠️ rest 作动词 = 搁在、靠在、休息；rest A on B = 把A放在B上；可用于具体物体，也可比喻（rest one's hopes on sb. 把希望寄托在某人身上）
+
+- identity card 身份证
+  - You'll need to show your identity card at the entrance.（你需要在入口出示身份证。）
+  - He lost his identity card and had to apply for a new one.（他丢了身份证，得重新申请一张。）
+  - Please carry your identity card with you at all times.（请随时随身携带身份证。）
+  - ⚠️ identity card = 身份证明卡，简称 ID card（更常用）；identity = 身份；ID = identification
+
+- sb. make a (adj.) discovery of sth. 某人有了关于某物的（……样的）发现
+  - Scientists made an important discovery of a new species in the rainforest.（科学家们在雨林中有了一个重要发现——一个新物种。）
+  - He made a surprising discovery of old letters in the attic.（他在阁楼上意外发现了一些旧信件。）
+  - The archaeologist made a remarkable discovery of an ancient tomb.（那位考古学家有了惊人发现——一座古墓。）
+  - ⚠️ make a discovery = 做出发现；中间可加形容词（important / surprising / major）；对比：discover sth.（动词形式，更直接常用）
+
+- A be equipped with B A配备了B
+  - The car is equipped with air conditioning and a GPS system.（这辆车配备了空调和GPS系统。）
+  - The hospital is equipped with the latest medical equipment.（这家医院配备了最先进的医疗设备。）
+  - All classrooms are equipped with smart boards.（所有教室都配备了智能白板。）
+  - ⚠️ be equipped with = 配备有、装有；equipment 是不可数名词；类似表达：be fitted with、be provided with
+
+- equip sb. with sth. 为某人配备某物；使某人具备某种能力
+  - The soldiers were equipped with the latest weapons.（士兵们配备了最新的武器。）
+  - Education equips young people with the skills they need for the future.（教育使年轻人具备未来所需的技能。）
+  - We need to equip our children with the ability to think critically.（我们需要让孩子们具备批判性思维的能力。）
+  - ⚠️ equip sb. with sth. 既可指具体装备，也可指知识、技能等抽象能力；被动形式 be equipped with 更常用
+
+- be used as 被用作
+  - The old factory is now used as a shopping mall.（那座旧工厂现在被用作购物中心。）
+  - The book can be used as a reference guide for beginners.（这本书可以用作初学者的参考指南。）
+  - During the war, the church was used as a hospital.（战争期间，教堂被用作医院。）
+  - ⚠️ be used as + 名词 = 被用作……；注意区分：be used to do（被用来做某事，强调功能）、be used to doing（习惯于做某事）
+
+- date from... 追溯到……年代；始于
+  - The castle dates from the 12th century.（这座城堡建于12世纪。）
+  - Their friendship dates from college days.（他们的友谊始于大学时代。）
+  - The tradition dates from hundreds of years ago.（这个传统可以追溯到几百年前。）
+  - ⚠️ date from = 起源于、追溯到；不用被动语态（主动形式表被动含义）；通常用一般现在时
+
+- date back to... 追溯到……；早在……时期就有
+  - These pottery fragments date back to the Stone Age.（这些陶器碎片可以追溯到石器时代。）
+  - The temple dates back to over 2,000 years ago.（这座寺庙可以追溯到两千多年前。）
+  - His family's business dates back to the 1800s.（他家的生意早在19世纪就有了。）
+  - ⚠️ date back to = date from，两者几乎可以互换；date back to 更强调"往前回溯"的感觉；都不用被动
+
+- happen to do 碰巧做某事；恰好做某事
+  - I happened to meet her on the street yesterday.（我昨天碰巧在街上遇到了她。）
+  - Do you happen to know where the nearest bank is?（你恰好知道最近的银行在哪吗？）
+  - She happened to be out when I called.（我打电话时，她刚好出去了。）
+  - ⚠️ happen to do = 偶然、碰巧做某事；常用在疑问句中使语气更委婉（Do you happen to know... 比 Do you know... 更礼貌）；类似表达：happen to be / happen to have
+
+- be amazed to find that + 句子 惊讶地发现……
+  - I was amazed to find that he could speak five languages.（我惊讶地发现他居然会说五种语言。）
+  - Scientists were amazed to find that the plant could survive without water for months.（科学家惊讶地发现这种植物可以在没有水的情况下存活数月。）
+  - She was amazed to find that her lost wallet had been returned.（她惊讶地发现丢失的钱包已经被送回来了。）
+  - ⚠️ be amazed to do = 惊讶地做某事；后接 that 从句时，find/discover/learn 等动词很常见；类似表达：be surprised to find that、be shocked to find that
+
+- turn out to be… 结果是……；原来是……；证明是
+  - The stranger turned out to be an old friend of my father's.（那个陌生人原来是我父亲的一位老朋友。）
+  - The job turned out to be harder than I thought.（这份工作结果比我想象的要难。）
+  - What he said turned out to be true.（他说的话结果证明是真的。）
+  - ⚠️ turn out to be = 最终发现是、结果证明是；不用被动语态；类似表达：prove to be（更正式）、end up being；句型：It turns out that...（结果是……）
+
+- despite / despite the fact that... 尽管；虽然
+  - Despite the rain, they went ahead with the picnic.（尽管下雨，他们还是继续野餐。）
+  - He passed the exam despite not studying very hard.（尽管没怎么努力学习，他还是通过了考试。）
+  - Despite the fact that she was ill, she came to work.（尽管生病了，她还是来上班了。）
+  - ⚠️ despite = in spite of，后接名词或动名词（doing）；despite the fact that + 句子 = although + 句子；despite 是介词，不是连词，不能直接跟从句（需要加 the fact that）
