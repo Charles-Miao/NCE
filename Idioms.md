@@ -77,3 +77,27 @@
   - The doctors said it was a miracle she survived the surgery.（医生说她能从手术中活下来是个奇迹。）
   - After months of drought, rain finally came—it felt like a miracle.（经历了数月干旱后，雨终于来了——感觉就像个奇迹。）
   - ⚠️ miracle = 奇迹，指超乎寻常、难以解释的好事；常用句型：It's a miracle that...（……真是个奇迹）；work miracles = 创造奇迹；miraculous = 奇迹般的（形容词）
+
+- apart from 除了……之外（还有/没有）
+  - Apart from English, she can also speak French and Japanese.（除了英语，她还会说法语和日语。——"还有"，包括在内）
+  - I've finished all the work apart from one last report.（除了最后一份报告，我已经完成了所有工作。——"剩下的没有"，不包括在内）
+  - Apart from the cost, the plan sounds great.（撇开费用不谈，这个计划听起来很棒。）
+  - ⚠️ apart from 有两种含义，需根据语境判断：① 除了……还有（= besides） ② 除了……之外没有（= except for）；英式英语更常用 apart from；美式常用 aside from
+
+- afford sth. 买得起某物；负担得起
+  - I can't afford a new car right now.（我现在买不起新车。）
+  - Can we afford to go on vacation this year?（今年我们还负担得起去度假吗？）
+  - She couldn't afford the surgery, so her friends helped her raise money.（她负担不起手术费，所以朋友们帮她筹款。）
+  - ⚠️ afford = 买得起、负担得起；常与 can / could / be able to 连用；后可接名词或不定式（afford to do sth.）；注意：不能用进行时
+
+- regret doing sth. 后悔做了某事（对已发生的事感到后悔）
+  - I regret telling him the secret—he told everyone.（我后悔把秘密告诉了他——他告诉了所有人。）
+  - She regrets not studying harder in college.（她后悔大学时没有更努力学习。）
+  - He immediately regretted what he had said.（他立刻对自己说过的话感到后悔。）
+  - ⚠️ regret doing = 后悔做过某事（动作已发生）；也可说 regret having done（更强调完成，但不如 doing 常用）；反义：don't regret doing（不后悔做过）
+
+- regret to do sth. 很遗憾要做某事（即将做，常用来礼貌地通知坏消息）
+  - I regret to inform you that your application has been rejected.（我很遗憾地通知你，你的申请被拒绝了。）
+  - We regret to say that we cannot offer you the job.（我们很遗憾地说，我们无法给你这份工作。）
+  - I regret to tell you that the event has been cancelled.（我很遗憾地告诉你，活动已取消。）
+  - ⚠️ regret to do = 很遗憾要做某事（还没做，但必须做）；常见于正式/商务场合，搭配 tell、inform、say 等动词；核心区别：doing = 后悔做过（过去）；to do = 遗憾要做（现在/将来）
