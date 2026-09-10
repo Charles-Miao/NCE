@@ -101,3 +101,39 @@
   - We regret to say that we cannot offer you the job.（我们很遗憾地说，我们无法给你这份工作。）
   - I regret to tell you that the event has been cancelled.（我很遗憾地告诉你，活动已取消。）
   - ⚠️ regret to do = 很遗憾要做某事（还没做，但必须做）；常见于正式/商务场合，搭配 tell、inform、say 等动词；核心区别：doing = 后悔做过（过去）；to do = 遗憾要做（现在/将来）
+
+- might as well 不妨；还是……的好；倒不如
+  - Since it's raining, we might as well stay home and watch a movie.（既然下雨了，我们不妨待在家里看电影吧。）
+  - You might as well tell me the truth—I'll find out sooner or later.（你还是告诉我真相吧——我迟早会知道的。）
+  - The bus won't come for another hour—we might as well walk.（公交车还有一小时才来——我们倒不如走路吧。）
+  - ⚠️ might as well = 建议做某事，因为没有更好的选择，含"反正也没别的办法，不如就……"的意味；比 should 更随意、更带无奈感；也可用 may as well（稍微正式一点）
+
+- catch your eye 引起你的注意；吸引你的目光
+  - The colorful poster caught my eye as I walked past.（我走过时，那张色彩鲜艳的海报吸引了我的目光。）
+  - Something shiny in the shop window caught her eye.（商店橱窗里有件闪闪发亮的东西吸引了她的注意。）
+  - Let me know if any of the books on the shelf catch your eye.（如果书架上有哪本书引起你的兴趣，告诉我。）
+  - ⚠️ catch one's eye = 吸引某人注意、引人注目；类似表达：attract one's attention、draw one's eye；注意：eye 用单数
+
+- it must be terrible to do sth. 做某事一定很糟糕/可怕
+  - It must be terrible to lose your job right after having a baby.（刚生完孩子就失业，一定很糟糕。）
+  - It must be terrible to live alone in a foreign country.（独自一人在异国他乡生活，一定很可怕。）
+  - It must be terrible to fail the exam after studying so hard.（努力学习了那么久还考试不及格，一定很难受。）
+  - ⚠️ must be = 一定是、肯定是（表推测）；it 是形式主语，真正主语是 to do sth.；类似表达：it must be hard / awful / horrible to do sth.
+
+- I can't listen to him without getting bored. 我一听他说话，就会觉得无聊。
+  - He talks so slowly that I can't listen to him without getting bored.（他说话太慢了，我一听就会犯困。）
+  - I can't watch the news without feeling depressed.（我一看新闻就会感到压抑。）
+  - She can't eat ice cream without getting a headache.（她一吃冰淇淋就头疼。）
+  - ⚠️ 句型：can't do sth. without doing sth. = 一做某事就会……（双重否定表肯定）；相当于 every time I do A, B happens；类似表达：whenever I do A, B happens
+
+- come into use 开始被使用；投入使用
+  - The new highway will come into use next month.（新高速下个月将投入使用。）
+  - When did computers first come into use in offices?（电脑是什么时候开始在办公室普及使用的？）
+  - This system came into use in the early 2000s.（这个系统是在21世纪初开始投入使用的。）
+  - ⚠️ come into use = 开始被使用、投入使用；不用被动语态（主动形式表被动含义）；类似表达：put sth. into use（主动，把某物投入使用）、be in use（在使用中，状态）
+
+- You complete me. 你让我完整。/ 有你我才圆满。
+  - On their wedding day, he looked at her and said, "You complete me."（婚礼那天，他看着她说："有你我的人生才完整。"）
+  - I don't need anyone else—you complete me.（我不需要别人——有你就够了。）
+  - It's cheesy, but I really do feel like you complete me.（虽然很俗，但我真的觉得有你我才完整。）
+  - ⚠️ 经典浪漫台词，出自电影《甜心先生》（Jerry Maguire）；complete = 使完整、使圆满；常用于情侣间表达"你是我的灵魂伴侣，缺了你我不完整"；日常用会有点肉麻（cheesy）
