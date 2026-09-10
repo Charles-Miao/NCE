@@ -281,3 +281,159 @@
   - He passed the exam despite not studying very hard.（尽管没怎么努力学习，他还是通过了考试。）
   - Despite the fact that she was ill, she came to work.（尽管生病了，她还是来上班了。）
   - ⚠️ despite = in spite of，后接名词或动名词（doing）；despite the fact that + 句子 = although + 句子；despite 是介词，不是连词，不能直接跟从句（需要加 the fact that）
+
+- do manual work 做体力劳动；干手工活
+  - He does manual work at a construction site.（他在建筑工地做体力活。）
+  - Many people who do manual work suffer from back pain.（许多干体力活的人都有背痛的问题。）
+  - She prefers office work to doing manual work.（比起体力劳动，她更喜欢办公室工作。）
+  - ⚠️ manual = 体力的、手工的；manual work = 体力劳动；反义：mental work（脑力劳动）、office work（办公室工作）
+
+- white-collar / blue-collar workers 白领/蓝领工人
+  - White-collar workers usually work in offices, while blue-collar workers often work in factories.（白领通常在办公室工作，蓝领则常在工厂工作。）
+  - My father was a blue-collar worker at the factory for 30 years.（我父亲在那家工厂当了30年蓝领工人。）
+  - More and more young people want to be white-collar workers instead of doing manual labor.（越来越多的年轻人想当白领，而不是干体力活。）
+  - ⚠️ white-collar = 白领（脑力劳动者，办公室工作）；blue-collar = 蓝领（体力劳动者，工厂/现场工作）；类似表达：grey-collar（灰领，技术型工人）、gold-collar（金领，高级专业人士）
+
+- make a sacrifice 做出牺牲
+  - Her parents made many sacrifices to send her to college.（她的父母为了送她上大学做出了很多牺牲。）
+  - You have to make sacrifices if you want to succeed.（如果你想成功，就必须做出牺牲。）
+  - He made a great sacrifice by giving up his career to take care of his family.（他放弃事业照顾家庭，做出了巨大的牺牲。）
+  - ⚠️ sacrifice = 牺牲、献祭；make a sacrifice = 做出牺牲；后常接 to do sth.（为做某事而牺牲）或 for sb./sth.（为某人/某事牺牲）
+
+- sacrifice A for B 为了B而牺牲A
+  - She sacrificed her social life for her career.（她为了事业牺牲了社交生活。）
+  - Many parents sacrifice their own happiness for their children.（许多父母为了孩子牺牲了自己的幸福。）
+  - He sacrificed a well-paid job for the chance to study abroad.（他为了出国留学的机会牺牲了一份高薪工作。）
+  - ⚠️ sacrifice A for B = 为B牺牲A；sacrifice 可作动词也可作名词；类似表达：give up A for B
+
+- have the privilege of doing sth. 有幸做某事；享有做某事的特权
+  - I had the privilege of meeting the president last year.（我去年有幸见到了总统。）
+  - She had the privilege of studying at a top university.（她有幸在一所顶尖大学学习。）
+  - It is a great privilege to work with such a talented team.（能和这样优秀的团队共事是莫大的荣幸。）
+  - ⚠️ privilege = 特权、荣幸；have the privilege of doing = 有幸做某事（正式/礼貌表达，含"难得、荣幸"之意）；privileged = 有特权的、荣幸的（形容词）
+
+- take a shower 洗淋浴
+  - I usually take a shower before going to bed.（我通常睡前冲个澡。）
+  - He took a quick shower and got dressed.（他快速冲了个澡，穿上了衣服。）
+  - After working out, she took a shower to cool off.（锻炼后，她冲了个澡凉快一下。）
+  - ⚠️ take a shower = have a shower（英式）；对比 take a bath = 泡澡、洗盆浴；shower 既可作动词也可作名词
+
+- keep a secret 保守秘密
+  - Can you keep a secret? I have something to tell you.（你能保守秘密吗？我有件事要告诉你。）
+  - She kept the secret for over 20 years.（她把这个秘密保守了20多年。）
+  - I trust him to keep a secret—he never tells anyone anything.（我相信他会保守秘密——他从不对任何人说任何事。）
+  - ⚠️ keep a secret = 保守秘密；反义：tell a secret（说出秘密）、spill the beans（泄密，俚语）；也可说 keep sth. a secret from sb.（对某人隐瞒某事）
+
+- the secret of success 成功的秘诀
+  - What is the secret of your success?（你成功的秘诀是什么？）
+  - The secret of success is hard work and determination.（成功的秘诀是努力和决心。）
+  - Many people want to know the secret of his success as an entrepreneur.（许多人想知道他作为企业家成功的秘诀。）
+  - ⚠️ the secret of sth. = ……的秘诀/奥秘；success 是名词；successful = 成功的（形容词）；类似表达：the key to success（成功的关键）
+
+- between you and me 咱俩私下说；天知地知你知我知
+  - Between you and me, I think he's going to get fired soon.（咱俩私下说，我觉得他很快就要被炒了。）
+  - Between you and me, she didn't really deserve the promotion.（天知地知你知我知，她其实不配升职。）
+  — Is this true? — Between you and me, yes, but don't tell anyone.（——这是真的吗？——咱俩私下说是真的，但别告诉任何人。）
+  - ⚠️ 口语常用表达，表示说话内容要保密，不要外传；类似表达：just between us、off the record（非正式/不记录在案）
+
+- social status 社会地位
+  - In some cultures, wealth and social status are very important.（在某些文化中，财富和社会地位非常重要。）
+  - Marriage used to be a way to improve one's social status.（婚姻曾经是提升社会地位的一种方式。）
+  - He cared more about social status than about personal happiness.（他更在乎社会地位，而不是个人幸福。）
+  - ⚠️ status = 地位、身份；social status = 社会地位；类似表达：social standing、position in society；注意 status 的拼写（不是 statas）
+
+- status quo 现状；原状
+  - Some people are afraid of change and prefer to maintain the status quo.（有些人害怕改变，更喜欢维持现状。）
+  - The new manager didn't want to change the status quo right away.（新经理不想立刻改变现状。）
+  - The country decided to keep the status quo instead of making reforms.（国家决定维持现状，不进行改革。）
+  - ⚠️ status quo 是拉丁语短语，表示"现有状态"；永远是名词；前面常加 the；类似表达：the existing state of affairs（现有状况）
+
+- keep the status quo 维持现状
+  - The committee decided to keep the status quo for another year.（委员会决定再维持现状一年。）
+  - Many companies choose to keep the status quo when the economy is unstable.（经济不稳定时，许多公司选择维持现状。）
+  - If we just keep the status quo, we'll never make any progress.（如果我们只是维持现状，就永远不会有任何进步。）
+  - ⚠️ keep the status quo = maintain the status quo（更正式）；反义：change the status quo、upset the status quo（打破现状）
+
+- These days = nowadays 如今；现在；这些天
+  - These days, more and more people shop online instead of going to stores.（如今，越来越多的人网购而不是去商店。）
+  - He's been very busy these days.（他这些天一直很忙。）
+  - Things are very different these days compared to when I was young.（和我年轻时比，现在的情况大不一样了。）
+  - ⚠️ these days = nowadays = at present；these days 更口语化，既可指"最近"也可指"如今"；对比：those days（那些日子，过去）
+
+- Far more adj./n. 多得多的；远远更……
+  - There are far more people here than I expected.（这里的人比我预想的多得多。）
+  - This problem is far more difficult than the last one.（这个问题比上一个难得多。）
+  - She has far more experience than I do in this field.（她在这个领域的经验比我多得多。）
+  - ⚠️ far + 比较级 = ……得多，相当于 much，但语气更强；far more + 形容词/副词/名词；类似表达：much more、a lot more、way more（更口语）
+
+- A be referred to as B A被称为B
+  - The city is often referred to as the Paris of the East.（这座城市常被称为"东方巴黎"。）
+  - He is referred to as the father of modern physics.（他被称为现代物理学之父。）
+  - This type of music is commonly referred to as jazz.（这种音乐通常被称为爵士乐。）
+  - ⚠️ be referred to as = be called / be known as，但更正式；refer to...as = 把……称为（主动形式）
+
+- refer to A as B 把A称为B
+  - People often refer to him as a genius.（人们常称他为天才。）
+  - We refer to this type of behavior as "passive-aggressive".（我们把这种行为称为"被动攻击型"。）
+  - The locals refer to the mountain as "the old man".（当地人把这座山称为"老人"。）
+  - ⚠️ refer to A as B = call A B，但更正式书面；refer 还有"参考、查阅"的意思（refer to a dictionary 查词典）
+
+- for the simple reason that + 句子 原因很简单，就是……
+  - I don't eat meat for the simple reason that I love animals.（我不吃肉，原因很简单，就是我喜欢动物。）
+  - He was late for the simple reason that he missed the bus.（他迟到的原因很简单——没赶上公交车。）
+  - The company failed for the simple reason that it didn't adapt to change.（公司失败的原因很简单，就是没有适应变化。）
+  - ⚠️ for the simple reason that = because，但更强调原因的单一性和直白性；书面/正式场合常用；类似表达：simply because
+
+- Such is human nature, that + 句子 人性就是如此，……
+  - Such is human nature, that people always want what they can't have.（人性就是如此，人们总是渴望自己得不到的东西。）
+  - Such is human nature, that we often take our loved ones for granted.（人性就是这样，我们常常把亲人的爱视为理所当然。）
+  - Such is human nature, that success makes us proud and failure makes us humble.（人性就是如此，成功让我们骄傲，失败让我们谦逊。）
+  - ⚠️ 倒装句型：such is...that = 如此……以至于；such 置于句首时用倒装；human nature = 人性；常用于哲理或总结性表达
+
+- be willing to do sth. 愿意做某事
+  - Are you willing to work on weekends?（你愿意周末工作吗？）
+  - She's willing to help anyone who needs it.（她愿意帮助任何需要帮助的人。）
+  - He was willing to do anything to get the job.（为了得到那份工作，他愿意做任何事。）
+  - ⚠️ be willing to do = 愿意做某事；willingness = 意愿（名词）；反义：be unwilling to do（不愿意做）；区别：be ready to do（准备好做/乐意做）
+
+- give rise to = lead to = cause 导致；引起
+  - The accident gave rise to serious traffic jams.（事故导致了严重的交通拥堵。）
+  - The new policy gave rise to a lot of complaints.（新政策引发了很多抱怨。）
+  - Social inequality often gives rise to crime.（社会不平等常常导致犯罪。）
+  - ⚠️ give rise to = cause、lead to、result in，都表示"导致"；give rise to 更正式书面；rise 在此是名词，表示"产生、兴起"
+
+- too embarrassed to do sth. 太尴尬/难为情而不敢做某事
+  - She was too embarrassed to ask for help.（她太不好意思了，不敢求助。）
+  - He was too embarrassed to admit he had made a mistake.（他太难为情了，不肯承认自己犯了错。）
+  - I was too embarrassed to say anything about it.（我太尴尬了，对此什么也说不出口。）
+  - ⚠️ too...to... = 太……而不能……；embarrassed = 尴尬的、难为情的；embarrassing = 令人尴尬的（修饰事物）
+
+- be dressed in ... 穿着……（衣服）
+  - She was dressed in a beautiful red dress for the party.（她穿着一条漂亮的红裙子去参加派对。）
+  - The man was dressed in black from head to toe.（那个男人从头到脚一身黑。）
+  - All the students were dressed in uniforms.（所有学生都穿着校服。）
+  - ⚠️ be dressed in = be wearing，但更强调状态和整体形象；dress 作动词时常用被动形式表示"穿着……"；也可说 dress in（主动，强调动作）
+
+- change into + 衣服 换上（衣服）
+  - When he got home, he changed into his pajamas.（他到家后换上了睡衣。）
+  - She went to the bathroom to change into her swimming suit.（她去洗手间换上泳衣。）
+  - You should change into something more formal for the meeting.（你该换件更正式的衣服去开会。）
+  - ⚠️ change into + 衣服 = 换穿……；change out of + 衣服 = 脱下……；也可说 get changed（换衣服，不具体说换什么）
+
+- half as much as ... 是……的一半；只有……的一半
+  - This phone costs half as much as the new model.（这部手机的价格只有新款的一半。）
+  - He earns half as much as his wife.（他的收入只有他妻子的一半。）
+  - I eat half as much as I used to.（我现在的食量只有以前的一半。）
+  - ⚠️ half as much as = 是……的一半；修饰不可数名词用 much，可数名词用 many（half as many as）；类似表达：twice as much as（是……的两倍）、three times as much as（是……的三倍）
+
+- from now on 从现在开始；从今以后
+  - From now on, I'm going to exercise every day.（从现在开始，我要每天锻炼。）
+  - From now on, you can call me Charles instead of Mr. Miao.（从今以后，你可以叫我Charles，不用叫苗先生了。）
+  - He promised that from now on he would be more careful.（他答应从现在起会更加小心。）
+  - ⚠️ from now on = starting now；类似表达：from today on（从今天起）、from this moment on（从此刻起）；反义：up to now（到目前为止）
+
+- call me/him/her A. 叫我/他/她A（名字）
+  - You can call me Charles.（你可以叫我 Charles。）
+  - Everyone calls him "the boss" even though he's just a manager.（每个人都叫他"老板"，尽管他只是个经理。）
+  - They called her "the genius" because she was so smart.（因为她太聪明了，大家都叫她"天才"。）
+  - ⚠️ call sb. + 名字/称呼 = 叫某人……；call sb. sth. 也可表示"把某人说成是……"（如：Don't call me a liar. 别叫我骗子）
