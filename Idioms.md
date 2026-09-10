@@ -149,10 +149,11 @@
   - You've read the report, so presumably you know what happened.（你看过报告了，所以应该知道发生了什么事。）
   - ⚠️ presumably = 很可能、据推测，表示基于现有信息的合理推断；比 maybe 更有根据；presume（动词）= 假设、推定
 
-- He picked it up quickly. 他迅速把它捡了起来。
-  - When the pen fell on the floor, he picked it up quickly.（笔掉到地上时，他迅速捡了起来。）
-  - He picked it up quickly before anyone could see it.（他趁没人看见，赶紧把它捡了起来。）
-  - ⚠️ pick up = 捡起、拿起；quickly 副词修饰动词短语；代词 it 放在 pick 和 up 中间
+- He picked it up quickly. 他很快就学会了。/ 他迅速掌握了。
+  - He had never played the guitar before, but he picked it up quickly.（他以前从没弹过吉他，但很快就上手了。）
+  - The new software is complicated, but she picked it up quickly.（这个新软件很复杂，但她很快就学会了。）
+  - Kids pick up languages much faster than adults.（小孩学语言比大人快得多。）
+  - ⚠️ pick up 是个多义短语，这里是引申义"学会、掌握（技能/语言/知识）"，不是字面的"捡起来"；it 指代前面提到的技能、语言、游戏等；类似表达：learn quickly、catch on quickly、get the hang of it
 
 - I wouldn't mind doing that myself. 我自己倒是不介意做那件事。/ 我也愿意做那个。
   — Would you like to try sushi? — I wouldn't mind trying that myself.（——你想尝尝寿司吗？——我倒愿意试试。）
