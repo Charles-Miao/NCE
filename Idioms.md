@@ -137,3 +137,73 @@
   - I don't need anyone else—you complete me.（我不需要别人——有你就够了。）
   - It's cheesy, but I really do feel like you complete me.（虽然很俗，但我真的觉得有你我才完整。）
   - ⚠️ 经典浪漫台词，出自电影《甜心先生》（Jerry Maguire）；complete = 使完整、使圆满；常用于情侣间表达"你是我的灵魂伴侣，缺了你我不完整"；日常用会有点肉麻（cheesy）
+
+- a cover that goes around an egg 套在鸡蛋外面的保护层/蛋壳
+  - The egg shell is a cover that goes around an egg to protect the yolk inside.（蛋壳是包在鸡蛋外面的一层保护层，用来保护里面的蛋黄。）
+  - He peeled off the cover that goes around the egg and ate it.（他剥掉蛋壳，把蛋吃了。）
+  - ⚠️ 字面描述，更自然的表达是 egg shell（蛋壳）或 egg membrane（蛋膜）；go around = 包裹着、环绕着
+
+- presumably 大概；据推测；很可能
+  - Presumably, he's already arrived by now.（他现在大概已经到了吧。）
+  - The meeting was cancelled, presumably because the CEO is sick.（会议取消了，大概是因为CEO生病了。）
+  - You've read the report, so presumably you know what happened.（你看过报告了，所以应该知道发生了什么事。）
+  - ⚠️ presumably = 很可能、据推测，表示基于现有信息的合理推断；比 maybe 更有根据；presume（动词）= 假设、推定
+
+- He picked it up quickly. 他迅速把它捡了起来。
+  - When the pen fell on the floor, he picked it up quickly.（笔掉到地上时，他迅速捡了起来。）
+  - He picked it up quickly before anyone could see it.（他趁没人看见，赶紧把它捡了起来。）
+  - ⚠️ pick up = 捡起、拿起；quickly 副词修饰动词短语；代词 it 放在 pick 和 up 中间
+
+- I wouldn't mind doing that myself. 我自己倒是不介意做那件事。/ 我也愿意做那个。
+  — Would you like to try sushi? — I wouldn't mind trying that myself.（——你想尝尝寿司吗？——我倒愿意试试。）
+  — Someone has to clean the kitchen. — I wouldn't mind doing that myself.（——得有人打扫厨房。——我来也可以。）
+  - If no one else wants to go, I wouldn't mind going myself.（如果没人想去，我自己去也无妨。）
+  - ⚠️ I wouldn't mind doing sth. = 我不介意做某事，我愿意做；比 I want to do 更委婉、更客气；myself 加强语气，表示"我亲自来也没关系"
+
+- think up an idea 想出一个主意
+  - We need to think up an idea for the project by Friday.（我们得在周五前为这个项目想出一个点子。）
+  - She thought up a great idea for the marketing campaign.（她为营销活动想出了一个很棒的点子。）
+  - Can you think up an idea to solve this problem?（你能想出个办法来解决这个问题吗？）
+  - ⚠️ think up = 想出、发明（= invent / come up with）；后接 idea、plan、story 等；类似表达：come up with an idea、think of an idea
+
+- animation software 动画制作软件
+  - He uses professional animation software to create 3D characters.（他用专业的动画软件制作3D角色。）
+  - Many YouTubers use free animation software to make their videos.（许多 YouTuber 使用免费的动画软件来制作视频。）
+  - Learning animation software takes a lot of time and practice.（学习动画软件需要大量的时间和练习。）
+  - ⚠️ animation = 动画、卡通制作；software = 软件（不可数）；相关：video editing software（视频剪辑软件）、design software（设计软件）
+
+- come up with 想出；提出（主意、计划等）
+  - She came up with a brilliant solution to the problem.（她想出了一个绝妙的解决方案。）
+  - Can you come up with a better idea?（你能想出更好的主意吗？）
+  - We need to come up with a plan by the end of the week.（我们得在周末前拿出一个计划。）
+  - ⚠️ come up with = 想出、提出（主意、方案、答案等）；类似表达：think up、devise、invent；注意 come up（被提出，不及物：The question came up. 这个问题被提出来了）
+
+- decorate 装饰；装潢；布置
+  - We decorated the house for Christmas.（我们为圣诞节装饰了房子。）
+  - She decorated her room with posters of her favorite band.（她用最喜欢的乐队海报装饰自己的房间。）
+  - They hired an interior designer to decorate their new apartment.（他们请了一位室内设计师来装潢新公寓。）
+  - ⚠️ decorate = 装饰、布置；常与 for 搭配（为某个节日/场合装饰）；decoration = 装饰（名词）；decorative = 装饰性的（形容词）
+
+- clear up 清理；放晴；澄清（误会）
+  - Please clear up the mess in the kitchen before you leave.（请你离开前把厨房里的烂摊子收拾一下。）
+  - The weather should clear up by tomorrow morning.（到明天早上天气应该会放晴。）
+  - I think we need to talk and clear up this misunderstanding.（我觉得我们得谈谈，澄清一下这个误会。）
+  - ⚠️ 多义短语：① 收拾、清理 ②（天气）放晴 ③ 澄清（问题、误会）；类似表达：clean up（打扫干净）、clear out（清空）
+
+- Industrial Estate 工业区；工业地产（英式）
+  - The factory is located in the industrial estate on the edge of town.（工厂位于城镇边缘的工业区里。）
+  - Many small businesses set up in the industrial estate because rent is cheaper.（许多小企业在工业区落户，因为租金更便宜。）
+  - A new industrial estate is being built near the highway.（高速公路附近正在建一个新的工业区。）
+  - ⚠️ industrial estate = 工业区、工业用地（英式英语）；美式常用 industrial park；estate 在此表示"大片土地、地产"
+
+- up past the station 走过车站再往前一点
+  - The restaurant is up past the station, on the left side of the road.（餐厅在走过车站再往前一点，路的左边。）
+  - You need to go up past the station and then turn right at the traffic light.（你得走过车站，然后在红绿灯处右转。）
+  - Her house is just up past the station, you can't miss it.（她家就在走过车站一点点的地方，不会错过的。）
+  - ⚠️ up past = 走过……再往前；口语中给路线指示时常用；up 表示"往前、继续往前走"的方向感；类似表达：just past（刚过）、beyond（在……再过去一点）
+
+- enrol 注册；登记；入学
+  - You need to enrol in the course before the deadline.（你得在截止日期前注册这门课程。）
+  - She enrolled at the university last year.（她去年入读了那所大学。）
+  - How many students have enrolled for the exam so far?（到目前为止有多少学生报名参加考试了？）
+  - ⚠️ enrol = 注册、登记、入学（英式拼写）；美式拼 enroll；搭配：enrol in/on a course（注册课程）、enrol at a school/university（入学）；enrollment = 注册人数（名词）
