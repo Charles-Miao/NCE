@@ -38,6 +38,11 @@
 ### CEFR B2学习资源
 - [新概念英语123 - 胶学](https://space.bilibili.com/1078480983)
 - [雅思托福课 - Leo老师](https://space.bilibili.com/619469225?spm_id_from=333.337.0.0)
+- Huams of New York - 精听
+- The Best Life Stories - 精读
+- Western Civilization - 泛读
+- Critical Thinking - 泛读
+- [Writing9 - 写作范文](https://writing9.com)
 
 ### APP工具
 - Google搜索 - 可以查询习语
