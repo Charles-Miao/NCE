@@ -208,3 +208,75 @@
   - She enrolled at the university last year.（她去年入读了那所大学。）
   - How many students have enrolled for the exam so far?（到目前为止有多少学生报名参加考试了？）
   - ⚠️ enrol = 注册、登记、入学（英式拼写）；美式拼 enroll；搭配：enrol in/on a course（注册课程）、enrol at a school/university（入学）；enrollment = 注册人数（名词）
+
+- orator 演说家；雄辩家
+  - He was known as a great orator who could move people to tears with his speeches.（他是一位著名的演说家，演讲能让听众感动落泪。）
+  - The politician is a skilled orator who always draws large crowds.（这位政客是个老练的演说家，总能吸引大量听众。）
+  - She's not the best orator, but her ideas are always interesting.（她算不上最出色的演说家，但她的想法总是很有趣。）
+  - ⚠️ orator = 擅长演讲的人，尤指有感染力、有技巧的演说家；比 speaker 更正式、更有文采；oration = 演说、演讲（名词）
+
+- turn pale 脸色变得苍白
+  - She turned pale when she heard the bad news.（听到坏消息时，她脸色变得苍白。）
+  - He turned pale at the sight of blood.（他一看到血脸就白了。）
+  - The patient turned pale and looked like he was going to faint.（病人脸色变得苍白，看起来快要晕过去了。）
+  - ⚠️ turn pale = （脸色）变苍白，通常因恐惧、震惊、生病或紧张；pale = 苍白的、浅色的；类似表达：go pale、go white as a sheet（脸色惨白）
+
+- at the outset 一开始；起初；在开端
+  - At the outset of the project, we had no idea how difficult it would be.（项目一开始，我们根本不知道它会有多难。）
+  - He made his goals clear at the very outset.（他从一开始就把目标讲得很清楚。）
+  - At the outset, nobody believed the idea would work.（起初，没人相信这个想法行得通。）
+  - ⚠️ at the outset = at the beginning、initially，但更正式书面；outset = 开始、开端；类似表达：in the beginning、from the start
+
+- quake in every limb 浑身发抖；四肢战栗
+  - She was quaking in every limb as she walked onto the stage.（她走上舞台时浑身发抖。）
+  - The little boy was quaking in every limb after getting lost in the woods.（小男孩在树林里迷路后，吓得浑身发抖。）
+  - He was so nervous before the interview that he was quaking in every limb.（面试前他紧张得四肢都在发抖。）
+  - ⚠️ quake = 颤抖、震动；limb = 四肢（胳膊腿）；quake in every limb = 全身都在抖，因恐惧或紧张；类似表达：shake like a leaf、tremble all over
+
+- acceptance speech 获奖感言；接受提名演讲
+  - She gave a moving acceptance speech at the awards ceremony.（她在颁奖典礼上发表了感人的获奖感言。）
+  - In his acceptance speech, he thanked his family and his teachers.（在获奖感言中，他感谢了家人和老师。）
+  - The president's acceptance speech lasted for 20 minutes.（总统的就职/胜选演讲持续了20分钟。）
+  - ⚠️ acceptance speech = 接受奖项/职位/提名时发表的演讲；acceptance = 接受、认可；常见场景：奥斯卡、诺贝尔奖、选举胜选等
+
+- nominated 被提名的；被任命的
+  - She was nominated for Best Actress at the film festival.（她被提名为本届电影节最佳女主角。）
+  - He has been nominated as the new CEO of the company.（他被任命为公司新任CEO。）
+  - The movie was nominated for five Academy Awards.（这部电影获得了五项奥斯卡提名。）
+  - ⚠️ nominate = 提名、任命；be nominated for + 奖项（被提名……奖）；be nominated as + 职位（被任命为……）；nomination = 提名（名词）；nominee = 被提名者
+
+- business executives 企业高管；商界高管
+  - The conference was attended by business executives from all over the world.（来自世界各地的企业高管参加了这次会议。）
+  - Many business executives work 60-hour weeks.（许多企业高管每周工作60小时。）
+  - Business executives often have to travel a lot for work.（企业高管经常需要出差。）
+  - ⚠️ business executives = 企业高管、商业主管；executive = 主管、高管、行政人员；CEO / CFO 都属于 business executives；也可简称 execs（口语）
+
+- nerve-wracking 令人紧张的；伤脑筋的
+  - Giving a speech in front of so many people is really nerve-wracking.（在这么多人面前演讲真的很紧张。）
+  - Waiting for the exam results is so nerve-wracking.（等考试结果太让人揪心了。）
+  - The first few minutes of a job interview are always the most nerve-wracking.（面试的头几分钟总是最紧张的。）
+  - ⚠️ nerve-wracking = 让人神经紧绷的、紧张刺激的；nerve = 神经；wrack = 折磨、使痛苦；也可拼作 nerve-racking；类似表达：stressful、anxiety-inducing
+
+- in jest 开玩笑地；说着玩的
+  - Don't take it seriously—I said it in jest.（别当真——我是说着玩的。）
+  - He made the comment in jest, but she got offended anyway.（他是开玩笑说的，但她还是被冒犯了。）
+  — Are you really quitting? — No, I said it in jest!（——你真的要辞职？——没有，我开玩笑的！）
+  - ⚠️ in jest = 开玩笑地、不是认真的；jest = 玩笑、打趣；类似表达：as a joke、in fun、playfully；反义：in earnest（认真地）
+
+- seems literally true 似乎确确实实是真的
+  - The story sounds crazy, but it seems literally true.（这个故事听起来很疯狂，但似乎确有其事。）
+  - What he said about his childhood seems literally true—there's no way he made it up.（他说的童年经历听起来像是真的——不可能是编的。）
+  - The description in the novel seems literally true, like the author experienced it herself.（小说里的描写太真实了，就好像作者亲身经历过一样。）
+  - ⚠️ literally = 字面地、确实地、不折不扣地；seems literally true = 感觉像是真的、确有其事；注意：literally 口语中也常被夸张使用（"我 literally 饿死了"），不一定表示字面真实
+
+- in the coffin 在棺材里；进入棺材（指死亡）
+  - He looked peaceful lying in the coffin.（他躺在棺材里看起来很安详。）
+  - His body was placed in the coffin before the funeral.（葬礼前，他的遗体被安放在棺材里。）
+  - He said he'd never retire—they'll have to carry him out in a coffin.（他说他永远不退休——要等他被抬进棺材才行。）
+  - ⚠️ coffin = 棺材；in the coffin = 在棺材里，常委婉表示"死了"；类似表达：six feet under（入土了）、pushing up daisies（死了埋了，幽默说法）
+
+- give the eulogy 致悼词；致颂词
+  - His best friend gave the eulogy at the funeral.（他最好的朋友在葬礼上致了悼词。）
+  - She was asked to give the eulogy at her grandmother's memorial service.（她被邀请在祖母的追悼会上致悼词。）
+  - The president gave a eulogy for the fallen soldiers.（总统为阵亡士兵致了悼词。）
+  - ⚠️ eulogy = 悼词、颂词（赞颂逝者的演讲）；give / deliver a eulogy = 致悼词；eulogize = 赞颂、致悼词（动词）；注意和 elegy（挽歌，诗歌）区分
