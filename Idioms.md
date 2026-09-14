@@ -280,3 +280,9 @@
   - She was asked to give the eulogy at her grandmother's memorial service.（她被邀请在祖母的追悼会上致悼词。）
   - The president gave a eulogy for the fallen soldiers.（总统为阵亡士兵致了悼词。）
   - ⚠️ eulogy = 悼词、颂词（赞颂逝者的演讲）；give / deliver a eulogy = 致悼词；eulogize = 赞颂、致悼词（动词）；注意和 elegy（挽歌，诗歌）区分
+
+- You are in very good company. 你和很多厉害的人一样；你不算孤单（有很多同类/名人也是这样）
+  — I failed the exam on my first try. — Don't worry, you're in very good company—Einstein failed too!（——我第一次考试没及格。——别担心，你可不算孤单——爱因斯坦也挂过！）
+  - If you feel confused about your career, you're in good company—most people do at your age.（如果你对职业感到迷茫，你一点都不孤单——你这个年纪大多数人都这样。）
+  - You're in very good company. Many great writers struggled before they became successful.（你和很多伟大的作家一样，他们成功之前也都挣扎过。）
+  - ⚠️ in good company = 和优秀/有名的人一样，做同样的事、有同样的问题；用来安慰或鼓励对方，意思是"很多厉害的人也这样，你并不差/并不孤单"；company 在此不是"公司"，是"陪伴、同伴"
