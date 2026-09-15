@@ -286,3 +286,154 @@
   - If you feel confused about your career, you're in good company—most people do at your age.（如果你对职业感到迷茫，你一点都不孤单——你这个年纪大多数人都这样。）
   - You're in very good company. Many great writers struggled before they became successful.（你和很多伟大的作家一样，他们成功之前也都挣扎过。）
   - ⚠️ in good company = 和优秀/有名的人一样，做同样的事、有同样的问题；用来安慰或鼓励对方，意思是"很多厉害的人也这样，你并不差/并不孤单"；company 在此不是"公司"，是"陪伴、同伴"
+
+- Stoicism 斯多葛主义；斯多葛学派
+  - Stoicism is an ancient Greek philosophy that teaches self-control and resilience.（斯多葛主义是古希腊的一种哲学，教导自我控制和韧性。
+  - Many people today practice Stoicism to deal with stress and uncertainty.（如今很多人践行斯多葛主义来应对压力和不确定性。）
+  - The core idea of Stoicism is that we can't control everything, but we can control how we react.（斯多葛学派的核心理念是，我们无法控制一切，但我们可以控制自己的反应。）
+  - ⚠️ Stoicism = 斯多葛哲学，由芝诺创立；Stoic = 斯多葛主义者（名词）；形容词 stoic = 坚忍的）
+
+- Stoic 斯多葛主义者；坚忍的人
+  - He's a real Stoic—he never complains even when things go wrong.（他是个真正的斯多葛主义者——即使出了问题也从不抱怨。）
+  - She remained stoic throughout the whole ordeal.（在整个磨难中，她都保持着坚忍。）
+  - ⚠️ 作名词：斯多葛学派信徒；作形容词：stoic = 坚忍的、不表露感情的；近义词：philosopher、stoical。
+
+- dense books 晦涩难懂的书；内容厚重密集的书
+  - He likes to read dense books on philosophy in his free time.（他空闲时喜欢读内容厚重的哲学书。）
+  - dense books require more time and patience to understand.（晦涩的书需要更多时间和耐心去理解。）
+  - ⚠️ dense = 密集的、浓厚的、难懂的；dense books =内容充实但难读的书；注意：dense还可以形容人则是“愚钝的”。
+
+- triumphs 胜利；成功；（重大成就
+  - The book tells the story of his triumphs and failures as an entrepreneur.（这本书讲述了他作为企业家的成功与失败。）
+  - She celebrated her triumphs but learned from her mistakes.（她庆祝胜利，也从错误中学习。）
+  - ⚠️ triumph = 胜利、凯旋、凯旋；triumph over = 战胜、克服；triumphant = triumph还可作动词： triumph over adversity（战胜逆境）
+
+- practical 实际的；实用的；务实的
+  - Stoicism is a very practical philosophy for daily life.（斯多葛主义是一种非常实用的日常生活哲学。）
+  - She gave me some very practical advice on how to manage my time.（她给了我一些非常实用的时间管理建议。）
+  - ⚠️ practical = 实际的、实用的；practice（反义：impractical（不切实际的）；practice = 实践、练习（名词）
+
+- appealing 有吸引力的；吸引人的
+  - The idea of living simply is very appealing to many people.（简单生活的想法对很多人很有吸引力。）
+  - I don't find his proposal very appealing.（我觉得他的提议没什么吸引力。）
+  - ⚠️ appealing = 有吸引力的、动人的；动词 appeal = 吸引、呼吁；appeal to sb. = 对某人有吸引力
+
+- destructive emotions 破坏性情绪；负面情绪
+  - Stoicism teaches us how to deal with destructive emotions like anger and fear.（斯多葛主义教我们如何处理愤怒和恐惧等破坏性情绪。）
+  - Destructive emotions can cloud your judgment and lead to bad decisions.（破坏性情绪会蒙蔽你的判断，导致错误的决定。）
+  - ⚠️ destructive = 破坏性的、毁灭性的；emotions = 情绪；constructive = 建设性的（反义）
+
+- conscious control 有意识的控制
+  - The goal of Stoicism conscious control over your mind.（斯多葛主义的目标是获得对思想的有意识控制。）
+  - With practice, you can develop conscious control over your reactions.（通过练习，你可以有意识地控制自己的反应。）
+  - ⚠️ conscious = 有意识的、清醒的；control = 控制；consciousness = 潜意识的（反义：unconscious 无意识的）
+
+- perspective 视角；观点；洞察力
+  - Stoicism gives you a different perspective on life's problems.（斯多葛主义给你一个看待生活问题的不同视角。）
+  - try to keep things in perspective—this isn't the end of the world.（我尽量客观看待——这还没什么大不了的。）
+  - ⚠️ perspective = 视角、观点、透视法；keep sth. in perspective = 客观看待、正确认识；from my perspective = 在我看来
+
+- transforms fear into caution 将恐惧转化为谨慎
+  - A Stoicism transforms fear into caution instead of letting it paralyze you.（斯多葛主义将恐惧转化为谨慎，而不是让它使你瘫痪。）
+  - He learned to transform his fear into caution and careful planning.（他学会了将恐惧转化为谨慎和周密的计划。）
+  - ⚠️ transform A into B = 将A转化为B；caution = 谨慎、小心；transform = 转变、改变
+
+- initiation 开始；创始；入会仪式
+  - The initiation into Stoicism way of thinking takes time and practice.（斯多葛思维方式的入门需要时间和练习。）
+  - went through a period of initiation when first started learning philosophy.（我刚开始学习哲学时，经历了一段入门期。）
+  - ⚠️ initiation = 开始、创始、入会仪式；initiate = 开始、发起（动词）；initiate sb. into sth. = 使某人初步了解某事
+
+- desire 欲望；渴望
+  - Stoicism teaches us to control our desires rather than be controlled by them.（斯多葛主义教我们控制欲望，而不是被欲望控制。）
+  - His desire for wealth and fame led to his downfall.（他对财富和名声的欲望导致了他的垮台。）
+  - ⚠️ desire = 欲望、渴望；desire to do sth. = 渴望做某事；desirable = 值得要的、可取的
+
+- inspire 激励；启发；鼓舞
+  - The teachings of Marcus Aurelius has inspired millions of people.（马可·奥勒留的教诲激励了数百万人。）
+  - Her courage inspired to become a better person.（她的勇气激励我成为一个更好的人。）
+  - ⚠️ inspire = 激励、启发、鼓舞；inspiration = 灵感、鼓舞（名词）；inspiring = 鼓舞人心的（形容词）
+
+- renowned 著名的；有名的
+  - Seneca is one of the most renowned Stoic philosophers.（塞涅卡是最著名的斯多葛派哲学家之一。）
+  - She's a renowned expert in the field of artificial intelligence.（她是人工智能领域的著名专家。）
+  - ⚠️ renowned = 著名的、有名的；= famous 更正式、更有威望；renown = 闻名、享有声誉（动词）
+
+- ardent 热情的；热烈的；坚定的
+  - He's an ardent follower of Stoic philosophy.（他是斯多葛哲学的狂热追随者。）
+  - She's an ardent supporter of environmental protection.（她是环境保护的坚定支持者。）
+  - ⚠️ ardent = 热情的、热烈的、坚定的；比 passionate 更正式、更强烈；ardor = 热情、热忱（名词）
+
+- consoling religion 令人慰藉的宗教/信仰
+  - For some people, Stoicism works like a consoling religion than a philosophy.（对有些人来说，斯多葛主义更像是一种令人慰藉的信仰而非哲学。）
+  - The idea everything happens for reason can be consoling to some people.（凡事皆有因的想法对有些人来说是一种安慰。）
+  - ⚠️ consoling = 令人安慰的、慰藉的；console = 安慰、慰藉（动词）；consolation = 安慰（名词）
+
+- capitalism 资本主义
+  - Some people argue that Stoicism is well-suited to capitalism because it emphasizes individual responsibility.（有些人认为斯多葛主义很适合资本主义，因为它强调个人责任。）
+  - Capitalism economic system based on private ownership and free markets.（资本主义是基于私有制和自由市场的经济体系。）
+  - ⚠️ capitalism = 资本主义；capitalist = 资本家、资本主义的（形容词）；反义：socialism（社会主义）
+
+- profound 深刻的；深远的；渊博的
+  - Stoicism has had a profound influence on Western thought.（斯多葛主义对西方思想产生了深远的影响。）
+  - book left a profound impression on me.（那本书给我留下了深刻的印象。）
+  - ⚠️ profound = 深刻的、深远的、渊博的；比 deep 更抽象、更正式；profundity = 深刻性、深奥（名词）
+
+- invented 发明的；创造的
+  - Stoicism was invented in ancient Greece around 300 BC.（斯多葛主义于公元前300年左右在古希腊创立。）
+  - He invented a new method to solve the problem.（他发明了一种解决问题的新方法。）
+  - ⚠️ invent = 发明、创造；invention = 发明（名词）；inventive = 有发明才能的（形容词）
+
+- irrational 不合理的；无理性的
+  - Many of our fears are irrational and based on imagination, not facts.（我们的很多恐惧都是非理性的，基于想象而非事实。）
+  - made an irrational decision when was angry.（我生气时做了一个不理智的决定。）
+  - ⚠️ irrational = 不合理的、无理性的；反义：rational（理性的）；ir- = 否定前缀
+
+- depression 抑郁；沮丧；萧条
+  - Stoicism can help people deal with depression and negative thoughts.（斯多葛主义可以帮助人们应对抑郁和消极想法。）
+  - went through a period of depression after losing his job.（失业后，他经历了一段抑郁期。）
+  - ⚠️ depression = 抑郁、沮丧、经济萧条；depress = 使沮丧、使萧条（动词）；depressed = 沮丧的（形容词）
+
+- resilience 韧性；恢复力；适应力
+  - Stoicism helps build emotional resilience.（斯多葛主义有助于培养情绪韧性。）
+  - Her resilience in the face of was admirable.（她面对困难时的韧性令人钦佩。）
+  - ⚠️ resilience = 韧性、恢复力、回弹能力；resilient = 有韧性的、有弹性的（形容词）；build resilience = 培养韧性
+
+- overcome setbacks 克服挫折；战胜挫折
+  - Stoicism teaches you how to overcome setbacks and keep going.（斯多葛主义教你如何克服挫折，继续前进。）
+  - She had to overcome many setbacks finally achieved success.（在最终获得成功之前，她不得不克服许多挫折。）
+  - ⚠️ overcome = 克服、战胜；setbacks = 挫折、阻碍；setback = 挫折、倒退（名词）；类似表达：face difficulties、deal with failures
+
+- obstacles 障碍；阻碍；障碍物
+  - There are always obstacles in life, how you respond them matters.（生活中总有障碍，重要的是你如何应对。）
+  - He overcame many obstacles to become successful.（他克服了许多障碍才获得成功。）
+  - ⚠️ obstacle = 障碍、阻碍；obstacle to sth. = 某事的障碍；类似表达：barrier、hindrance
+
+- argue 争论；辩论；认为
+  - Many philosophers argue that Stoicism is still relevant today.（许多哲学家认为斯多葛主义在今天仍然有意义。）
+  - They argued for hours about politics.（他们为政治争论了好几个小时。）
+  - ⚠️ argue = 争论、辩论、主张；argue that = 主张、认为；argue with sb. about sth. = 就某事与某人争论；argument = 争论、论点（名词）
+
+- relevant 相关的；切题的；有意义的
+  - The teachings of are still relevant today, 2,000 years later.（斯多葛的教诲在2000年后的今天仍然有现实意义。）
+  - I don't think comment is relevant to discussion.（我认为你的评论与讨论无关。）
+  - ⚠️ relevant = 相关的、切题的、有意义的；be relevant to = 与……相关；反义：irrelevant（无关的）
+
+- considerable practice 大量的练习；相当多的练习
+  - Becoming good at Stoicism requires considerable practice.（精通斯多葛主义需要大量练习。）
+  - It took considerable practice to master skill.（掌握这项技能需要相当多的练习。）
+  - ⚠️ considerable = 相当多的、相当大的；practice = 练习、实践；considerable practice = a lot of practice，但更正式
+
+- disciplined 有纪律的；自律的
+  - Stoics were known for being disciplined and self-controlled.（斯多葛主义者以自律和自控著称。）
+  - She's a very disciplined person who exercises every morning.（她是个非常自律的人，每天早上都锻炼。）
+  - ⚠️ disciplined = 有纪律的、自律的；discipline = 纪律、学科（名词）；self-disciplined = 自律的
+
+- principled 有原则的；原则性强的
+  - He's a principled man who always does what he believes is right.（他是个有原则的人，总是做他认为正确的事。）
+  - Stoicism encourages people to live a principled life based on virtue.（斯多葛主义鼓励人们过基于美德的有原则的生活。）
+  - ⚠️ principled = 有原则的、原则性强的；principle = 原则、原理；m原则）；principle vs principal（校长、主要的）
+
+- resonate 共鸣；回响；共振
+  - The ideas of Stoicism resonate with many people modern society.（斯多葛主义的思想与现代社会的许多人产生共鸣。）
+  - Her speech resonated with audience, especially young people.（她的演讲引起了观众，尤其是年轻人的共鸣。）
+  - ⚠️ resonate with sb. = 引起某人共鸣、使某人深有同感；resonance = 共鸣、共振（名词）；resonant = 共鸣的（形容词）
