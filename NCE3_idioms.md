@@ -437,3 +437,81 @@
   - Everyone calls him "the boss" even though he's just a manager.（每个人都叫他"老板"，尽管他只是个经理。）
   - They called her "the genius" because she was so smart.（因为她太聪明了，大家都叫她"天才"。）
   - ⚠️ call sb. + 名字/称呼 = 叫某人……；call sb. sth. 也可表示"把某人说成是……"（如：Don't call me a liar. 别叫我骗子）
+
+- go to extreme(s) to do sth. 走极端；为做某事而不择手段
+  - Some people go to extremes to lose weight, which is unhealthy.（有些人为了减肥走极端，这是不健康的。）
+  - He went to extreme lengths to prove he was right.（他为了证明自己是对的，走了极端。）
+  - You don't need to go to extremes—just try your best.（你不用走极端——尽力就行。）
+  - ⚠️ go to extremes = 走极端、做得过火；也可说 go to great/extreme lengths（竭尽全力，偏褒义/中性）；extreme = 极端的、极度的
+
+- publish + a book/an article/report... 出版/发表（书、文章、报告等）
+  - She published her first novel when she was only 25.（她年仅25岁就出版了第一本小说。）
+  - The professor has published over 50 articles in scientific journals.（这位教授在科学期刊上发表了50多篇论文。）
+  - The company will publish its annual report next week.（公司下周将发布年度报告。）
+  - ⚠️ publish = 出版、发表、发布；宾语可以是书、文章、报告、结果等；publication = 出版（名词）；publisher = 出版商
+
+- send sb. a fax 给某人发传真
+  - Please send me a fax of the contract as soon as possible.（请尽快把合同传真给我。）
+  - He sent a fax to the office confirming his arrival time.（他给办公室发了份传真，确认他的到达时间。）
+  - I sent you a fax yesterday—did you receive it?（我昨天给你发了传真——你收到了吗？）
+  - ⚠️ fax = 传真（名词/动词）；send sb. a fax = fax sb.（动词更简洁）；虽然现在传真用得少了，但商务场景仍常见
+
+- get impatient 变得不耐烦；着急
+  - Don't get impatient—help is on the way.（别着急——救援马上到。）
+  - He got impatient waiting in the long line.（排长队让他变得不耐烦了。）
+  - She gets impatient easily when things don't go her way.（事情不顺心时，她很容易不耐烦。）
+  - ⚠️ get impatient = become impatient；impatient = 不耐烦的（patient 的反义词）；搭配：get impatient with sb./sth.（对……不耐烦）
+
+- get/be fired 被解雇；被炒鱿鱼
+  - He got fired for being late too many times.（他因为迟到次数太多被炒鱿鱼了。）
+  - She was fired from her job after the scandal.（丑闻之后，她被解雇了。）
+  - If you keep making mistakes, you might get fired.（如果你继续犯错，可能会被开除。）
+  - ⚠️ get fired（口语，强调动作）= be fired（强调状态）= be dismissed（更正式）；反义：get hired / be hired（被雇佣）；类似表达：get the sack、get the boot（俚语，被炒鱿鱼）
+
+- provide sb. with sth. 为某人提供某物
+  - The company provides employees with free breakfast.（公司为员工提供免费早餐。）
+  - The school provides students with textbooks and laptops.（学校为学生提供课本和笔记本电脑。）
+  - We will provide you with all the information you need.（我们会为你提供你需要的所有信息。）
+  - ⚠️ provide sb. with sth. = provide sth. for sb.（两者同义，语序不同）；类似表达：supply sb. with sth.、offer sb. sth.
+
+- sb. be instructed to do sth. 某人被指示/命令做某事
+  - The soldiers were instructed to wait for further orders.（士兵们被指示等待进一步命令。）
+  - All staff have been instructed to wear masks indoors.（所有员工都被要求在室内戴口罩。）
+  - She was instructed to report to the manager's office immediately.（她被指示立刻去经理办公室报到。）
+  - ⚠️ 被动语态，表示"接到指示、被命令"；instruct = 指示、命令、指导；比 tell 更正式
+
+- instruct sb. to do sth. 指示/命令某人做某事
+  - The manager instructed the team to finish the project by Friday.（经理指示团队周五前完成项目。）
+  - The teacher instructed the students to hand in their homework on time.（老师要求学生按时交作业。）
+  - He instructed me to keep the information confidential.（他指示我对这条信息保密。）
+  - ⚠️ 主动语态，主语是发出指示的人；instruct sb. to do = tell sb. to do（但更正式）；instruction = 指示、说明（名词）
+
+- write an article on/about sth. 写一篇关于某事的文章
+  - She wrote an article on climate change for the newspaper.（她为报纸写了一篇关于气候变化的文章。）
+  - He is writing an article about AI in manufacturing.（他正在写一篇关于制造业中人工智能的文章。）
+  - The professor wrote an article on the history of economics.（那位教授写了一篇关于经济学史的论文。）
+  - ⚠️ write an article on sth. = write an article about sth.；on 比 about 更正式、更专业，常用于学术/新闻写作；article = 文章、论文
+
+- find out sth. 发现；查明；弄清楚
+  - I need to find out when the train leaves.（我得查一下火车什么时候开。）
+  - She found out the truth about her past.（她发现了关于自己身世的真相。）
+  - We'll find out the results tomorrow.（我们明天就会知道结果了。）
+  - ⚠️ find out = 查明、弄清楚（经过努力或调查后发现）；区别：find = 找到（丢失的东西/人）、发现（偶然）；find out = 查出真相、信息等
+
+- sb. take a long time to do sth. 某人花很长时间做某事
+  - He took a long time to make up his mind.（他花了很长时间才下定决心。）
+  - She takes a long time to get ready in the morning.（她早上要花很长时间才能准备好。）
+  - The government took a long time to respond to the crisis.（政府花了很长时间才对危机做出回应。）
+  - ⚠️ 句型：sb. takes + 时间 + to do sth. = 某人花多少时间做某事；也可用 it takes sb. + 时间 + to do sth.（it 作形式主语，更常用）
+
+- go to press （报刊等）付印；出版
+  - The newspaper goes to press at midnight.（报纸在午夜付印。）
+  - The book goes to press next week and will be in stores by October.（这本书下周付印，十月份就能上架。）
+  - We have to make a decision before the report goes to press.（我们必须在报告付印前做出决定。）
+  - ⚠️ go to press = （报纸、杂志、书籍等）付印、开印；press = 印刷机、出版社；类似表达：go to print、be published
+
+- inform sb. that + 句子 通知某人……
+  - We regret to inform you that your application has been rejected.（我们很遗憾地通知你，你的申请被拒绝了。）
+  - She informed me that the meeting had been cancelled.（她通知我会议取消了。）
+  - Please inform us that you have arrived safely.（请通知我们你已安全抵达。）
+  - ⚠️ inform sb. that = 通知某人……；inform = 通知、告知，比 tell 更正式；常用句型：inform sb. of sth.（通知某人某事）、keep sb. informed（随时向某人汇报）
