@@ -104,3 +104,52 @@ BBC 英语教学的解释：*"We can use the past continuous to make sentences a
 
 > ⚠️ 为什么过去时更礼貌？
 > 因为用过去时听起来像是"我刚才在想"，而不是"我现在就要求你做"，给对方留出了拒绝的空间，显得不那么直接和有压迫感。这是英语中非常常见的礼貌策略。
+
+
+---
+
+## not only 引导的部分倒装
+
+**含义：** not only 放在句首时，句子要用部分倒装（助动词/情态动词提到主语前面，类似一般疑问句的语序），用来强调 not only 后面的内容，语气更强烈。
+
+### 基本结构
+
+```
+Not only + 助动词/情态动词 + 主语 + 谓语 + ..., but also + 主语 + 谓语 + ...
+```
+
+### 例句
+
+- Not only **is** he smart, but he is also very hard-working.（他不仅聪明，而且还很努力。）
+- Not only **did** she pass the exam, but she also got the highest score in the class.（她不仅通过了考试，还得了全班最高分。）
+- Not only **can** he speak English, but he can also speak French and Japanese.（他不仅会说英语，还会说法语和日语。）
+- Not only **does** she work full time, but she also takes care of three children.（她不仅全职工作，还要照顾三个孩子。）
+- Not only **was** the movie boring, but it was also too long.（这部电影不仅无聊，还太长了。）
+
+### 不同时态的倒装形式
+
+| 时态 | 正常语序 | 倒装语序（not only 句首） |
+|------|---------|------------------------|
+| 一般现在时 | He works hard. | Not only **does** he work hard... |
+| 一般过去时 | She came early. | Not only **did** she come early... |
+| 一般将来时 | I will help you. | Not only **will** I help you... |
+| 现在完成时 | He has finished it. | Not only **has** he finished it... |
+| 情态动词 | You can do it. | Not only **can** you do it... |
+| be 动词 | She is kind. | Not only **is** she kind... |
+
+### 补充说明
+
+1. **but also 的省略和替换**：
+   - but also 中的 also 可以省略：Not only is he smart, but he is very hard-working.
+   - also 可以放在句中不同位置：...but he is also... / ...but also he is...
+   - 可以用 but...too 替换：...but he is very hard-working too.
+
+2. **连接两个主语时不倒装**：
+   - Not only the students but also the teacher **is** interested in the topic.
+   - （not only...but also 连接两个主语时，谓语动词遵循"就近原则"，这里和 the teacher 一致，用 is）
+
+3. **倒装的条件**：
+   - 只有当 not only 放在**句首**且连接两个句子时，才需要倒装。
+   - 如果 not only 在句子中间，不需要倒装：He is not only smart but also hard-working.
+
+> ⚠️ 小技巧：部分倒装 = 把句子变成一般疑问句的语序。不知道怎么倒？先把原句变成一般疑问句，再把 not only 放前面，基本就对了！
