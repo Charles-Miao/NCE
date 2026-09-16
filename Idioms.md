@@ -437,3 +437,50 @@
   - The ideas of Stoicism resonate with many people modern society.（斯多葛主义的思想与现代社会的许多人产生共鸣。）
   - Her speech resonated with audience, especially young people.（她的演讲引起了观众，尤其是年轻人的共鸣。）
   - ⚠️ resonate with sb. = 引起某人共鸣、使某人深有同感；resonance = 共鸣、共振（名词）；resonant = 共鸣的（形容词）
+
+- with regard to 关于；至于；就……而言
+  - With regard to your request, we will discuss it at the next meeting.（关于你的请求，我们会在下次会议上讨论。）
+  - I have nothing to say with regard to this matter.（就这件事而言，我没什么可说的。）
+  - With regard to the new policy, there are both advantages and disadvantages.（至于新政策，有利也有弊。）
+  - ⚠️ with regard to = 关于、至于，正式书面用语；类似表达：regarding、as for、as to、concerning；in regard to 也可以，意思相同
+
+- note-taking student 做笔记的学生；善于记笔记的学生
+  - A good note-taking student usually performs better in exams.（善于记笔记的学生通常考试表现更好。）
+  - She's a diligent note-taking student who writes down everything the teacher says.（她是个勤奋记笔记的学生，老师说的每句话她都记下来。）
+  - ⚠️ note-taking = 记笔记（复合名词/形容词）；take notes = 做笔记（动词短语）；note-taker = 记笔记的人
+
+- a different perspective on experiences 对经历的不同视角/看法
+  - Traveling gives you a different perspective on life experiences.（旅行让你对人生经历有了不同的视角。）
+  - Meditation can help you gain a different perspective on your past experiences.（冥想可以帮助你以不同的视角看待过去的经历。）
+  - Going through difficult times gave him a different perspective on what truly matters.（经历困难时期后，他对什么才是真正重要的有了不同的看法。）
+  - ⚠️ perspective on sth. = 对某事的看法/视角；a different perspective = 不同的角度/观点；也可说 a fresh perspective（全新的视角）
+
+- the course of his life 他的一生；人生历程
+  - Many unexpected events changed the course of his life.（许多意想不到的事件改变了他的人生轨迹。）
+  - The course of her life was completely different from what she had imagined.（她的人生轨迹和她当初想象的完全不同。）
+  - Throughout the course of his life, he learned many valuable lessons.（在他的人生历程中，他学到了很多宝贵的教训。）
+  - ⚠️ course = 过程、进程、道路；the course of life = 人生历程、生命轨迹；in the course of = 在……过程中
+
+- compare A to B 将A比作B；把A与B相比
+  - He compared his teacher to a lighthouse guiding students through darkness.（他把老师比作照亮学生黑暗的灯塔。）
+  - People often compare time to money, but they're really not the same.（人们常把时间比作金钱，但其实两者并不一样。）
+  - She compared the feeling of success to reaching the top of a mountain.（她把成功的感觉比作登上山顶。）
+  - ⚠️ compare A to B = 将A比作B（说明相似性，比喻）；compare A with B = 将A与B比较（对比异同）；注意：比喻时用 to，对比时用 with
+
+- Cognitive 认知的；认识的
+  - Cognitive skills include memory, attention, and problem-solving.（认知技能包括记忆力、注意力和解决问题的能力。）
+  - The study focused on the cognitive development of young children.（这项研究关注幼儿的认知发展。）
+  - Cognitive behavioral therapy is effective for treating anxiety.（认知行为疗法对治疗焦虑症很有效。）
+  - ⚠️ cognitive = 认知的、认识的；cognition = 认知、认识（名词）；cognitive science = 认知科学；CBT = Cognitive Behavioral Therapy（认知行为疗法）
+
+- Therapy 治疗；疗法
+  - She's been going to therapy for her depression.（她一直在为抑郁症接受治疗。）
+  - Physical therapy helped him recover from the injury faster.（物理治疗帮助他更快地从伤病中恢复。）
+  - Many people find therapy helpful for dealing with stress.（许多人发现心理治疗对应对压力有帮助。）
+  - ⚠️ therapy = 治疗、疗法；比 treatment 更专业，常指心理治疗或物理治疗；therapist = 治疗师、理疗师；in therapy = 在接受治疗
+
+- it can take a lifetime to master. 掌握它可能需要一辈子。
+  - Learning a language is like mastering an art—it can take a lifetime to master.（学习一门语言就像掌握一门艺术——可能需要一辈子的时间。）
+  - Stoicism is not something you learn quickly; it can take a lifetime to master.（斯多葛主义不是你能快速学会的东西，可能需要一辈子去领悟。）
+  - The art of calligraphy can take a lifetime to master.（书法这门艺术可能需要穷尽一生才能精通。）
+  - ⚠️ it takes + 时间 + to do sth. = 做某事需要多少时间；a lifetime = 一生、一辈子；master = 掌握、精通（动词）
