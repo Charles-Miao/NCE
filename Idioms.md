@@ -484,3 +484,15 @@
   - Stoicism is not something you learn quickly; it can take a lifetime to master.（斯多葛主义不是你能快速学会的东西，可能需要一辈子去领悟。）
   - The art of calligraphy can take a lifetime to master.（书法这门艺术可能需要穷尽一生才能精通。）
   - ⚠️ it takes + 时间 + to do sth. = 做某事需要多少时间；a lifetime = 一生、一辈子；master = 掌握、精通（动词）
+
+- no wonder 难怪；怪不得
+  - No wonder you're so tired—you stayed up until 3 AM!（难怪你这么累——你熬到凌晨3点！）
+  - No wonder she passed the exam; she studies 8 hours a day.（怪不得她考试及格了，她每天学习8小时。）
+  — He quit his job. — No wonder! He was always complaining about it.（——他辞职了。——怪不得！他一直在抱怨那份工作。）
+  - ⚠️ no wonder = 难怪、怪不得；完整句型：It's no wonder that...；口语中常省略 it's，直接用 no wonder；类似表达：small wonder、little wonder
+
+- kick his ass 揍他一顿；教训他；打败他
+  - If he says that again, I'm going to kick his ass.（他要是再那么说，我就揍他。）
+  - Our team is going to kick their ass in the game tonight.（我们队今晚会把他们打得屁滚尿流。）
+  - You better watch your mouth, or I'll kick your ass.（你最好嘴巴放干净点，不然我揍你。）
+  - ⚠️ 非常口语化的俚语，kick sb's ass = 揍某人、教训某人、痛打；也可以表示"轻松打败"（比赛、游戏中）；正式场合不要用；类似表达：beat sb. up、kick sb's butt（更委婉一点）
