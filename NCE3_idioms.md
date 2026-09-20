@@ -515,3 +515,67 @@
   - She informed me that the meeting had been cancelled.（她通知我会议取消了。）
   - Please inform us that you have arrived safely.（请通知我们你已安全抵达。）
   - ⚠️ inform sb. that = 通知某人……；inform = 通知、告知，比 tell 更正式；常用句型：inform sb. of sth.（通知某人某事）、keep sb. informed（随时向某人汇报）
+- smash sth. to pieces 把某物摔得粉碎；打碎
+  - He was so angry that he smashed the vase to pieces on the floor.（他气得把花瓶摔在地上，碎成了渣。）
+  - The earthquake smashed many buildings to pieces.（地震把许多建筑夷为平地。）
+  - She dropped the plate and it smashed to pieces on the tiles.（她把盘子掉了，瓷砖上摔得粉碎。）
+  - ⚠️ smash = 猛摔、打碎，力度比 break 大得多；to pieces = 成碎片、碎成渣；类似表达：smash into bits、break into pieces、shatter
+
+- grab a beer/coffee 喝杯啤酒/咖啡（口语化"去弄点喝的"）
+  - Let's grab a beer after work.（下班后去喝杯啤酒吧。）
+  - I'll go grab a coffee before the meeting starts.（会议开始前我去弄杯咖啡。）
+  - Want to grab a beer later?（待会儿去喝杯啤酒吗？）
+  - ⚠️ grab = 抓、拿，引申为"随便弄点、快速获取"；grab a bite = 随便吃点东西；非常口语化，日常聊天常用
+
+- go to the arcade 去游戏厅/街机厅
+  - When we were kids, we used to go to the arcade every weekend.（我们小时候每个周末都去游戏厅。）
+  - He spent all his allowance going to the arcade playing Street Fighter.（他把零花钱都花在游戏厅打街霸上了。）
+  - ⚠️ arcade = 街机厅、游戏厅（美式）；英式常用 amusement arcade；arcade game = 街机游戏
+
+- background music = BGM 背景音乐
+  - There's soft background music playing in the restaurant.（餐厅里播放着轻柔的背景音乐。）
+  - I like to study with background music on.（我喜欢开着背景音乐学习。）
+  - The background music in this game is really catchy.（这个游戏的背景音乐太上头了。）
+  - ⚠️ background music = 背景音乐，简称 BGM；也叫 ambient music（环境音乐）；mute the BGM = 关背景音乐
+
+- scrambled eggs 炒鸡蛋；滑蛋
+  - I'd like scrambled eggs and toast for breakfast.（我早餐想吃炒鸡蛋和吐司。）
+  - She makes the best scrambled eggs I've ever tasted.（她做的炒鸡蛋是我吃过最好吃的。）
+  - Scrambled eggs are easy to make—just whisk eggs and cook them slowly.（炒鸡蛋很简单——把鸡蛋打散，小火慢炒就行。）
+  - ⚠️ scramble = 搅拌、炒蛋；scrambled eggs = 炒鸡蛋（美式常用）；英式也说 scrambled egg；其他做法：boiled eggs（水煮蛋）、fried eggs（煎蛋）、poached eggs（水波蛋）
+
+- at a fantastic speed 以惊人的速度
+  - The sports car drove past at a fantastic speed.（跑车以惊人的速度呼啸而过。）
+  - He finished the project at a fantastic speed.（他以惊人的速度完成了项目。）
+  - Technology is developing at a fantastic speed these days.（如今科技正以惊人的速度发展。）
+  - ⚠️ fantastic = 极好的、惊人的、难以置信的；at a ... speed = 以……速度；类似表达：at an amazing speed、at incredible speed
+
+- That's fantastic. 太棒了；太好了
+  — I got the promotion! — That's fantastic!（——我升职了！——太棒了！）
+  — We're going to Japan next month. — That's fantastic news!（——我们下个月要去日本。——这消息太棒了！）
+  - That's fantastic—you did an amazing job.（太棒了，你做得非常好。）
+  - ⚠️ fantastic = 极好的、了不起的，口语中表赞赏；比 great / wonderful 语气更强；类似表达：That's amazing / awesome / incredible
+
+- only just… 刚刚才；好不容易才
+  - I only just caught the train—it was about to leave.（我刚赶上车——车就要开了。）
+  - We only just finished the project before the deadline.（我们好不容易才在截止日期前完成项目。）
+  - She only just passed the exam by one point.（她一分险过，勉强及格。）
+  - ⚠️ only just = 刚刚、才、勉强；强调"差一点就不行了"；类似表达：barely、hardly、scarcely
+
+- come to a stop 停下来；停止
+  - The bus came to a stop right in front of me.（公交车正好在我面前停了下来。）
+  - The car came to a sudden stop when the child ran into the road.（小孩跑到路上时，车猛地停了下来。）
+  - After rolling for a few meters, the rock finally came to a stop.（石头滚了几米后终于停了下来。）
+  - ⚠️ come to a stop = 停止、停下，强调逐渐停止的过程；come to a complete stop = 完全停住；类似表达：come to rest、halt
+
+- be too busy doing sth. to do sth. 忙于做某事而无暇做另一件事
+  - I was too busy working to answer the phone.（我忙着工作，没空接电话。）
+  - She's too busy studying to go out on weekends.（她周末忙着学习，没空出去。）
+  - He was too busy playing games to notice what was happening.（他忙着打游戏，没注意到发生了什么。）
+  - ⚠️ too busy doing sth. to do sth. = 太忙做A而没空做B；注意结构：be busy doing sth.（忙于做某事）+ too...to（太……而不能）；类似表达：be so busy doing that...
+
+- money + worth of + n. 价值多少钱的……
+  - I bought 500 yuan worth of books yesterday.（我昨天买了价值500元的书。）
+  - The fire caused thousands of dollars worth of damage.（火灾造成了数千美元的损失。）
+  - We have about three months' worth of food stored up.（我们存了大约三个月的食物。）
+  - ⚠️ 结构：金额 + worth of + 名词 = 价值……的东西；注意所有格的使用：ten dollars' worth / a month's worth；也可以说：sth. is worth 500 yuan（某物值500元）
