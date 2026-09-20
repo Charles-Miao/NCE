@@ -515,6 +515,7 @@
   - She informed me that the meeting had been cancelled.（她通知我会议取消了。）
   - Please inform us that you have arrived safely.（请通知我们你已安全抵达。）
   - ⚠️ inform sb. that = 通知某人……；inform = 通知、告知，比 tell 更正式；常用句型：inform sb. of sth.（通知某人某事）、keep sb. informed（随时向某人汇报）
+
 - smash sth. to pieces 把某物摔得粉碎；打碎
   - He was so angry that he smashed the vase to pieces on the floor.（他气得把花瓶摔在地上，碎成了渣。）
   - The earthquake smashed many buildings to pieces.（地震把许多建筑夷为平地。）
@@ -530,7 +531,11 @@
 - go to the arcade 去游戏厅/街机厅
   - When we were kids, we used to go to the arcade every weekend.（我们小时候每个周末都去游戏厅。）
   - He spent all his allowance going to the arcade playing Street Fighter.（他把零花钱都花在游戏厅打街霸上了。）
-  - ⚠️ arcade = 街机厅、游戏厅（美式）；英式常用 amusement arcade；arcade game = 街机游戏
+  - ⚠️ arcade 有多个含义：
+    ① **街机厅/游戏厅**（美式，英式常用 amusement arcade）
+    ② **拱廊、连拱廊**（建筑术语，指带拱形顶的走廊/通道，常见于商场、老式建筑）
+    ③ **购物中心**（尤指有拱顶的步行商业街，如 shopping arcade）
+  - 生活中"go to the arcade"一般指去打街机，但要根据语境判断具体含义
 
 - background music = BGM 背景音乐
   - There's soft background music playing in the restaurant.（餐厅里播放着轻柔的背景音乐。）
