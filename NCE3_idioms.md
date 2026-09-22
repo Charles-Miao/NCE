@@ -584,3 +584,39 @@
   - The fire caused thousands of dollars worth of damage.（火灾造成了数千美元的损失。）
   - We have about three months' worth of food stored up.（我们存了大约三个月的食物。）
   - ⚠️ 结构：金额 + worth of + 名词 = 价值……的东西；注意所有格的使用：ten dollars' worth / a month's worth；也可以说：sth. is worth 500 yuan（某物值500元）
+
+- chewing gum 口香糖
+  - Please don't chew gum in class.（请不要在课堂上嚼口香糖。）
+  - He always has a pack of chewing gum in his pocket.（他口袋里总是装着一包口香糖。）
+  - Chewing gum can help you stay awake when you're tired.（累的时候嚼口香糖可以帮你保持清醒。）
+  - ⚠️ chewing gum = 口香糖（美式常用）；英式也说 gum 或 stick of gum（一片口香糖）；chew = 咀嚼；注意：gum 也可以指牙龈
+
+- for safekeeping 为了妥善保管；为了安全起见
+  - I put the important documents in the safe for safekeeping.（我把重要文件放在保险柜里妥善保管。）
+  - She gave her jewelry to her mother for safekeeping while she was traveling.（她旅行时把珠宝交给母亲妥善保管。）
+  - Here's the key—keep it for safekeeping.（这是钥匙，你收好保管好。）
+  - ⚠️ safekeeping = 妥善保管、安全保护；for safekeeping = 为了安全保存；类似表达：for safety、to keep it safe
+
+- deal with 处理；应对；和……打交道
+  - I need to deal with this problem before it gets worse.（我得在问题恶化前处理好。）
+  - She's good at dealing with difficult customers.（她很擅长应付难搞的客户。）
+  - How do you deal with stress at work?（你怎么应对工作压力？）
+  - ⚠️ 多义短语：① 处理、解决（问题、事情） ② 应对、打交道（人） ③ 涉及、关于（书/电影等）；deal with = handle、cope with、address
+
+- go doing… 去做某事（尤指户外活动/娱乐活动）
+  - Let's go swimming this weekend.（这周末我们去游泳吧。）
+  - We went hiking in the mountains last Sunday.（上周日我们去山里徒步了。）
+  - She goes running every morning before work.（她每天早上上班前去跑步。）
+  - ⚠️ go + 动名词（doing）= 去做某事，常用于运动或休闲活动；常见搭配：go shopping / fishing / skiing / camping / dancing；注意：go to do sth. = 去做（目的更明确）
+
+- Imagine sb's dismay when 想象一下某人……时有多沮丧/惊愕
+  - Imagine his dismay when he found out his wallet was gone.（想象一下他发现钱包不见了时有多沮丧。）
+  - Imagine her dismay when she saw the mess in the kitchen.（想象一下她看到厨房里一团糟时有多惊愕。）
+  - Imagine their dismay when they realized the train had already left.（想象一下他们意识到火车已经开走时有多失望。）
+  - ⚠️ dismay = 沮丧、惊愕、失望；Imagine sb's dismay when... = 想想某人当时有多沮丧；常用于表达对意外坏消息的反应；类似表达：Imagine sb's surprise when（想象某人有多惊讶）
+
+- so long as... 只要；既然
+  - You can go out so long as you finish your homework first.（只要你先写完作业，就可以出去玩。）
+  - So long as you're happy, that's all that matters.（只要你开心，其他都不重要。）
+  - So long as we work together, we can solve any problem.（只要我们齐心协力，任何问题都能解决。）
+  - ⚠️ so long as = as long as，意思基本相同，都引导条件状语从句= 只要；so long as 稍微更口语化一点；注意：so long as 还有"既然"的意思（= since），但不常用
