@@ -620,3 +620,45 @@
   - So long as you're happy, that's all that matters.（只要你开心，其他都不重要。）
   - So long as we work together, we can solve any problem.（只要我们齐心协力，任何问题都能解决。）
   - ⚠️ so long as = as long as，意思基本相同，都引导条件状语从句= 只要；so long as 稍微更口语化一点；注意：so long as 还有"既然"的意思（= since），但不常用
+
+- Can I get some privacy? 能不能给我点隐私空间？/ 能让我一个人待会儿吗？
+  — Why are you standing there watching me? Can I get some privacy?（你站在那儿看我干嘛？能不能给我点隐私？）
+  - She closed the door and said, "Can I get some privacy, please?"（她关上门说："麻烦给我点私人空间好吗？"）
+  — Can I get some privacy here? I need to make a phone call.（能让我一个人待会儿吗？我得打个电话。）
+  - ⚠️ 口语常用表达，委婉地表示"我需要独处/我不希望被打扰"；privacy = 隐私、私人空间；类似表达：Can I have a moment alone?、Could you give me some space?
+
+- connect A to B 把A连接到B
+  - You need to connect the printer to the computer first.（你得先把打印机连到电脑上。）
+  - The new highway will connect our city to the capital.（这条新高速将把我们城市和首都连接起来。）
+  - This app connects you to people from all over the world.（这个应用能让你和全世界的人建立联系。）
+  - ⚠️ connect A to B = connect A with B（两者常可互换）；connect = 连接、联系；connection = 连接、关系（名词）
+
+- for hundreds of years 数百年来；几百年的时间
+  - The castle has stood here for hundreds of years.（这座城堡已经矗立在这里数百年了。）
+  - People have been coming to this spring for hundreds of years for its healing waters.（数百年来，人们一直来到这处温泉，因为这里的泉水有治愈功效。）
+  - For hundreds of years, this tradition has been passed down from generation to generation.（数百年来，这个传统代代相传。）
+  - ⚠️ for + 时间段 = 持续了多久；hundreds of = 数百的（不确定的数量）；类似表达：for thousands of years（数千年来）、for decades（数十年来）
+
+- Now that + 从句 既然；由于
+  - Now that you're here, let's start the meeting.（既然你来了，我们开始开会吧。）
+  - Now that I've finished my work, I can relax a bit.（既然工作做完了，我可以放松一下了。）
+  - Now that you mention it, I do remember seeing him somewhere.（既然你提起了，我确实记得在哪见过他。）
+  - ⚠️ now that = since、because，引导原因状语从句，"既然、由于"，语气比 because 弱，更自然；that 有时可以省略（Now you're here...）
+
+- attempt to do sth. 尝试做某事；企图做某事
+  - He attempted to climb the mountain but had to turn back due to bad weather.（他试图攀登那座山，但由于恶劣天气不得不折返。）
+  - She attempted to learn Japanese but gave up after a few months.（她尝试学日语，但几个月后就放弃了。）
+  - The prisoner attempted to escape but was caught immediately.（囚犯企图逃跑，但立刻就被抓住了。）
+  - ⚠️ attempt to do = try to do，但更正式，也常暗示"尝试但没成功"；attempt 可作动词也可作名词（make an attempt to do）；类似表达：make an effort to do
+
+- be in difficulty 处于困境；有困难
+  - The company is in financial difficulty and may close down.（公司陷入财务困境，可能会倒闭。）
+  - If you are in difficulty, don't hesitate to ask for help.（如果你遇到困难，别犹豫，尽管求助。）
+  - He's been in difficulty since he lost his job.（失业后他一直过得很艰难。）
+  - ⚠️ be in difficulty = be in trouble，但 difficulty 更正式、书面；也可说 be in difficulties（复数形式也可以）；类似表达：be in trouble、be in a tight spot
+
+- receive a warm welcome 受到热烈欢迎
+  - The visiting president received a warm welcome at the airport.（来访的总统在机场受到了热烈欢迎。）
+  - She received a warm welcome when she returned to her hometown.（她回到家乡时受到了热烈的欢迎。）
+  - Our team received a warm welcome from the local people.（我们队受到了当地人的热烈欢迎。）
+  - ⚠️ receive a warm welcome = 受到热烈欢迎；warm welcome = 热烈欢迎；也可以说 give sb. a warm welcome（热烈欢迎某人）；反义：a cold welcome（冷遇）
