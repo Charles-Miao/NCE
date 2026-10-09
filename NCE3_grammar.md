@@ -153,3 +153,88 @@ Not only + 助动词/情态动词 + 主语 + 谓语 + ..., but also + 主语 + �
    - 如果 not only 在句子中间，不需要倒装：He is not only smart but also hard-working.
 
 > ⚠️ 小技巧：部分倒装 = 把句子变成一般疑问句的语序。不知道怎么倒？先把原句变成一般疑问句，再把 not only 放前面，基本就对了！
+
+
+---
+
+## the more..., the more... 越……越……
+
+**含义：** 表示程度同时递增，"越……，就越……"。the + 比较级放在句首，两个分句呼应。
+
+### 基本结构
+
+```
+The + 比较级 + 主语 + 谓语, the + 比较级 + 主语 + 谓语
+```
+
+### 例句
+
+- The more you practice, the better you'll get.（你练习得越多，就会越熟练。）
+- The more money he makes, the more he spends.（他赚得越多，花得也越多。）
+- The older I get, the less I care about what people think.（我年纪越大，越不在乎别人怎么想。）
+- The harder you work, the more successful you will be.（你越努力，就会越成功。）
+- The faster you drive, the more dangerous it is.（你开得越快，就越危险。）
+- The less you eat, the more weight you'll lose.（吃得越少，减得越多。）
+
+### 常见变体
+
+| 结构 | 例句 | 释义 |
+|------|------|------|
+| the more...the more | The more, the better. | 越多越好 |
+| the more...the less | The more he talks, the less I understand. | 他说得越多，我越听不懂 |
+| the + 副词比较级 | The more quickly you finish, the sooner you can leave. | 你越快完成，就能越早走 |
+| 省略结构 | The sooner, the better. | 越快越好 |
+
+### 补充说明
+
+1. **省略句**：口语中常简化为 "The + 比较级, the + 比较级."
+   - The more, the merrier.（人越多越热闹。）
+   - The bigger, the better.（越大越好。）
+
+2. **语序**：如果主语是名词且较长，可以倒装（也可以不倒装）
+   - The more difficult the questions are, the less likely I am to answer them.
+   - The more difficult are the questions, ...（倒装，较正式）
+
+3. **和中文的对应**：这个结构和中文"越……越……"几乎完全对应，很好记。
+
+---
+
+## yet 作连词：然而；但是
+
+**含义：** yet 作连词时 = but / nevertheless（然而、但是），表示转折，语气比 but 稍强，带有"出乎意料、尽管如此"的意味。
+
+### 基本用法
+
+- She's a very smart girl, yet she's quite lazy.（她是个很聪明的女孩，但她相当懒。）
+- He studied hard for the exam, yet he still failed.（他为考试努力学习了，但还是没及格。）
+- The car is old, yet it's still in good condition.（这辆车很旧，但车况依然很好。）
+
+### yet 与 but 的区别
+
+| 连接词 | 语气 | 常见位置 | 特点 |
+|--------|------|---------|------|
+| **but** | 中性、最常用 | 句中 | 日常对话首选 |
+| **yet** | 稍强，含"意外、尽管如此" | 句中、句首（正式） | 书面/正式场合更多 |
+| **however** | 更强，更正式 | 句首、句中、句尾 | 最正式，可作插入语 |
+
+### 典型句型
+
+1. **and yet = 然而（= but yet）**
+   - He's rich, and yet he's not happy.（他很有钱，然而并不幸福。）
+   - It's a simple game, and yet it's very addictive.（这是个简单的游戏，然而非常上瘾。）
+
+2. **yet 放在句首（较正式）**
+   - Yet, despite all the evidence, he refused to admit he was wrong.（然而，尽管证据确凿，他仍拒绝认错。）
+
+3. **not...yet... 不是……但……**
+   - The plan is not perfect, yet it's the best we have.（这个计划不完美，但它是我们目前最好的。）
+
+### 补充说明
+
+1. yet 还可以作副词，表示"还、仍然"（常用于否定句和疑问句）：
+   - I haven't finished yet.（我还没做完。）
+   - Has he arrived yet?（他到了吗？）
+
+2. 作连词的 yet 和作副词的 yet 意思完全不同，注意区分。
+
+> ⚠️ 小提示：写作时想替换 but，用 yet 或 however 会显得更有文采~
