@@ -662,3 +662,15 @@
   - She received a warm welcome when she returned to her hometown.（她回到家乡时受到了热烈的欢迎。）
   - Our team received a warm welcome from the local people.（我们队受到了当地人的热烈欢迎。）
   - ⚠️ receive a warm welcome = 受到热烈欢迎；warm welcome = 热烈欢迎；也可以说 give sb. a warm welcome（热烈欢迎某人）；反义：a cold welcome（冷遇）
+
+- gained its independence 获得独立
+  - India gained its independence from Britain in 1947.（印度于1947年从英国独立。）
+  - The country gained its independence after a long and difficult war.（经过漫长而艰苦的战争，这个国家获得了独立。）
+  - After years of struggle, they finally gained their independence.（经过多年的斗争，他们终于赢得了独立。）
+  - ⚠️ gain independence = 获得独立、赢得独立；independence = 独立（不可数名词）；independent = 独立的（形容词）；反义：lose independence（丧失独立）、be under the rule of（受……统治）
+
+- have/make an impact on... 对……产生影响
+  - Social media has a huge impact on young people's lives.（社交媒体对年轻人的生活有着巨大的影响。）
+  - The pandemic made a significant impact on the global economy.（疫情对全球经济产生了重大影响。）
+  - Her teacher's words had a lasting impact on her.（她老师的话对她产生了深远的影响。）
+  - ⚠️ have an impact on = make an impact on = 对……产生影响；impact = 影响、冲击（名词/动词）；常见搭配：a big / huge / significant / lasting impact；类似表达：have an effect on、influence、affect
