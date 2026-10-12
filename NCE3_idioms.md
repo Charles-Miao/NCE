@@ -674,3 +674,69 @@
   - The pandemic made a significant impact on the global economy.（疫情对全球经济产生了重大影响。）
   - Her teacher's words had a lasting impact on her.（她老师的话对她产生了深远的影响。）
   - ⚠️ have an impact on = make an impact on = 对……产生影响；impact = 影响、冲击（名词/动词）；常见搭配：a big / huge / significant / lasting impact；类似表达：have an effect on、influence、affect
+
+- lead a adj. life 过着……的生活
+  - She leads a happy life with her family in the countryside.（她和家人在乡下过着幸福的生活。）
+  - He led a simple life despite being very rich.（尽管很有钱，他却过着简朴的生活。）
+  - Many people in this area lead a hard life.（这个地区的许多人过着艰苦的生活。）
+  - ⚠️ lead a ... life = 过着……的生活；也可说 live a ... life；类似结构：lead a quiet / busy / healthy / miserable life
+
+- learn to do sth. 学习做某事；学会做某事
+  - I'm learning to play the piano.（我正在学弹钢琴。）
+  - She learned to speak French when she was living in Paris.（她在巴黎生活时学会了说法语。）
+  - You should learn to respect other people's opinions.（你应该学会尊重别人的意见。）
+  - ⚠️ learn to do = 学习/学会做某事；区别：learn doing sth.（学习做某事，强调过程，较少用）；learn from = 从……中学习
+
+- a good deal of / a great deal of 大量的；许多（+不可数名词）
+  - She spends a good deal of time reading every day.（她每天花大量时间阅读。）
+  - There's a great deal of work to be done before the deadline.（截止日期前还有大量工作要做。）
+  - A good deal of money was spent on the project.（这个项目花了很多钱。）
+  - ⚠️ a good/great deal of = 大量的、许多的，后接不可数名词；类似：a lot of、plenty of、a large amount of；区别：a good many + 可数名词复数
+
+- be based on 基于；以……为根据
+  - The movie is based on a true story.（这部电影是基于真实故事改编的。）
+  - His theory is based on years of research.（他的理论建立在多年研究的基础上。）
+  - The report is based on data collected from 1,000 people.（这份报告基于从1000人收集的数据。）
+  - ⚠️ be based on = 基于、以……为基础；base sth. on sth.（主动形式）= 把某事建立在……上；类似表达：be built on、be founded on
+
+- make a study of sth. 对……进行研究；研究
+  - The scientists made a careful study of the disease.（科学家们对这种疾病进行了仔细的研究。）
+  - She made a study of ancient Chinese history for her PhD thesis.（她为博士论文研究了中国古代史。）
+  - The company made a detailed study of the market before launching the product.（公司在推出产品前对市场做了详细研究。）
+  - ⚠️ make a study of = 对……进行研究，比 study 更正式、更强调系统性；study 也可直接作动词
+
+- a period of + 时间 一段……时间
+  - She studied abroad for a period of two years.（她在国外学习了两年时间。）
+  - There was a long period of peace after the war.（战后有一段很长的和平时期。）
+  - The factory will be closed for a period of three months for repairs.（工厂将关闭三个月进行维修。）
+  - ⚠️ a period of + 时间 = 一段……时间；period = 时期、阶段、周期；类似表达：a stretch of time、a period of time
+
+- have sth. in common 有共同之处
+  - They have a lot in common despite coming from different backgrounds.（尽管出身不同，他们有很多共同之处。）
+  - My sister and I have very little in common.（我和我妹妹几乎没有什么共同点。）
+  - What do these two books have in common?（这两本书有什么共同之处？）
+  - ⚠️ have sth. in common = 有共同点；have a lot in common = 有很多共同之处；have nothing in common = 毫无共同之处；common = 共同的、普通的
+
+- died from / died of 死于……
+  - He died of a heart attack at the age of 65.（他65岁时死于心脏病发作。）
+  - Many people died from the earthquake.（许多人死于地震。）
+  - The old man died of cancer last year.（老人去年死于癌症。）
+  - ⚠️ die of 一般指死于疾病、饥饿、衰老等自身原因；die from 一般指死于外伤、事故、灾害等外部原因；实际使用中两者界限不严格，常可互换
+
+- there is no shortage of 不乏；不缺少
+  - There is no shortage of talented young people in this city.（这座城市不乏有才华的年轻人。）
+  - There's no shortage of things to do in London.（伦敦从不缺可做的事。）
+  - There is no shortage of people who want to work for this company.（想进这家公司工作的人多的是。）
+  - ⚠️ there is no shortage of = 不缺少、不乏；shortage = 短缺、不足；类似表达：no lack of、plenty of
+
+- It seems that + 句子 似乎……；好像……
+  - It seems that he forgot about the meeting.（他好像忘了开会的事。）
+  - It seems that no one knows what happened.（似乎没人知道发生了什么。）
+  - It seems to me that you're making a mistake.（在我看来你正在犯一个错误。）
+  - ⚠️ It seems that... = 看起来好像、似乎；it 是形式主语，真正主语是 that 从句；类似：It appears that...、It looks as if...；口语中可说 It seems like...
+
+- be likely to do sth. 很可能做某事
+  - It's likely to rain this afternoon.（今天下午很可能会下雨。）
+  - She's likely to win the competition.（她很可能赢得比赛。）
+  - They are likely to arrive late because of the traffic.（因为交通，他们很可能会迟到。）
+  - ⚠️ be likely to do = 很可能做某事；likely = 可能的，可作形容词或副词；反义：be unlikely to do（不太可能）；也可用于 It is likely that... 句型
