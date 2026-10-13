@@ -740,3 +740,21 @@
   - She's likely to win the competition.（她很可能赢得比赛。）
   - They are likely to arrive late because of the traffic.（因为交通，他们很可能会迟到。）
   - ⚠️ be likely to do = 很可能做某事；likely = 可能的，可作形容词或副词；反义：be unlikely to do（不太可能）；也可用于 It is likely that... 句型
+
+- to sb's horror 令某人惊恐的是；使某人毛骨悚然的是
+  - To my horror, I saw a snake on my bed.（令我惊恐的是，我看到床上有一条蛇。）
+  - To everyone's horror, the bridge collapsed right in front of them.（令所有人惊恐的是，桥就在他们面前塌了。）
+  - To his horror, he realized he had left his passport at home.（令他惊慌的是，他发现自己把护照落在家里了。）
+  - ⚠️ to + one's + 情绪名词 = 令某人……的是；常见搭配：to one's surprise（令某人惊讶）、to one's delight（令某人高兴）、to one's disappointment（令某人失望）；horror = 恐惧、惊恐、恐怖
+
+- horror movie 恐怖电影
+  - I can't watch horror movies before bed—they give me nightmares.（我睡前不能看恐怖片——会做噩梦。）
+  - She loves watching horror movies with her friends on weekends.（她喜欢周末和朋友一起看恐怖片。）
+  - The horror movie was so scary that I had to close my eyes several times.（这部恐怖片太吓人了，我好几次都闭上了眼睛。）
+  - ⚠️ horror movie = 恐怖电影（美式）；英式常用 horror film；类似：thriller（惊悚片）、scary movie（吓人的电影，更口语）；horror = 恐怖、惊骇
+
+- make a spectacle 出洋相；当众出丑
+  - He got drunk at the wedding and made a spectacle of himself.（他在婚礼上喝醉了，出尽了洋相。）
+  - Stop shouting! You're making a spectacle of yourself.（别喊了！你在当众出丑。）
+  - She tripped and fell on stage, making a complete spectacle of herself.（她在舞台上绊倒了，当众出了个大洋相。）
+  - ⚠️ make a spectacle of oneself = 出洋相、出丑；spectacle = 景象、奇观、眼镜（复数）；完整形式是 make a spectacle of oneself（后面接 of oneself，指"让自己成为笑柄"）
