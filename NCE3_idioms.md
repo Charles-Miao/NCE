@@ -758,3 +758,39 @@
   - Stop shouting! You're making a spectacle of yourself.（别喊了！你在当众出丑。）
   - She tripped and fell on stage, making a complete spectacle of herself.（她在舞台上绊倒了，当众出了个大洋相。）
   - ⚠️ make a spectacle of oneself = 出洋相、出丑；spectacle = 景象、奇观、眼镜（复数）；完整形式是 make a spectacle of oneself（后面接 of oneself，指"让自己成为笑柄"）
+
+- a crew of 一群（工作人员/船员/机组人员）；一队
+  - The ship has a crew of fifty sailors.（这艘船有五十名船员。）
+  - A crew of technicians arrived to fix the broken machine.（一队技术人员 arrived 来修理坏掉的机器。）
+  - The movie was filmed by a crew of over 200 people.（这部电影由一支两百多人的团队拍摄完成。）
+  - ⚠️ crew = 全体船员/机组人员/工作人员，为集合名词，强调整体时谓语用单数，强调个体时可用复数；a crew of 后接具体人数或表示人的名词；类似表达：a team of、a group of
+
+- be regarded as 被视为；被认为是
+  - He is regarded as one of the best doctors in the hospital.（他被认为是这家医院最好的医生之一。）
+  - The Great Wall is regarded as a symbol of China.（长城被视为中国的象征。）
+  - She was regarded as a genius by her teachers.（她的老师们都把她看作天才。）
+  - ⚠️ regard A as B = 把A看作B；被动式 be regarded as = 被视为/被认为是；as 后可接名词、代词或形容词；类似表达：be considered as、be seen as、be thought of as
+
+- give an alarm 发出警报；报警
+  - The fire alarm gave an alarm as soon as smoke was detected.（一检测到烟雾，火警就发出了警报。）
+  - The guard gave an alarm when he saw someone breaking in.（保安看到有人闯入时立刻发出警报。）
+  - It is important to give an alarm immediately when you smell gas.（闻到煤气时立即报警很重要。）
+  - ⚠️ alarm = 警报、闹钟、惊恐；give an alarm = 发出警报（强调发出警告的动作）；类似表达：raise the alarm、sound the alarm、set off the alarm；区别：give an alarm 较书面，sound the alarm 更口语常用
+
+- in time 及时；最终，迟早
+  - We arrived at the station just in time to catch the train.（我们及时赶到车站赶上了火车。）
+  - The doctor said that the patient would recover in time.（医生说病人迟早会康复的。）
+  - If you keep working hard, you'll succeed in time.（如果你继续努力，总有一天会成功的。）
+  - ⚠️ 多义短语：① 及时（= not late）② 最终、迟早（= eventually, sooner or later）；易混：on time = 准时、按时（指按预定时间）；in time 强调"赶在……之前来得及"
+
+- realized to his horror that 惊恐地意识到……
+  - He realized to his horror that he had left the door unlocked.（他惊恐地意识到自己没锁门。）
+  - She realized to her horror that the car was speeding out of control.（她惊恐地意识到汽车正在失控加速。）
+  - When he opened the box, he realized to his horror that it was empty.（他打开盒子时惊恐地发现里面是空的。）
+  - ⚠️ 结构：realize + to one's horror + that 从句；to one's horror 作插入语，意为"令某人惊恐的是"；类似结构：realize to one's surprise that（惊讶地意识到）、realize to one's disappointment that（失望地意识到）
+
+- give an order 下达命令；订购
+  - The captain gave an order to set sail immediately.（船长下令立即起航。）
+  - The general gave an order for the troops to advance.（将军下令部队前进。）
+  - I'd like to give an order for two boxes of this product.（我想订购两盒这种产品。）
+  - ⚠️ 多义短语：① 下达命令（军事/指挥场景，后接 to do sth. 或 for sb. to do sth.）② 下订单（商业场景，后接 for sth.）；order 作名词 = 命令、顺序、订单；类似表达：issue an order（正式发布命令）、place an order（下订单，更常用）
