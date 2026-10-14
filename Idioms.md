@@ -496,3 +496,657 @@
   - Our team is going to kick their ass in the game tonight.（我们队今晚会把他们打得屁滚尿流。）
   - You better watch your mouth, or I'll kick your ass.（你最好嘴巴放干净点，不然我揍你。）
   - ⚠️ 非常口语化的俚语，kick sb's ass = 揍某人、教训某人、痛打；也可以表示"轻松打败"（比赛、游戏中）；正式场合不要用；类似表达：beat sb. up、kick sb's butt（更委婉一点）
+
+- polar 极地的；两极的；正好相反的
+  - Polar bears live in the Arctic region and hunt seals for food.（北极熊生活在北极地区，捕食海豹。）
+  - The two brothers have polar personalities—one is outgoing, the other is very shy.（这两兄弟性格截然相反——一个外向，一个非常腼腆。）
+  - Scientists are studying the effects of climate change on polar ice caps.（科学家们正在研究气候变化对极地冰盖的影响。）
+  - ⚠️ polar 作形容词 = 极地的、两极的；引申义为"截然相反的"；polar bear = 北极熊；polar opposite = 完全相反的事物；the polar regions = 极地地区
+
+- far-reaching 深远的；影响广泛的
+  - The discovery had far-reaching consequences for modern medicine.（这一发现对现代医学产生了深远的影响。）
+  - Climate change is a far-reaching problem that affects every country.（气候变化是一个影响深远的问题，涉及每个国家。）
+  - The new policy will have far-reaching effects on the economy.（新政策将对经济产生广泛而深远的影响。）
+  - ⚠️ far-reaching = 影响深远的、范围广泛的；通常修饰 impact、effect、consequence、change 等名词；类似表达：profound、wide-ranging、sweeping
+
+- adapted 适应的；改编的
+  - Polar bears are well adapted to living in cold environments.（北极熊非常适应寒冷的环境。）
+  - The novel was adapted into a successful movie.（这部小说被改编成了一部成功的电影。）
+  - Over time, animals become adapted to their natural habitats.（随着时间的推移，动物会逐渐适应它们的自然栖息地。）
+  - ⚠️ adapted 是 adapt 的过去分词/形容词，常见搭配：be adapted to（适应于）、be adapted from（由……改编）、be adapted for（为……改编/调整）；adapt = 适应、改编
+
+- Arctic 北极的；北极地区
+  - The Arctic is warming twice as fast as the rest of the world.（北极变暖的速度是世界其他地区的两倍。）
+  - Arctic foxes have thick fur to survive freezing temperatures.（北极狐有厚厚的皮毛以在严寒中生存。）
+  - Many scientists travel to the Arctic to study climate change.（许多科学家前往北极研究气候变化。）
+  - ⚠️ Arctic = 北极的、北极地区；首字母大写；对应 Antarctic（南极的）；the Arctic = 北极地区；Arctic Ocean = 北冰洋
+
+- comparative 比较的；相对的；比较级的
+  - After years of poverty, he now lives in comparative comfort.（经过多年的贫困，他现在生活得相对舒适。）
+  - The study makes a comparative analysis of different teaching methods.（这项研究对不同的教学方法进行了比较分析。）
+  - "Better" is the comparative form of the adjective "good".（better 是形容词 good 的比较级形式。）
+  - ⚠️ comparative = 比较的、相对的；在语法中 = 比较级（原级 positive、比较级 comparative、最高级 superlative）；in comparative comfort = 相对舒适；comparative advantage = 比较优势
+
+- adipose tissue 脂肪组织
+  - Adipose tissue stores energy in the form of fat throughout the body.（脂肪组织以脂肪的形式在全身储存能量。）
+  - Excess adipose tissue around the waist can increase health risks.（腰部周围过多的脂肪组织会增加健康风险。）
+  - Polar bears have a thick layer of adipose tissue to keep them warm.（北极熊有一层厚厚的脂肪组织来保暖。）
+  - ⚠️ adipose tissue = 脂肪组织，专业术语；adipose = 脂肪的（形容词）；类似表达：fat tissue（更口语）、body fat（体脂）
+
+- be considered obese 被认为是肥胖的
+  - People with a BMI over 30 are considered obese by medical standards.（根据医学标准，BMI 超过30的人被认为是肥胖的。）
+  - More and more children are considered obese due to unhealthy diets.（由于饮食不健康，越来越多的儿童被认为是肥胖的。）
+  - He was considered obese until he started exercising and lost weight.（在他开始运动减重之前，他被认为是肥胖的。）
+  - ⚠️ consider sb. + adj. = 认为某人……；被动式 be considered + adj. = 被认为是……；obese = 肥胖的（形容词），比 fat 更正式、医学化；obesity = 肥胖症（名词）；BMI = Body Mass Index（体重指数）
+
+- diabetes 糖尿病
+  - People with diabetes need to monitor their blood sugar levels regularly.（糖尿病患者需要定期监测血糖水平。）
+  - Obesity is a major risk factor for developing type 2 diabetes.（肥胖是患2型糖尿病的主要风险因素。）
+  - Her grandmother has had diabetes for over twenty years.（她的祖母患糖尿病已经二十多年了。）
+  - ⚠️ diabetes = 糖尿病，发音 /ˌdaɪəˈbiːtiːs/；type 1 diabetes = 1型糖尿病（先天性）；type 2 diabetes = 2型糖尿病（后天性）；blood sugar = 血糖；insulin = 胰岛素
+
+- sheds light on this mystery 揭示这个谜团；阐明这个奥秘
+  - The new study sheds light on this mystery of how polar bears survive fasting.（这项新研究揭示了北极熊如何在禁食中生存的奥秘。）
+  - Recent DNA research sheds light on this mystery of human evolution.（最近的DNA研究揭示了人类进化的谜团。）
+  - The discovery of the ancient document sheds light on this mystery.（古代文献的发现为这个谜团提供了新的线索。）
+  - ⚠️ shed light on sth. = 使某事清楚明白、阐明、揭示；shed 过去式/过去分词都是 shed；类似表达：clarifies、illuminates、explains；shed light on this mystery = 为这个谜团带来曙光/揭示谜底
+
+- genetic 基因的；遗传的
+  - The research focuses on the genetic causes of certain diseases.（这项研究关注某些疾病的遗传原因。）
+  - Eye color is a genetic trait passed down from parents.（眼睛的颜色是从父母那里遗传下来的特征。）
+  - Scientists are studying the genetic makeup of polar bears.（科学家们正在研究北极熊的基因组成。）
+  - ⚠️ genetic = 基因的、遗传的；gene = 基因（名词）；genetics = 遗传学；genetic makeup = 基因组成；genetic engineering = 基因工程；genetic mutation = 基因突变
+
+- toughest 最困难的；最坚强的；最坚韧的
+  - The final exam was the toughest test I've ever taken.（期末考试是我考过最难的一次。）
+  - She's one of the toughest athletes on the team.（她是队里最坚强的运动员之一。）
+  - Polar bears live in some of the toughest conditions on Earth.（北极熊生活在地球上最恶劣的环境中。）
+  - ⚠️ toughest 是 tough 的最高级；tough = 困难的、坚强的、坚韧的；多义：a tough decision（艰难的决定）、a tough person（坚强的人）、tough meat（老的、嚼不动的肉）
+
+- low-density lipoproteins 低密度脂蛋白
+  - High levels of low-density lipoproteins can increase the risk of heart disease.（高水平的低密度脂蛋白会增加心脏病的风险。）
+  - Low-density lipoproteins are often referred to as "bad cholesterol".（低密度脂蛋白通常被称为"坏胆固醇"。）
+  - The doctor tested his blood for low-density lipoproteins.（医生检测了他血液中的低密度脂蛋白水平。）
+  - ⚠️ low-density lipoproteins = 低密度脂蛋白，常缩写为 LDL；低密度脂蛋白（LDL）= 坏胆固醇，高密度脂蛋白（HDL = high-density lipoproteins）= 好胆固醇；lipoprotein = 脂蛋白
+
+- cholesterol 胆固醇
+  - Too much cholesterol can lead to heart disease and stroke.（胆固醇过高会导致心脏病和中风。）
+  - Eggs contain cholesterol, but they also have many nutrients.（鸡蛋含有胆固醇，但也有很多营养成分。）
+  - The doctor advised him to reduce his cholesterol by eating healthier food.（医生建议他通过更健康的饮食来降低胆固醇。）
+  - ⚠️ cholesterol = 胆固醇，发音 /kəˈlestərɒl/；high cholesterol = 高胆固醇；lower cholesterol = 降低胆固醇；cholesterol level = 胆固醇水平
+
+- mutations 突变；变异；变化
+  - Genetic mutations can cause new traits to appear in a species.（基因突变可以导致物种出现新的特征。）
+  - The virus underwent several mutations before becoming more infectious.（这种病毒在变得更具传染性之前经历了几次变异。）
+  - Scientists are studying mutations in polar bear DNA to understand their evolution.（科学家们正在研究北极熊DNA的突变，以了解它们的进化。）
+  - ⚠️ mutation = 突变、变异，复数 mutations；gene mutation = 基因突变；mutate = 变异、突变（动词）；mutant = 突变体、变异株
+
+- genome 基因组；染色体组
+  - Scientists have sequenced the entire genome of the polar bear.（科学家们已经对北极熊的整个基因组进行了测序。）
+  - The human genome contains about 20,000 to 25,000 genes.（人类基因组包含大约2万到2.5万个基因。）
+  - Studying the genome helps researchers understand inherited diseases.（研究基因组有助于研究人员了解遗传性疾病。）
+  - ⚠️ genome = 基因组、染色体组，发音 /ˈdʒiːnəʊm/；gene = 基因；genome sequencing = 基因组测序；the Human Genome Project = 人类基因组计划
+
+- osteoporosis 骨质疏松症
+  - Elderly women are at higher risk of developing osteoporosis.（老年女性患骨质疏松症的风险更高。）
+  - Osteoporosis causes bones to become weak and easily broken.（骨质疏松症导致骨骼变脆，容易骨折。）
+  - Regular exercise and calcium intake can help prevent osteoporosis.（定期锻炼和钙的摄入有助于预防骨质疏松症。）
+  - ⚠️ osteoporosis = 骨质疏松症，发音 /ˌɒstiəʊpəˈrəʊsɪs/；osteo- = 骨的（前缀）；porosis = 多孔；bone density = 骨密度；bone fracture = 骨折
+
+- density 密度；浓度
+  - The density of water is 1 gram per cubic centimeter.（水的密度是每立方厘米1克。）
+  - Bone density decreases as people get older, especially in women.（随着年龄增长，骨密度会下降，尤其是在女性中。）
+  - The high population density in cities leads to many social problems.（城市的高人口密度导致了许多社会问题。）
+  - ⚠️ density = 密度、浓度；dense = 密集的、稠密的（形容词）；bone density = 骨密度；population density = 人口密度；energy density = 能量密度
+
+- insufficient 不足的；不充分的
+  - Insufficient sleep can lead to poor concentration and health problems.（睡眠不足会导致注意力不集中和健康问题。）
+  - The project was canceled due to insufficient funding.（由于资金不足，项目被取消了。）
+  - His diet was insufficient in vitamins and minerals.（他的饮食缺乏维生素和矿物质。）
+  - ⚠️ insufficient = 不足的、不够的；前缀 in- 表否定；sufficient = 足够的、充足的；be insufficient in = 在……方面不足；类似表达：inadequate、not enough、deficient
+
+- calcium 钙
+  - Milk and dairy products are rich in calcium.（牛奶和乳制品富含钙。）
+  - Calcium is essential for strong bones and teeth.（钙对于强健骨骼和牙齿至关重要。）
+  - Many elderly people take calcium supplements to prevent bone loss.（许多老年人服用钙片来预防骨质流失。）
+  - ⚠️ calcium = 钙，化学符号 Ca；发音 /ˈkælsiəm/；calcium supplement = 补钙剂；calcium deficiency = 缺钙
+
+- intake 摄入；摄取量；入口
+  - Doctors recommend reducing your daily intake of salt and sugar.（医生建议减少每日盐和糖的摄入量。）
+  - A high intake of fruits and vegetables is good for your health.（大量摄入水果和蔬菜对健康有益。）
+  - The air intake of the engine was blocked by dust.（发动机的进气口被灰尘堵住了。）
+  - ⚠️ intake = 摄入、摄取量（名词）；也可表示"入口、进水口"；反义词：output（输出、排出）；dietary intake = 饮食摄入；food intake = 食物摄入量
+
+- starvation 饥饿；饿死；绝食
+  - Many people in the war-torn region died of starvation.（战乱地区的许多人死于饥饿。）
+  - The prisoners went on a hunger strike to protest starvation conditions.（囚犯们进行绝食抗议，反对饥饿的生存条件。）
+  - Polar bears face starvation as sea ice melts and hunting becomes difficult.（随着海冰融化、捕猎变得困难，北极熊面临饥饿的威胁。）
+  - ⚠️ starvation = 饥饿、饿死，是 starve（挨饿、饿死）的名词形式；die of starvation = 死于饥饿；starvation diet = 饿肚子的饮食（极少量的食物）
+
+- constantly 不断地；经常地；始终
+  - She is constantly checking her phone for new messages.（她不停地查看手机有没有新消息。）
+  - The world is constantly changing, and we need to adapt.（世界在不断变化，我们需要适应。）
+  - Polar bears are constantly moving across sea ice in search of food.（北极熊不断地在海冰上移动以寻找食物。）
+  - ⚠️ constantly = 不断地、持续地；constant = 持续的、不变的（形容词）；类似表达：continuously、always、all the time；语气比 always 更强，强调"不间断"
+
+- remodelled 改造的；重塑的；改建的
+  - The old factory was remodelled into a modern art gallery.（旧工厂被改建成了一座现代美术馆。）
+  - Bone tissue is constantly remodelled throughout a person's lifetime.（骨组织在人的一生中不断地被重塑。）
+  - The kitchen was completely remodelled last year.（厨房去年被彻底翻新了。）
+  - ⚠️ remodelled 是 remodel 的过去分词/形容词；remodel = 重新塑造、改建、改造；前缀 re- = 重新；在生理学中，bone remodelling = 骨重塑（骨组织的持续更新过程）
+
+- nutrient availability 营养物质的可用性；营养获取
+  - During the long winter, nutrient availability is limited for many animals.（在漫长的冬季，许多动物的营养获取都很有限。）
+  - Soil quality directly affects nutrient availability for plant growth.（土壤质量直接影响植物生长所需养分的可用性。）
+  - The study examines how polar bears cope with low nutrient availability during fasting.（这项研究探讨了北极熊在禁食期间如何应对营养匮乏的状况。）
+  - ⚠️ nutrient = 营养物、养分；availability = 可用性、可获得性（available 的名词形式）；nutrient availability 是生物/生态学常用表达，指"营养素的可获得程度"
+
+- undergo 经历；经受；遭受
+  - The patient will undergo surgery next week.（病人下周将接受手术。）
+  - Polar bears undergo months of fasting without losing bone density.（北极熊经历数月的禁食而骨密度不会下降。）
+  - Many cities have undergone major changes in the past decade.（在过去十年里，许多城市都经历了重大变化。）
+  - ⚠️ undergo = 经历、经受（通常指不愉快或艰难的过程）；过去式 underwent，过去分词 undergone；后接名词，如：undergo surgery（接受手术）、undergo testing（经受测试）、undergo change（经历变化）
+
+- pregnancy 怀孕；孕期
+  - She is in her sixth month of pregnancy and feels great.（她怀孕六个月了，感觉很好。）
+  - During pregnancy, women need extra nutrition for the developing baby.（怀孕期间，女性需要额外的营养来供给发育中的胎儿。）
+  - Polar bear pregnancy lasts about 8 months, including delayed implantation.（北极熊的孕期约为8个月，包括延迟着床期。）
+  - ⚠️ pregnancy = 怀孕、孕期，是 pregnant（怀孕的）的名词形式；be pregnant = 怀孕；during pregnancy = 怀孕期间；pregnancy test = 验孕棒
+
+- maternity dens 育儿洞穴；产仔洞穴
+  - Pregnant polar bears build maternity dens in the snow to give birth.（怀孕的北极熊在雪地里建造产仔洞穴来分娩。）
+  - The mother bear stays in the maternity dens for months without eating.（母熊在产仔洞穴里待上好几个月不吃东西。）
+  - Researchers use satellite data to locate polar bear maternity dens.（研究人员利用卫星数据定位北极熊的产仔洞穴。）
+  - ⚠️ maternity den = 产仔洞穴、育儿洞穴；maternity = 产妇的、母性的；den = 洞穴、兽穴；复数 dens；类似表达：birthing den、nursery den
+
+- cubs 幼兽；幼崽
+  - Lion cubs are born blind and depend entirely on their mother.（狮子幼崽出生时看不见，完全依赖母亲。）
+  - Polar bear cubs usually stay with their mother for about two and a half years.（北极熊幼崽通常和母亲待在一起大约两年半。）
+  - The zookeeper said the tiger cubs were healthy and growing fast.（动物园管理员说小老虎们很健康，长得很快。）
+  - ⚠️ cub = 幼兽（尤指熊、狮、虎等大型食肉动物的幼崽），复数 cubs；不同动物幼崽说法不同：puppy（小狗）、kitten（小猫）、calf（小牛/小象）、chick（小鸡/小鸟）
+
+- in about six months of fasting 在大约六个月的禁食中
+  - Polar bears can survive in about six months of fasting during winter.（北极熊可以在大约六个月的冬季禁食中存活下来。）
+  - In about six months of fasting, the bear loses nearly half its body weight.（在大约六个月的禁食中，这头熊失去了近一半的体重。）
+  - Scientists are amazed at how polar bears stay healthy in about six months of fasting.（科学家们对北极熊如何在约六个月的禁食中保持健康感到惊讶。）
+  - ⚠️ fasting = 禁食、斋戒（fast 的动名词）；in + 时间段 + of fasting = 在……的禁食期间；fast = 禁食、斋戒（动词/名词）；break one's fast = 开斋、结束禁食
+
+- depleting 消耗的；逐渐减少的
+  - Our natural resources are depleting faster than we can replace them.（我们的自然资源消耗的速度比我们补充的速度还快。）
+  - The depleting sea ice is a major threat to polar bear survival.（日益减少的海冰是北极熊生存的主要威胁。）
+  - After running the marathon, he felt completely energy-depleted.（跑完马拉松后，他感到精力完全耗尽了。）
+  - ⚠️ depleting 是 deplete 的现在分词，也可作形容词 = 消耗的、减少的；deplete = 耗尽、使减少（动词）；depletion = 消耗、减少（名词）；类似表达：diminishing、decreasing
+
+- calorie 卡路里；热量
+  - A single slice of pizza can have over 300 calories.（一片披萨的热量可能超过300卡路里。）
+  - To lose weight, you need to burn more calories than you consume.（要减肥，你需要燃烧的热量比摄入的多。）
+  - Polar bears need a high-calorie diet to survive in cold weather.（北极熊需要高热量的饮食才能在寒冷的天气中生存。）
+  - ⚠️ calorie = 卡路里、热量，也拼作 calory，复数 calories；calorie intake = 热量摄入；burn calories = 燃烧热量；low-calorie = 低热量的；high-calorie = 高热量的
+
+- dense 密集的；稠密的；浓密的
+  - The forest was so dense that we could barely walk through it.（森林太茂密了，我们几乎走不过去。）
+  - Polar bears have dense fur that keeps them warm in freezing temperatures.（北极熊有浓密的皮毛，能在极寒温度下保暖。）
+  - The city has a dense population and high-rise buildings everywhere.（这座城市人口密集，到处都是高楼大厦。）
+  - ⚠️ dense = 密集的、稠密的；比较级 denser，最高级 densest；dense fog = 浓雾；dense population = 人口密集；density = 密度（名词）
+
+- Physiologists 生理学家
+  - Physiologists study how the bodies of living things function.（生理学家研究生物身体的运作方式。）
+  - A team of physiologists is researching how polar bears survive long fasts.（一组生理学家正在研究北极熊如何在长期禁食中生存。）
+  - Physiologists have made many important discoveries about human metabolism.（生理学家在人类新陈代谢方面做出了许多重要发现。）
+  - ⚠️ physiologist = 生理学家，复数 physiologists；physiology = 生理学；physiological = 生理的（形容词）；发音 /ˌfɪziˈɒlədʒɪst/
+
+- paradox 悖论；矛盾；自相矛盾的事
+  - It's a paradox that eating less can sometimes make you gain weight.（吃得少有时反而会让你增重，这是个矛盾的现象。）
+  - The polar bear's ability to fast without bone loss is a scientific paradox.（北极熊在禁食时不会骨流失的能力是一个科学谜题。）
+  - He explained the famous paradox of the grandfather clock.（他解释了著名的祖父钟悖论。）
+  - ⚠️ paradox = 悖论、矛盾的事物，发音 /ˈpærədɒks/；指看似矛盾但可能正确的情况；paradoxical = 矛盾的、悖论的（形容词）；类似表达：contradiction、puzzle
+
+- Hibernating 冬眠的；蛰伏的
+  - Hibernating animals can survive for months without eating or drinking.（冬眠的动物可以在不吃不喝的情况下存活数月。）
+  - Bears are not true hibernating animals—their body temperature doesn't drop much.（熊不是真正的冬眠动物——它们的体温不会下降太多。）
+  - During the long winter, hibernating squirrels live off stored body fat.（在漫长的冬季，冬眠的松鼠靠储存的体脂生存。）
+  - ⚠️ hibernating 是 hibernate 的现在分词，也可作形容词 = 冬眠的；hibernate = 冬眠（动词）；hibernation = 冬眠（名词）；注意：北极熊不是真正的冬眠动物，但母熊会在产仔期间进入一种类似冬眠的状态
+
+- mechanism of bone remodeling 骨重塑机制
+  - Scientists are studying the mechanism of bone remodeling to find treatments for osteoporosis.（科学家们正在研究骨重塑机制，以寻找骨质疏松症的治疗方法。）
+  - The mechanism of bone remodeling allows bones to repair themselves after injury.（骨重塑机制使骨骼在受伤后能够自我修复。）
+  - Polar bears seem to have a unique mechanism of bone remodeling during fasting.（北极熊在禁食期间似乎有一种独特的骨重塑机制。）
+  - ⚠️ mechanism = 机制、机理；bone remodeling = 骨重塑（骨骼持续分解和重建的过程）；remodeling = 重塑、改造；mechanism of + 名词 = ……的机制
+
+- bedridden 卧床不起的；久病卧床的
+  - His grandfather has been bedridden since he had a stroke.（他的祖父自从中风后就一直卧床不起。）
+  - Prolonged bedridden conditions can cause muscle loss and bone density reduction.（长期卧床会导致肌肉流失和骨密度下降。）
+  - Volunteers visit bedridden elderly people every week.（志愿者们每周都去看望卧床的老人。）
+  - ⚠️ bedridden = 卧床不起的，形容词；be bedridden = 卧病在床；bed + ridden（受……折磨的）；类似表达：confined to bed、bedbound
+
+- conservation 保护；保存；节约
+  - Wildlife conservation is essential for protecting endangered species.（野生动物保护对保护濒危物种至关重要。）
+  - Many organizations work for the conservation of polar bears and their habitat.（许多组织致力于北极熊及其栖息地的保护工作。）
+  - Energy conservation helps reduce greenhouse gas emissions.（节约能源有助于减少温室气体排放。）
+  - ⚠️ conservation = 保护、保存；conserve = 保护、节约（动词）；conservationist = 环保主义者；wildlife conservation = 野生动物保护；environmental conservation = 环境保护
+
+- intelligent 聪明的；有智慧的
+  - Dolphins are highly intelligent animals with complex social structures.（海豚是高度聪明的动物，有着复杂的社会结构。）
+  - She is one of the most intelligent students in her class.（她是班上最聪明的学生之一。）
+  - Recent studies suggest that octopuses are surprisingly intelligent.（最近的研究表明，章鱼的聪明程度令人惊讶。）
+  - ⚠️ intelligent = 聪明的、有智慧的；intelligence = 智力、智慧（名词）；highly intelligent = 高度聪明；artificial intelligence (AI) = 人工智能；注意：intelligent 指"有学习和理解能力的"，smart 更口语，clever 偏"机灵的"
+
+- possess emotions 拥有情感
+  - Many people believe that dogs possess emotions and can feel love and sadness.（许多人认为狗拥有情感，能感受到爱和悲伤。）
+  - Scientists debate whether animals like elephants truly possess emotions.（科学家们就大象这样的动物是否真正拥有情感存在争议。）
+  - Studies show that primates possess emotions similar to those of humans.（研究表明，灵长类动物拥有与人类相似的情感。）
+  - ⚠️ possess = 拥有、具有（动词，更正式）；emotion = 情感、情绪；possess emotions = 拥有情感能力；类似表达：have feelings、experience emotions；emotional = 情感的（形容词）
+
+- primates 灵长类动物；灵长目
+  - Humans, monkeys, and apes are all classified as primates.（人类、猴子和猿都被归类为灵长类动物。）
+  - Primates are known for their large brains and complex social behavior.（灵长类动物以其发达的大脑和复杂的社会行为而闻名。）
+  - Many primates use tools to solve problems and obtain food.（许多灵长类动物使用工具来解决问题和获取食物。）
+  - ⚠️ primate = 灵长类动物，复数 primates，发音 /ˈpraɪmeɪts/；primate 也可指"大主教"，但在生物学语境下指灵长类；来自拉丁语 primas = 第一的、首要的
+
+- perceived 被视为；被认为的；感知到的
+  - She was perceived as a leader by everyone on the team.（她被团队里的每个人都视为领导者。）
+  - The perceived benefits of the new policy outweigh its costs.（新政策被感知到的好处超过了其成本。）
+  - Octopuses are now perceived as highly intelligent creatures.（章鱼现在被认为是高度聪明的生物。）
+  - ⚠️ perceived 是 perceive 的过去分词/形容词；perceive = 感知、认为、察觉；be perceived as = 被视为、被认为是；类似表达：be seen as、be regarded as、be considered
+
+- anecdotal 轶事的；传闻的；道听途说的
+  - The evidence is purely anecdotal and needs scientific verification.（这些证据纯属传闻，需要科学验证。）
+  - There are many anecdotal stories about how intelligent pigs are.（有很多关于猪有多聪明的趣闻轶事。）
+  - Anecdotal evidence is not enough to prove a medical treatment works.（传闻证据不足以证明一种医疗方法有效。）
+  - ⚠️ anecdotal = 轶事的、传闻的，形容词；anecdote = 轶事、趣闻（名词）；anecdotal evidence = 传闻证据、个案证据；与 scientific evidence（科学证据）相对
+
+- challenges 挑战；质疑；向……挑战
+  - The team faces many challenges in the new project.（团队在新项目中面临许多挑战。）
+  - Climate change is one of the biggest challenges of our time.（气候变化是我们这个时代最大的挑战之一。）
+  - She challenges the assumption that humans are the only intelligent animals.（她对人类是唯一有智慧的动物这一假设提出了质疑。）
+  - ⚠️ challenge 作名词 = 挑战；作动词 = 向……挑战、质疑；face challenges = 面对挑战；meet the challenge = 迎接挑战；challenge an assumption = 质疑一个假设
+
+- assumptions 假设；假定；设想
+  - The theory is based on several key assumptions.（这个理论建立在几个关键假设的基础上。）
+  - We should not make assumptions about people based on their appearance.（我们不应该以貌取人。）
+  - Scientists often test their assumptions through experiments.（科学家们经常通过实验来检验他们的假设。）
+  - ⚠️ assumption = 假设、假定，复数 assumptions；assume = 假设、假定（动词）；make an assumption = 做出假设；on the assumption that = 基于……的假设；类似表达：hypothesis、presumption
+
+- manipulate 操纵；操作；控制
+  - The magician manipulated the cards so quickly that no one could see.（魔术师操作牌的速度太快，没人能看清。）
+  - Studies show that crows can manipulate tools to get food.（研究表明，乌鸦能操纵工具来获取食物。）
+  - Some people try to manipulate others by using emotional pressure.（有些人试图通过情感压力来操纵他人。）
+  - ⚠️ manipulate = 操纵、操作、控制，发音 /məˈnɪpjuleɪt/；可用于"熟练地操作物体"或"控制他人（含贬义）"；manipulation = 操纵（名词）；manipulative = 操纵性的（形容词）
+
+- dislodge 取出；移走；赶出
+  - The dentist had to dislodge the food stuck between my teeth.（牙医不得不把卡在我牙缝里的食物取出来。）
+  - A strong wind dislodged several tiles from the roof.（一阵强风把屋顶上的几片瓦吹掉了。）
+  - Polar bears can use their paws to dislodge seals from their dens.（北极熊可以用爪子把海豹从洞穴里掏出来。）
+  - ⚠️ dislodge = 移走、取出、赶走；前缀 dis- = 去除 + lodge = 停留、嵌入；dislodge sth. from sth. = 把某物从某处移走；类似表达：remove、extract、knock loose
+
+- involved 参与的；涉及的；复杂的
+  - She was deeply involved in the project from the beginning.（她从一开始就深度参与了这个项目。）
+  - Many people are involved in the production of a single movie.（一部电影的制作涉及很多人。）
+  - The science behind bone remodeling is very involved.（骨重塑背后的科学原理非常复杂。）
+  - ⚠️ involved 多义：① 参与的、卷入的（be/get involved in）② 涉及的（people involved = 相关人员）③ 复杂的、难懂的；involve = 涉及、包含（动词）
+
+- barrels 桶；一桶之量；枪管
+  - The ship was carrying hundreds of barrels of oil.（船上装载着数百桶石油。）
+  - Polar bears can eat several barrels of fish in a single week.（北极熊一周能吃掉好几桶鱼。）
+  - He bought two barrels of beer for the party.（他为派对买了两桶啤酒。）
+  - ⚠️ barrel = 桶，复数 barrels；也可表示"枪管、炮管"；a barrel of = 一桶；barrel 作动词 = 高速移动（口语）；类似：bucket（水桶，通常较小）、drum（大桶、鼓）
+
+- deliberate 故意的；蓄意的；深思熟虑的
+  - It was a deliberate attempt to deceive the public.（这是一次蓄意欺骗公众的企图。）
+  - She spoke in a slow and deliberate manner.（她说话缓慢而从容。）
+  - The bear's deliberate approach showed it was not acting out of fear.（这头熊从容不迫的靠近表明它并不是出于恐惧。）
+  - ⚠️ deliberate 作形容词 = 故意的、蓄意的；深思熟虑的；作动词 = 仔细考虑、商议；deliberately = 故意地（副词）；类似表达：on purpose、intentional；区别：deliberate 更正式，强调"有意为之"
+
+- demonstrates 证明；展示；演示
+  - The experiment demonstrates that polar bears have unique bone-regulating abilities.（该实验证明北极熊具有独特的骨骼调节能力。）
+  - She demonstrated how to use the new software in the meeting.（她在会议上演示了如何使用新软件。）
+  - Research demonstrates that regular exercise improves both physical and mental health.（研究表明，定期锻炼有益身心健康。）
+  - ⚠️ demonstrate = 证明、展示、演示；demonstration = 示范、证明（名词）；demonstrate that + 从句 = 证明……；类似表达：shows、proves、illustrates
+
+- agile 敏捷的；灵活的；机敏的
+  - Cats are very agile animals and can jump great distances.（猫是非常敏捷的动物，能跳很远的距离。）
+  - Despite their size, polar bears are surprisingly agile on ice.（尽管体型庞大，北极熊在冰上却惊人地敏捷。）
+  - An agile mind is just as important as an agile body.（敏捷的思维和灵活的身体同样重要。）
+  - ⚠️ agile = 敏捷的、灵活的，发音 /ˈædʒaɪl/；agility = 敏捷、机敏（名词）；既可以形容身体动作，也可以形容思维敏捷；类似表达：nimble、quick、graceful
+
+- hit out 猛击；猛烈抨击；反击
+  - The boxer hit out at his opponent with both fists.（拳击手用双拳猛击对手。）
+  - When threatened, polar bears will hit out with their powerful paws.（当受到威胁时，北极熊会用有力的爪子猛击。）
+  - The politician hit out at the media for spreading false information.（这位政客猛烈抨击媒体散布虚假信息。）
+  - ⚠️ hit out = 猛击、猛烈抨击；hit out at sb./sth. = 对……发起攻击（物理或语言上）；类似表达：strike out、lash out、attack；hit out 强调"愤怒地或突然地攻击"
+
+- frustration 挫折；沮丧；挫败感
+  - He felt a deep sense of frustration when he failed the exam again.（再次考试不及格时，他感到深深的挫败感。）
+  - The bear's frustration was obvious as it tried repeatedly to reach the food.（这头熊反复尝试够到食物却够不到，挫败感显而易见。）
+  - Learning a new language can be a source of frustration for many people.（学习一门新语言对很多人来说都可能是挫折的来源。）
+  - ⚠️ frustration = 挫折、沮丧、挫败感；frustrate = 使沮丧、挫败（动词）；frustrated = 感到沮丧的（修饰人）；frustrating = 令人沮丧的（修饰事物）；类似：disappointment、discouragement
+
+- sleds 雪橇；用雪橇运送
+  - In winter, people in cold regions travel on sleds pulled by dogs.（冬天，寒冷地区的人们乘坐狗拉的雪橇出行。）
+  - The explorers used sleds to carry supplies across the Arctic ice.（探险者们用雪橇在北极冰面上运送物资。）
+  - Children enjoy riding sleds down snowy hills.（孩子们喜欢坐着雪橇从雪山上滑下来。）
+  - ⚠️ sled = 雪橇，美式英语，复数 sleds；英式英语常用 sledge；dog sled = 狗拉雪橇；sled 也可作动词 = 乘雪橇
+
+- hand-raised 人工饲养的；人手养大的
+  - The hand-raised bear was not afraid of humans because it had been raised by zookeepers.（这头人工饲养的熊不怕人，因为它是由动物园饲养员养大的。）
+  - Hand-raised birds often have trouble surviving in the wild.（人工饲养的鸟在野外往往难以生存。）
+  - The hand-raised wolf cub was later released back into the wild.（这只人工饲养的狼崽后来被放归野外。）
+  - ⚠️ hand-raised = 人工饲养的、人手养大的；hand + raised（养育的）；类似表达：hand-reared、captive-bred；反义词：wild（野生的）
+
+- to the point 中肯的；切题的；直截了当的
+  - His speech was short and to the point.（他的演讲简短而切题。）
+  - Please get to the point—I don't have much time.（请直接说重点——我时间不多。）
+  - The scientist's explanation was very to the point and easy to understand.（科学家的解释非常切中要点，通俗易懂。）
+  - ⚠️ to the point = 切题的、中肯的、直接的；get to the point = 说正事、直奔主题；beside the point = 离题的、无关紧要的；类似表达：concise、straightforward、relevant
+
+- extinction 灭绝；消失；消亡
+  - Many scientists fear that polar bears could face extinction by the end of the century.（许多科学家担心北极熊可能在本世纪末面临灭绝。）
+  - The extinction of the dinosaurs happened about 66 million years ago.（恐龙的灭绝发生在大约6600万年前。）
+  - Conservation efforts have saved many species from extinction.（保护工作已经将许多物种从灭绝的边缘挽救了回来。）
+  - ⚠️ extinction = 灭绝、消亡，发音 /ɪkˈstɪŋkʃn/；extinct = 灭绝的（形容词）；be on the brink of extinction = 濒临灭绝；endangered species = 濒危物种；mass extinction = 大灭绝
+
+- breakthroughs 突破；重大进展
+  - Scientists have made major breakthroughs in the treatment of cancer.（科学家们在癌症治疗方面取得了重大突破。）
+  - Recent breakthroughs in genetic research could transform medicine.（基因研究的最新突破可能会改变医学。）
+  - The team's breakthroughs in AI technology have attracted global attention.（团队在人工智能技术上的突破引起了全球关注。）
+  - ⚠️ breakthrough = 突破、重大进展，复数 breakthroughs；make a breakthrough = 取得突破；break through = 突破、冲破（动词短语）；类似表达：advance、discovery、revolution
+
+- majestic animal 雄伟的动物；威严的动物
+  - The lion is often called a majestic animal and the king of the jungle.（狮子常被称为雄伟的动物和丛林之王。）
+  - Many people travel to the Arctic just to see the majestic animal that is the polar bear.（许多人前往北极就是为了一睹北极熊这种雄伟的动物。）
+  - Standing on top of the mountain, the eagle looked like a truly majestic animal.（站在山顶上，那只鹰看起来真是一种威严的动物。）
+  - ⚠️ majestic = 雄伟的、庄严的、威严的，发音 /məˈdʒestɪk/；majesty = 威严、王权（名词）；majestic animal = 雄伟的动物；类似表达：magnificent、grand、imposing
+
+- polar 极地的；两极的；截然相反的
+  - Polar bears are well adapted to life in the Arctic.（北极熊非常适应北极的生活。）
+  - The two politicians hold polar opposite views on climate change.（这两位政治家在气候变化问题上持截然相反的观点。）
+  - The polar regions are experiencing rapid warming due to climate change.（极地地区正因气候变化而迅速变暖。）
+  - ⚠️ polar = 极地的、两极的；the North Pole / South Pole = 北极/南极；polar opposite = 截然相反；polar bear = 北极熊
+
+- far-reaching 深远的；广泛的；影响远大的
+  - The new policy will have far-reaching effects on the economy.（新政策将对经济产生深远影响。）
+  - The invention of the internet was a far-reaching change in human history.（互联网的发明是人类历史上影响深远的变革。）
+  - Climate change has far-reaching consequences for all living things.（气候变化对所有生物都有广泛而深远的影响。）
+  - ⚠️ far-reaching = 影响深远的、波及范围广的；常用于形容影响、后果、变化等；类似表达：profound、wide-ranging、far-reaching implications（深远影响）
+
+- adapted 适应的；改编的
+  - These plants are adapted to survive in dry conditions.（这些植物适应了在干旱条件下生存。）
+  - The movie was adapted from a famous novel.（这部电影改编自一本著名小说。）
+  - Over time, animals become adapted to their natural environment.（随着时间推移，动物会逐渐适应其自然环境。）
+  - ⚠️ adapt = 适应、改编；be adapted to = 适应于（环境）；be adapted from = 改编自（作品）；类似表达：adjusted、modified；名词形式：adaptation（适应、改编）
+
+- Arctic 北极的；北极圈
+  - Arctic temperatures can drop to minus 50 degrees Celsius in winter.（冬季北极气温可降至零下50摄氏度。）
+  - The Arctic ice is melting faster than scientists predicted.（北极冰层融化速度比科学家预测的要快。）
+  - Many indigenous peoples have lived in the Arctic for thousands of years.（许多原住民已在北极地区生活了数千年。）
+  - ⚠️ the Arctic = 北极地区（要加 the）；Arctic Ocean = 北冰洋；对比：Antarctic（南极的）；注意大写 A，特指北极地区
+
+- comparative 比较的；相对的；相比之下的
+  - She is a comparative newcomer to the field of biology.（在生物学领域，她相对来说是个新人。）
+  - The study used a comparative approach to analyze the two species.（这项研究采用比较方法分析了这两个物种。）
+  - In comparative terms, this city is much safer than the capital.（相比之下，这座城市比首都安全得多。）
+  - ⚠️ comparative = 比较的、相对的；comparative study = 比较研究；comparative advantage = 比较优势；副词：comparatively（相对地、比较地）
+
+- adipose tissue 脂肪组织
+  - Adipose tissue stores energy in the form of fat.（脂肪组织以脂肪的形式储存能量。）
+  - Excess adipose tissue around the abdomen can increase health risks.（腹部多余的脂肪组织会增加健康风险。）
+  - Polar bears have a thick layer of adipose tissue to keep them warm.（北极熊有一层厚厚的脂肪组织来保暖。）
+  - ⚠️ adipose = 脂肪的（形容词，较专业）；tissue = 组织（生物学术语）；日常用语用 body fat 或 fat tissue 更口语；adipose tissue 是生物/医学正式术语
+
+- be considered obese 被认为肥胖；被视为肥胖
+  - Anyone with a BMI over 30 is considered obese by medical standards.（按医学标准，BMI超过30的人被认为肥胖。）
+  - More and more children are now considered obese due to unhealthy diets.（由于不健康的饮食，越来越多的儿童现在被认为肥胖。）
+  - He was considered obese until he started exercising and lost weight.（在开始运动并减重之前，他一直被视为肥胖。）
+  - ⚠️ obese = 肥胖的（形容词，医学术语）；比 fat 更正式、更专业；obesity = 肥胖症（名词）；be considered + adj. = 被认为……
+
+- diabetes 糖尿病
+  - Diabetes is a chronic disease that affects how the body processes sugar.（糖尿病是一种影响身体处理糖分方式的慢性疾病。）
+  - People with diabetes need to monitor their blood sugar levels regularly.（糖尿病患者需要定期监测血糖水平。）
+  - Type 2 diabetes is often linked to obesity and lack of exercise.（2型糖尿病通常与肥胖和缺乏运动有关。）
+  - ⚠️ diabetes = 糖尿病（名词，不可数）；type 1 diabetes = 1型糖尿病；type 2 diabetes = 2型糖尿病；diabetic = 糖尿病的；糖尿病患者（形容词/名词）
+
+- sheds light on this mystery 揭示了这个谜团；阐明了这个奥秘
+  - The new DNA evidence sheds light on this mystery that has puzzled scientists for decades.（新的DNA证据揭示了这个困扰科学家数十年的谜团。）
+  - Recent research sheds light on this mystery about how birds navigate.（最近的研究阐明了关于鸟类如何导航的奥秘。）
+  - The discovery of ancient fossils sheds light on this mystery of dinosaur extinction.（古代化石的发现揭示了恐龙灭绝之谜。）
+  - ⚠️ shed light on = 阐明、揭示、使……清楚明白；shed 的过去式/过去分词是 shed（不规则变化）；类似表达：clarifies、reveals、explains；this mystery 可替换为 the issue / the question / the problem 等
+
+- genetic 基因的；遗传的
+  - Some diseases are caused by genetic factors.（有些疾病是由遗传因素引起的。）
+  - Genetic testing can help identify potential health risks.（基因检测可以帮助识别潜在的健康风险。）
+  - The child inherited his mother's genetic traits.（这个孩子遗传了他母亲的基因特征。）
+  - ⚠️ genetic = 基因的、遗传的；gene = 基因（名词）；genetics = 遗传学（学科）；genetic modification = 基因改造；genetic engineering = 基因工程
+
+- toughest 最艰难的；最强壮的；最坚韧的
+  - This is probably the toughest challenge I've ever faced.（这可能是我遇到过的最艰难的挑战。）
+  - She's one of the toughest athletes on the team.（她是队里最强壮的运动员之一。）
+  - The toughest part of the exam was the final section.（考试最难的部分是最后一节。）
+  - ⚠️ toughest 是 tough 的最高级；tough = 困难的、坚强的、坚韧的；多义：a tough job（困难的工作）、a tough person（坚强的人）、tough meat（咬不动的肉）
+
+- low-density lipoproteins 低密度脂蛋白
+  - High levels of low-density lipoproteins can increase the risk of heart disease.（高水平的低密度脂蛋白会增加心脏病的风险。）
+  - Low-density lipoproteins are often referred to as "bad cholesterol."（低密度脂蛋白通常被称为"坏胆固醇"。）
+  - Doctors monitor low-density lipoproteins to assess cardiovascular health.（医生通过监测低密度脂蛋白来评估心血管健康。）
+  - ⚠️ 常缩写为 LDL（low-density lipoprotein）；low-density = 低密度的；lipoprotein = 脂蛋白；对比：high-density lipoproteins（高密度脂蛋白，HDL，"好胆固醇"）；lipid = 脂质
+
+- cholesterol 胆固醇
+  - Too much cholesterol in the blood can lead to heart problems.（血液中胆固醇过多会导致心脏问题。）
+  - Eating a healthy diet can help lower your cholesterol levels.（健康饮食有助于降低胆固醇水平。）
+  - The doctor told him his cholesterol was too high.（医生告诉他他的胆固醇太高了。）
+  - ⚠️ cholesterol = 胆固醇（不可数名词）；high cholesterol = 高胆固醇；lower cholesterol = 降低胆固醇；cholesterol 拼写较长，注意 choles-terol 的发音和拼写
+
+- mutations 突变；变异；变化
+  - Genetic mutations can sometimes lead to diseases.（基因突变有时会导致疾病。）
+  - The study found several mutations in the DNA sequence.（研究发现DNA序列中有几处突变。）
+  - Mutations are an important driving force of evolution.（突变是进化的重要驱动力。）
+  - ⚠️ mutation = 突变、变异（名词）；复数 mutations；mutate = 突变、变异（动词）；mutant = 突变体、变异体；gene mutation = 基因突变
+
+- genome 基因组；染色体组
+  - The human genome project was completed in 2003.（人类基因组计划于2003年完成。）
+  - Scientists are studying the polar bear genome to understand its adaptations.（科学家正在研究北极熊的基因组以了解其适应性。）
+  - Mapping the genome of a species can reveal its evolutionary history.（绘制一个物种的基因组图谱可以揭示其进化史。）
+  - ⚠️ genome = 基因组（一个生物体的全部遗传物质）；gene = 基因（单个遗传单位）；genome 是整体，gene 是部分；the human genome = 人类基因组
+
+- osteoporosis 骨质疏松症
+  - Elderly women are at higher risk of developing osteoporosis.（老年女性患骨质疏松症的风险更高。）
+  - Osteoporosis makes bones fragile and more likely to break.（骨质疏松症使骨骼脆弱，更容易骨折。）
+  - Regular exercise and calcium intake can help prevent osteoporosis.（定期运动和钙摄入有助于预防骨质疏松症。）
+  - ⚠️ osteoporosis = 骨质疏松症（医学名词，不可数）；osteo- = 骨的（前缀）；porosis = 疏松、多孔；发音：/ˌɒstiəʊpəˈrəʊsɪs/；形容词：osteoporotic
+
+- density 密度；浓度；稠密
+  - The density of water is 1 gram per cubic centimeter.（水的密度是每立方厘米1克。）
+  - Bone density decreases as people get older.（随着年龄增长，骨密度会下降。）
+  - The high population density in the city causes many problems.（城市的高人口密度导致了许多问题。）
+  - ⚠️ density = 密度（名词）；dense = 密集的、浓密的（形容词）；bone density = 骨密度；population density = 人口密度；energy density = 能量密度
+
+- insufficient 不足的；不充分的
+  - The project was canceled due to insufficient funding.（由于资金不足，项目被取消了。）
+  - Insufficient sleep can lead to serious health problems.（睡眠不足会导致严重的健康问题。）
+  - There was insufficient evidence to prove his guilt.（没有足够的证据证明他有罪。）
+  - ⚠️ insufficient = 不足的、不够的；前缀 in- 表否定；sufficient = 足够的、充分的；类似表达：not enough、inadequate；名词形式：insufficiency
+
+- calcium 钙
+  - Milk and cheese are good sources of calcium.（牛奶和奶酪是钙的良好来源。）
+  - Calcium is essential for strong bones and teeth.（钙对于强健骨骼和牙齿至关重要。）
+  - The doctor recommended taking calcium supplements.（医生建议服用钙补充剂。）
+  - ⚠️ calcium = 钙（化学元素，符号 Ca）；不可数名词；calcium supplement = 钙补充剂；calcium deficiency = 缺钙
+
+- intake 摄入量；吸入；摄取
+  - The recommended daily intake of vitamin C is 60 milligrams.（建议每日维生素C摄入量为60毫克。）
+  - Reducing salt intake can help lower blood pressure.（减少盐的摄入有助于降低血压。）
+  - The intake of oxygen increases during exercise.（运动时氧气吸入量会增加。）
+  - ⚠️ intake = 摄入、摄取（名词）；daily intake = 每日摄入量；food intake = 食物摄入；intake 也可表示"入口、进口"（air intake = 进气口）
+
+- starvation 饥饿；饿死；挨饿
+  - Many people in the region face starvation due to the drought.（由于干旱，该地区许多人面临饥饿。）
+  - The animals died of starvation during the long winter.（这些动物在漫长的冬天里饿死了。）
+  - Extreme starvation can cause permanent damage to the body.（极度饥饿会对身体造成永久性伤害。）
+  - ⚠️ starvation = 饥饿、饿死（名词，不可数）；starve = 挨饿、饿死（动词）；die of starvation = 死于饥饿；starvation diet = 极不均衡的节食
+
+- constantly 不断地；经常地；始终
+  - She is constantly checking her phone for messages.（她不断地查看手机有没有消息。）
+  - The world is constantly changing, and we need to adapt.（世界在不断变化，我们需要适应。）
+  - He was constantly late for work, so he got fired.（他上班经常迟到，所以被解雇了。）
+  - ⚠️ constantly = 不断地、经常地（副词）；constant = 不断的、恒定的（形容词）；类似表达：continuously、always、all the time；语气比 always 更强，强调"不间断"
+
+- remodelled 重塑的；改建的；改造的
+  - The old factory was remodelled into a modern art gallery.（这座旧工厂被改建成了一座现代美术馆。）
+  - Bone tissue is constantly being remodelled throughout our lives.（骨组织在我们的一生中不断地被重塑。）
+  - The kitchen was completely remodelled last year.（厨房去年彻底翻新了。）
+  - ⚠️ remodel = 改造、重塑、改建；过去式/过去分词：remodelled（英式）/ remodeled（美式）；re- = 重新 + model = 模型、塑造；bone remodeling = 骨重塑（生物学术语）
+
+- nutrient availability 营养可用性；养分有效性
+  - Nutrient availability in the soil affects plant growth.（土壤中的养分有效性影响植物生长。）
+  - The body adjusts to changes in nutrient availability during fasting.（身体在禁食期间会适应营养供应的变化。）
+  - Researchers are studying how gut bacteria influence nutrient availability.（研究人员正在研究肠道细菌如何影响营养的利用。）
+  - ⚠️ nutrient = 营养物、养分（名词）；availability = 可用性、可获得性（名词）；available = 可获得的（形容词）；nutrient availability 是生物/营养学专业术语
+
+- undergo 经历；经受；遭受
+  - The city has undergone major changes in the past ten years.（这座城市在过去十年中经历了重大变化。）
+  - She will have to undergo surgery next week.（她下周必须接受手术。）
+  - Many animals undergo hibernation during the winter.（许多动物在冬季会经历冬眠。）
+  - ⚠️ undergo = 经历、经受（多指不愉快或困难的事）；过去式：underwent；过去分词：undergone；类似表达：experience、go through；undergo surgery / treatment / testing = 接受手术/治疗/测试
+
+- pregnancy 怀孕；孕期
+  - During pregnancy, women need extra vitamins and minerals.（怀孕期间，女性需要额外的维生素和矿物质。）
+  - The pregnancy lasted nine months before the baby was born.（怀孕持续了九个月后婴儿出生了。）
+  - Her doctor is closely monitoring her pregnancy.（她的医生正在密切监测她的孕期。）
+  - ⚠️ pregnancy = 怀孕、孕期（名词）；pregnant = 怀孕的（形容词）；be pregnant = 怀孕；during pregnancy = 怀孕期间；unplanned pregnancy = 意外怀孕
+
+- maternity dens 产穴；育儿洞（动物产崽的洞穴）
+  - Polar bear mothers give birth in maternity dens dug into the snow.（北极熊妈妈在雪中挖的产穴里产崽。）
+  - The fox built a maternity den under the roots of an old tree.（狐狸在一棵老树的根部下建了一个育儿洞。）
+  - Maternity dens provide protection for newborn animals from predators.（产穴为新生动物提供保护，免受捕食者侵害。）
+  - ⚠️ maternity = 产妇的、产科的；den = 洞穴、兽穴；maternity den = 动物产崽的洞穴；注意 maternity 用于人类时表示"产科的、孕妇的"（maternity hospital = 妇产医院）
+
+- cubs 幼崽；小熊；小狮子等
+  - The lioness was protecting her cubs from danger.（母狮正在保护她的幼崽免受危险。）
+  - Polar bear cubs are born blind and weigh less than a kilogram.（北极熊幼崽出生时看不见东西，体重不到一公斤。）
+  - The zookeeper fed the tiger cubs with a bottle.（动物园管理员用奶瓶喂小老虎。）
+  - ⚠️ cub = 幼兽（尤指熊、狮、虎、狼等食肉动物的幼崽）；复数 cubs；注意区分：puppy（小狗）、kitten（小猫）、calf（小牛/小象）、chick（小鸟）
+
+- in about six months of fasting 在大约六个月的禁食中
+  - Polar bears can survive in about six months of fasting during hibernation.（北极熊在冬眠期间能在大约六个月的禁食中存活下来。）
+  - In about six months of fasting, the body uses stored fat for energy.（在大约六个月的禁食期间，身体利用储存的脂肪获取能量。）
+  - The bears lose a significant amount of weight in about six months of fasting.（这些熊在大约六个月的禁食中体重大幅下降。）
+  - ⚠️ fasting = 禁食、斋戒（名词/动名词）；fast = 禁食（动词）；in ... of fasting = 在……的禁食期间；注意 fast 作动词/名词表"禁食"，和"快的"是同形异义词
+
+- depleting 耗尽的；减少的；使枯竭的
+  - The depleting fish population is a serious environmental problem.（鱼类数量的减少是一个严重的环境问题。）
+  - Without water, the body's resources are rapidly depleting.（没有水，身体的资源会迅速耗尽。）
+  - Depleting natural resources threatens future generations.（自然资源的枯竭威胁着子孙后代。）
+  - ⚠️ deplete = 耗尽、使枯竭（动词）；depleting 可作形容词，表示"正在减少的、逐渐耗尽的"；depleted = 耗尽的（形容词）；类似表达：decreasing、diminishing、using up
+
+- calorie 卡路里；热量
+  - An apple has about 95 calories.（一个苹果大约有95卡路里。）
+  - To lose weight, you need to burn more calories than you consume.（要减肥，你需要燃烧的卡路里多于摄入的。）
+  - Low-calorie foods can help with weight management.（低热量食物有助于体重管理。）
+  - ⚠️ calorie = 卡路里、热量单位；缩写 cal；calorie 也可拼写为 calorie（英式）；high-calorie = 高热量的；low-calorie = 低热量的；daily calorie intake = 每日热量摄入
+
+- dense 密集的；浓密的；稠密的
+  - The forest is so dense that sunlight barely reaches the ground.（森林太茂密了，阳光几乎照不到地面。）
+  - A dense fog covered the city this morning.（今天早晨浓雾笼罩了这座城市。）
+  - Bones that are less dense are more likely to break.（密度较低的骨骼更容易骨折。）
+  - ⚠️ dense = 密集的、浓密的；density = 密度（名词）；多义：dense forest（密林）、dense fog（浓雾）、dense population（人口稠密）；也可表示"愚笨的"（口语）
+
+- Physiologists 生理学家
+  - Physiologists study how the human body works under different conditions.（生理学家研究人体在不同条件下如何运作。）
+  - Many physiologists are researching the effects of exercise on aging.（许多生理学家正在研究运动对衰老的影响。）
+  - Physiologists have discovered a new mechanism of bone remodeling in hibernating animals.（生理学家发现了冬眠动物骨重塑的新机制。）
+  - ⚠️ physiologist = 生理学家（单数）；复数 physiologists；physiology = 生理学（学科）；physiological = 生理的（形容词）；词根 physio- = 自然、生命
+
+- paradox 悖论；矛盾；自相矛盾的事
+  - It's a paradox that the richest country in the world has so many homeless people.（世界上最富有的国家有这么多无家可归的人，这真是个矛盾。）
+  - The twin paradox is a famous thought experiment in physics.（双生子悖论是物理学中一个著名的思想实验。）
+  - There's a paradox in her argument that I can't explain.（她的论点中有一个我无法解释的矛盾之处。）
+  - ⚠️ paradox = 悖论、矛盾（名词）；paradoxical = 矛盾的、悖论的（形容词）；类似表达：contradiction、contradiction in terms；a paradox of... = ……的矛盾之处
+
+- Hibernating 冬眠的；越冬的
+  - Hibernating animals slow down their metabolism to save energy.（冬眠的动物会减慢新陈代谢以节省能量。）
+  - Bears are not true hibernating animals—their body temperature doesn't drop much.（熊不是真正的冬眠动物——它们的体温不会下降太多。）
+  - Hibernating squirrels can survive for months without eating.（冬眠的松鼠可以数月不进食而存活。）
+  - ⚠️ hibernate = 冬眠（动词）；hibernating = 正在冬眠的（现在分词作形容词）；hibernation = 冬眠（名词）；注意 h 不发音吗？不，h 发音，/ˈhaɪbəneɪt/
+
+- mechanism of bone remodeling 骨重塑机制
+  - Scientists are studying the mechanism of bone remodeling to find treatments for osteoporosis.（科学家正在研究骨重塑机制，以寻找骨质疏松症的治疗方法。）
+  - The mechanism of bone remodeling involves cells that break down and rebuild bone tissue.（骨重塑机制涉及分解和重建骨组织的细胞。）
+  - Understanding the mechanism of bone remodeling could help astronauts prevent bone loss in space.（了解骨重塑机制可以帮助宇航员防止太空中的骨质流失。）
+  - ⚠️ mechanism = 机制、机理（名词）；bone remodeling = 骨重塑（生物学过程，骨组织不断被分解和重建）；mechanism of ... = ……的机制；类似表达：the process of bone remodeling
+
+- bedridden 卧床不起的；久病卧床的
+  - His elderly grandmother has been bedridden for several years.（他年迈的祖母已经卧床好几年了。）
+  - Being bedridden for a long time can cause muscle weakness and bone loss.（长期卧床会导致肌肉无力和骨质流失。）
+  - The bedridden patient needs regular care and physical therapy.（这位卧床不起的病人需要定期护理和物理治疗。）
+  - ⚠️ bedridden = 卧床不起的（形容词）；bed + ridden（受……困扰的）；类似表达：confined to bed；注意 bedridden 是形容词，不是动词
+
+- conservation 保护；保存；节约
+  - Wildlife conservation is important for maintaining biodiversity.（野生动物保护对于维持生物多样性很重要。）
+  - Energy conservation can help reduce our carbon footprint.（节约能源有助于减少我们的碳足迹。）
+  - The organization works for the conservation of endangered species.（该组织致力于保护濒危物种。）
+  - ⚠️ conservation = 保护、保存（名词，不可数）；conserve = 保护、节约（动词）；conservationist = 环境保护主义者；environmental conservation = 环境保护
+
+- intelligent 聪明的；智能的；有才智的
+  - Dolphins are considered to be highly intelligent animals.（海豚被认为是非常聪明的动物。）
+  - She is an intelligent student who always asks good questions.（她是个聪明的学生，总是问出好问题。）
+  - Intelligent systems are becoming more common in our daily lives.（智能系统在我们的日常生活中变得越来越普遍。）
+  - ⚠️ intelligent = 聪明的、智能的；intelligence = 智力、智能（名词）；artificial intelligence (AI) = 人工智能；注意 intelligent 形容人/动物有智慧，smart 更口语，clever 偏"机灵的"
+
+- possess emotions 拥有情感；具有情绪
+  - Many people believe that animals possess emotions just like humans.（许多人认为动物和人类一样拥有情感。）
+  - The question of whether robots can possess emotions is widely debated.（机器人是否能拥有情感这个问题被广泛讨论。）
+  - Studies show that primates possess emotions such as joy, fear, and sadness.（研究表明灵长类动物拥有快乐、恐惧和悲伤等情感。）
+  - ⚠️ possess = 拥有、具有（动词，较正式）；possession = 拥有、所有物（名词）；possess emotions = 拥有情感（书面正式表达）；日常口语中常用 have feelings
+
+- primates 灵长类动物
+  - Humans, monkeys, and apes are all primates.（人类、猴子和猿都是灵长类动物。）
+  - Primates are known for their large brains and social behavior.（灵长类动物以其发达的大脑和社会行为而闻名。）
+  - Many species of primates are endangered due to habitat loss.（由于栖息地丧失，许多灵长类物种濒临灭绝。）
+  - ⚠️ primate = 灵长类动物（单数）；复数 primates；发音：/ˈpraɪmeɪts/；注意区分：apes（猿，无尾）、monkeys（猴，有尾）、humans（人类）都属于 primates
+
+- perceived 感知到的；认为的；被察觉的
+  - The perceived risk of the disease is higher than the actual risk.（人们感知到的疾病风险高于实际风险。）
+  - She perceived a change in his attitude toward the project.（她察觉到他对这个项目的态度有所变化。）
+  - The beauty of a painting is often in the eye of the perceiver.（一幅画的美往往在于观看者的感知。）
+  - ⚠️ perceive = 感知、察觉、认为（动词）；perceived 是过去式/过去分词，也可作形容词；perception = 感知、看法（名词）；perceived value = 感知价值
+
+- anecdotal 轶事的；传闻的；道听途说的
+  - The evidence is purely anecdotal and not based on scientific research.（这个证据纯粹是传闻，不是基于科学研究的。）
+  - There are many anecdotal stories about the healing powers of this plant.（有许多关于这种植物治愈能力的传闻故事。）
+  - Anecdotal evidence is not enough to prove a theory.（传闻证据不足以证明一个理论。）
+  - ⚠️ anecdotal = 轶事的、传闻的（形容词）；anecdote = 轶事、趣闻（名词）；anecdotal evidence = 轶事证据（非科学、基于个人故事的证据）；科学研究中常与 empirical evidence（实证证据）相对
+
+- challenges 挑战；质疑；向……挑战
+  - Climate change is one of the biggest challenges of our time.（气候变化是我们这个时代最大的挑战之一。）
+  - She challenged the decision of the committee.（她对委员会的决定提出了质疑。）
+  - The new job presents many challenges but also great opportunities.（这份新工作带来了许多挑战，但也有巨大的机遇。）
+  - ⚠️ challenge 作名词 = 挑战；作动词 = 挑战、质疑；face a challenge = 面对挑战；meet a challenge = 迎接挑战；challenging = 具有挑战性的（形容词）
+
+- assumptions 假设；设想；假定
+  - We need to test our assumptions before drawing conclusions.（在得出结论之前，我们需要验证我们的假设。）
+  - His argument is based on several false assumptions.（他的论点基于几个错误的假设。）
+  - People often make assumptions about others based on appearance.（人们常常根据外表对他人做出假设。）
+  - ⚠️ assumption = 假设、假定（名词）；复数 assumptions；assume = 假设、假定（动词）；make an assumption = 做出假设；under the assumption that... = 在……的假设下
+
+- manipulate 操纵；操作；控制
+  - Some people try to manipulate others to get what they want.（有些人试图操纵他人以得到他们想要的东西。）
+  - The scientist used a computer to manipulate the data.（科学家用电脑来处理数据。）
+  - Primates can use tools to manipulate objects in their environment.（灵长类动物可以使用工具来操作环境中的物体。）
+  - ⚠️ manipulate = 操纵、操作（动词）；manipulation = 操纵、操作（名词）；manipulative = 操纵他人的（形容词）；可指物理操作，也可指"暗中操纵"（含贬义）
+
+- dislodge 取出；移走；强行移出
+  - The dentist had to dislodge the tooth with special tools.（牙医不得不用特殊工具把牙齿拔出来。）
+  - The bear tried to dislodge the honeycomb from the tree.（熊试图把蜂巢从树上弄下来。）
+  - It took hours to dislodge the car from the mud.（花了好几个小时才把车从泥里弄出来。）
+  - ⚠️ dislodge = 使脱离、强行移出（动词）；dis- = 移除 + lodge = 固定在某处；dislodge sth. from sth. = 把某物从某处弄出来；类似表达：remove、extract、knock loose
+
+- involved 参与的；涉及的；有关的
+  - Everyone involved in the project worked very hard.（参与这个项目的每个人都非常努力。）
+  - The police are investigating all the people involved in the incident.（警方正在调查所有参与这起事件的人。）
+  - There are many factors involved in learning a new language.（学习一门新语言涉及很多因素。）
+  - ⚠️ involved = 参与的、涉及的（形容词）；be/get involved in = 参与、卷入；involved 也可表示"复杂的、混乱的"（an involved situation = 复杂的局面）；动词形式：involve（涉及、包含）
+
+- barrels 桶；一桶之量；枪管
+  - The oil was stored in large wooden barrels.（油被储存在大木桶里。）
+  - The bears rolled the barrels around to get at the food inside.（熊把桶滚来滚去，想吃到里面的食物。）
+  - The price of oil is now over 80 dollars per barrel.（现在石油价格每桶超过80美元。）
+  - ⚠️ barrel = 桶（名词）；复数 barrels；barrel 可作量词：a barrel of oil（一桶油）；也指枪管；on the barrel = 现款交易（俚语）；barrel 作动词 = 
