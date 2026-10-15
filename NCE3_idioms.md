@@ -794,3 +794,57 @@
   - The general gave an order for the troops to advance.（将军下令部队前进。）
   - I'd like to give an order for two boxes of this product.（我想订购两盒这种产品。）
   - ⚠️ 多义短语：① 下达命令（军事/指挥场景，后接 to do sth. 或 for sb. to do sth.）② 下订单（商业场景，后接 for sth.）；order 作名词 = 命令、顺序、订单；类似表达：issue an order（正式发布命令）、place an order（下订单，更常用）
+
+- I won't let you down 我不会让你失望的
+  - Trust me—I won't let you down this time.（相信我——这次我不会让你失望的。）
+  - She promised she wouldn't let us down, and she kept her word.（她答应不会让我们失望，而且她说到做到了。）
+  - The team captain told his players, "I won't let you down in the final game."（队长对队员们说："决赛里我不会让你们失望的。"）
+  - ⚠️ let sb. down = 让某人失望、辜负某人；I won't let you down 是口语中常用的承诺表达；类似表达：I won't disappoint you、you can count on me、I'll come through for you
+
+- feel guilty 感到内疚；感到有罪
+  - I feel guilty about forgetting my best friend's birthday.（忘了最好朋友的生日，我感到很内疚。）
+  - She felt guilty for lying to her parents.（她因为对父母撒谎而感到内疚。）
+  - He didn't do anything wrong, so he has no reason to feel guilty.（他没做错什么，所以没有理由感到内疚。）
+  - ⚠️ guilty = 内疚的、有罪的；feel guilty about sth. / doing sth. = 为某事感到内疚；guilty conscience = 内疚的心；反义词：feel innocent（觉得无辜）
+
+- be tolerant of 容忍；对……宽容
+  - Parents should be tolerant of their children's mistakes.（父母应该对孩子的错误宽容一些。）
+  - We need to be more tolerant of different opinions in a diverse society.（在多元化社会中，我们需要对不同的意见更加宽容。）
+  - She is very tolerant of other people's bad habits.（她对别人的坏习惯非常包容。）
+  - ⚠️ tolerant = 宽容的、容忍的；be tolerant of = 对……容忍/宽容；tolerance = 宽容、忍受（名词）；tolerate = 忍受、容忍（动词）；反义词：be intolerant of（不能容忍）
+
+- be exempted from 被免除；被豁免
+  - Students with disabilities may be exempted from certain physical education requirements.（残疾学生可能被免除某些体育要求。）
+  - The company was exempted from paying taxes for the first three years.（这家公司前三年被免税。）
+  - Children under 12 are exempted from the entrance fee.（12岁以下儿童免门票。）
+  - ⚠️ exempt = 被免除的、被豁免的；be exempted from = 被免除……（义务、责任、费用等）；exempt sb. from sth. = 免除某人的某事；exemption = 豁免、免除（名词）
+
+- mixture of a. and b. a和b的混合体
+  - The painting is a mixture of realism and imagination.（这幅画是现实主义与想象力的结合。）
+  - Her personality is a strange mixture of shyness and boldness.（她的性格是害羞与大胆的奇特混合体。）
+  - The dish is a delicious mixture of sweet and sour flavors.（这道菜是甜酸口味的美味结合。）
+  - ⚠️ mixture = 混合、混合物；a mixture of A and B = A和B的混合体；类似表达：a combination of、a blend of；mix = 混合（动词）
+
+- be made to do 被迫做某事；被要求做某事
+  - The children were made to clean their rooms before dinner.（孩子们被要求在晚饭前打扫房间。）
+  - He was made to apologize for his rude behavior.（他被迫为自己的粗鲁行为道歉。）
+  - In the old days, workers were often made to work 12 hours a day.（在过去，工人们经常被迫每天工作12小时。）
+  - ⚠️ 结构：make sb. do sth.（主动，让某人做某事）→ sb. be made to do sth.（被动，被迫做某事）；注意：主动语态中省略 to，但被动语态必须还原 to；类似表达：be forced to do、be obliged to do
+
+- on the other hand 另一方面
+  - Studying abroad is expensive; on the other hand, it can be a life-changing experience.（出国留学很贵，但另一方面，它可能是改变人生的经历。）
+  - On the one hand, he's very talented; on the other hand, he's quite lazy.（一方面他很有才华，另一方面他又很懒。）
+  - The job is well-paid. On the other hand, it requires working long hours.（这份工作薪水很高，但另一方面，它需要长时间工作。）
+  - ⚠️ on the other hand = 另一方面，用于对比两种不同的观点或情况；常与 on the one hand 搭配使用，构成"一方面……另一方面……"的对比结构；类似表达：however、on the contrary、by contrast
+
+- light up 照亮；点亮；（脸上）露出喜色
+  - The fireworks lit up the night sky.（烟花照亮了夜空。）
+  - Her face lit up when she heard the good news.（听到好消息时，她的脸上露出了喜色。）
+  - The city is lit up with beautiful lights during the festival.（节日期间，城市被美丽的灯光点亮。）
+  - ⚠️ 多义短语：① 照亮、点亮（物体） ② （脸）变得喜悦、露出喜色（表情）；light 的过去式/过去分词：lit 或 lighted；类似表达：brighten up、illuminate
+
+- be greeted by something 映入眼帘的是；迎面遇到；受到……迎接
+  - When I opened the door, I was greeted by a wonderful smell of baking.（当我打开门时，一阵烘焙的香味扑鼻而来。）
+  - Visitors to the city are greeted by beautiful old buildings everywhere.（来到这座城市的游客映入眼帘的到处都是美丽的老建筑。）
+  - He walked into the room and was greeted by complete silence.（他走进房间，迎面而来的是一片寂静。）
+  - ⚠️ greet = 迎接、问候、映入眼帘；be greeted by sth. = 被某物迎接/映入眼帘，主语通常是人，宾语可以是景象、声音、气味等；类似表达：be welcomed by、be met with
