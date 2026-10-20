@@ -75,6 +75,32 @@
     - 跟读材料：初期NCE123，重点23 + 后期：等直播课程讲
 - [ ] 口语练习 topic for discussion 
     - 思路： 搜（必应Bing+某⾕）+ 英⽂阅读 + 观点总结（1. 汉英均可 2. One word or one sentence）
+- [ ] 阅读sub-skills
+    - word guessing:"考试过程中不应过于担心出现的生词，同时应该在平时多加练习如何根据上下文的语义来猜测生词的意思，尽量不要用字典查每一个生词，而打断了阅读的连贯性”。前提是会9个猜1个，而不是1个猜9个
+    - 单词+语法+习惯用法=句子 会+熟练(时间要求)+猜测
+    - Paraphrasing : repeat something written or spoken using different word. 替换单词(同义词)+习惯用法+语法(句式)
+    - 表句子/词关系&层次的单词要注意：although/ because/ for instance/ despite/ in spite of/ as a result [精读+泛读]中多注意提升写作能力+口语能力
+    - 段首&段尾总结句子理解段落存在目的(一个段落尝试在解决一个小问题，但是围绕的依旧是篇章的核心主旨) main ideas + supporting ideas
+    - Skimming: understand the main ideas of a text （段落/篇/章节/论文/书）
+        - Why?
+        1. a lot of reading to do
+        2. Determine if a paper is useful or not. (研究生必会)
+        3. relevant(邮件;公告等;某本书是否值得花时间阅读)
+        - Limitation: in-depth knowledge of the text not useful
+        - 前置条件：？？？
+        - how?
+        1.确定阅读目的?题目or问题
+        2. focus on main ideas
+        3. Don't read every word.
+        4. identity Structure
+        5.段首尾/标题/目录/第一段
+        - Summary-main/key idea (understand句子+段落)
+    - scanning - find specific info.
+        - Why?
+        1. key words
+        2. answer questions
+        3. paper-results
+        4. 查找关键信息
 
 - [ ] 语法复习
     - 不懂的周末查询《英语用法指南》
