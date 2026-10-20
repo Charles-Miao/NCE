@@ -856,3 +856,33 @@
   - Many people travel to the Arctic just to see the majestic animal that is the polar bear.（许多人前往北极就是为了一睹北极熊这种雄伟的动物。）
   - Standing on top of the mountain, the eagle looked like a truly majestic animal.（站在山顶上，那只鹰看起来真是一种威严的动物。）
   - ⚠️ majestic = 雄伟的、庄严的、威严的，发音 /məˈdʒestɪk/；majesty = 威严、王权（名词）；majestic animal = 雄伟的动物；类似表达：magnificent、grand、imposing
+
+- can never/can't ... too + 名词/形容词/副词 再……也不为过；再多……也不嫌多
+  - You can never be too careful when crossing the street.（过马路时再小心也不为过。）
+  - We can't thank you too much for all your help.（对于你的帮助，我们再怎么感谢也不为过。）
+  - It can never be too stressed that safety comes first.（安全第一，再怎么强调也不过分。）
+  - ⚠️ 经典句型：can never/cannot ... too + adj./adv./n. = 再……也不为过；表面是否定，实际是强调"越……越好"；也可以说 can hardly ... too、can scarcely ... too；类似含义表达：You can't emphasize ... enough.
+
+- food sacks 食物袋；装食物的麻袋/袋子
+  - The explorers carried several food sacks on their sleds.（探险者们在雪橇上装了好几袋食物。）
+  - The hungry bears tore open the food sacks and ate everything inside.（饥饿的熊撕开食物袋，把里面的东西全吃光了。）
+  - We need to buy more food sacks for the long winter trip.（我们需要为漫长的冬季旅行准备更多食物袋。）
+  - ⚠️ sack = 麻袋、大袋（通常指粗布或纸做的大袋子），复数 sacks；food sack = 装食物的袋子；a sack of = 一袋……；类似表达：food bags（更通用）、sacks of food（食物袋）；美式英语也常用 sack 表示"解雇"（口语）
+
+- I have a clear conscience. 我问心无愧。
+  - I didn't cheat on the exam, so I have a clear conscience.（我考试没作弊，所以我问心无愧。）
+  - He said he had a clear conscience about the decision he made.（他说对自己做出的决定问心无愧。）
+  - As long as you do the right thing, you'll have a clear conscience.（只要你做的是对的，你就会问心无愧。）
+  - ⚠️ conscience = 良心、良知；have a clear conscience = 问心无愧、心安理得；反义：have a guilty conscience（问心有愧、内疚）；类似表达：have a clear mind、sleep easy at night；注意区分：conscience（良心）和 conscious（有意识的）
+
+- a pile of woods/books/questions/woolen goods 一堆木头/书/问题/毛织品
+  - There was a pile of books on his desk, waiting to be read.（他的书桌上有一堆书等着被读。）
+  - The workers stacked a pile of wood by the fireplace for winter.（工人们在壁炉旁堆了一堆木头以备过冬。）
+  - She faced a pile of questions from the reporters at the press conference.（在记者会上，她面临着记者们的一连串问题。）
+  - ⚠️ pile = 堆、堆积；a pile of = 一堆（可接可数或不可数名词）；piles of = 成堆的、大量的（口语）；注意：wood 作"木头"时通常不可数，"woods" 指树林/森林；woolen goods = 毛织品、羊毛制品
+
+- sth./sb. was confined to + 地点 某人/某物被限制在某个地方
+  - The sick child was confined to bed for a whole week.（生病的孩子整整一周都卧床不起。）
+  - The wild animal was confined to a small cage in the zoo.（那只野生动物被关在动物园的一个小笼子里。）
+  - During the war, many people were confined to their homes by the curfew.（战争期间，许多人因宵禁而被限制在家中。）
+  - ⚠️ confine = 限制、禁闭；be confined to = 被限制在……范围内；也可表示"闭门不出、卧床"；confine sb./sth. to + 地点 = 把某人/某物限制在某地；类似表达：be restricted to、be limited to；confinement = 限制、监禁（名词）
