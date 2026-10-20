@@ -848,3 +848,69 @@
   - Visitors to the city are greeted by beautiful old buildings everywhere.（来到这座城市的游客映入眼帘的到处都是美丽的老建筑。）
   - He walked into the room and was greeted by complete silence.（他走进房间，迎面而来的是一片寂静。）
   - ⚠️ greet = 迎接、问候、映入眼帘；be greeted by sth. = 被某物迎接/映入眼帘，主语通常是人，宾语可以是景象、声音、气味等；类似表达：be welcomed by、be met with
+
+- have an opportunity to do sth. 有机会做某事
+  - I'm glad to have an opportunity to visit your beautiful city.（我很高兴有机会参观你们美丽的城市。）
+  - She had an opportunity to study abroad, but she turned it down.（她有出国留学的机会，但拒绝了。）
+  - Many young people want to have an opportunity to work for a big company.（许多年轻人希望有机会在大公司工作。）
+  - ⚠️ opportunity = 机会、时机；have an opportunity to do sth. = 有机会做某事；也可以说 have the opportunity of doing sth.；类似表达：have a chance to do sth.、get the chance to do sth.；注意：opportunity 比 chance 更正式，更强调"有利的时机"
+
+- an element of truth/danger 一点真实/危险的成分；几分真实/危险
+  - There's an element of truth in what he said, even if it's not completely correct.（他说的话有几分道理，尽管不完全正确。）
+  - There is always an element of danger in mountain climbing.（登山总有几分危险。）
+  - The story has an element of mystery that keeps readers guessing.（这个故事有一丝神秘色彩，让读者不断猜测。）
+  - ⚠️ element = 元素、成分、要素；an element of = 一点点、几分（通常接抽象名词）；常见搭配：an element of truth（几分真实）、an element of danger（几分危险）、an element of surprise（几分惊喜）；类似表达：a touch of、a bit of、a trace of
+
+- starve to death 饿死
+  - Many animals starved to death during the long drought.（在漫长的干旱中，许多动物饿死了。）
+  - Without food, humans can starve to death in about three weeks.（没有食物，人类大约三周就会饿死。）
+  - The poor family almost starved to death during the winter.（那个贫穷的家庭在冬天差点饿死。）
+  - ⚠️ starve = 挨饿、饿死；starve to death = 饿死（强调结果）；die of starvation = 死于饥饿（更正式）；类似表达：freeze to death（冻死）、burn to death（烧死）；注意这种 "动词 + to death" 结构表"……死"
+
+- Sb. be genuinely sorry that+句子 某人由衷地为……感到抱歉/遗憾
+  - I am genuinely sorry that I missed your birthday party.（我真的很抱歉错过了你的生日派对。）
+  - She was genuinely sorry that she had hurt his feelings.（她由衷地为伤害了他的感情而感到抱歉。）
+  - We are genuinely sorry that the project didn't work out as planned.（项目没有按计划进行，我们由衷地感到遗憾。）
+  - ⚠️ genuinely = 真诚地、由衷地；be sorry that... = 为……感到抱歉/遗憾；genuinely 加强了"真心实意"的语气；类似表达：be truly sorry that、be sincerely sorry that；genuine = 真诚的、真正的（形容词）
+
+- formed an unrealistic picture of a. 对……形成了不切实际的看法/想象
+  - He formed an unrealistic picture of life in Hollywood before moving there.（在搬去之前，他对好莱坞的生活形成了不切实际的想象。）
+  - Many students form an unrealistic picture of college life from movies.（许多学生从电影中对大学生活形成了不切实际的看法。）
+  - People often form an unrealistic picture of what being rich is really like.（人们往往对富有是什么样子形成不切实际的想象。）
+  - ⚠️ form a picture of = 对……形成看法/想象；unrealistic = 不切实际的、不现实的（realistic 的反义词）；form an unrealistic picture of = 对……抱有不切实际的幻想；类似表达：have unrealistic expectations of、have a romanticized view of
+
+- imagine sth. to be n./adj. 想象某事/物是……
+  - I imagined the house to be much bigger than it actually is.（我想象中的房子比实际的大得多。）
+  - She imagined him to be tall and handsome, but he was quite short.（她原以为他又高又帅，结果他挺矮的。）
+  - People often imagine life in the past to be simpler than it really was.（人们常常想象过去的生活比实际更简单。）
+  - ⚠️ imagine = 想象、设想；imagine sth. to be + n./adj. = 想象某物是……的样子；也可以说 imagine sth. as + n.；类似表达：picture sth. as、think of sth. as；注意：imagine 后接动名词，不接不定式：imagine doing sth.（想象做某事）
+
+- a sort of 一种；有点（口语中表"某种程度上的"）
+  - There was a sort of sadness in her voice that I couldn't explain.（她的声音里有一种我无法解释的悲伤。）
+  - It's a sort of musical instrument, but I don't know what it's called.（这算是一种乐器，但我不知道叫什么。）
+  - I had a sort of feeling that something bad was going to happen.（我有一种不祥的预感。）
+  - ⚠️ a sort of = 一种、有点；比 a kind of 更口语、更模糊；常用来表达"说不清楚但感觉是某种"的意思；sort of 也可单独作副词 = 有点、有几分（修饰形容词或动词）；类似表达：a kind of、a type of
+
+- quite the opposite 恰恰相反；完全相反
+  - I thought she'd be angry, but quite the opposite—she started laughing.（我以为她会生气，恰恰相反——她笑了起来。）
+  - Many people think winter is coldest in the north, but it's quite the opposite here.（许多人认为北方冬天最冷，但这里恰恰相反。）
+  - He didn't dislike her; quite the opposite, he loved her very much.（他没有不喜欢她；恰恰相反，他非常爱她。）
+  - ⚠️ quite the opposite = 恰恰相反、完全相反；用来表示与预期或陈述完全相反；常单独使用，后接句子说明实际情况；类似表达：on the contrary、just the opposite、exactly the opposite
+
+- wish that+句子 但愿……；希望……（虚拟语气）
+  - I wish that I could fly like a bird.（我希望我能像鸟一样飞翔。）
+  - She wishes that she had studied harder when she was young.（她真希望年轻时更努力学习。）
+  - We wish that it would stop raining soon.（我们真希望雨快点停。）
+  - ⚠️ wish that 后接从句用虚拟语气：① 与现在事实相反 → 过去式（be 动词用 were）② 与过去事实相反 → had + 过去分词 ③ 与将来事实相反 → would/could + 动词原形；that 常省略；注意：wish 表示难以实现的愿望，hope 表示有可能实现的希望
+
+- load a. with b. 使a装满b；使a负担着b
+  - The truck was loaded with boxes of fresh fruit.（卡车上装满了一箱箱新鲜水果。）
+  - She loaded her plate with food at the buffet.（她在自助餐厅把盘子里堆满了食物。）
+  - The new teacher loaded the students with too much homework.（新老师给学生布置了太多作业。）
+  - ⚠️ load = 装载、使负担；load A with B = 用B装满A/使A负担B；也可以说 load B onto/into A；引申义也可表示"使负担过重（工作、任务等）"；反义词：unload（卸货、卸下）
+
+- as sb. put it… 正如某人所说……；用某人的话来说
+  - As my teacher put it, practice makes perfect.（正如我老师所说，熟能生巧。）
+  - As the old saying puts it, a friend in need is a friend indeed.（正如老话所说，患难见真情。）
+  - As he put it, success is 1% inspiration and 99% perspiration.（正如他所说，成功是1%的灵感加99%的汗水。）
+  - ⚠️ as sb. put it = 正如某人所说；put = 说、表达（动词，此处为"表述、说"的意思）；put it = 说出来、表达；类似表达：as sb. said、in sb's words、to quote sb.；注意 put 的过去式还是 put
