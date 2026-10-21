@@ -57,7 +57,6 @@
 - [X] 新概念英语 2 详细讲解和学习
     - [语法](https://github.com/Charles-Miao/NCE/blob/main/NCE2_grammar.md)
     - [习语](https://github.com/Charles-Miao/NCE/blob/main/NCE2_idioms.md)
-
 - [ ] 新概念英语 3 详细讲解和学习
     - 2天完成1节课
     - [语法](https://github.com/Charles-Miao/NCE/blob/main/NCE3_grammar.md)
@@ -65,6 +64,10 @@
 - [ ] 雅思托福课 - Leo老师
     - 2周完成1周任务
     - 建立小组讨论
+- [ ] 语法复习
+    - 不懂的周末查询《英语用法指南》
+- [ ] 习语复习
+    - Google搜索，XXX meaning
 
 - [ ] 每天跟读
     - 每天都读，最多隔一天
@@ -73,15 +76,13 @@
     - 时间⻓度：15min-1h均可
     - 一定要早上刚起就跟读+晚上临睡前读，剩下跟读时间⾃⾏安排
     - 跟读材料：初期NCE123，重点23 + 后期：等直播课程讲
-- [ ] 口语练习 topic for discussion 
-    - 思路： 搜（必应Bing+某⾕）+ 英⽂阅读 + 观点总结（1. 汉英均可 2. One word or one sentence）
-- [ ] 阅读sub-skills
-    - word guessing:"考试过程中不应过于担心出现的生词，同时应该在平时多加练习如何根据上下文的语义来猜测生词的意思，尽量不要用字典查每一个生词，而打断了阅读的连贯性”。前提是会9个猜1个，而不是1个猜9个
-    - 单词+语法+习惯用法=句子 会+熟练(时间要求)+猜测
-    - Paraphrasing : repeat something written or spoken using different word. 替换单词(同义词)+习惯用法+语法(句式)
-    - 表句子/词关系&层次的单词要注意：although/ because/ for instance/ despite/ in spite of/ as a result [精读+泛读]中多注意提升写作能力+口语能力
-    - 段首&段尾总结句子理解段落存在目的(一个段落尝试在解决一个小问题，但是围绕的依旧是篇章的核心主旨) main ideas + supporting ideas
-    - Skimming: understand the main ideas of a text （段落/篇/章节/论文/书）
+- [ ] 阅读sub-skills(词+句子：1~4，段落+篇章：5~8，围绕考试：9，答题技巧：10)
+    1. word guessing:"考试过程中不应过于担心出现的生词，同时应该在平时多加练习如何根据上下文的语义来猜测生词的意思，尽量不要用字典查每一个生词，而打断了阅读的连贯性”。前提是会9个猜1个，而不是1个猜9个
+    2. 单词+语法+习惯用法=句子 会+熟练(时间要求)+猜测
+    3. Paraphrasing : repeat something written or spoken using different word. 替换单词(同义词)+习惯用法+语法(句式)
+    4. 表句子/词关系&层次的单词要注意：although/ because/ for instance/ despite/ in spite of/ as a result [精读+泛读]中多注意提升写作能力+口语能力
+    5. 段首&段尾总结句子理解段落存在目的(一个段落尝试在解决一个小问题，但是围绕的依旧是篇章的核心主旨) main ideas + supporting ideas
+    6. Skimming: understand the main ideas of a text （段落/篇/章节/论文/书）
         - Why?
         1. a lot of reading to do
         2. Determine if a paper is useful or not. (研究生必会)
@@ -95,17 +96,45 @@
         4. identity Structure
         5.段首尾/标题/目录/第一段
         - Summary-main/key idea (understand句子+段落)
-    - scanning - find specific info.
+    7. scanning - find specific info.
         - Why?
         1. key words
         2. answer questions
         3. paper-results
         4. 查找关键信息
-
-- [ ] 语法复习
-    - 不懂的周末查询《英语用法指南》
-- [ ] 习语复习
-    - Google搜索，XXX meaning
+    8. Features of a reading passage. Pp44
+        - footnote
+        - subheading
+        - column
+        - figure/illustration
+        - heading
+        - caption
+        - e.g."western civilization” PDF
+    9. 围绕考试
+        1.连续阅读1.5h习惯养成。
+        2.阅读深度(精读;句读)+阅读速度(泛读);谁先?
+        3.终极大杀器:提升精读+泛读，达到类似母语水平。
+            - sub-skills不专门联系有可能满分么?
+        4.注意力集中
+            - meditation
+            - 模考
+            - 看题
+    10. 答题技巧
+        1.注意大多数的题型下，题目出现的顺序和信息在文章中出现的顺序都是一致的。
+        2.Speed reading了解梗概/看题，带着问题，再次阅读。先skimming + scanning
+        3.一遍读，一边答题。
+        4.Polar bears:题目中[关键词组】帮助确定文章中查找什么? 定位答题区域。Scanning+understand sentences
+        5.边阅读边标记的习惯key words/sentences
+        6.审题：one word only...
+        7.Matching Headings
+            - read the headings
+            - skim the whole passage for overall meaning
+            - read the first paragraph + match heading (自循环)
+            - read the second paragraph + match heading
+            - 关注梗概(大意)，而非match细节(题目与段落的单词)
+        8.true/false/Not given文中信息VS自己脑海中的信息
+- [ ] 口语练习 topic for discussion 
+    - 思路： 搜（必应Bing+某⾕）+ 英⽂阅读 + 观点总结（1. 汉英均可 2. One word or one sentence）
 
 - [ ] AI 英语原声对话（豆包）
 - [ ] 天天听英语 泛听美剧/动画/教学剧集
