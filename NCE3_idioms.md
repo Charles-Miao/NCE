@@ -914,3 +914,45 @@
   - As the old saying puts it, a friend in need is a friend indeed.（正如老话所说，患难见真情。）
   - As he put it, success is 1% inspiration and 99% perspiration.（正如他所说，成功是1%的灵感加99%的汗水。）
   - ⚠️ as sb. put it = 正如某人所说；put = 说、表达（动词，此处为"表述、说"的意思）；put it = 说出来、表达；类似表达：as sb. said、in sb's words、to quote sb.；注意 put 的过去式还是 put
+
+- consist of … 由……组成；由……构成
+  - The committee consists of ten members from different departments.（委员会由来自不同部门的十名成员组成。）
+  - Water consists of hydrogen and oxygen.（水由氢和氧组成。）
+  - The test consists of three parts: listening, reading, and writing.（考试由三部分组成：听力、阅读和写作。）
+  - ⚠️ consist of = 由……组成/构成；不用于被动语态和进行时态；类似表达：be made up of、be composed of、comprise；区别：consist of（整体由部分组成）vs. consist in（在于、存在于）
+
+- make yourself comfortable 请随意；别拘束；请自便
+  - Come in and make yourself comfortable—I'll get you a drink.（进来坐，别拘束——我给你拿杯饮料。）
+  - Please make yourself comfortable while you wait for the doctor.（在等医生的时候请随意坐。）
+  - He told his guests to make themselves comfortable and help themselves to snacks.（他让客人们别拘束，零食随便拿。）
+  - ⚠️ make oneself comfortable = 让自己舒服、随意一点；是主人招待客人时的常用礼貌用语；类似表达：make yourself at home（别客气、就像在自己家一样）、feel at home、relax
+
+- at your own pace 按你自己的节奏；以你自己的速度
+  - You can learn at your own pace with online courses.（有了在线课程，你可以按自己的节奏学习。）
+  - Take the hike at your own pace—there's no need to rush.（按你自己的速度徒步就行，不用着急。）
+  - Everyone works at their own pace, so don't compare yourself to others.（每个人都有自己的工作节奏，所以不要和别人比。）
+  - ⚠️ pace = 速度、节奏、步伐；at one's own pace = 按自己的节奏/速度；类似表达：at your own speed、in your own time；keep pace with = 跟上……的步伐
+
+- The pace of life 生活节奏
+  - The pace of life in big cities is much faster than in small towns.（大城市的生活节奏比小城镇快得多。）
+  - Many people move to the countryside to enjoy a slower pace of life.（许多人搬到乡村去享受更慢节奏的生活。）
+  - I couldn't keep up with the fast pace of life in Shanghai.（我跟不上上海快节奏的生活。）
+  - ⚠️ the pace of life = 生活节奏；a fast pace of life = 快节奏生活；a slow pace of life = 慢节奏生活；类似表达：rhythm of life（生活的节奏）；pace 强调"速度"，rhythm 更强调"规律性、韵律"
+
+- fancy dress party 化装舞会
+  - She wore a beautiful princess costume to the fancy dress party.（她穿着漂亮的公主礼服去参加化装舞会。）
+  - We're going to a fancy dress party this Halloween—what should I dress as?（这个万圣节我们要去参加化装舞会——我该扮成什么呢？）
+  - He won first prize at the fancy dress party for his creative costume.（他的创意服装在化装舞会上赢得了一等奖。）
+  - ⚠️ fancy dress party = 化装舞会（英式英语）；美式英语常用 costume party；fancy dress = 化装服、戏服；fancy = 精致的、花哨的；dress up = 打扮、化装
+
+- be impatient to do sth. 急切地想做某事；迫不及待做某事
+  - The children are impatient to open their Christmas presents.（孩子们迫不及待地想打开圣诞礼物。）
+  - She was impatient to start her new job after graduation.（毕业后她迫不及待地想开始新工作。）
+  - I'm impatient to hear the results of the competition.（我急切地想知道比赛结果。）
+  - ⚠️ impatient = 不耐烦的、急切的；be impatient to do sth. = 急切地想做某事；be impatient with sb./sth. = 对……不耐烦；反义词：be patient to do sth.（耐心做某事）；impatience = 不耐烦、急躁（名词）
+
+- let out a cry 大叫一声；发出一声叫喊
+  - She let out a cry of surprise when she saw the birthday cake.（看到生日蛋糕时，她惊喜地叫了一声。）
+  - He let out a cry of pain when he fell off his bike.（他从自行车上摔下来时疼得大叫一声。）
+  - The little girl let out a cry of joy when she saw her parents.（小女孩看到父母时高兴得叫了起来。）
+  - ⚠️ let out = 发出（声音）、放出；let out a cry = 发出一声叫喊；常见搭配：let out a scream（发出尖叫）、let out a sigh（叹一口气）、let out a laugh（发出笑声）；类似表达：give a cry、utter a cry
