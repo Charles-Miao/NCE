@@ -956,3 +956,57 @@
   - He let out a cry of pain when he fell off his bike.（他从自行车上摔下来时疼得大叫一声。）
   - The little girl let out a cry of joy when she saw her parents.（小女孩看到父母时高兴得叫了起来。）
   - ⚠️ let out = 发出（声音）、放出；let out a cry = 发出一声叫喊；常见搭配：let out a scream（发出尖叫）、let out a sigh（叹一口气）、let out a laugh（发出笑声）；类似表达：give a cry、utter a cry
+
+- need protection 需要保护
+  - Young children need protection from dangerous things around the house.（年幼的孩子需要受到保护，远离家中的危险物品。）
+  - Endangered species need protection if they are to survive.（濒危物种要想生存下去就需要保护。）
+  - Many elderly people need protection from financial scams.（许多老年人需要受到保护，免受金融诈骗。）
+  - ⚠️ protection = 保护、防卫（protect 的名词形式）；need protection = 需要保护；need protection from sth. = 需要保护免受……伤害；类似表达：in need of protection
+
+- provide protection 提供保护
+  - The police provide protection for the citizens of the city.（警察为城市居民提供保护。）
+  - Sunscreen provides protection against harmful UV rays.（防晒霜能提供防护，抵御有害的紫外线。）
+  - The thick fur of polar bears provides protection from the cold.（北极熊厚厚的皮毛为它们提供了防寒保护。）
+  - ⚠️ provide protection = 提供保护；provide protection for sb. = 为某人提供保护；provide protection against sth. = 提供防护以抵御……；类似表达：offer protection、give protection
+
+- for your own protection 为了你自己的安全/保护
+  - Please wear a helmet for your own protection when riding a motorcycle.（为了你的安全，请骑摩托车时戴头盔。）
+  - For your own protection, don't walk alone in this area at night.（为了你自身的安全，晚上不要独自在这个区域行走。）
+  - The doctor told her to stay in bed for her own protection.（医生让她卧床休息，这是为了她自己好。）
+  - ⚠️ for one's own protection = 为了自身的安全/保护；是劝告或警告时常用的表达；for your own good = 为了你好（更宽泛）；for your own safety = 为了你的安全
+
+- a band of 一群；一队；一帮
+  - A band of robbers attacked the village last night.（昨晚一伙强盗袭击了村庄。）
+  - They were led by a brave band of explorers.（他们由一群勇敢的探险家带领。）
+  - A band of musicians played at the wedding reception.（一支乐队在婚宴上演奏。）
+  - ⚠️ a band of = 一群、一队（人或动物）；常修饰有共同目标或特征的群体；a band of brothers = 一群兄弟、生死之交；类似表达：a group of、a gang of、a troop of；band 也可表示"乐队、带子"
+
+- give him a state funeral 为他举行国葬
+  - The president died in office, so the country gave him a state funeral.（总统在任内去世，因此国家为他举行了国葬。）
+  - After the great leader passed away, the nation gave him a state funeral.（这位伟大领袖去世后，全国为他举行了国葬。）
+  - Many people lined the streets to watch the state funeral procession.（许多人沿街观看国葬的行进队伍。）
+  - ⚠️ state funeral = 国葬、官方葬礼；give sb. a state funeral = 为某人举行国葬；state = 国家的、政府的；funeral = 葬礼；类似表达：hold a state funeral for sb.
+
+- dedicate yourself/your life to something 致力于；献身于
+  - She dedicated her life to helping the poor and homeless.（她毕生致力于帮助穷人和无家可归的人。）
+  - Many scientists dedicate themselves to finding a cure for cancer.（许多科学家毕生致力于寻找治愈癌症的方法。）
+  - He dedicated himself to his work and rarely took holidays.（他全身心投入工作，很少休假。）
+  - ⚠️ dedicate = 奉献、致力于；dedicate oneself/one's life to sth. = 把自己/一生奉献给某事；to 是介词，后接名词或动名词；类似表达：devote oneself to、commit oneself to
+
+- dedicate something to somebody 把某物献给某人
+  - She dedicated her first book to her parents.（她把第一本书献给了她的父母。）
+  - The memorial was dedicated to the soldiers who died in the war.（这座纪念碑是献给在战争中牺牲的士兵们的。）
+  - The writer dedicated the poem to his beloved wife.（这位诗人把这首诗献给了他挚爱的妻子。）
+  - ⚠️ dedicate sth. to sb. = 把某物献给某人（通常指书、作品、建筑等）；在书籍的献词页（dedication page）上很常见；类似表达：in honor of、in memory of
+
+- devote oneself to sth. / doing sth. 致力于；献身于
+  - She devoted herself to teaching children in rural areas.（她致力于在农村地区教育孩子。）
+  - After retiring, he devoted himself to painting.（退休后，他全身心投入绘画。）
+  - The doctor has devoted his whole life to finding a vaccine.（这位医生毕生致力于研发疫苗。）
+  - ⚠️ devote = 致力于、奉献；devote oneself to = 献身于、专心于；to 是介词，后接名词或动名词；与 dedicate oneself to 含义相近，但 devote 更强调"投入全部时间和精力"；devoted = 忠诚的、挚爱的（形容词）
+
+- in memory of sb. / to the memory of sb. 纪念某人；为了纪念某人
+  - This statue was built in memory of the national hero.（这座雕像是为了纪念那位民族英雄而建的。）
+  - She founded the charity in memory of her late husband.（她创办了这个慈善机构以纪念已故的丈夫。）
+  - The library was named in memory of the great writer.（这座图书馆以那位伟大作家的名字命名，以示纪念。）
+  - ⚠️ in memory of = 纪念……；to the memory of = 纪念……（更正式、更书面）；常用于纪念碑、建筑、机构、书籍的命名中；类似表达：in honor of、in remembrance of、memorial to sb.
