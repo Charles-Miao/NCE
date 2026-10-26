@@ -238,3 +238,153 @@ The + 比较级 + 主语 + 谓语, the + 比较级 + 主语 + 谓语
 2. 作连词的 yet 和作副词的 yet 意思完全不同，注意区分。
 
 > ⚠️ 小提示：写作时想替换 but，用 yet 或 however 会显得更有文采~
+
+---
+
+## when 引导的定语从句
+
+**含义：** when 引导定语从句，修饰表示时间的名词（如 day, year, time, moment, period 等），when 在从句中作**时间状语**，相当于"介词 + which"。
+
+### 核心规则
+
+1. **when 定从修饰的是时间名词**（day, year, time, moment, season, period ...）
+2. **when 必须在其引导的定从中作时间状语**，即 when 替代定从中的时间状语成分
+3. **区分 when 与 which**：定从中缺少主语/宾语 → 用 which/that；定从中缺少时间状语 → 用 when
+
+### when vs which 对比
+
+| 句子 | 用什么 | 原因 |
+|------|--------|------|
+| I'll never forget the time **which** I spent on campus. | which | spent 是及物动词，从句缺少宾语（spent the time） |
+| I'll never forget the day **when** we first met in the park. | when | 从句主谓语完整（we met），缺少时间状语（on the day） |
+| I still remember the year **which** we spent together. | which | spent 后缺宾语 |
+| I still remember the year **when** we first came to this city. | when | 从句完整，缺时间状语 |
+
+### 补充说明
+
+4. **when 在非正式文体中常被 that 替换或省略**（出自《Practical English Usage》）
+   - I'll never forget the day **that** we first met.（非正式，that 替代 when）
+   - I'll never forget the day we first met.（非正式，when 省略）
+
+5. **区分 when 引导的时间状语从句 vs 定语从句**
+   - 时间状语从句：when 从句修饰主句的动作，表示"在……的时候"，前面没有时间名词作先行词
+   - 定语从句：when 从句修饰前面的时间名词，关系词 when 替代先行词
+   - 例：My dad and I used to come here all the time **when I was a little kid**.【时间状语从句】——when 从句说明"什么时候常来"，修饰整个主句
+   - 例：I'll never forget the day **when we first met**.【定语从句】——when 从句修饰 the day
+
+6. **介词 + which = when**（正式用法）
+   - I'll never forget the day **on which** we first met. = ...the day when we first met.
+   - The year **in which** he was born was 1990. = The year when he was born was 1990.
+   - 具体某天用 on，某年/月/季节用 in，某个时刻用 at
+
+> ⚠️ 快速判断技巧：把先行词放回从句中，如果能直接作主语/宾语 → which/that；如果需要加介词才能作时间状语（on the day, in the year）→ when
+
+---
+
+## if 真实条件句 vs 虚拟语气
+
+**含义：** if 引导的条件句有两种——真实条件句（可能发生）和虚拟条件句（与事实相反/不太可能发生）。判断关键看**上下文语境**。
+
+### 现在虚拟（与现在事实相反）
+
+**结构：** If + 过去式, 主语 + would/could/might + do
+
+- If I saw him, I'd apologize to him.（如果我见到他，我会向他道歉的。——事实上现在见不到他）
+- If I were you, I would take the job.（如果我是你，我会接受这份工作。——我不可能是你）
+- If she had more time, she would learn French.（如果她有更多时间，她会学法语的。——实际她没时间）
+
+### 过去真实（过去的真实情况）
+
+**结构：** If + 过去式, 主语 + would + do（这里 would 表示"过去常常会"，不是虚拟）
+
+- If the money was not paid promptly, the gangsters would quickly put a man out of business.（如果钱不能及时交上来，这帮歹徒很快就让人破产。——描述过去的真实习惯/规律，不是虚拟）
+- If it rained, we would stay indoors all day.（如果下雨，我们就整天待在室内。——过去的真实习惯）
+- If he was late, his boss would get very angry.（如果他迟到，老板就会非常生气。——过去真实的因果关系）
+
+### 对比表格
+
+| 类型 | If 从句 | 主句 | 含义 |
+|------|---------|------|------|
+| 现在虚拟 | 过去式（were） | would + do | 与现在事实相反 |
+| 过去真实 | 过去式 | would + do | 描述过去的真实习惯/规律 |
+| 过去虚拟 | had + 过去分词 | would have + 过去分词 | 与过去事实相反 |
+
+> ⚠️ 区分关键：看 would 的含义——表示"将会（假设）"还是"过去常常（惯常）"。描述过去反复发生的事情时，would = used to，这是真实条件句，不是虚拟。
+>
+> 例：If I **had seen** him yesterday, I **would have said** hello.【过去虚拟】——昨天没见到
+> 例：If I **saw** him, I **would** always say hello.【过去真实】——那时候见到就会打招呼（真实习惯）
+
+---
+
+## have sth. done
+
+**含义：** 表示"让别人为自己做某事"（主语不亲自做），也可表示"意外或不幸的遭遇"（不是主语希望的）。
+
+### 用法 1：叫别人为你做某事（主语请/让别人做）
+
+- I **had my hair cut** yesterday.（我昨天剪了头发。——理发师剪的，不是自己剪的）
+- She **had her house painted** last summer.（她去年夏天请人把房子刷了。）
+- We're **having the car repaired** at the garage.（我们正在修车厂让别人修车。）
+- You should **have your eyes tested** regularly.（你应该定期去检查视力。）
+
+### 用法 2：意外或不幸的遭遇（主语遭受了不好的事）
+
+- Gary **had his nose broken** in a fight.（加里在一次打架中鼻子被打断了。——不幸遭遇）
+- He **had his wallet stolen** on the subway.（他的钱包在地铁上被偷了。）
+- They **had their house damaged** in the storm.（他们的房子在暴风雨中被毁了。）
+- She **had her bike stolen** last week.（她的自行车上周被偷了。）
+
+### 结构对比
+
+| 结构 | 含义 | 例句 |
+|------|------|------|
+| **have sb. do sth.** | 让某人做某事（主动） | I had the repairman fix the TV. |
+| **have sth. done** | 让某事被做/遭遇某事（被动） | I had the TV fixed. |
+| **have sb. doing sth.** | 让某人一直做某事 | He had us laughing all night. |
+
+> ⚠️ 注意：have sth. done 有两种含义，需要根据语境判断。表示"请人做"时是主动安排，表示"遭遇"时是被动经历。
+>
+> 区分小技巧：如果是好事、可安排的事 → 请人做；如果是坏事、意外 → 遭受。
+
+---
+
+## whenever
+
+**含义：** whenever 有多种用法，可作疑问词加强语气、引导时间状语从句或让步状语从句。
+
+### 用法 1：疑问词 + ever（加强语气）
+
+复习 L2：on earth 究竟 = ever 放在疑问词后加强语气
+
+- **When ever (whenever)** did you see her?（你到底什么时候见过她？——惊讶/难以置信）
+- Whenever did he find time to write a book?（他到底什么时候抽时间写了本书？）
+- Wherever have you been?（你到底去哪了？）
+- Whatever are you talking about?（你到底在说什么？）
+
+### 用法 2：引导时间状语从句
+
+相当于 when，但语气更强，表示"每当、每次"（= every time）
+
+- **Whenever** I see her, she's always smiling.（每次我见到她，她都在笑。）
+- **Whenever** it rains, the roof leaks.（每次下雨，屋顶都会漏水。）
+- **Whenever** he travels abroad, he buys souvenirs for his family.（每次他出国旅行，都会给家人买纪念品。）
+- Come and see me **whenever** you have time.（你什么时候有空就来看我。）
+
+### 用法 3：引导让步状语从句
+
+相当于 no matter when，表示"无论何时、不管什么时候"（= any time）
+
+- **Whenever** you come, you'll be welcome.（无论你什么时候来，都会受到欢迎。）
+- **Whenever** I need help, he's always there for me.（无论何时我需要帮助，他都在。）
+- You can call me **whenever** you have a problem.（无论你什么时候有问题都可以打电话给我。）
+- **Whenever** it happened, it must have been a long time ago.（不管是什么时候发生的，肯定是很久以前了。）
+
+### 用法总结
+
+| 用法 | 含义 | 类似表达 |
+|------|------|----------|
+| 疑问词加强语气 | 到底、究竟 | on earth, in the world |
+| 时间状语从句 | 每当、每次 | every time, each time |
+| 让步状语从句 | 无论何时 | no matter when, at any time |
+
+> ⚠️ 类似的词：whatever（无论什么）、wherever（无论哪里）、whoever（无论是谁）、whichever（无论哪个）、however（无论怎样）都可以引导让步状语从句，表示" no matter + 疑问词"。
