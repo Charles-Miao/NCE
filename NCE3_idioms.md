@@ -1010,3 +1010,99 @@
   - She founded the charity in memory of her late husband.（她创办了这个慈善机构以纪念已故的丈夫。）
   - The library was named in memory of the great writer.（这座图书馆以那位伟大作家的名字命名，以示纪念。）
   - ⚠️ in memory of = 纪念……；to the memory of = 纪念……（更正式、更书面）；常用于纪念碑、建筑、机构、书籍的命名中；类似表达：in honor of、in remembrance of、memorial to sb.
+
+- There was a time when + 句子 曾经有一段时间……；曾几何时……
+  - There was a time when I hated going to school.（曾经有一段时间我讨厌上学。）
+  - There was a time when this neighborhood was very dangerous.（曾几何时，这个街区非常危险。）
+  - There was a time when people wrote letters instead of sending messages.（曾经有一段时间人们写信而不是发信息。）
+  - ⚠️ There was a time when = 曾经有一段时间……；when 引导定语从句，修饰 time；类似表达：Once upon a time（很久以前，讲故事开头）、There was a period when；注意区分：when 引导定语从句（修饰 time）而非时间状语从句
+
+- pay money to sb. 付钱给某人
+  - You need to pay money to the landlord before the end of the month.（你需要在月底前把钱付给房东。）
+  - He paid a lot of money to the lawyer for his services.（他付了很多钱给律师作为服务费。）
+  - The company pays money to its employees on the 15th of every month.（公司每月15号给员工发工资。）
+  - ⚠️ pay money to sb. = 付钱给某人；也可以说 pay sb. money（双宾语结构，更常用）；pay for sth. = 为……付钱；注意搭配：pay sb. sth. = pay sth. to sb.
+
+- large sums of money 大笔的钱；巨款
+  - He spent large sums of money on his collection of paintings.（他在自己的绘画收藏上花了大笔的钱。）
+  - Large sums of money have been invested in the new project.（大笔资金已经投入到这个新项目中。）
+  - She earned large sums of money by investing in real estate.（她通过投资房地产赚了一大笔钱。）
+  - ⚠️ a large sum of = 一大笔（后接不可数名词，尤其指钱）；large sums of = 大笔的（复数形式）；sum = 金额、总数；类似表达：a large amount of、huge amounts of、vast sums of
+
+- put sb. out of business 使某人破产；让某人做不成生意
+  - The big supermarket put many small shops out of business.（大型超市让很多小商店都倒闭了。）
+  - If we don't improve our products, the competition will put us out of business.（如果我们不改进产品，竞争对手会让我们关门大吉。）
+  - The online shopping platform put many traditional stores out of business.（网购平台让许多传统店铺倒闭了。）
+  - ⚠️ put sb. out of business = 使某人破产、让某人做不成生意；put out of business = 停业、倒闭；类似表达：go bankrupt（破产）、go out of business（停业）、drive sb. out of business
+
+- as long ago as 早在……；远在……
+  - As long ago as the 1950s, scientists predicted climate change.（早在20世纪50年代，科学家们就预言了气候变化。）
+  - I met him as long ago as 2010, when we were both in college.（我早在2010年就认识他了，那时候我们还在上大学。）
+  - As long ago as the 19th century, people experimented with flying machines.（早在19世纪，人们就开始试验飞行器了。）
+  - ⚠️ as long ago as = 早在……（强调时间之久远）；"as + adj. + ago as" 结构表示"早在……就……"；类似表达：as early as、as far back as；区别：as long ago as 更强调时间跨度长
+
+- make the remarkable discovery that + 句子 取得了惊人的发现……；有一个了不起的发现……
+  - Scientists made the remarkable discovery that the planet has water on its surface.（科学家们有了惊人的发现：这颗行星表面有水。）
+  - Researchers made the remarkable discovery that bees can recognize human faces.（研究人员取得了了不起的发现：蜜蜂能识别人脸。）
+  - He made the remarkable discovery that the old painting was actually a Picasso.（他有了惊人的发现：这幅旧画实际上是毕加索的作品。）
+  - ⚠️ make a discovery = 做出发现；remarkable = 非凡的、显著的、惊人的；make the remarkable discovery that = 做出……的惊人发现；that 引导同位语从句，说明 discovery 的内容；类似表达：make the surprising finding that
+
+- would rather do sth. than do sth. 宁愿做某事也不愿做某事
+  - I would rather stay at home than go to that boring party.（我宁愿待在家里也不愿去参加那个无聊的聚会。）
+  - She would rather walk than take the bus on a nice day.（天气好的时候，她宁愿走路也不愿坐公交车。）
+  - He said he would rather die than betray his friends.（他说他宁死也不背叛朋友。）
+  - ⚠️ would rather do A than do B = 宁愿做A也不愿做B；would rather 后接动词原形；than 后也接动词原形（省略 to）；注意：would rather that 从句用虚拟语气（过去式表现在/将来，had done表过去）；缩写：'d rather
+
+- make a name for himself 成名；出名
+  - He made a name for himself as a young painter in Paris.（他作为年轻画家在巴黎成名了。）
+  - She made a name for herself in the music industry with her first album.（她凭借第一张专辑在音乐界一举成名。）
+  - The young scientist made a name for himself by solving the long-standing problem.（这位年轻科学家通过解决这个长期存在的问题而成名。）
+  - ⚠️ make a name for oneself = 成名、出名、让自己出名；name = 名声、名望；类似表达：become famous、rise to fame、make one's mark on；也可以说 make a name for herself/yourself/themselves
+
+- come to do sth. 逐渐做某事；开始做某事（表示一个渐变的过程）
+  - I came to understand why she had made that decision.（我渐渐明白了她为什么做了那个决定。）
+  - Over the years, she came to love the small town.（随着时间的推移，她渐渐爱上了那个小镇。）
+  - People came to realize the importance of protecting the environment.（人们逐渐意识到了保护环境的重要性。）
+  - ⚠️ come to do sth. = 逐渐开始做某事，强调变化过程；表示"经过一段时间后终于……"；类似表达：get to do sth.、gradually begin to；区别：come to 更书面、更强调结果的转变
+
+- a. be known to b. as c. A作为C被B所知；B知道A是C
+  - He is known to everyone as a great scientist.（他作为一名伟大的科学家而广为人知。）
+  - The city is known to tourists as a romantic destination.（这座城市作为浪漫胜地被游客所熟知。）
+  - She is known to her colleagues as a very hard-working person.（她的同事们都知道她是个非常勤奋的人。）
+  - ⚠️ be known to sb. as sth. = 作为……被某人所知；to 后接"知道的主体"，as 后接"身份/角色"；类似表达：be famous to sb. as、be recognized by sb. as
+
+- a. be known as b. A被称为B；A以B而闻名
+  - He is known as the father of modern physics.（他被称为现代物理学之父。）
+  - This area is known as the Silicon Valley of China.（这个地区被誉为中国的硅谷。）
+  - She is known as one of the best singers of her generation.（她被认为是她那一代最好的歌手之一。）
+  - ⚠️ be known as = 被称为、以……而闻名；as 后接身份、称号、角色；区别：be known for = 因……而闻名（后接原因）；be known to = 为……所知（后接知道的对象）；be known as = 作为……而闻名（后接身份）
+
+- be at war with … 与……处于交战状态；与……不和
+  - The two countries were at war with each other for five years.（这两个国家互相交战了五年。）
+  - He seems to be at war with everyone around him.（他似乎和身边的每个人都合不来。）
+  - For centuries, the two tribes were at war with one another.（几个世纪以来，这两个部落一直处于交战状态。）
+  - ⚠️ be at war with = 与……处于战争状态；也可引申为"与……不和、与……斗争"；at war = 在交战中（状态）；反义词：be at peace with（与……和平相处）；类似表达：be in conflict with
+
+- In times of peace 在和平时期
+  - In times of peace, people focus on economic development.（在和平时期，人们专注于经济发展。）
+  - The city prospers in times of peace but suffers during wars.（这座城市在和平时期繁荣，在战争时期受难。）
+  - Soldiers continue to train even in times of peace.（即使在和平时期，士兵们也继续训练。）
+  - ⚠️ in times of peace = 在和平时期；in times of war = 在战争时期；in times of crisis = 在危机时期；in times of difficulty = 在困难时期；类似表达：in peacetime、during peaceful times
+
+- offer to do sth. 主动提出做某事
+  - He offered to help me with my homework.（他主动提出帮我做作业。）
+  - She offered to drive us to the airport.（她主动提出开车送我们去机场。）
+  - They offered to pay for the meal as a birthday gift.（他们主动提出请客吃饭当作生日礼物。）
+  - ⚠️ offer to do sth. = 主动提出做某事；offer sb. sth. = 给某人提供某物；offer sth. to sb. = 把某物提供给某人；注意：offer 后接不定式（to do），不接动名词；类似表达：volunteer to do sth.
+
+- make money 赚钱；挣钱
+  - He makes a lot of money by selling his paintings online.（他通过在网上卖画赚了很多钱。）
+  - Many young people want to make money quickly by starting their own business.（许多年轻人想通过创业快速赚钱。）
+  - She made enough money to buy a house by the time she was 30.（她30岁时就赚够了买房子的钱。）
+  - ⚠️ make money = 赚钱、挣钱；make a lot of money = 赚大钱；make money online = 网上赚钱；类似表达：earn money、make a living（谋生）；注意：make money 更口语，earn money 更正式，强调"通过劳动/努力赚取"
+
+- regard a. as b. 把A看作B；认为A是B
+  - We regard him as one of the best players on the team.（我们把他看作队里最好的球员之一。）
+  - Many people regard the Great Wall as a symbol of China.（许多人把长城看作中国的象征。）
+  - She is widely regarded as the most talented writer of her generation.（她被广泛认为是她那一代最有才华的作家。）
+  - ⚠️ regard A as B = 把A看作B；被动式 be regarded as = 被视为、被认为是；as 后可接名词或形容词；类似表达：consider A as B、look on A as B、think of A as B；注意：as 后不接 to do
