@@ -1106,3 +1106,87 @@
   - Many people regard the Great Wall as a symbol of China.（许多人把长城看作中国的象征。）
   - She is widely regarded as the most talented writer of her generation.（她被广泛认为是她那一代最有才华的作家。）
   - ⚠️ regard A as B = 把A看作B；被动式 be regarded as = 被视为、被认为是；as 后可接名词或形容词；类似表达：consider A as B、look on A as B、think of A as B；注意：as 后不接 to do
+
+- I appreciate your honesty/understanding/interest/concern/support/patience/trust/time/help/it/that... 我很感激你的诚实/理解/兴趣/关心/支持/耐心/信任/时间/帮助/这件事/……
+  - I really appreciate your help with the project.（我非常感谢你在这个项目上给予的帮助。）
+  - I appreciate your patience while I figure this out.（感谢你在我解决问题期间的耐心。）
+  - I'd appreciate it if you could let me know in advance.（如果你能提前告知我，我将不胜感激。）
+  - ⚠️ appreciate = 感激、欣赏；I appreciate your + n. = 我很感谢你的……；常用搭配：appreciate your help/support/understanding/time；特别注意：appreciate it if... 中 it 不能省略（形式宾语）；不用 I appreciate you to do
+
+- supply of ……的供应；……的供给
+  - We have a good supply of food for the winter.（我们有充足的冬季食物供应。）
+  - The country's supply of oil depends on imports.（该国的石油供应依赖进口。）
+  - There is a limited supply of tickets available for the concert.（这场音乐会的门票数量有限。）
+  - ⚠️ supply = 供应、供给（名词和动词通用）；a supply of = 一定量的……；a good/large supply of = 大量的……；in short supply = 供应不足；water supply = 供水；power supply = 供电
+
+- go a long way 大有帮助；意义重大；走了很远的路
+  - A little kindness can go a long way in making someone's day better.（一点点善意就能让别人的一天变得更好，作用很大。）
+  - Her encouragement went a long way toward helping me finish the project.（她的鼓励对我完成项目帮助很大。）
+  - Saving even a small amount of money each month goes a long way.（每个月即使只存一点钱，日积月累也很可观。）
+  - ⚠️ go a long way = 有很大作用、大有帮助（引申义最常用）；字面义"走了很长的路"；go a long way toward(s) doing sth. = 对做某事大有帮助；类似表达：make a big difference、help a lot
+
+- be exchanged for sth. / exchange a. for b. 被换成……；用A交换B
+  - The old phone can be exchanged for a discount on a new one.（旧手机可以折价换新机。）
+  - He exchanged his old car for a new motorcycle.（他把旧车换成了一辆新摩托车。）
+  - You can exchange the shirt for a different size if it doesn't fit.（如果衬衫不合身，你可以换个尺码。）
+  - ⚠️ exchange = 交换、兑换；exchange A for B = 用A换B；be exchanged for = 被换成……；也可作名词：in exchange for = 作为交换；类似表达：swap A for B（更口语）、trade A for B
+
+- fill up sth. 填满；装满；加满（油）
+  - Please fill up the tank with gasoline before you return the car.（还车前请把油箱加满。）
+  - She filled up the bottle with water from the tap.（她把瓶子装满了自来水。）
+  - The restaurant filled up quickly after 7 o'clock.（七点过后，餐厅很快就坐满了人。）
+  - ⚠️ fill up = 填满、装满；fill sth. up with sth. = 用……把……装满；fill up 也可以表示"吃饱、吃撑"；美式英语中 fill up the tank = 加满油（英式用 fill the tank up 或 brim the tank）；类似表达：fill out（填写、长胖）、fill in（填写、填补）
+
+- find one's way… 找到路；摸索着前进；自然地到达
+  - She found her way back to the hotel using her phone's GPS.（她用手机导航找到了回酒店的路。）
+  - After a few wrong turns, he finally found his way to the museum.（转错了几个弯之后，他终于找到了去博物馆的路。）
+  - Children often find their way into trouble when no one is watching.（没人看管时，孩子们往往会不自觉地惹上麻烦。）
+  - ⚠️ find one's way (to) = 找到路、设法到达；find one's way around = 熟悉环境、认路；也可引申为"自然地进入、不知不觉地陷入"；类似表达：make one's way to（前往）、navigate one's way
+
+- advise sb. to do sth. 建议某人做某事
+  - The doctor advised me to get more rest and drink more water.（医生建议我多休息、多喝水。）
+  - I advise you to think carefully before making a decision.（我建议你做决定前仔细考虑一下。）
+  - She advised her son not to spend too much time playing video games.（她建议儿子不要花太多时间玩电子游戏。）
+  - ⚠️ advise = 建议（动词）；advise sb. to do sth. = 建议某人做某事；advise doing sth. = 建议做某事（不接 sb. 时）；名词是 advice（不可数）；a piece of advice = 一条建议；注意发音：advise /ədˈvaɪz/（动）vs advice /ədˈvaɪs/（名）
+
+- On one's way to sw. 在去某地的路上
+  - On my way to work, I usually stop for a cup of coffee.（我在上班的路上通常会停下来买杯咖啡。）
+  - He was on his way to the library when he met an old friend.（他在去图书馆的路上遇到了一位老朋友。）
+  - On our way to the airport, we got stuck in a traffic jam.（我们在去机场的路上遭遇了堵车。）
+  - ⚠️ on one's way to + 地点 = 在去……的路上；on the way = 在路上、途中；home/there/here 等副词前省略 to：on my way home（在我回家的路上）；类似表达：on the road to、en route to（法语，较正式）
+
+- roll up one's sleeves 卷起袖子；准备动手干
+  - We rolled up our sleeves and started cleaning the house.（我们卷起袖子，开始打扫房子。）
+  - If we want to finish on time, we'd better roll up our sleeves and get to work.（如果想按时完成，我们最好卷起袖子开干。）
+  - He rolled up his sleeves and got ready to cook dinner.（他卷起袖子，准备做晚饭。）
+  - ⚠️ roll up one's sleeves = 卷起袖子（字面）；引申义"准备大干一场、着手认真干"；类似表达：get down to work、dig in、set to work；口语中很常用，表示"准备开始努力工作"
+
+- What is more = what's more 而且；更重要的是；此外
+  - She's a great teacher, and what's more, she's a wonderful person.（她是一位好老师，而且她人也非常好。）
+  - The house is big and beautiful. What is more, it's close to the city center.（这房子又大又漂亮。而且，它离市中心很近。）
+  - What's more, he didn't even apologize for being late.（更过分的是，他迟到了甚至都不道歉。）
+  - ⚠️ what is more = what's more = 而且、更有甚者、此外；用于补充信息，语气比 and 或 also 更强；类似表达：moreover、furthermore、in addition、besides；写作和口语中都常用
+
+- rub a. with b. 用B擦/揉A
+  - She rubbed her face with a cold towel to wake herself up.（她用冷毛巾擦脸来让自己清醒。）
+  - He rubbed his sore shoulder with his hand.（他用手揉着酸痛的肩膀。）
+  - The recipe says to rub the meat with salt and pepper before cooking.（食谱上说烹饪前要用盐和胡椒搓肉。）
+  - ⚠️ rub = 擦、摩擦、揉；rub A with B = 用B擦/揉A；也可以说 rub B on/onto A；常见搭配：rub one's eyes（揉眼睛）、rub one's hands（搓手）；rub it in = 反复提及令人难堪的事（俚语）
+
+- a special type of sth. 一种特殊类型的某物
+  - This is a special type of flower that only grows in the mountains.（这是一种只生长在山上的特殊花卉。）
+  - The doctor prescribed a special type of medicine for her condition.（医生为她的病情开了一种特殊的药。）
+  - Penguins are a special type of bird that can't fly.（企鹅是一种特殊的不会飞的鸟。）
+  - ⚠️ a type of = 一种；a special type of = 一种特殊类型的；type = 类型、种类；类似表达：a special kind of、a particular type of、a unique type of；常见搭配：different types of（不同种类的）、various types of（各种类型的）
+
+- hear about sth. 听说；得知（某事）
+  - I was sorry to hear about your father's illness.（听说你父亲生病了，我很难过。）
+  - Have you heard about the new restaurant that opened downtown?（你听说市中心新开的那家餐厅了吗？）
+  - We first heard about the news from a friend.（我们最初是从一个朋友那里得知这个消息的。）
+  - ⚠️ hear about = 听说、得知（关于某事的消息）；hear of = 听说（知道某人/某物的存在）；hear from = 收到……的来信/消息；hear sb. do/doing = 听到某人做/正在做某事；注意区分：hear about（听说详情）vs hear of（只知道有这么回事）
+
+- reward sb. with sth. 用某物奖励/报答某人
+  - The boss rewarded the team with a big bonus for their hard work.（老板用丰厚的奖金奖励团队的辛勤工作。）
+  - She rewarded her son with a new toy for getting good grades.（她用一个新玩具奖励儿子取得了好成绩。）
+  - The company rewarded him with a promotion for his excellent performance.（公司因为他出色的表现而提拔了他作为奖励。）
+  - ⚠️ reward = 奖励、报答（动词/名词）；reward sb. with sth. = 用某物奖励某人；reward sb. for (doing) sth. = 因（做）某事奖励某人；区别：reward（奖励，回报）vs award（颁发，授予）；reward 侧重"回报"，award 侧重"正式颁发"
