@@ -1119,11 +1119,16 @@
   - There is a limited supply of tickets available for the concert.（这场音乐会的门票数量有限。）
   - ⚠️ supply = 供应、供给（名词和动词通用）；a supply of = 一定量的……；a good/large supply of = 大量的……；in short supply = 供应不足；water supply = 供水；power supply = 供电
 
-- go a long way 大有帮助；意义重大；走了很远的路
+- go a long way （钱/食物）够用很久；大有帮助；取得很大成就
   - A little kindness can go a long way in making someone's day better.（一点点善意就能让别人的一天变得更好，作用很大。）
   - Her encouragement went a long way toward helping me finish the project.（她的鼓励对我完成项目帮助很大。）
-  - Saving even a small amount of money each month goes a long way.（每个月即使只存一点钱，日积月累也很可观。）
-  - ⚠️ go a long way = 有很大作用、大有帮助（引申义最常用）；字面义"走了很长的路"；go a long way toward(s) doing sth. = 对做某事大有帮助；类似表达：make a big difference、help a lot
+  - Even a small amount of rice goes a long way when you're feeding a big family.（要养活一大家子人的时候，即使一小袋米也能用很久。）
+  - He has come a long way since he started his business five years ago.（从五年前创业到现在，他已经取得了很大的成就。）
+  - ⚠️ 多义短语，核心用法有三种：
+    1. **（钱、食物等）够用很久、很经用** — 主语通常是 money, food, supplies 等，指"能维持很长时间"
+    2. **大有帮助、作用很大** — 最常用的引申义，指某事物对……有很大作用；后接 toward(s) doing sth.
+    3. **取得很大成就、有很大进展** — 常说 come a long way = 一路走来有很大进步/成就
+    类似表达：make a big difference、help a lot；last a long time；achieve a great deal
 
 - be exchanged for sth. / exchange a. for b. 被换成……；用A交换B
   - The old phone can be exchanged for a discount on a new one.（旧手机可以折价换新机。）
