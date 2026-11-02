@@ -1195,3 +1195,69 @@
   - She rewarded her son with a new toy for getting good grades.（她用一个新玩具奖励儿子取得了好成绩。）
   - The company rewarded him with a promotion for his excellent performance.（公司因为他出色的表现而提拔了他作为奖励。）
   - ⚠️ reward = 奖励、报答（动词/名词）；reward sb. with sth. = 用某物奖励某人；reward sb. for (doing) sth. = 因（做）某事奖励某人；区别：reward（奖励，回报）vs award（颁发，授予）；reward 侧重"回报"，award 侧重"正式颁发"
+
+- prize money 奖金；奖金总额
+  - The winner of the competition will receive $10,000 in prize money.（比赛的获胜者将获得一万美元的奖金。）
+  - She donated all her prize money to charity.（她把所有奖金都捐给了慈善机构。）
+  - The total prize money for the tournament is over one million dollars.（这场锦标赛的总奖金超过一百万美元。）
+  - ⚠️ prize money = 奖金（尤指比赛、竞赛中赢得的钱）；prize = 奖品、奖金、奖赏；prize winner = 获奖者；first prize = 一等奖；类似表达：cash prize（现金奖励）、award money（奖金，更正式）
+
+- tie sb. to sth. / sb. be tied to sth. 把某人束缚在……上；使某人离不开……
+  - He doesn't want children because he doesn't want to be tied to a family.（他不想要孩子，因为他不想被家庭束缚。）
+  - She's tied to her desk from morning till night with all this work.（工作太忙，她从早到晚都离不开办公桌。）
+  - The little boy tied his dog to the tree before going into the shop.（小男孩进商店前把狗拴在了树上。）
+  - ⚠️ tie = 绑、系、束缚；tie sb. to sth.（主动）= 把某人拴在/束缚在……上；sb. be tied to sth.（被动）= 某人被束缚在……上、离不开……；既可表示物理上的"拴住"，也可表示抽象的"束缚、牵绊"；类似表达：be bound to、be stuck with
+
+- accuse sb. of doing sth. 指责/控告某人做了某事
+  - She accused him of lying about his age.（她指责他谎报年龄。）
+  - The police accused him of stealing the money.（警方指控他偷了那笔钱。）
+  - He was accused of cheating in the exam and got suspended.（他被指控考试作弊，被停学了。）
+  - ⚠️ accuse sb. of (doing) sth. = 指责/控告某人（做）某事；accusation = 指控、指责（名词）；the accused = 被告（法律）；注意搭配介词是 of，不是 for；类似表达：charge sb. with（更正式，法律上的"指控"）、blame sb. for（责备，语气较轻）
+
+- deny doing ... / sb. deny that + 句子 否认做过某事；某人否认……
+  - He denied breaking the window and said someone else did it.（他否认打破了窗户，说是别人干的。）
+  - She denied that she had stolen the ring from the store.（她否认从商店偷了戒指。）
+  - The politician denied any involvement in the scandal.（这位政客否认与这起丑闻有任何牵连。）
+  - ⚠️ deny = 否认、拒绝承认；后接动名词（deny doing sth.）或 that 从句；不能接不定式（不能说 deny to do）；过去式/过去分词：denied；名词：denial；反义词：admit（承认）
+
+- be ashamed of sth. / doing sth. / having done sth. 为……感到羞愧/羞耻
+  - I'm ashamed of having lied to my parents.（我为对父母撒谎而感到羞愧。）
+  - She was ashamed of her behavior at the party last night.（她为自己昨晚在派对上的行为感到羞愧。）
+  - You should be ashamed of yourself for talking to your mother like that.（你那样跟你妈妈说话，应该感到羞耻。）
+  - ⚠️ ashamed = 羞愧的、羞耻的；be ashamed of sth./doing sth. = 为……感到羞愧；be ashamed to do sth. = 羞于做某事；区别：ashamed（感到羞愧，表语形容词，不能放在名词前）vs shameful（可耻的，可作定语，修饰事物）；shame = 羞耻（名词）
+
+- apologize to sb. 向某人道歉
+  - You should apologize to her for being so rude.（你应该为你的粗鲁向她道歉。）
+  - He went to her house to apologize to her face to face.（他去她家，想当面跟她道歉。）
+  - I want to apologize to everyone for my mistake.（我想为我的错误向大家道歉。）
+  - ⚠️ apologize to sb. = 向某人道歉；apologize to sb. for (doing) sth. = 因（做）某事向某人道歉；apology = 道歉（名词）；make an apology to sb. = 向某人道歉；注意：apologize 是不及物动词，不能直接接宾语
+
+- apologize for (doing) something 为（做）某事而道歉
+  - I apologize for being late—there was a traffic jam.（很抱歉我迟到了——路上堵车了。）
+  - She apologized for forgetting his birthday.（她为忘了他的生日而道歉。）
+  - We apologize for the inconvenience caused by the delay.（对于延误造成的不便，我们深表歉意。）
+  - ⚠️ apologize for (doing) sth. = 为（做）某事道歉；后接名词或动名词；商业/正式场合常用 We apologize for...；类似表达：make an apology for、say sorry for
+
+- dye something + adj. 把某物染成……颜色
+  - She dyed her hair blonde when she was a teenager.（她十几岁时把头发染成了金色。）
+  - He dyed his shirt blue by accident when he was doing laundry.（他洗衣服时不小心把衬衫染成了蓝色。）
+  - Many old people dye their hair black to look younger.（很多老人把头发染黑来看起来更年轻。）
+  - ⚠️ dye = 染色、染（动词）；染料（名词）；dye sth. + 颜色形容词 = 把某物染成……颜色；过去式/过去分词：dyed；注意拼写：dye（染色）vs die（死亡），两者读音相同 /daɪ/
+
+- tell sb. about sth. 告诉某人关于某事的情况
+  - She told me about her trip to Japan.（她跟我讲了她去日本旅行的情况。）
+  - Can you tell me about the job requirements?（你能跟我说说这份工作的要求吗？）
+  - He told us all about his adventure in the mountains.（他跟我们讲了他在山里的全部冒险经历。）
+  - ⚠️ tell sb. about sth. = 告诉某人关于某事的情况（讲述详情）；区别：tell sb. sth. = 告诉某人某事（直接双宾语）；tell sb. about sth. = 告诉某人关于某事（关于某方面的情况）；常见搭配：tell me about it（说说吧，我听听）
+
+- It's true that + 句子, but + 句子 确实……，但是……
+  - It's true that he's very smart, but he's also really lazy.（他确实很聪明，但也真的很懒。）
+  - It's true that the job is well-paid, but it's also very stressful.（这份工作薪水确实很高，但压力也很大。）
+  - It's true that she made a mistake, but you shouldn't blame her too much.（她确实犯了错，但你也不应该太责怪她。）
+  - ⚠️ It's true that..., but... = 诚然……但是……、的确……不过……；先承认事实，再转折引出不同的观点；常用于辩论、讨论中表示让步转折；类似表达：Admittedly, ... but ...、While it's true that ...、True, ... but ...
+
+- be astonished to find (that) + 句子 惊讶地发现……
+  - I was astonished to find that he had already finished the whole project by himself.（我惊讶地发现他竟然一个人完成了整个项目。）
+  - She was astonished to find her lost wallet sitting on her desk.（她惊讶地发现丢失的钱包竟然在她桌上。）
+  - Scientists were astonished to find that the fish could survive in such cold water.（科学家们惊讶地发现这种鱼竟然能在这么冷的水里生存。）
+  - ⚠️ astonished = 惊讶的、吃惊的（程度比 surprised 更强）；be astonished to do sth. = 惊讶地做某事；be astonished that + 从句 = 对……感到惊讶；astonishing = 令人惊讶的（修饰事物）；astonishment = 惊讶（名词）；类似表达：be surprised to find（较普通）、be shocked to find（程度更强，震惊）
