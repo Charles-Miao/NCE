@@ -1261,3 +1261,123 @@
   - She was astonished to find her lost wallet sitting on her desk.（她惊讶地发现丢失的钱包竟然在她桌上。）
   - Scientists were astonished to find that the fish could survive in such cold water.（科学家们惊讶地发现这种鱼竟然能在这么冷的水里生存。）
   - ⚠️ astonished = 惊讶的、吃惊的（程度比 surprised 更强）；be astonished to do sth. = 惊讶地做某事；be astonished that + 从句 = 对……感到惊讶；astonishing = 令人惊讶的（修饰事物）；astonishment = 惊讶（名词）；类似表达：be surprised to find（较普通）、be shocked to find（程度更强，震惊）
+
+- agreeable/pleasant + situation/man/day 令人愉快的/宜人的 情形/人/日子
+  - We spent an agreeable evening chatting by the fireplace.（我们在壁炉旁聊天，度过了一个愉快的夜晚。）
+  - He's an agreeable person to work with—always friendly and cooperative.（他是个很好共事的人——总是友好又配合。）
+  - The weather was pleasant, so we decided to have a picnic in the park.（天气宜人，所以我们决定去公园野餐。）
+  - ⚠️ agreeable = 令人愉快的、宜人的、欣然同意的；pleasant = 令人愉快的、舒适的（更口语常用）；两词都可修饰天气、日子、人、经历等；区别：agreeable 偏书面、偏"符合心意的"；pleasant 偏口语、偏"让人开心的"
+
+- be located in/near 位于……/靠近……
+  - The museum is located in the center of the city.（博物馆位于市中心。）
+  - Our new house is located near the subway station, so it's very convenient.（我们的新房子靠近地铁站，非常方便。）
+  - The small village is located at the foot of the mountain.（那个小村庄坐落在山脚下。）
+  - ⚠️ be located in = 位于……里面/某个区域；be located on = 位于……（平面/河畔/岛屿等）；be located near = 位于……附近；be located at = 位于（具体地点）；locate = 坐落于、找到……的位置；类似表达：be situated in/on/near、lie in/on/to
+
+- a span of 一段（时间/跨度）
+  - The bridge has a span of over 2 kilometers.（这座桥的跨度超过两公里。）
+  - A span of ten years has passed since we first met.（自从我们第一次见面，已经过去了十年。）
+  - The project was completed within a span of six months.（这个项目在六个月的时间内完成了。）
+  - ⚠️ span = 跨度、一段时间（名词）；也可作动词 = 跨越、持续；a span of + 时间 = 一段……的时间；a span of + 距离 = ……的跨度；life span = 寿命（见下一条）
+
+- life span 寿命；生命周期
+  - The average life span of humans has increased greatly in the past century.（在过去的一个世纪里，人类的平均寿命大大增长了。）
+  - The life span of a butterfly is only a few weeks.（蝴蝶的寿命只有几个星期。）
+  - Good diet and exercise can help extend your life span.（良好的饮食和运动有助于延长寿命。）
+  - ⚠️ life span = 寿命、生命周期；也可拼作 lifespan（一个词）；可指人、动物、产品、机构等的"寿命/使用期"；类似表达：life expectancy（预期寿命，更专业）、lifetime（一生、终身）
+
+- a length of / lengths of + rope/pipe/wire 一段/几段（绳子/管子/电线）
+  - We need a length of rope to tie the package.（我们需要一段绳子来捆包裹。）
+  - The workers bought several lengths of pipe for the construction project.（工人们为建筑工程买了好几段管子。）
+  - He cut a length of wire to fix the broken fence.（他剪了一段电线来修理坏了的栅栏。）
+  - ⚠️ a length of = 一段（细长的东西，如绳子、管子、电线、布料等）；lengths of = 几段；length = 长度、一段；区别：a piece of 更通用，a length of 特指"长条状的一段"
+
+- It is estimated that + 句子 据估计……
+  - It is estimated that over 8 million people visit the Great Wall every year.（据估计每年有超过800万人游览长城。）
+  - It is estimated that the project will cost more than 10 million dollars.（据估计这个项目将花费超过一千万美元。）
+  - It is estimated that thousands of species go extinct every year.（据估计每年有数千个物种灭绝。）
+  - ⚠️ It is estimated that... = 据估计……；it 是形式主语，真正的主语是 that 从句；类似结构：It is said that（据说）、It is believed that（据信）、It is reported that（据报道）
+
+- sb. estimate that + 句子 某人估计……
+  - Scientists estimate that the universe is about 13.8 billion years old.（科学家们估计宇宙大约有138亿年的历史。）
+  - The police estimate that the crowd was over 10,000 people.（警方估计人群超过一万人。）
+  - I estimate that we'll finish the work by the end of next week.（我估计我们下周末之前能完成工作。）
+  - ⚠️ estimate = 估计、估算（动词/名词）；estimate that + 从句 = 估计……；estimate sth. at + 数量 = 估计某物为……；at a rough estimate = 据粗略估计；estimation = 估计、判断（名词）
+
+- Little / not much / not everything is known about a. 对……知之甚少/了解不多/并非一切都已知
+  - Little is known about the deep-sea creatures that live in the darkest parts of the ocean.（人们对生活在海洋最深处的深海生物知之甚少。）
+  - Not much is known about the writer's early life—she kept very private.（人们对这位作家的早年生活了解不多——她非常注重隐私。）
+  - Not everything is known about how the brain works, even with modern science.（即使有了现代科学，人们对大脑如何工作也并非完全了解。）
+  - ⚠️ 被动结构：little is known about = 对……几乎一无所知；not much is known about = 对……了解不多；not everything is known about = 对……并非全知；都是学术/科普文章常用句型，强调"某事物的未知性"
+
+- describe a. as b. 把A描述成B；形容A是B
+  - Witnesses described the suspect as a tall man in his thirties.（目击者形容嫌疑犯是个三十多岁的高个子男人。）
+  - She described the trip as the most amazing experience of her life.（她把这次旅行描述为她一生中最奇妙的经历。）
+  - The book is often described as a classic of modern literature.（这本书常被称为现代文学的经典之作。）
+  - ⚠️ describe A as B = 把A描述为B；as 后接名词或形容词；被动式 be described as = 被描述为；description = 描述（名词）；beyond description = 无法形容
+
+- in the midst of 在……中间；在……之中
+  - The city is in the midst of a major construction project.（这座城市正处于一个大型建设项目的中间阶段。）
+  - In the midst of the storm, the small boat managed to reach the shore safely.（在暴风雨中，小船设法安全抵达了岸边。）
+  - He found the letter in the midst of a pile of old papers.（他在一堆旧文件中间找到了那封信。）
+  - ⚠️ in the midst of = 在……中间、在……之中；既可指位置上的中间，也可指时间/过程的中间；midst = 中间、当中（名词，较书面）；类似表达：in the middle of、in the middle of（更口语）、amid（更书面）
+
+- by no means 绝不；一点也不；根本不
+  - She is by no means lazy—in fact, she works harder than anyone else.（她一点也不懒——事实上，她比任何人都努力。）
+  - This is by no means the end of the problem—it's just the beginning.（这绝不是问题的结束——这只是开始。）
+  - By no means should you give up when facing difficulties.（遇到困难时你绝不能放弃。）
+  - ⚠️ by no means = 绝不、一点也不（语气较强的否定短语）；放在句首时句子要部分倒装（By no means should you...）；类似表达：not at all、in no way、on no account、by no stretch of the imagination
+
+- be considered to be adj./n. 被认为是……
+  - He is considered to be one of the greatest scientists of our time.（他被认为是我们这个时代最伟大的科学家之一。）
+  - The city is considered to be the cultural center of the country.（这座城市被认为是该国的文化中心。）
+  - This painting is considered to be worth millions of dollars.（这幅画被认为价值数百万美元。）
+  - ⚠️ be considered to be = 被认为是……；也可以省略 to be：be considered + adj./n.；consider sb./sth. to be = 认为某人/某物是……；类似表达：be regarded as、be seen as、be thought of as
+
+- sth. be named after sb. 某物以某人的名字命名
+  - The school was named after its founder, Mr. Smith.（这所学校以其创始人史密斯先生的名字命名。）
+  - Many streets in the city are named after famous historical figures.（这座城市的许多街道都是以著名历史人物命名的。）
+  - The new element was named after the scientist who discovered it.（这种新元素以发现它的科学家的名字命名。）
+  - ⚠️ be named after = 以……命名；name A after B = 以B命名A；也可以说 be named for sb.（美式英语，较少用）；name = 名字、命名（动词/名词）
+
+- join a. to b. = connect a. to b. 把A连接到B
+  - The new bridge joins the island to the mainland.（新桥把岛屿和大陆连接了起来。）
+  - We need to join the computer to the printer with this cable.（我们需要用这根线把电脑和打印机连起来。）
+  - The railway line connects Beijing to Shanghai.（这条铁路线连接北京和上海。）
+  - ⚠️ join A to B = 把A连到B上；connect A to B = 连接A和B（更常用）；join 侧重"连接使成为一体"，connect 更通用；也可以说 join A and B together、connect A with B
+
+- be taken into account = take sth. into account 被考虑到；把某事考虑进去
+  - When grading the exam, effort will be taken into account as well as results.（评分时，努力程度和结果都会被考虑进去。）
+  - You need to take the cost into account before making a decision.（做决定前你需要把成本考虑进去。）
+  - Safety concerns must be taken into account when designing the machine.（设计这台机器时必须考虑到安全问题。）
+  - ⚠️ take sth. into account = 把某事考虑进去；被动式 sth. be taken into account = 某事被考虑到；类似表达：take into consideration、consider、allow for；account = 账户、考虑、描述
+
+- a height of ……的高度
+  - The mountain has a height of over 8,000 meters above sea level.（这座山的海拔高度超过8000米。）
+  - The building reaches a height of 120 stories.（这栋大楼高达120层。）
+  - The tree grew to a height of over 30 meters.（这棵树长到了30多米高。）
+  - ⚠️ a height of = ……的高度；height = 高度、身高；in height = 在高度上；high = 高的（形容词）；类似结构：a length of（……的长度）、a width of（……的宽度）、a depth of（……的深度）
+
+- be suspended from a. 从A悬挂下来/暂停
+  - The chandelier was suspended from the ceiling by a thick chain.（那盏吊灯用一根粗链子从天花板上悬挂下来。）
+  - The bridge is suspended from two massive towers on either side of the river.（这座桥由河两岸的两座巨大桥塔悬吊着。）
+  - He was suspended from school for fighting.（他因为打架被学校停学了。）
+  - ⚠️ 多义短语：① 悬挂、悬吊（物体） ② 暂停、停职、停学（人）；suspend = 悬挂、暂停（动词）；suspension = 悬浮、暂停（名词）；suspension bridge = 悬索桥
+
+- be packed with... 挤满了；装满了；充满了
+  - The train was packed with passengers during the holiday season.（节假日期间，火车上挤满了乘客。）
+  - Her book is packed with useful information about gardening.（她的书里充满了关于园艺的实用信息。）
+  - The suitcase was packed with clothes for the long trip.（行李箱里装满了长途旅行的衣服。）
+  - ⚠️ be packed with = 挤满了、充满了；pack = 打包、塞满；packed 作形容词 = 挤满的、充满的；类似表达：be filled with、be crowded with、be full of；be packed with 强调"塞得满满的"
+
+- a third of sth. 三分之一
+  - Only a third of the students passed the difficult exam.（只有三分之一的学生通过了这次难考。）
+  - About a third of the population lives below the poverty line.（大约三分之一的人口生活在贫困线以下。）
+  - A third of the cake has already been eaten.（三分之一的蛋糕已经被吃掉了。）
+  - ⚠️ 分数表达法：分子用基数词，分母用序数词；分子大于1时分母加s：one third（1/3）、two thirds（2/3）；a third = one third = 三分之一；a third of + 名词作主语时，谓语动词单复数取决于名词
+
+- fulfill sb's dream 实现某人的梦想
+  - She worked hard for many years and finally fulfilled her dream of becoming a doctor.（她努力了很多年，终于实现了当医生的梦想。）
+  - Moving to Paris and studying art fulfilled his lifelong dream.（搬到巴黎学习艺术实现了他一生的梦想。）
+  - Winning the Olympic gold medal fulfilled her greatest dream.（赢得奥运金牌实现了她最大的梦想。）
+  - ⚠️ fulfill = 实现、履行、满足；fulfill one's dream = 实现某人的梦想；也可拼作 fulfil（英式）；类似表达：realize one's dream、make one's dream come true、achieve one's dream；fulfill a promise = 履行诺言
