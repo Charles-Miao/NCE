@@ -1381,3 +1381,105 @@
   - Moving to Paris and studying art fulfilled his lifelong dream.（搬到巴黎学习艺术实现了他一生的梦想。）
   - Winning the Olympic gold medal fulfilled her greatest dream.（赢得奥运金牌实现了她最大的梦想。）
   - ⚠️ fulfill = 实现、履行、满足；fulfill one's dream = 实现某人的梦想；也可拼作 fulfil（英式）；类似表达：realize one's dream、make one's dream come true、achieve one's dream；fulfill a promise = 履行诺言
+
+- make a sculpture / create a sculpture 创作雕塑；做一尊雕像
+  - The artist spent months making a sculpture of a horse out of bronze.（这位艺术家花了好几个月用青铜做了一尊马的雕塑。）
+  - She created a beautiful sculpture for the city's central park.（她为城市中央公园创作了一尊美丽的雕塑。）
+  - Michelangelo is famous for creating sculptures like David and the Pietà.（米开朗基罗因创作了《大卫》和《哀悼基督》等雕塑而闻名。）
+  - ⚠️ sculpture = 雕塑、雕像（名词）；做雕塑（动词）；make a sculpture = create a sculpture = 创作雕塑；sculptor = 雕塑家；carve a sculpture = 雕刻雕塑（强调用刻的方式）
+
+- be mistaken about sth./sb. 对某事/某人有错误的看法；弄错了
+  - You're mistaken about him—he's actually a very nice person.（你看错他了——他其实人很好。）
+  - I was mistaken about the time of the meeting, so I arrived an hour early.（我把会议时间搞错了，所以早到了一个小时。）
+  - Don't be mistaken about her intentions—she's only trying to help.（别误会她的用意——她只是想帮忙。）
+  - ⚠️ mistaken = 错误的、弄错的（形容词）；be mistaken about = 对……有误解/看错了；mistake = 错误（名词）；mistake A for B = 把A误认为B；类似表达：be wrong about、be incorrect about
+
+- Oddly enough, + 句子 说来奇怪；奇怪的是……
+  - Oddly enough, I was just thinking about you when you called.（说来也怪，你打电话的时候我正想着你呢。）
+  - Oddly enough, the more he tried to fix it, the worse it got.（说也奇怪，他越想修好它，情况越糟。）
+  - Oddly enough, she didn't seem surprised at all by the news.（奇怪的是，她对这个消息似乎一点都不惊讶。）
+  - ⚠️ oddly enough = 说来奇怪、奇怪的是；放在句首，用逗号隔开，作插入语；odd = 奇怪的、古怪的；类似表达：strangely enough、curiously enough、funnily enough；都表示"说也奇怪"
+
+- be attached to sb./sth. = attach a. to b. 依恋某人/某物；把A系在/附在B上
+  - She's very attached to her old teddy bear—she's had it since she was a baby.（她非常依恋她的旧泰迪熊——她从婴儿时期就有它了。）
+  - Please attach your resume to the email when you apply for the job.（申请工作时，请把简历附在邮件里。）
+  - The label is attached to the back of the product.（标签贴在产品的背面。）
+  - ⚠️ 两个意思：① 物理上"把A系/贴/附在B上"（attach A to B） ② 情感上"依恋、喜爱"（be attached to sb./sth.）；attachment = 依恋、附件（名词）；be deeply attached to = 深深依恋
+
+- get an electric shock 触电；受到电击
+  - He got an electric shock when he touched the broken wire.（他碰到断了的电线时触电了。）
+  - Be careful with that old radio—you could get an electric shock.（那台旧收音机要小心——你可能会触电。）
+  - She got a mild electric shock while fixing the light switch.（她修电灯开关时受到了轻微的电击。）
+  - ⚠️ get an electric shock = 触电、受到电击（强调"遭到、受到"的动作）；electric shock = 电击、触电；mild electric shock = 轻微电击；severe electric shock = 严重电击；electric = 电的、电动的
+
+- receive an electric shock 受到电击
+  - The worker received an electric shock while repairing the power line.（这名工人在修理电线时受到了电击。）
+  - If you touch the exposed wire, you will receive an electric shock.（如果你碰到裸露的电线，就会受到电击。）
+  - She received a severe electric shock and was taken to the hospital.（她遭受了严重的电击，被送进了医院。）
+  - ⚠️ receive an electric shock = 受到电击（比 get 更正式，常用于新闻、报告等）；receive 比 get 更书面、更正式；两者意思基本相同，语体不同
+
+- give you electric shocks 给你电击；使你触电
+  - Don't touch that machine—it could give you an electric shock.（别碰那台机器——它会让你触电的。）
+  - The faulty heater gave him an electric shock when he tried to turn it on.（他想打开那台有故障的取暖器时，被电了一下。）
+  - Some fences give electric shocks to keep animals from escaping.（有些围栏会放电，防止动物逃跑。）
+  - ⚠️ give sb. an electric shock = 使某人触电、给某人电击；主语通常是设备、电线等；也可以说 give sb. a shock（更口语，shock 可指电击也可指惊吓）
+
+- not any more = not any longer = no longer 不再
+  - I don't work there any more—I got a new job last month.（我不在那儿工作了——我上个月换了新工作。）
+  - She no longer lives in Paris—she moved to Berlin last year.（她不再住在巴黎了——她去年搬到了柏林。）
+  - He doesn't play basketball any longer because of his knee injury.（因为膝盖受伤，他不再打篮球了。）
+  - ⚠️ 三种表达意思相同：not...any more = not...any longer = no longer；no longer 放在句中（be动词后/实义动词前），更书面；not...any more/any longer 放在句末，更口语；注意 not any more 不要写成 anymore（美式英语中 anymore 也可接受）
+
+- The idea that + 句子 is mistaken. ……的想法/观点是错误的
+  - The idea that money can buy happiness is mistaken.（金钱能买到幸福的观点是错误的。）
+  - The idea that he was responsible for the accident turned out to be mistaken.（他对这起事故负有责任的想法被证明是错误的。）
+  - The idea that women are less intelligent than men is completely mistaken.（女性不如男性聪明的观点是完全错误的。）
+  - ⚠️ The idea that...is mistaken. = ……的想法是错误的；that 引导同位语从句，说明 idea 的内容；类似句型：The belief that...is wrong.、The notion that...is incorrect.；mistaken = 错误的（比 wrong 更正式）
+
+- take no interest in 对……不感兴趣
+  - He takes no interest in sports—he prefers reading books.（他对体育运动不感兴趣——他更喜欢读书。）
+  - My parents take no interest in my hobbies at all.（我父母对我的爱好一点也不感兴趣。）
+  - She takes no interest in fashion and wears whatever is comfortable.（她对时尚不感兴趣，什么舒服穿什么。）
+  - ⚠️ take no interest in = 对……毫无兴趣；类似表达：have no interest in、be not interested in；反义：take a great interest in（对……很感兴趣）、be interested in
+
+- in response to 作为对……的回应；响应
+  - The government introduced new laws in response to public pressure.（政府为了回应公众压力出台了新法律。）
+  - She said nothing in response to his question.（她对他的问题没有任何回应。）
+  - The company changed its policy in response to customer complaints.（公司为了回应客户投诉修改了政策。）
+  - ⚠️ in response to = 作为对……的回应、响应；response = 回应、反应（名词）；respond = 回应、回答（动词）；类似表达：in reaction to、as a response to；in answer to
+
+- be familiar to sb. 为某人所熟悉；对某人来说很熟悉
+  - The song is familiar to many people of my generation.（这首歌对我们这代人来说很熟悉。）
+  - His name is familiar to everyone in the small town.（在这个小镇上，他的名字人人都知道。）
+  - This type of problem is familiar to experienced engineers.（这种问题对有经验的工程师来说很熟悉。）
+  - ⚠️ be familiar to sb. = 为某人所熟悉（物作主语）；be familiar with sth. = 熟悉某事（人作主语）；区别：I am familiar with this song. = This song is familiar to me.；familiarize sb. with sth. = 使某人熟悉某物
+
+- go mad 发疯；疯狂；气得发疯
+  - If I have to wait another hour, I'll go mad.（要是再等一个小时，我会疯掉的。）
+  - He almost went mad when he found out his car had been stolen.（发现车被偷时，他差点气疯了。）
+  - The poor man went mad after losing his entire family in the fire.（这个可怜的人在火灾中失去了全部家人后疯了。）
+  - ⚠️ go mad = 发疯、变疯（go 表示"变得"，后接形容词）；也可以说 go crazy（更口语）；drive sb. mad = 把某人逼疯；mad = 疯的、疯狂的、生气的（英式常用）
+
+- on and off 断断续续；时而
+  - It rained on and off all day yesterday.（昨天下了一整天断断续续的雨。）
+  - They've been dating on and off for about three years.（他们断断续续地交往了大约三年。）
+  - The old radio works on and off—it's not very reliable.（那台旧收音机时好时坏——不太靠谱。）
+  - ⚠️ on and off = 断断续续、时而（副词短语，表时间上的不连续）；也可以说 off and on（意思相同）；类似表达：intermittently、from time to time、occasionally；反义：continuously、nonstop
+
+- It was rather like ... 这有点像……；这颇有点像……
+  - Standing on top of the mountain, it was rather like looking down on the whole world.（站在山顶上，颇有点像是俯瞰整个世界的感觉。）
+  - The feeling was rather like falling in love all over again.（那种感觉有点像是重新坠入了爱河。）
+  - It was rather like a dream—I could hardly believe it was real.（这有点像一场梦——我几乎不敢相信是真的。）
+  - ⚠️ It was rather like... = 这颇有点像……；rather = 相当、颇（比 quite 稍强，比 very 弱）；be like = 像……；类似表达：It was somewhat like...、It was a bit like...、It felt like...
+
+- seemed designed ... 似乎是设计成……的；好像是故意……的
+  - The plan seemed designed to fail from the very beginning.（这个计划似乎从一开始就注定要失败。）
+  - Her questions seemed designed to make me feel uncomfortable.（她的问题好像是故意让我难堪的。）
+  - The whole system seemed designed for maximum efficiency.（整个系统似乎是为了最高效率而设计的。）
+  - ⚠️ seem + 过去分词 = 似乎被……；seem designed to do = 似乎是为了……而设计的/好像故意要……；可以表示真实的"设计"，也可以表示"仿佛故意的"（带讽刺意味）；类似表达：appear designed to、be meant to
+
+- be designed to do sth. 被设计用来做某事
+  - This new app is designed to help students learn English more effectively.（这款新应用被设计用来帮助学生更有效地学习英语。）
+  - The machine is designed to work in extreme weather conditions.（这台机器被设计成能在极端天气条件下工作。）
+  - These pills are designed to reduce pain quickly.（这些药片被设计用来快速止痛。）
+  - ⚠️ be designed to do sth. = 被设计用来做某事；design = 设计（动词/名词）；be designed for + 目的/人群 = 为……而设计；by design = 故意地（= on purpose）
