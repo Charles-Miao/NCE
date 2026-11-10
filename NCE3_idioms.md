@@ -1483,3 +1483,129 @@
   - The machine is designed to work in extreme weather conditions.（这台机器被设计成能在极端天气条件下工作。）
   - These pills are designed to reduce pain quickly.（这些药片被设计用来快速止痛。）
   - ⚠️ be designed to do sth. = 被设计用来做某事；design = 设计（动词/名词）；be designed for + 目的/人群 = 为……而设计；by design = 故意地（= on purpose）
+
+- be dear to somebody 对某人来说很珍贵/很重要
+  - The old watch is very dear to me because it was my grandfather's.（这块旧手表对我来说很珍贵，因为它是我祖父的。）
+  - Family and friends are dear to her—more important than money.（家人和朋友对她来说很珍贵——比金钱更重要。）
+  - Freedom and independence are dear to the people of this country.（自由和独立对这个国家的人民来说至关重要。）
+  - ⚠️ dear = 亲爱的、珍贵的、昂贵的；be dear to sb. = 对某人来说很珍贵/很重要；dear 作形容词还有"昂贵的"意思（英式，较书面）；类似表达：be precious to sb.、be important to sb.、be valued by sb.
+
+- a considerable amount/number of sth. 相当数量的；大量的
+  - A considerable amount of money has been spent on the new hospital.（大量资金已经花在了新医院上。）
+  - A considerable number of people attended the meeting.（相当多的人参加了这次会议。）
+  - The project requires a considerable amount of time and effort.（这个项目需要大量的时间和精力。）
+  - ⚠️ considerable = 相当多的、相当大的、值得考虑的；a considerable amount of + 不可数名词 = 大量的；a considerable number of + 可数名词复数 = 大量的；a great deal of（不可数）、a large number of（可数）
+
+- in an orderly fashion/manner 有条不紊地；井然有序地
+  - The students left the classroom in an orderly fashion when the bell rang.（铃响时，学生们井然有序地离开了教室。）
+  - The meeting was conducted in an orderly manner, with everyone taking turns to speak.（会议进行得有条不紊，大家轮流发言。）
+  - Please queue up and board the train in an orderly fashion.（请排好队，有序地上车。）
+  - ⚠️ orderly = 有序的、整齐的；in an orderly fashion = in an orderly manner = 有条不紊地、井然有序地；fashion 和 manner 在这里都表示"方式"（较正式）；类似表达：in an organized way、systematically；反义：in a mess、chaotically
+
+- anonymous + letter/(phone) call 匿名信/匿名电话
+  - She received an anonymous letter threatening her to stay away from the case.（她收到了一封匿名信，威胁她不要插手这个案子。）
+  - The police got an anonymous phone call tipping them off about the robbery.（警方接到一个匿名电话，举报了这起抢劫案的线索。）
+  - An anonymous donor gave a million dollars to the hospital.（一位匿名捐赠者给医院捐了一百万美元。）
+  - ⚠️ anonymous = 匿名的、无名的；anonymous letter = 匿名信；anonymous phone call = 匿名电话；anonymity = 匿名（名词）；类似表达：nameless、unidentified
+
+- remain anonymous 保持匿名；匿名
+  - The witness chose to remain anonymous for fear of revenge.（证人出于报复的恐惧选择了匿名。）
+  - Many people donate to charity and prefer to remain anonymous.（许多人向慈善机构捐款，并且更愿意保持匿名。）
+  - The author of the blog has remained anonymous for years.（这个博客的作者多年来一直匿名。）
+  - ⚠️ remain anonymous = 保持匿名、不透露身份；remain = 保持、仍然是（系动词，后接形容词）；类似表达：stay anonymous、keep one's identity secret
+
+- a ransom of + 钱 数额为……的赎金
+  - The kidnappers demanded a ransom of five million dollars.（绑匪要求五百万美元的赎金。）
+  - They paid a ransom of £100,000 to secure the release of the hostage.（他们支付了10万英镑的赎金以确保获释人质。）
+  - The family couldn't afford the ransom of two million dollars.（这家人付不起两百万美元的赎金。）
+  - ⚠️ ransom = 赎金（名词）；也可作动词 = 赎回、勒索赎金；a ransom of + 金额 = 数额为……的赎金；pay the ransom = 付赎金；kidnapper = 绑匪；hostage = 人质
+
+- It astounded sb. that + 句子 令某人震惊的是……
+  - It astounded me that he could finish the marathon without any training.（令我震惊的是，他没经过任何训练就能跑完马拉松。）
+  - It astounded scientists that the fish could survive in such hot water.（令科学家们震惊的是，这种鱼竟然能在这么热的水里生存。）
+  - It astounded everyone that she won first prize in the competition.（让所有人震惊的是，她竟然在比赛中获得了一等奖。）
+  - ⚠️ astound = 使震惊、使惊骇（比 surprise 程度强得多）；It astounds sb. that... = 令某人震惊的是……；astounded = 感到震惊的（修饰人）；astounding = 令人震惊的（修饰事物）；类似表达：It shocked sb. that、It amazed sb. that、It astonished sb. that
+
+- share sth. with sb. 和某人分享某物
+  - She shared her chocolate bar with her little sister.（她和妹妹分享了她的巧克力棒。）
+  - I'd like to share my experience with all of you today.（今天我想和大家分享我的经历。）
+  - They share a house with three other students to save money.（为了省钱，他们和另外三个学生合住一栋房子。）
+  - ⚠️ share sth. with sb. = 和某人分享某物；share = 分享、分担、共有（动词/名词）；share a room = 合住一个房间；share one's feelings = 分享感受；share = 股票、份额（名词，另一个意思）
+
+- take a short/long walk 走一小段/走很长一段路；散散步
+  - Let's take a short walk after dinner.（晚饭后我们散会儿步吧。）
+  - Every morning he takes a long walk in the park before work.（每天早上上班前他都会在公园里走很长一段路。）
+  - She took a short walk around the block to clear her head.（她围着街区走了一小圈，清醒一下头脑。）
+  - ⚠️ take a walk = 散步、走一走；take a short walk = 走一小段路、散散步；take a long walk = 走很长的路；类似表达：go for a walk、have a walk；go for a stroll（漫步，更悠闲）
+
+- get worried… 变得担心；担心起来
+  - Don't get worried—I'll be home by midnight.（别担心——我午夜前就到家。）
+  - She got worried when her son didn't come home by dinner time.（儿子到晚饭时间还没回家，她开始担心起来。）
+  - I'm getting worried about the exam—I haven't studied enough.（我开始担心考试了——我学得不够。）
+  - ⚠️ get worried = 变得担心、担心起来（get 表示"变得"）；be worried about = 为……担心（状态）；get worried about = 开始为……担心（变化过程）；类似表达：become worried、get anxious
+
+- in safe hands 在可靠的人手里；由可靠的人照管
+  - You don't need to worry—your children are in safe hands with me.（你不用担心——你的孩子由我照看，很安全。）
+  - The company is in safe hands under the new CEO's leadership.（在新CEO的领导下，公司由可靠的人掌管。）
+  - Leave the project to her—she's very experienced, and it's in safe hands.（把项目交给她吧——她经验丰富，项目会很稳妥。）
+  - ⚠️ in safe hands = 在可靠的人手里、由值得信赖的人处理；safe hands = 可靠的人、能手；类似表达：in good hands、in capable hands、in reliable hands；be in good hands = 得到很好的照料
+
+- at first… 起初；一开始
+  - At first, I didn't like the job, but now I really enjoy it.（一开始我不喜欢这份工作，但现在我真的很喜欢。）
+  - At first she was very shy, but after a while she opened up.（起初她很害羞，但过了一会儿就放开了。）
+  - At first I thought the problem was easy, but it turned out to be very difficult.（起初我以为这个问题很简单，结果却非常难。）
+  - ⚠️ at first = 起初、一开始（常暗示"后来情况不同了"）；常和 at first...but then/later... 搭配；区别：first of all = 首先（用于列举第一点）；at first = 起初（用于对比前后变化）
+
+- go to the police 报警；去找警察
+  - If you've been robbed, you should go to the police immediately.（如果你被抢劫了，应该立即报警。）
+  - She decided to go to the police after receiving threatening phone calls.（收到威胁电话后，她决定去报警。）
+  - The neighbors went to the police about the noise coming from the apartment.（邻居们因为公寓里的噪音问题去找了警察。）
+  - ⚠️ go to the police = 报警、向警方报案；也可以说 call the police（打电话报警）、report to the police（向警方报案）；report sth. to the police = 向警方报案……
+
+- make sth. clear 把某事说清楚；弄清楚某事
+  - Let me make it clear: I will not tolerate this kind of behavior.（让我把话说清楚：我不会容忍这种行为。）
+  - The teacher made the rules clear on the first day of class.（老师在第一天就把规则讲得很清楚。）
+  - We need to make our position clear to the other side.（我们需要让对方清楚我们的立场。）
+  - ⚠️ make sth. clear = 把某事说清楚、弄明白；常用结构 make it clear that...（it 作形式宾语）；clear = 清楚的、清晰的；类似表达：clarify sth.、make sth. plain；类似结构：make sth. obvious
+
+- change sb's mind 改变某人的想法/主意
+  - Nothing will change my mind—I've made my final decision.（什么也改变不了我的想法——我已经做了最终决定。）
+  - She was going to quit her job, but her boss changed her mind.（她本来打算辞职，但老板改变了她的主意。）
+  - I changed my mind about going to the party—I decided to stay home instead.（我改变主意不去派对了——我决定待在家里。）
+  - ⚠️ change one's mind = 改变主意；change sb's mind = 改变某人的主意（使某人改变想法）；make up one's mind = 下定决心；speak one's mind = 直言不讳
+
+- follow sb's instructions 听从某人的指示/按照说明操作
+  - Please follow the teacher's instructions carefully during the experiment.（实验过程中请仔细听从老师的指示。）
+  - If you follow the instructions on the box, you can build the furniture easily.（如果你按照盒子上的说明操作，就能轻松组装家具。）
+  - He was fired for not following his boss's instructions.（他因为没有听从老板的指示而被解雇了。）
+  - ⚠️ follow instructions = 按照说明/指示做；follow sb's instructions = 听从某人的指示；instruction = 指示、说明、指令（常用复数）；follow the directions = 按照说明做（意思相近）
+
+- keep sb's word 遵守诺言；守信
+  - You can trust him—he always keeps his word.（你可以信任他——他总是守信用。）
+  - She promised to help, and she kept her word.（她答应帮忙，并且信守了诺言。）
+  - I'll keep my word and pay you back by the end of the month.（我会遵守诺言，月底之前把钱还给你。）
+  - ⚠️ keep one's word = 遵守诺言、守信；word 用单数，指"诺言"；反义：break one's word = 食言、不守信用；give one's word = 做出承诺；a man/woman of his/her word = 守信用的人
+
+- sure enough 果然；不出所料
+  - I said it would rain, and sure enough, it started raining an hour later.（我说会下雨的，果然，一个小时后就开始下雨了。）
+  - Sure enough, he forgot the meeting again, just like I predicted.（果然不出所料，他又忘了开会，就像我预料的那样。）
+  - We thought the restaurant would be crowded, and sure enough, there was a long line.（我们以为餐厅会很挤，果然，排了好长的队。）
+  - ⚠️ sure enough = 果然、不出所料；放在句首，用逗号隔开，表示"果然应验了"；类似表达：as expected、surely enough、predictably enough
+
+- sb. explained that + 句子 某人解释说……
+  - He explained that he was late because his car broke down on the way.（他解释说他迟到是因为车在路上坏了。）
+  - The teacher explained that the exam would be postponed to next week.（老师解释说考试将推迟到下周。）
+  - She explained that she couldn't come to the party because she had to work.（她解释说因为要工作所以不能来参加派对。）
+  - ⚠️ explain = 解释、说明；explain that + 从句 = 解释说……；explain sth. to sb. = 向某人解释某事（注意：不能说 explain sb. sth.）；explanation = 解释、说明（名词）
+
+- Considering + n., + 句子 考虑到……；鉴于……
+  - Considering his age, the little boy plays the piano very well.（考虑到他的年龄，这个小男孩钢琴弹得非常好。）
+  - Considering the bad weather, the football match was surprisingly exciting.（考虑到糟糕的天气，这场足球比赛出奇地精彩。）
+  - Considering he only studied for a week, he did very well on the exam.（考虑到他只学了一个星期，他考试考得非常好了。）
+  - ⚠️ considering = 考虑到、鉴于（介词/连词）；后接名词或 that 从句；也可以说 considering that + 从句；类似表达：given、taking into account、in view of
+
+- in more ways than one 在很多方面；不只是一个意思
+  - This book has changed my life in more ways than one.（这本书在很多方面改变了我的生活。）
+  - The trip was special in more ways than one.（这次旅行在很多方面都很特别。）
+  - Her comment was funny in more ways than one.（她的话在好几个层面上都很有意思。）
+  - ⚠️ in more ways than one = 在许多方面、不只是一种方式；常用于强调"不止一个层面/不止一种含义"；in a way = 在某种程度上；in many ways = 在很多方面；in every way = 在各方面
