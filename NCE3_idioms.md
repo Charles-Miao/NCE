@@ -1657,3 +1657,147 @@
   - It looked as though she had seen a ghost—her face was completely white.（她看起来好像见了鬼似的——脸色惨白。）
   - It looked as if the team would lose, but they scored two goals in the last minute.（看起来这支球队好像要输了，但他们在最后一分钟进了两个球。）
   - ⚠️ It looks/looked as if/though + 从句 = 看起来好像……；as if = as though = 好像、仿佛；从句根据真实性可用陈述语气（可能是真的）或虚拟语气（与事实相反）：He talks as if he knew everything.（他说得好像什么都知道——其实不知道，虚拟用过去式 knew）；类似表达：It seemed that、It appeared that
+
+- with sb's bare hands 赤手空拳；徒手
+  - He managed to lift the heavy box with his bare hands.（他赤手空拳地把那个重箱子搬了起来。）
+  - The strong man could bend a steel bar with his bare hands.（这位壮汉能徒手掰弯钢条。）
+  - She fought off the attacker with her bare hands and escaped.（她赤手空拳击退了袭击者，逃了出来。）
+  - ⚠️ bare hands = 空手、赤手空拳（没有工具或武器）；bare = 赤裸的、光秃的；with one's bare hands = 用双手、徒手；类似表达：with nothing but one's hands、bare-handed（形容词/副词）
+
+- Technically speaking, + 句子 严格来说；从技术上讲
+  - Technically speaking, he is the winner, even though he only won by one point.（严格来说他是赢家，尽管他只赢了一分。）
+  - Technically speaking, the answer is correct, but it doesn't explain the full picture.（从技术上讲答案是对的，但它没有解释完整情况。）
+  - Technically speaking, this is against the rules, but we can make an exception this time.（严格来说这违反规定，但这次我们可以破例。）
+  - ⚠️ technically speaking = 严格来说、从技术上讲（放在句首，作插入语）；technically = 技术上、严格意义上；类似表达：strictly speaking、strictly speaking（更强调"严格地"）；generally speaking = 一般来说
+
+- gain/grow/increase in popularity 越来越受欢迎；流行起来
+  - The singer gained in popularity after releasing her second album.（这位歌手在发行第二张专辑后越来越受欢迎。）
+  - Electric cars are growing in popularity all over the world.（电动汽车在全世界越来越流行。）
+  - Online shopping has increased in popularity dramatically in recent years.（近年来网购的普及程度急剧增长。）
+  - ⚠️ gain/grow/increase in popularity = 越来越受欢迎、流行起来；popularity = 流行、受欢迎（名词）；popular = 受欢迎的（形容词）；类似表达：become more popular、gain popularity、rise in popularity
+
+- great minds think alike 英雄所见略同
+  - "I was just thinking the same thing!" "Well, great minds think alike."（"我刚想到同样的事！" "哈哈，英雄所见略同。"）
+  - When they both suggested the same idea, he laughed and said, "Great minds think alike!"（当他们都提出同样的想法时，他笑着说："英雄所见略同！"）
+  - You got the same answer as I did? I guess great minds think alike.（你和我得出了一样的答案？看来英雄所见略同啊。）
+  - ⚠️ Great minds think alike. = 英雄所见略同（俗语、谚语）；mind = 头脑、智者；alike = 同样地、相似地；常用于两人想到一块儿时的戏谑说法；类似表达：Birds of a feather flock together.（物以类聚，人以群分。）
+
+- rise to fame (=become famous) 成名；声名鹊起
+  - She rose to fame overnight after her video went viral on the internet.（她的视频在网上走红后，她一夜成名。）
+  - The band rose to fame in the 1990s with a series of hit songs.（这支乐队在90年代凭借一系列热门歌曲声名鹊起。）
+  - He rose to fame as a young writer with his first novel.（他作为年轻作家凭借第一部小说一举成名。）
+  - ⚠️ rise to fame = 成名、出名（= become famous，更书面、更文学化）；rise to = 上升到、达到；fame = 名声、名望；rise 的过去式 rose，过去分词 risen；类似表达：make a name for oneself、become famous、gain fame
+
+- quarrel/complain/be disappointed... + bitterly 激烈争吵/抱怨不已/极度失望
+  - The couple quarreled bitterly about money and ended up getting divorced.（这对夫妇为钱吵得不可开交，最后离婚了。）
+  - Customers complained bitterly about the poor quality of the product.（顾客们对产品的劣质抱怨不已。）
+  - She was bitterly disappointed when she didn't get the job she had applied for.（申请的工作没得到时，她极度失望。）
+  - ⚠️ bitterly = 激烈地、痛苦地、极其（副词，用来加强负面情绪的程度）；bitterly regret = 悔恨不已；bitterly cold = 严寒刺骨；bitter = 苦的、痛苦的（形容词）
+
+- bet (¥) on sth. 就……打赌；在……上押（多少钱）
+  - He bet $100 on the horse and won.（他在那匹马上押了100美元，赢了。）
+  - I wouldn't bet on his success—he's too lazy.（我不看好他能成功——他太懒了。）
+  - She bet all her savings on the final game of the season.（她把全部积蓄都押在了赛季的最后一场比赛上。）
+  - ⚠️ bet = 打赌、下注（动词/名词）；bet (money) on sth. = 在……上押注；bet on sth. = 打赌某事会发生（相信会成功）；过去式/过去分词：bet 或 betted；I bet = 我打赌、我敢说（见下条）
+
+- I bet + 句子 我敢打赌……；我确信……
+  - I bet he's forgotten the meeting again—he's always doing that.（我敢打赌他又忘了开会——他总这样。）
+  - I bet you can't solve this puzzle in less than a minute.（我打赌你一分钟之内解不出这道谜题。）
+  - I bet she was happy when she heard the good news.（我敢说她听到这个好消息时肯定很高兴。）
+  - ⚠️ I bet = 我敢打赌、我敢说（口语中常用，表示"我认为、我确信"，不一定要真的打赌）；类似表达：I'll bet、I wager（更正式）、I'm sure that
+
+- live in poverty 生活在贫困中；过着贫穷的生活
+  - Many families in this region live in poverty and can barely afford food.（这个地区的许多家庭生活在贫困中，几乎买不起食物。）
+  - Despite being a talented artist, he lived in poverty all his life.（尽管是一位有才华的艺术家，他一生都生活在贫困中。）
+  - The charity's goal is to help children who live in poverty get an education.（这个慈善机构的目标是帮助生活在贫困中的孩子接受教育。）
+  - ⚠️ live in poverty = 生活在贫困中；poverty = 贫穷、贫困（名词）；poor = 贫穷的（形容词）；live in luxury = 生活奢华（反义）；below the poverty line = 在贫困线以下
+
+- Because of + 单词/短语 因为；由于
+  - Because of the bad weather, the flight was delayed for three hours.（因为天气不好，航班延误了三个小时。）
+  - She couldn't attend the meeting because of her illness.（因为生病，她不能参加会议。）
+  - Because of his hard work, he was promoted to manager.（由于努力工作，他被提升为经理。）
+  - ⚠️ because of = 因为、由于（后接名词/代词/动名词短语）；区别：because 后接句子（because + 从句），because of 后接短语（because of + n./doing）；类似表达：due to、owing to、on account of
+
+- be born in + 年份 出生于……年
+  - He was born in 1990 and grew up in a small town.（他出生于1990年，在一个小镇长大。）
+  - My grandmother was born in 1945, right after the end of World War II.（我奶奶出生于1945年，二战刚结束的时候。）
+  - The famous scientist was born in the early 20th century.（这位著名科学家出生于20世纪初。）
+  - ⚠️ be born in + 年份 = 出生于……年；be born on + 具体日期；be born in + 地点 = 出生在某地；be born into + 家庭 = 出生于……家庭；注意：born 是 bear（生育）的过去分词，be born 用被动形式表示"出生"
+
+- draw up 制定；起草；停下来
+  - The committee will draw up a new plan for the project next week.（委员会下周将为该项目制定新计划。）
+  - A lawyer was hired to draw up the contract between the two companies.（聘请了一位律师来起草两家公司之间的合同。）
+  - The car drew up right in front of the building and a man stepped out.（汽车正好在大楼前停了下来，一个男人走了出来。）
+  - ⚠️ draw up 多义：① 制定、起草（计划、合同、名单等） ② （车辆）停下来；draw up a list = 拟定名单；draw up a plan = 制定计划；类似表达：work out、draft、prepare
+
+- a set of … 一套；一组；一系列
+  - She bought a set of new knives for the kitchen.（她为厨房买了一套新刀具。）
+  - The company has a set of strict rules that all employees must follow.（公司有一套严格的规章制度，所有员工都必须遵守。）
+  - There is a full set of tools in the garage.（车库里有一整套工具。）
+  - ⚠️ a set of = 一套、一组（后接复数名词）；a set of rules = 一套规则；a set of furniture = 一套家具；set 也可作动词 = 放置、设定；类似表达：a pair of（一对，专指两件配套的）、a series of（一系列的，侧重顺序）
+
+- change ... into ... = turn ... into ... 把……变成……
+  - The magician changed the rabbit into a dove in front of the audience.（魔术师在观众面前把兔子变成了鸽子。）
+  - She changed her old bedroom into a beautiful study.（她把旧卧室改成了一间漂亮的书房。）
+  - The caterpillar will change into a butterfly after a few weeks.（几周后毛虫就会变成蝴蝶。）
+  - ⚠️ change A into B = turn A into B = 把A变成B；change into 也可表示"换上（衣服）"：He changed into his swimming suit.（他换上了泳衣。）；类似表达：transform A into B、convert A into B、turn A into B
+
+- bring ... to ... 把……带到……；使……处于……状态
+  - Don't forget to bring your textbook to class tomorrow.（明天别忘了把课本带到教室来。）
+  - The news of the victory brought joy to people all over the country.（胜利的消息给全国人民带来了喜悦。）
+  - The new policy will bring significant changes to the company.（新政策将给公司带来重大变化。）
+  - ⚠️ bring A to B = 把A带到B处/给B带来A；bring about = 导致、引起；bring up = 抚养、提出；bring in = 引入、赚得；注意方向性：bring（带来，朝说话者方向）vs take（带走，远离说话者方向）
+
+- In sb's day 在某人那个年代；在某人年轻时
+  - In my grandfather's day, there were no computers or smartphones.（在我祖父那个年代，没有电脑也没有智能手机。）
+  - In her day, she was one of the most famous actresses in the country.（在她那个年代，她是全国最著名的女演员之一。）
+  - Things were very different in our parents' day.（在我们父母那个年代，情况大不一样。）
+  - ⚠️ in sb's day = 在某人那个年代、在某人年轻的时候（day 用单数，表示"时代、时期"）；类似表达：in one's time、back in the day、in the old days；day 的这个意思常见于 the good old days（过去的好时光）
+
+- be quick to do sth. 做某事很快；动不动就……
+  - He is quick to learn new skills—he picks up everything in no time.（他学新技能很快——什么都能很快学会。）
+  - She is quick to judge other people without getting to know them first.（她动不动就评判别人，都不先了解一下。）
+  - The boss is quick to blame others when things go wrong.（一出问题，老板就急于责怪别人。）
+  - ⚠️ be quick to do sth. = 做某事很快/很迅速；可以是正面的（学得快）也可以是负面的（急于指责）；反义：be slow to do sth.（做某事很慢/不轻易……）；quick = 快的、迅速的
+
+- in fact 事实上；实际上
+  - I thought the movie would be boring, but in fact it was really interesting.（我以为这部电影会很无聊，但实际上非常有趣。）
+  - He said he was fine, but in fact he was feeling very sick.（他说他没事，但实际上他感觉很不舒服。）
+  - In fact, I've never been to that restaurant before.（说实话，我以前从未去过那家餐厅。）
+  - ⚠️ in fact = 事实上、实际上；常用于补充说明或纠正误解；类似表达：actually、as a matter of fact、in reality、in truth；in fact 放句首用逗号隔开，也可以放在句中
+
+- turn against sb. 转而反对某人；背叛某人
+  - His former friends turned against him after he was involved in the scandal.（在他卷入丑闻后，他以前的朋友们都转而反对他了。）
+  - The public turned against the politician when his lies were exposed.（当这位政客的谎言被揭穿后，公众转而反对他。）
+  - She was afraid her family would turn against her if she quit her job.（她担心如果辞职，家人会反对她。）
+  - ⚠️ turn against sb. = 转而反对、对……反目；turn = 转变、变成；类似表达：go against、oppose、betray（背叛，程度更强）；反义：side with sb.（支持某人、站在某人一边）
+
+- It is clear that + 句子 很明显……；显然……
+  - It is clear that he didn't study for the exam at all.（很明显他根本没为考试复习。）
+  - It is clear that something is wrong with the machine—it keeps making strange noises.（很明显这台机器出了问题——它一直发出奇怪的声音。）
+  - It is clear that she has a natural talent for music.（很明显她有音乐天赋。）
+  - ⚠️ It is clear that... = 很明显、显然；it 作形式主语，that 从句是真正主语；类似表达：It is obvious that、It is evident that、Clearly, ...、Obviously, ...；clear = 清楚的、明显的
+
+- settle the argument 解决争论；解决争端
+  - They decided to settle the argument by having a friendly competition.（他们决定通过一场友好的比赛来解决争端。）
+  - The teacher helped settle the argument between the two students.（老师帮助解决了两个学生之间的争论。）
+  - It took hours to settle the argument about who should pay the bill.（关于谁来付账的争论花了好几个小时才解决。）
+  - ⚠️ settle the argument = 解决争论、平息争端；settle = 解决、定居、安顿；settle a dispute = 解决争端；settle down = 定居、安定下来；类似表达：resolve the argument、end the quarrel、settle the matter
+
+- It was not until ... that + 句子 直到……才……
+  - It was not until midnight that he finished his work and went home.（直到午夜他才完成工作回家。）
+  - It was not until she took off her mask that I recognized her.（直到她摘下面具我才认出她。）
+  - It was not until I met him that I realized how kind he was.（直到我遇见他，我才意识到他是多么善良。）
+  - ⚠️ It is/was not until...that... = 直到……才……（强调句型，强调时间状语）；正常语序：He didn't finish his work until midnight. → 强调句：It was not until midnight that he finished his work.；注意 not 要提前到 until 前面
+
+- as much as ... / half as much as 和……一样多/是……的一半
+  - He earns twice as much as I do, but he spends more too.（他赚的钱是我的两倍，但花得也多。）
+  - This phone costs half as much as the new model, but it works almost as well.（这部手机价格是新款的一半，但功能几乎一样好。）
+  - She doesn't eat as much as she used to when she was a teenager.（她现在吃得没有十几岁时那么多了。）
+  - ⚠️ as...as 比较结构：as much as = 和……一样多（修饰不可数）；as many as（修饰可数）；half as much as = 是……的一半；twice as much as = 是……的两倍；注意：倍数放在第一个 as 前面
+
+- be in debt 负债；欠着钱
+  - He's been in debt ever since he lost his job last year.（自从去年失业后，他就一直负债。）
+  - Many young people are in debt because of student loans.（许多年轻人因为学生贷款而负债。）
+  - The company was heavily in debt and almost went bankrupt.（这家公司负债累累，差点破产。）
+  - ⚠️ be in debt = 负债、欠钱；be heavily/deeply in debt = 负债累累；get into debt = 陷入债务；get out of debt = 还清债务；pay off one's debts = 还清债务；debt = 债务、欠款
