@@ -1609,3 +1609,51 @@
   - The trip was special in more ways than one.（这次旅行在很多方面都很特别。）
   - Her comment was funny in more ways than one.（她的话在好几个层面上都很有意思。）
   - ⚠️ in more ways than one = 在许多方面、不只是一种方式；常用于强调"不止一个层面/不止一种含义"；in a way = 在某种程度上；in many ways = 在很多方面；in every way = 在各方面
+
+- offer sth. to sb. = offer sb. sth. 向某人提供某物
+  - She offered a cup of tea to her guest as soon as he arrived.（客人一到，她就给他端上了一杯茶。）
+  - The company offered him a well-paid job in Beijing.（公司向他提供了一份北京的高薪工作。）
+  - A stranger offered help to the old man who had fallen on the street.（一位陌生人主动向摔倒在街上的老人提供帮助。）
+  - ⚠️ offer 双宾语结构：offer sb. sth. = offer sth. to sb.，两种形式可互换；offer = 主动提供、给予；类似用法的双宾语动词：give sb. sth. = give sth. to sb.、show sb. sth. = show sth. to sb.；注意区别：offer to do sth. = 主动提出做某事
+
+- a prize of + 钱 金额为……的奖金/奖品
+  - She won a prize of $5,000 in the painting competition.（她在绘画比赛中赢得了5000美元的奖金。）
+  - The lucky winner received a prize of ten thousand dollars.（幸运的获胜者获得了一万美元的奖金。）
+  - There is a prize of £500 for the best science project.（最佳科学项目有500英镑的奖金。）
+  - ⚠️ a prize of + 金额 = 金额为……的奖金；win a prize of + 钱 = 赢得……奖金；也可以说 a cash prize of；prize = 奖品、奖金（won 赢得的）；reward = 报酬、奖赏（因付出而得到的）；award = 正式颁发的奖项
+
+- make an attempt to do sth. 尝试/试图做某事
+  - He made an attempt to climb the mountain, but bad weather forced him to turn back.（他尝试攀登那座山，但恶劣的天气迫使他折返。）
+  - She made several attempts to pass the driving test before finally succeeding.（她考了好几次才终于通过了驾照考试。）
+  - The team made an attempt to solve the problem in a completely new way.（团队尝试用一种全新的方式解决这个问题。）
+  - ⚠️ make an attempt to do sth. = 尝试做某事；attempt = 尝试、企图（比 try 更正式）；也可以说 make an attempt at doing sth.；at the first attempt = 第一次尝试就；attempt 也可直接作动词（见下条）
+
+- attempt to do sth. 试图/尝试做某事
+  - The prisoner attempted to escape but was caught immediately.（囚犯试图逃跑，但立刻被抓住了。）
+  - Scientists are attempting to find a cure for the rare disease.（科学家们正试图找到治愈这种罕见疾病的方法。）
+  - Don't attempt to fix the machine yourself—call a professional.（别试图自己修机器——叫专业人员来。）
+  - ⚠️ attempt to do sth. = 试图做某事（动词用法，较正式）；attempt 后接不定式，不接动名词；attempted murder = 谋杀未遂（法律用语，attempted 作形容词）；类似表达：try to do、seek to do、make an effort to do
+
+- be forced to do sth. 被迫做某事；不得不做某事
+  - The company was forced to close down because of financial problems.（由于财务问题，这家公司被迫关闭。）
+  - He was forced to apologize in front of the whole class.（他被迫在全班面前道歉。）
+  - Many people were forced to leave their homes during the war.（战争期间，许多人被迫离开家园。）
+  - ⚠️ force = 强迫、迫使；be forced to do sth. = 被迫做某事（被动）；force sb. to do sth. = 强迫某人做某事（主动）；类似表达：be compelled to do、be obliged to do、have to do
+
+- be picked up by a. ... 被A接走/捡起/逮捕
+  - The little boy was picked up by his grandfather after school.（放学后，小男孩被爷爷接走了。）
+  - The injured bird was picked up by a kind passer-by and taken to the vet.（受伤的小鸟被一位好心的路人捡起送去了兽医那里。）
+  - The suspect was picked up by the police at the airport.（嫌疑人在机场被警察逮捕了。）
+  - ⚠️ pick up 多义短语：① 接人（开车接） ② 捡起、拾起 ③ 逮捕、抓获（口语） ④ 学会（语言/技能） ⑤ 好转；被动式 be picked up by = 被……接走/捡起/抓获；要根据上下文判断具体含义
+
+- on the same day 在同一天
+  - They got married and moved into their new house on the same day.（他们在同一天结婚并搬进了新家。）
+  - The two accidents happened on the same day, which made the police suspicious.（两起事故发生在同一天，这让警方起了疑心。）
+  - The package was delivered on the same day it was ordered.（包裹在下单当天就送到了。）
+  - ⚠️ on the same day = 在同一天；the same...as = 和……一样的；on the same day as... = 在与……同一天；类似表达：that very day（就在那一天，强调）、the very same day（正好同一天，语气更强）
+
+- It looked as if/though 看起来好像……；似乎……
+  - It looked as if it was going to rain, so we took umbrellas with us.（看起来好像要下雨了，所以我们带上了伞。）
+  - It looked as though she had seen a ghost—her face was completely white.（她看起来好像见了鬼似的——脸色惨白。）
+  - It looked as if the team would lose, but they scored two goals in the last minute.（看起来这支球队好像要输了，但他们在最后一分钟进了两个球。）
+  - ⚠️ It looks/looked as if/though + 从句 = 看起来好像……；as if = as though = 好像、仿佛；从句根据真实性可用陈述语气（可能是真的）或虚拟语气（与事实相反）：He talks as if he knew everything.（他说得好像什么都知道——其实不知道，虚拟用过去式 knew）；类似表达：It seemed that、It appeared that
