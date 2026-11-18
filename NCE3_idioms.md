@@ -1801,3 +1801,147 @@
   - Many young people are in debt because of student loans.（许多年轻人因为学生贷款而负债。）
   - The company was heavily in debt and almost went bankrupt.（这家公司负债累累，差点破产。）
   - ⚠️ be in debt = 负债、欠钱；be heavily/deeply in debt = 负债累累；get into debt = 陷入债务；get out of debt = 还清债务；pay off one's debts = 还清债务；debt = 债务、欠款
+
+- play the role of 扮演……的角色；起……的作用
+  - She played the role of Juliet in the school play.（她在校园戏剧中扮演朱丽叶的角色。）
+  - The internet plays an important role in modern education.（互联网在现代教育中起着重要作用。）
+  - He was chosen to play the role of the hero in the new movie.（他被选中在新电影中扮演男主角。）
+  - ⚠️ play the role of = 扮演……角色；也可以说 play the part of；play an important role in = 在……中起重要作用；role = 角色、作用
+
+- sb. be cast in the role of = cast sb. in the role of 某人被选定扮演……角色/选定某人扮演……角色
+  - She was cast in the role of the princess in the film.（她被选定在电影中扮演公主。）
+  - The director cast him in the role of the villain because of his deep voice.（导演因为他低沉的嗓音而选定他扮演反派角色。）
+  - He was very excited when he was cast in the role of Hamlet.（当被选中扮演哈姆雷特时，他非常兴奋。）
+  - ⚠️ cast = 选派演员、分配角色（动词）；cast sb. in the role of = 选派某人扮演……角色；被动式 sb. be cast in the role of = 某人被选定扮演……；cast 的过去式/过去分词还是 cast
+
+- the curtain goes up / rises / comes down / falls 幕布升起/落下
+  - The curtain goes up at seven o'clock—don't be late!（幕布七点拉开——别迟到！）
+  - As the curtain rose, the audience fell silent in anticipation.（当幕布升起时，观众因期待而安静下来。）
+  - After the final scene, the curtain fell and the audience applauded loudly.（最后一幕结束后，幕布落下，观众们热烈鼓掌。）
+  - ⚠️ curtain = 窗帘、幕布；the curtain goes up / rises = 幕布升起、开演；the curtain comes down / falls = 幕布落下、闭幕；也可以说 the curtain rises on sth.（某事开始、某种局面出现）
+
+- a blank sheet of paper 一张空白纸
+  - He took a blank sheet of paper and started writing a letter.（他拿出一张白纸，开始写信。）
+  - Give me a blank sheet of paper—I need to draw a diagram.（给我一张白纸——我需要画一张图。）
+  - The contract was printed on a single blank sheet of paper.（合同打印在一张白纸上。）
+  - ⚠️ a blank sheet of paper = 一张空白纸；blank = 空白的、空的；a sheet of paper = 一张纸；类似表达：a piece of paper（一张纸，不强调空白）；也可引申：a blank slate = 一张白纸、全新的开始
+
+- squinting at 眯着眼看；斜视
+  - She was squinting at the small print on the bottle, trying to read it.（她眯着眼睛看瓶子上的小字，想读清楚。）
+  - He was squinting at the computer screen because his glasses were broken.（他眯着眼看电脑屏幕，因为他的眼镜坏了。）
+  - The child squinted at the bright sunlight coming through the window.（孩子眯着眼睛看从窗户照进来的强烈阳光。）
+  - ⚠️ squint = 眯着眼看、斜视（动词/名词）；squint at = 眯着眼看……；squint one's eyes = 眯起眼睛；常见原因：光线太强、看不清、近视等
+
+- In the dim light 在昏暗的光线下
+  - It's hard to read in the dim light of this old room.（在这个旧房间昏暗的光线下看书很难。）
+  - In the dim light, I could just make out the shape of a figure in the corner.（在昏暗的光线下，我只能勉强看出角落里有个人影。）
+  - She looked beautiful in the dim light of the candle.（在烛光的昏暗光线中，她看起来很美。）
+  - ⚠️ dim = 昏暗的、暗淡的；in the dim light = 在昏暗的光线下；dim 也可作动词 = （使）变暗、（使）模糊；类似表达：in the poor light、in the faint light；反义：in the bright light
+
+- proceed to do sth. 继续做某事；接着做某事
+  - After introducing himself, he proceeded to explain the purpose of the meeting.（自我介绍之后，他接着解释会议的目的。）
+  - She finished her coffee and proceeded to tell us about her trip.（她喝完咖啡，接着给我们讲她的旅行。）
+  - The teacher asked everyone to be quiet and proceeded to hand out the test papers.（老师让大家安静，然后开始发试卷。）
+  - ⚠️ proceed to do sth. = 继续做、接着做（比 continue 更正式）；proceed with sth. = 继续进行某事；proceed = 继续进行、前进；类似表达：go on to do sth.、continue to do sth.
+
+- on end 连续地；不停地；竖着
+  - It rained for three days on end, and the streets were flooded.（雨连续下了三天，街道都被淹了。）
+  - She worked for ten hours on end without taking a break.（她连续工作了十个小时，没有休息。）
+  - The movie was so scary that my hair stood on end.（这部电影太恐怖了，吓得我汗毛都竖起来了。）
+  - ⚠️ on end = 连续地、不停地（放在时间名词后）；也可表示"竖着地、直立地"（stand on end = 竖起来）；类似表达：in a row（连续的，可指时间或顺序）、consecutively、straight
+
+- In many ways 在很多方面
+  - In many ways, the new system is better than the old one.（在很多方面，新系统比旧系统好。）
+  - She is different from her sister in many ways.（她和她姐姐在很多方面都不一样。）
+  - In many ways, learning a language is like learning to play a musical instrument.（在很多方面，学习一门语言就像学习演奏一种乐器。）
+  - ⚠️ in many ways = 在很多方面；in some ways = 在某些方面；in every way = 在各方面；in a way = 在某种程度上；in more ways than one = 不止一个方面（之前学过）
+
+- be required to do sth. 被要求做某事；必须做某事
+  - All employees are required to wear a uniform at work.（所有员工上班都必须穿制服。）
+  - Students are required to take the final exam at the end of the semester.（学生必须在学期末参加期末考试。）
+  - Passengers are required to show their ID before boarding the plane.（乘客登机前必须出示身份证。）
+  - ⚠️ be required to do sth. = 被要求做某事、必须做；require = 要求、需要；require sb. to do sth. = 要求某人做某事；requirement = 要求、必要条件（名词）；类似表达：be obliged to do、have to do
+
+- expect sb. to do sth. 期望某人做某事
+  - My parents expect me to get good grades in school.（我父母期望我在学校取得好成绩。）
+  - The boss expects his employees to work overtime when necessary.（老板期望员工在必要时加班。）
+  - I expect you to finish the report by Friday at the latest.（我期望你最迟星期五完成报告。）
+  - ⚠️ expect sb. to do sth. = 期望某人做某事；expect = 期望、预期、预料；expect sth. of sb. = 对某人抱有……期望；expect that + 从句 = 预料……；expectation = 期望、预期（名词）
+
+- be expected to do sth. 被期望做某事；应该做某事
+  - You are expected to arrive on time for the meeting.（你应该准时参加会议。）
+  - Children are expected to respect their teachers and parents.（孩子应该尊敬老师和父母。）
+  - The new hospital is expected to open next spring.（新医院预计明年春天开放。）
+  - ⚠️ be expected to do = 被期望做、应该做；可以表示"（某人）应该做"（责任/义务），也可以表示"（某事）预计会发生"；类似表达：be supposed to do（应该做，更口语）、be anticipated to do（预计，更正式）
+
+- learn/know sth. by heart 熟记；背诵；牢记在心
+  - She learned the whole poem by heart in just one hour.（她只用了一个小时就把整首诗背下来了。）
+  - You need to know these vocabulary words by heart for the test.（你需要把这些单词都背下来应付考试。）
+  - As a child, he knew all the multiplication tables by heart.（小时候，他把所有乘法表都背得滚瓜烂熟。）
+  - ⚠️ learn/know sth. by heart = 熟记、背诵（固定搭配，heart = 内心、牢记）；也可以说 learn by rote（死记硬背，稍带贬义）；by heart = 靠记忆、凭记忆；类似表达：memorize、commit to memory
+
+- have cause to do sth. 有理由做某事；有正当理由做
+  - She has cause to be angry—he promised to help and then disappeared.（她有理由生气——他答应帮忙然后就消失了。）
+  - The company had good cause to fire him—he was always late and never did his work.（公司完全有理由解雇他——他总是迟到，也从不干活。）
+  - You have no cause to complain—you got exactly what you asked for.（你没有理由抱怨——你得到的正是你要求的。）
+  - ⚠️ have cause to do sth. = 有理由/有正当理由做某事；have good cause to = 有充分理由；have no cause to = 没有理由；cause = 理由、原因（名词，更正式）；类似表达：have reason to do、be justified in doing
+
+- sb. insisted that + 句子(should do) 某人坚持要求……（虚拟语气）
+  - She insisted that we (should) stay for dinner even though we said we had to leave.（尽管我们说必须走，她还是坚持要我们留下来吃饭。）
+  - The boss insisted that the meeting (should) be held on Friday instead of Thursday.（老板坚持要求会议在周五而不是周四召开。）
+  - He insisted that she (should) see a doctor immediately, saying she looked very ill.（他坚持要她马上去看医生，说她看起来病得很重。）
+  - ⚠️ insist that + (should) do = 坚决要求……（坚持的是一种主张/要求，用虚拟语气，should 可省略）；如果坚持的是一个事实，则用陈述语气：He insisted that he was innocent.（他坚持说自己是无辜的——陈述事实）
+
+- be written out in full 完整地写出来；全部写出
+  - The names of all the winners were written out in full on the notice board.（所有获奖者的全名都完整地写在布告栏上。）
+  - Please write your name out in full—don't just use initials.（请把你的名字完整写出来——不要只写首字母。）
+  - The contract was written out in full on three pages of legal paper.（合同完整地写在三页法律用纸上。）
+  - ⚠️ be written out in full = 被完整地写出来；write out = 全部写出、写出来；in full = 完整地、全部地；类似表达：be fully written out、be written out completely；反义：be abbreviated（被缩写）
+
+- play a joke on sb. 开某人的玩笑；捉弄某人
+  - The boys played a joke on their teacher by hiding his chalk.（男孩们把老师的粉笔藏了起来，捉弄他。）
+  - Don't be angry—I was just playing a joke on you.（别生气——我只是跟你开个玩笑。）
+  - On April Fool's Day, everyone plays jokes on each other.（在愚人节那天，大家互相开玩笑。）
+  - ⚠️ play a joke on sb. = 开某人的玩笑、捉弄某人；play jokes on sb.（复数）= 经常捉弄某人；joke = 笑话、玩笑；类似表达：play a trick on sb.（更侧重恶作剧/捉弄）、make fun of sb.（取笑某人）
+
+- present sth. to sb. 把某物呈送给/颁发给某人
+  - The principal presented the prize to the best student of the year.（校长把奖颁发给了年度最佳学生。）
+  - She presented her research findings to the whole department.（她向全系展示了她的研究成果。）
+  - The team presented a special gift to their coach on his birthday.（球队在教练生日那天送给他一份特别的礼物。）
+  - ⚠️ present sth. to sb. = 把某物呈送/颁发/展示给某人；也可以说 present sb. with sth.；present = 颁发、呈现、赠送（动词，重音在第二音节）；present = 现在的、在场的（形容词，重音在第一音节）
+
+- look on 旁观；在旁边看
+  - The other children just looked on while the two boys fought.（两个男孩打架时，其他孩子只是在旁边看着。）
+  - She couldn't help—she just had to look on as her house burned down.（她帮不上忙——只能眼睁睁看着房子被烧毁。）
+  - Many people looked on as the firefighters worked to put out the fire.（许多人在一旁看着消防员灭火。）
+  - ⚠️ look on = 旁观、在旁边看（袖手旁观，不参与）；也拼作 look on；类似表达：watch from the sidelines、stand by、be a spectator；look on sb. as = 把某人看作……（另一个意思）
+
+- at last 终于；最后
+  - After months of hard work, the project was completed at last.（经过几个月的努力，项目终于完成了。）
+  - At last, the bus came after we had waited for almost an hour.（等了将近一个小时后，公交车终于来了。）
+  - She found her lost ring at last, under the sofa.（她终于找到了丢失的戒指，就在沙发下面。）
+  - ⚠️ at last = 终于、最后（强调"经过长时间等待后终于"，带有感情色彩）；类似表达：finally、in the end、eventually；区别：at last 比 finally 更强调"等待后的欣慰/释然"；in the end 更强调"最终结果"
+
+- be anxious to do sth. 渴望做某事；急于做某事
+  - She was anxious to meet her new classmates on the first day of school.（开学第一天，她急切地想见到新同学。）
+  - He is anxious to know the results of the exam.（他急于知道考试结果。）
+  - The team was anxious to win the game for their injured captain.（球队渴望为受伤的队长赢得这场比赛。）
+  - ⚠️ be anxious to do sth. = 渴望做、急于做；anxious = 焦虑的、渴望的（形容词）；anxious about = 为……担心；anxiety = 焦虑、渴望（名词）；be anxious to do 强调"急切地想做"，和 be eager to do 意思相近
+
+- stare at 盯着看；凝视
+  - It's rude to stare at other people in public.（在公共场合盯着别人看不礼貌。）
+  - He stared at the painting for a long time, trying to understand what it meant.（他盯着那幅画看了很久，想弄明白它的含义。）
+  - The little girl stared at the toys in the shop window with big eyes.（小女孩睁大眼睛盯着商店橱窗里的玩具。）
+  - ⚠️ stare at = 盯着看、凝视（睁大眼睛长时间看，常带惊讶/好奇/无礼的意味）；glare at = 怒目而视；glance at = 瞥一眼（快）；gaze at = 凝视（含欣赏/思考的意味，更书面）
+
+- read sth. to sb. 给某人读……
+  - Every night, the mother reads a story to her children before bed.（每天晚上，妈妈都在睡前给孩子们读故事。）
+  - He read the letter to his grandmother, who couldn't see very well.（他把信读给奶奶听，因为她视力不好。）
+  - The teacher read the poem aloud to the class.（老师给全班同学朗读了这首诗。）
+  - ⚠️ read sth. to sb. = 读给某人听（读出声音来，让对方听）；注意：read sb. sth. 也是对的（双宾语）；read for sb. 指"替某人读"（帮人读）；read to sb. 强调"读给对方听"
+
+- much to sb's sth. 让某人大为……的是
+  - Much to our surprise, he actually won the competition.（让我们大为惊讶的是，他竟然赢了比赛。）
+  - Much to her disappointment, the concert was canceled at the last minute.（令她大为失望的是，音乐会在最后一刻取消了。）
+  - Much to his relief, his daughter arrived home safely.（令他大为欣慰的是，他女儿平安到家了。）
+  - ⚠️ much to one's + 表示情绪的名词 = 让某人大为……的是；常见搭配：much to one's surprise/delight/disappointment/relief/horror；也可以说 to one's great surprise（意思相近，语气略弱）；放句首，用逗号隔开
