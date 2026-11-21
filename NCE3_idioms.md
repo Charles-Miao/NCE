@@ -1945,3 +1945,147 @@
   - Much to her disappointment, the concert was canceled at the last minute.（令她大为失望的是，音乐会在最后一刻取消了。）
   - Much to his relief, his daughter arrived home safely.（令他大为欣慰的是，他女儿平安到家了。）
   - ⚠️ much to one's + 表示情绪的名词 = 让某人大为……的是；常见搭配：much to one's surprise/delight/disappointment/relief/horror；也可以说 to one's great surprise（意思相近，语气略弱）；放句首，用逗号隔开
+
+- One man's meat is another man's poison. 萝卜白菜，各有所爱；对某人有利的事对别人可能有害
+  - I don't understand why he likes such spicy food, but one man's meat is another man's poison.（我不明白他为什么喜欢这么辣的食物，不过萝卜白菜各有所爱。）
+  - My sister loves city life, while I prefer the countryside—one man's meat is another man's poison.（我姐姐喜欢城市生活，而我更喜欢乡村——人各有所好。）
+  - The medicine worked well for me but made her feel worse; one man's meat is another man's poison.（这药对我效果很好，却让她更不舒服——同一事物因人而异。）
+  - ⚠️ 英语谚语，字面义"一个人的肉是另一个人的毒药"，指不同人喜好和适应性大不相同；类似中文谚语：萝卜白菜，各有所爱；甲之蜜糖，乙之砒霜
+
+- it is illogical to do sth. 做某事是不合逻辑的；做某事说不通
+  - It is illogical to spend more money than you earn every month.（每月花的比赚的还多是不合逻辑的。）
+  - It is illogical to blame him for something he didn't do.（为他没做过的事责备他是说不通的。）
+  - It seems illogical to reject such a good job offer.（拒绝这么好的工作机会似乎不合常理。）
+  - ⚠️ illogical = 不合逻辑的、说不通的（logical 的反义词，前缀 il- 表否定）；It is illogical to do sth. = 做某事不合逻辑；类似表达：It doesn't make sense to do、It is unreasonable to do
+
+- turn sb's stomach 使某人恶心/反胃；令某人作呕
+  - The smell of the rotten fish turned my stomach.（烂鱼的气味让我反胃。）
+  - The bloody scenes in the movie were enough to turn anyone's stomach.（电影里的血腥场面足以让任何人作呕。）
+  - The thought of eating raw insects turns my stomach.（一想到吃生虫子我就恶心。）
+  - ⚠️ turn one's stomach = 使人恶心、反胃（因为气味、画面或想法）；类似表达：make sb. sick、make sb. feel nauseated；stomach-turning = 令人作呕的（形容词）
+
+- sick to my stomach 胃里难受；恶心；非常焦虑/心烦
+  - I felt sick to my stomach after eating too much at the buffet.（在自助餐厅吃太多后，我胃里很难受。）
+  - She was sick to her stomach before going on stage for the first time.（第一次上台前，她紧张得胃里难受。）
+  - The bad news made him sick to his stomach with worry.（这个坏消息让他忧心忡忡。）
+  - ⚠️ sick to one's stomach 有两层意思：① 生理上的恶心、胃部不适 ② 心理上的极度焦虑、担忧；类似表达：feel nauseated（生理恶心）、have butterflies in one's stomach（紧张）
+
+- animal fat 动物脂肪
+  - Animal fat is high in cholesterol and should be eaten in moderation.（动物脂肪胆固醇含量高，应适量食用。）
+  - Many people now use vegetable oil instead of animal fat for cooking.（现在很多人做饭用植物油而不是动物脂肪。）
+  - The recipe uses animal fat to give the dish a richer flavor.（这道菜用动物脂肪来增添更浓郁的风味。）
+  - ⚠️ animal fat = 动物脂肪（如猪油、牛油、黄油等）；对应：vegetable fat / vegetable oil（植物脂肪/植物油）；body fat（体脂）；fat 可作形容词 = 胖的、肥的（注意礼貌场合避免直接说人 fat）
+
+- a received more abuse than A受到的责骂/滥用比……更多
+  - The new manager received more abuse than praise in his first month.（新经理上任第一个月受到的责骂比表扬还多。）
+  - The goalkeeper received more abuse than any other player after the team lost.（球队输球后，守门员受到的指责比其他任何球员都多。）
+  - This old car has received more abuse than it deserves—it still runs fine.（这辆旧车被折腾得够呛——不过它仍然跑得好好的。）
+  - ⚠️ abuse 此处为名词 = 责骂、虐待、滥用（注意发音：名词 /əˈbjuːs/，动词 /əˈbjuːz/）；receive abuse = 受到辱骂/苛待；abuse 也可指"滥用"：drug abuse（药物滥用）、abuse of power（滥用职权）
+
+- associate a with b 把A和B联系起来；把A与B联想在一起
+  - People often associate red with luck and happiness in Chinese culture.（在中国文化中，人们常把红色与好运和幸福联系在一起。）
+  - I always associate this song with my summer vacation in France.（我总是把这首歌和我在法国的暑假联系起来。）
+  - The brand is associated with high quality and good service.（这个品牌与高品质和良好的服务联系在一起。）
+  - ⚠️ associate A with B = 把A与B联系起来；associate = 联想、联系（动词）；同事、伙伴（名词）；association = 协会、联系、联想；被动式 be associated with = 与……有关联
+
+- appeal to sb. 对某人有吸引力；呼吁某人
+  - The idea of working from home really appeals to me.（居家办公的想法对我很有吸引力。）
+  - This new smartphone mainly appeals to young people.（这款新手机主要吸引年轻人。）
+  - The government appealed to the public to save water during the drought.（政府呼吁公众在干旱期间节约用水。）
+  - ⚠️ appeal to sb. 有两个核心意思：① 对某人有吸引力、合某人心意 ② 向某人呼吁、恳求；appeal = 吸引力、呼吁、上诉（名词/动词）；appealing = 吸引人的、有魅力的（形容词）
+
+- After a heavy shower... 一阵大雨之后……
+  - After a heavy shower, the air smelled fresh and clean.（一阵大雨过后，空气闻起来清新干净。）
+  - After a heavy shower, the streets were full of puddles.（一阵大雨过后，街道上到处都是水坑。）
+  - We had to take shelter in a café after a heavy shower.（一阵大雨后，我们不得不在一家咖啡馆里避雨。）
+  - ⚠️ shower = 阵雨、淋浴；a heavy shower = 一阵大雨；a light shower = 一阵小雨；thunder shower = 雷阵雨；区别：rain 是持续性的雨，shower 是短时、突如其来的阵雨
+
+- be in the shower 正在洗澡；正在淋浴
+  - Don't come in—I'm in the shower!（别进来——我在洗澡！）
+  - She was in the shower when the phone rang, so she missed the call.（电话响的时候她在洗澡，所以没接到。）
+  - He spends at least 20 minutes in the shower every morning.（他每天早上至少要洗20分钟淋浴。）
+  - ⚠️ in the shower = 在淋浴中（强调状态）；类似结构：in the bath（在泡澡）；take a shower = 洗澡（强调动作）
+
+- take a shower 洗个淋浴；冲个澡
+  - I usually take a shower before going to bed.（我通常睡前冲个澡。）
+  - He took a quick shower and got ready for work.（他快速冲了个澡，然后准备上班。）
+  - After playing basketball, we all took cold showers to cool down.（打完篮球后，我们都冲了冷水澡降温。）
+  - ⚠️ take a shower = 洗澡、淋浴（美式）；英式也说 have a shower；类似表达：take a bath（泡澡）；take a cold/hot shower = 洗冷水/热水澡
+
+- take a stroll / go for a stroll 散步；漫步
+  - After dinner, we took a stroll along the beach.（晚饭后，我们沿着海滩散步。）
+  - Let's go for a stroll in the park while the weather is nice.（天气不错，我们去公园散散步吧。）
+  - The old couple take a stroll around the neighborhood every evening.（这对老夫妇每天晚上都在附近散步。）
+  - ⚠️ stroll = 漫步、闲逛（比 walk 更悠闲、节奏更慢）；take a stroll = go for a stroll = 去散步；类似表达：go for a walk、take a walk；stroller = 散步者、婴儿推车
+
+- have the impulse to do sth. 有做某事的冲动
+  - She had the impulse to buy the expensive dress, but she managed to resist.（她有买下那条昂贵裙子的冲动，但还是忍住了。）
+  - On the rooftop, he suddenly had the impulse to shout as loud as he could.（在屋顶上，他突然有一种想放声大喊的冲动。）
+  - I had the impulse to call her, but it was already midnight.（我有给她打电话的冲动，但已经是半夜了。）
+  - ⚠️ impulse = 冲动、一时的念头；have the impulse to do sth. = 有做某事的冲动；on impulse = 一时冲动地；impulsive = 冲动的（形容词）；类似表达：have the urge to do
+
+- dozens of sth./sb. 几十；许多
+  - There are dozens of restaurants on this street—you can pick any one you like.（这条街上有几十家餐厅——你可以随便挑。）
+  - She received dozens of birthday messages from her friends.（她收到了几十条朋友们发来的生日祝福。）
+  - Dozens of people gathered outside the stadium to buy tickets.（几十个人聚集在体育场外买票。）
+  - ⚠️ dozen = 一打、十二个；a dozen = 12；dozens of = 几十个、许多（不精确的数量，强调多）；类似表达：hundreds of（数百）、thousands of（数千）；注意：two dozen eggs（两打鸡蛋，dozen 不加 s）
+
+- for instance 例如；比如
+  - Some animals, for instance polar bears, can survive in extremely cold weather.（有些动物，例如北极熊，能在极寒天气中生存。）
+  - You should eat more fruits—for instance, apples and bananas are good choices.（你应该多吃水果——比如苹果和香蕉都是不错的选择。）
+  - There are many ways to stay healthy; for instance, regular exercise and enough sleep.（保持健康的方法有很多，比如规律运动和充足睡眠。）
+  - ⚠️ for instance = 例如、比如；和 for example 基本可以互换；位置灵活，可放句首、句中（用逗号隔开）或句末；缩写 e.g. = exempli gratia（拉丁语，常用于书面）
+
+- at the idea of... 一想到……（就……）
+  - She felt excited at the idea of traveling to Japan next month.（一想到下个月要去日本旅行，她就很兴奋。）
+  - He trembled at the idea of speaking in front of a thousand people.（一想到要在一千人面前演讲，他就发抖。）
+  - At the idea of losing his job, he couldn't sleep all night.（一想到可能失业，他整夜睡不着觉。）
+  - ⚠️ at the idea of + n./doing = 一想到……（就产生某种情绪或反应）；of 是介词，后接名词或动名词；类似表达：at the thought of（一想到）、at the mention of（一提到）、at the sight of（一看到）
+
+- The sad truth is that + 句子 令人遗憾的事实是……；可悲的真相是……
+  - The sad truth is that many people don't realize the value of health until they lose it.（令人遗憾的事实是，许多人直到失去健康才意识到它的价值。）
+  - The sad truth is that we often hurt the people who care about us most.（可悲的真相是，我们常常伤害最关心我们的人。）
+  - The sad truth is that not every dream can come true, no matter how hard you try.（遗憾的事实是，无论你多么努力，并非每个梦想都能实现。）
+  - ⚠️ The sad truth is that... = 令人遗憾的事实是……；that 引导表语从句；类似句型：The truth is that...（事实是……）、The fact is that...（事实是……）
+
+- be brought up to do sth. 从小被教育/培养做某事
+  - She was brought up to respect her elders and be polite to everyone.（她从小被教育要尊敬长辈、对每个人有礼貌。）
+  - In many families, children are brought up to tell the truth.（在许多家庭里，孩子从小被教育要说实话。）
+  - He was brought up to work hard and never give up.（他从小被培养要努力工作、永不放弃。）
+  - ⚠️ bring up = 抚养、养育、教育；be brought up to do sth. = 从小被教导做某事；bring up 还有"提出（话题）"的意思；类似表达：be raised to do、be taught to do
+
+- stick to sth. 坚持；遵守；粘在……上
+  - If you stick to your study plan, you'll pass the exam for sure.（如果你坚持学习计划，肯定能通过考试。）
+  - Everyone must stick to the rules of the company.（每个人都必须遵守公司的规定。）
+  - The wet shirt stuck to his back after the rain.（雨后湿衬衫粘在了他的背上。）
+  - ⚠️ stick to 多义：① 坚持（计划、决定） ② 遵守（规则、承诺） ③ 粘在……上（物理）；stick 的过去式/过去分词：stuck；类似表达：insist on（坚持要求）、persist in（坚持，更书面）、keep to（遵守）
+
+- notice sb. doing sth. 注意到某人正在做某事
+  - I noticed a stranger standing outside the building when I left.（我离开时注意到一个陌生人站在大楼外。）
+  - She noticed him staring at her during the meeting.（她注意到他开会时一直盯着她看。）
+  - Did you notice anyone acting strangely in the office today?（你注意到今天办公室里有谁行为异常吗？）
+  - ⚠️ notice sb. doing sth. = 注意到某人正在做某事（强调动作正在进行）；notice sb. do sth. = 注意到某人做了某事（强调完整过程，已结束）；类似用法：see/hear/watch sb. doing vs do
+
+- be delighted to do sth. 很高兴做某事
+  - I'm delighted to meet you at last— I've heard so much about you.（很高兴终于见到你——久仰大名。）
+  - She was delighted to hear that her son had won first prize.（听到儿子获得一等奖，她非常高兴。）
+  - We are delighted to announce that the new store will open next week.（我们很高兴地宣布新店将于下周开业。）
+  - ⚠️ delighted = 高兴的、愉快的（比 happy 更正式、程度更强）；be delighted to do = 很高兴做……；be delighted at/by/with sth. = 因……感到高兴；delight = 高兴、使高兴（名词/动词）
+
+- stay to dinner = stay for dinner 留下来吃晚饭
+  - Please stay to dinner—there's plenty of food for everyone.（请留下来吃晚饭吧——饭菜足够大家吃。）
+  - She was invited to stay for dinner after the meeting.（会后她被邀请留下来吃晚饭。）
+  - He was in a hurry, so he couldn't stay to dinner.（他很着急，所以没能留下来吃晚饭。）
+  - ⚠️ stay to dinner = stay for dinner = 留下来吃饭；to 和 for 都可以；类似表达：stay for lunch/breakfast；注意区别：stay up = 熬夜
+
+- to sb's dismay 令某人沮丧/惊慌的是
+  - To his dismay, he realized he had left his passport at home.（令他沮丧的是，他意识到自己把护照落在家里了。）
+  - Much to her dismay, the cake burned in the oven right before the party.（令她大为沮丧的是，派对开始前蛋糕在烤箱里烤焦了。）
+  - To their dismay, the team lost the final game by just one point.（令他们沮丧的是，球队仅以一分之差输掉了决赛。）
+  - ⚠️ dismay = 沮丧、惊慌、气馁；to one's dismay = 令某人沮丧的是；类似结构：to one's surprise（惊讶）、to one's disappointment（失望）、to one's relief（欣慰）；much to one's dismay（语气更强）
+
+- take possession of sth. 占有；拥有；接管
+  - The new owner will take possession of the house next month.（新房主将在下个月接管这栋房子。）
+  - The army took possession of the city after a long battle.（经过长时间的战斗，军队占领了这座城市。）
+  - You cannot take possession of the car until you've paid in full.（全款付清之前，你不能拥有这辆车。）
+  - ⚠️ take possession of = 占有、拥有、接管（强调获得所有权或控制权）；possession = 拥有、所有物、财产；in possession of = 拥有、持有（状态）；类似表达：take over（接管）、take ownership of
