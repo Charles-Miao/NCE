@@ -2089,3 +2089,111 @@
   - The army took possession of the city after a long battle.（经过长时间的战斗，军队占领了这座城市。）
   - You cannot take possession of the car until you've paid in full.（全款付清之前，你不能拥有这辆车。）
   - ⚠️ take possession of = 占有、拥有、接管（强调获得所有权或控制权）；possession = 拥有、所有物、财产；in possession of = 拥有、持有（状态）；类似表达：take over（接管）、take ownership of
+
+- a skeleton in the cupboard/closet 家丑；不可告人的秘密
+  - Every family probably has a skeleton in the cupboard that they don't want others to know.（每个家庭可能都有不想让外人知道的家丑。）
+  - The old mansion had more than one skeleton in its closet, as the detective soon discovered.（侦探很快发现，这座老宅邸里藏着不止一个不可告人的秘密。）
+  - When the politician's past was exposed, the public learned about the skeletons in his closet.（这位政客的过去被曝光后，公众知道了他那些不可告人的秘密。）
+  - ⚠️ 英语习语，字面"柜子里的骷髅"，比喻家庭或个人极力隐瞒的丑闻、秘密；英式常用 cupboard，美式常用 closet；也常说 skeletons in sb's closet；类似表达：a dark secret、a family secret
+
+- sth. be concealed from sb. = conceal sth. from sb. 对某人隐瞒某事
+  - The truth about his illness was concealed from his elderly parents.（他生病的真相被瞒着年迈的父母。）
+  - You shouldn't conceal important information from your business partner.（你不应该向商业伙伴隐瞒重要信息。）
+  - The small door was cleverly concealed behind a bookshelf.（那扇小门巧妙地隐藏在书架后面。）
+  - ⚠️ conceal = 隐藏、隐瞒（比 hide 更正式）；conceal sth. from sb. = 对某人隐瞒某事（from 不可省）；被动式 sth. be concealed from sb. 同样常见；concealment = 隐藏、隐瞒（名词）
+
+- drama queen 小题大做的人；戏精
+  - Don't be such a drama queen—it's just a small scratch, not a serious injury.（别这么小题大做——只是个小擦伤，不是什么重伤。）
+  - My roommate is a real drama queen; she cries over every little problem.（我室友真是个戏精，一点小事就哭天抢地。）
+  - He made a drama queen scene when his order arrived five minutes late.（他的餐晚到了五分钟，他就上演了一出大戏。）
+  - ⚠️ 口语俚语，指对小事反应过度、情绪夸张的人（男女都可用，不限于女性）；make a scene = 大吵大闹、当众出丑；类似表达：overreact（反应过度）、make a mountain out of a molehill（小题大做）
+
+- ruin my day 毁了我一天的好心情
+  - Missing the early bus completely ruined my day.（错过早班公交车彻底毁了我一天的心情。）
+  - A rude email from the client ruined her day, but a good lunch cheered her up.（客户一封无礼的邮件毁了她一天的心情，但一顿好午餐让她振作起来。）
+  - Don't let one negative comment ruin your day.（别让一句负面评价毁了你一整天。）
+  - ⚠️ ruin = 毁坏、毁掉；ruin one's day = 破坏某人一天的心情/计划；类似表达：make one's day（让某人一天很开心，反义）；ruin 也可作名词：in ruins（成为废墟、落空）
+
+- science fiction 科幻小说；科幻作品
+  - Science fiction movies often explore what the future might look like.（科幻电影常常探索未来可能的样子。）
+  - He has been a fan of science fiction since he was a teenager.（他从十几岁起就是科幻迷。）
+  - The novel combines science fiction with a touching love story.（这部小说把科幻和动人的爱情故事结合在一起。）
+  - ⚠️ science fiction = 科幻（体裁），常缩写为 sci-fi（/ˈsaɪfaɪ/，口语）；区分：science fiction（科幻，基于科学想象）vs fantasy（奇幻，魔法、超自然）；相关：sci-fi film/novel（科幻电影/小说）
+
+- to varying degrees 在不同程度上
+  - All the students were affected by the schedule change, to varying degrees.（所有学生都不同程度地受到了日程调整的影响。）
+  - The new policy will benefit these companies to varying degrees.（新政策将在不同程度上让这些公司受益。）
+  - These two products are similar, but they differ in quality to varying degrees.（这两款产品相似，但在质量上有不同程度的差异。）
+  - ⚠️ varying = 不同的、变化的（vary 的现在分词作形容词）；to varying degrees = 在不同程度上（作状语）；类似表达：to some degree（在某种程度上）、to a certain extent；vary from...to... = 从……到……不等
+
+- in the drawer / from the drawer 在抽屉里 / 从抽屉里
+  - I keep all my important documents in the top drawer of my desk.（我把所有重要文件都放在书桌最上面的抽屉里。）
+  - She took a pair of scissors from the kitchen drawer.（她从厨房抽屉里拿出一把剪刀。）
+  - The keys are not in the drawer—maybe you left them on the table.（钥匙不在抽屉里——也许你落在桌上了。）
+  - ⚠️ drawer = 抽屉（注意发音 /drɔː(r)/，末尾 w 不发音）；in the drawer = 在抽屉里（位置）；from the drawer = 从抽屉里（来源/取出方向）；相关：chest of drawers（五斗柜、抽屉柜）
+
+- be petrified of sth. 被……吓呆；极度害怕……
+  - She is petrified of spiders and screams whenever she sees one.（她极度害怕蜘蛛，一看到就尖叫。）
+  - The little boy was petrified of speaking in front of the whole class.（小男孩害怕在全班面前讲话，吓得僵住了。）
+  - I was petrified of the dark when I was a child.（我小时候特别怕黑。）
+  - ⚠️ petrify 原义"使石化"，引申为"使吓呆、使惊呆"；be petrified of = 极度害怕（语气比 be afraid of 强得多，接近 be terrified of）；petrified = 惊呆的、目瞪口呆的（形容词）
+
+- medical student/school 医学生 / 医学院
+  - As a medical student, she spends most of her time in the library and hospital.（作为一名医学生，她大部分时间都在图书馆和医院度过。）
+  - He was accepted into one of the best medical schools in the country.（他被全国最好的医学院之一录取了。）
+  - Medical students often study for more than six years before becoming doctors.（医学生通常要学习六年以上才能成为医生。）
+  - ⚠️ medical = 医学的、医疗的；medical student = 医学生；medical school = 医学院；相关：medical care（医疗）、medical examination（体检）、medical insurance（医疗保险）；medic = 医学生/医护人员（口语）
+
+- It is all very well ..., but not in reality. ……固然很好，但现实中并非如此。
+  - It is all very well to talk about saving money, but not in reality when prices keep rising.（说省钱固然很好，但物价不断上涨，现实中根本做不到。）
+  - It's all very well for him to advise patience, but he isn't the one facing the problem.（他劝人耐心倒是轻松，可面对问题的人又不是他。）
+  - It is all very well to dream big, but in reality, hard work matters more.（胸怀大志固然好，但现实中努力更重要。）
+  - ⚠️ 固定句型，用来委婉反驳：先承认对方说法有道理，再指出其不切实际；It's all very well (for sb.) to do sth., but... 是最常见结构；in reality = 实际上、事实上（= in fact / as a matter of fact）
+
+- make one's hair stand on end 使人毛骨悚然；吓得头发竖起来
+  - The ghost story she told at midnight made my hair stand on end.（她半夜讲的鬼故事吓得我毛骨悚然。）
+  - Hearing strange noises from the empty basement made his hair stand on end.（听到空地下室传来奇怪的声音，他吓得头发都竖起来了。）
+  - Some scenes in that horror movie are enough to make your hair stand on end.（那部恐怖片的一些场面足以让人毛骨悚然。）
+  - ⚠️ 习语，字面"让头发竖起来"，形容极度恐惧；类似中文"毛骨悚然、头皮发麻"；同义表达：give sb. goosebumps（起鸡皮疙瘩）、send chills down sb's spine（脊背发凉）；hair-raising = 令人恐惧的（形容词）
+
+- in sb's youth 在某人年轻时
+  - In his youth, he traveled across Europe on a bicycle.（他年轻时曾骑自行车环游欧洲。）
+  - My grandmother was a professional dancer in her youth.（我奶奶年轻时是一名职业舞者。）
+  - In their youth, they didn't have smartphones or the internet.（他们年轻的时候没有智能手机，也没有互联网。）
+  - ⚠️ youth = 青春、年轻时期（不可数/可数）；in one's youth = 在某人年轻时；相关：in my youth（我年轻时）、youthful = 年轻的、青春的（形容词）；区别：a youth = 一个年轻人（可数，常指男青年）
+
+- show sb. to sw. 带某人去某地；送某人到某处
+  - The receptionist showed me to the meeting room on the third floor.（前台带我去了三楼的会议室。）
+  - Let me show you to the door—it's easy to get lost in this building.（我送你到门口吧——这栋楼很容易迷路。）
+  - The waiter showed them to a table by the window.（服务员把他们带到靠窗的一张桌子。）
+  - ⚠️ show sb. to + 地点 = 引领、护送某人到某处（to 是介词，后接地点名词）；区别：show sb. around = 带某人参观；show up = 出现、露面；show off = 炫耀
+
+- bring sth. with sb. 某人随身携带某物
+  - Don't forget to bring your ID card with you when you go to the airport.（去机场时别忘了随身带身份证。）
+  - She always brings a notebook with her to write down new ideas.（她总是随身带一个笔记本，随时记下新想法。）
+  - You'd better bring an umbrella with you—it might rain this afternoon.（你最好随身带把伞——下午可能会下雨。）
+  - ⚠️ bring = 带来（由远及近）；take = 带走（由近及远）；bring sth. with sb. = 某人随身带着某物；with sb. 有时可省略，但带上更明确；类似：take sth. with sb.（随身携带走）
+
+- it gives sb. the impression that + 句子 给某人留下……的印象
+  - His confident speech gave everyone the impression that he was well prepared.（他自信的演讲给所有人留下了准备充分的印象。）
+  - The messy office gave clients the impression that the company was unprofessional.（凌乱的办公室给客户留下了这家公司不专业的印象。）
+  - She gave me the impression that she didn't really want to join the project.（她给我的印象是她并不真想加入这个项目。）
+  - ⚠️ impression = 印象；give sb. the impression that... = 给某人……的印象（that 引导同位语从句，解释 impression 的内容）；相关搭配：have/get the impression that（有……的印象）、be under the impression that（误以为、觉得）、make an impression on sb.（给某人留下印象）
+
+- be about to do sth. 即将做某事；正要做某事
+  - I was about to leave when it started to rain heavily.（我正要离开时，突然下起了大雨。）
+  - The plane is about to take off—please fasten your seat belt.（飞机即将起飞，请系好安全带。）
+  - She was about to call him when his message appeared on her phone.（她正要给他打电话，他的消息就出现在手机上了。）
+  - ⚠️ be about to do = 马上就要做（强调即刻发生，很近的将来）；常与 when 连用：was/were about to do...when...（正要……这时突然……）；区别：be going to do（打算做，时间稍远）、will do（将来时）
+
+- leap out at sb. 向某人扑过来；一下子吸引某人注意
+  - A huge dog leaped out at us as we walked past the gate.（我们经过大门时，一只大狗猛地向我们扑过来。）
+  - The colorful advertisement on the wall immediately leaped out at her.（墙上色彩鲜艳的广告立刻吸引了她的注意。）
+  - As I read the report, one important detail leaped out at me.（我读报告时，一个重要细节一下子引起了我的注意。）
+  - ⚠️ leap = 跳跃、猛冲（过去式/过去分词：leapt 或 leaped）；leap out at sb. 两层意思：① 物理上向某人猛扑过来 ② 抽象义：（事物）格外醒目、一下子被注意到；类似表达：jump out at、stand out（突出、显眼）
+
+- once upon a time 从前；很久以前（故事开头用语）
+  - Once upon a time, there was a brave princess who lived in a castle.（从前，有一位勇敢的公主住在一座城堡里。）
+  - Once upon a time, people wrote letters instead of sending text messages.（很久以前，人们写信而不是发短信。）
+  - My grandfather often starts his stories with "Once upon a time..."（我爷爷讲故事总以"很久很久以前……"开头。）
+  - ⚠️ 童话、寓言的经典开头，相当于中文"很久很久以前、从前"；谓语动词常用一般过去时；类似讲故事开头：Long long ago、There once lived...；口语中也可幽默地用来回忆往事
