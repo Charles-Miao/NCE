@@ -2197,3 +2197,87 @@
   - Once upon a time, people wrote letters instead of sending text messages.（很久以前，人们写信而不是发短信。）
   - My grandfather often starts his stories with "Once upon a time..."（我爷爷讲故事总以"很久很久以前……"开头。）
   - ⚠️ 童话、寓言的经典开头，相当于中文"很久很久以前、从前"；谓语动词常用一般过去时；类似讲故事开头：Long long ago、There once lived...；口语中也可幽默地用来回忆往事
+
+- a new era / the beginning/end of an era 新时代 / 一个时代的开端/终结
+  - The invention of the smartphone marked the beginning of a new era in communication.（智能手机的发明标志着通信新时代的开端。）
+  - When the old factory closed after 80 years, everyone felt it was the end of an era.（老工厂经营80年后关闭，所有人都觉得一个时代终结了。）
+  - The country entered a new era of economic growth after the reform.（改革之后，这个国家进入了经济增长的新时代。）
+  - ⚠️ era = 时代、年代（比 age 更强调有鲜明特征的历史时期）；the beginning/end of an era = 一个时代的开始/结束，常带感情色彩；常见搭配：mark the beginning/end of an era（标志着时代的开端/终结）、enter a new era（进入新时代）
+
+- A be fitted with B A 装有/配备 B
+  - All the new cars are fitted with airbags and rear cameras.（所有新车都配备了安全气囊和倒车影像。）
+  - The meeting room is fitted with a large screen and a video system.（会议室装有大屏幕和视频系统。）
+  - Every hotel room is fitted with an electronic lock for safety.（为安全起见，每间酒店客房都装有电子锁。）
+  - ⚠️ fit = 安装、配备；be fitted with = 被装配有……（被动，强调设备被装上去）；主动式：fit A with B = 给A装上B；相关：fitness（健康）、fitting（试衣/配件，名词）
+
+- delay in doing sth. 拖延/延迟做某事
+  - There was a delay in delivering the goods because of the heavy snow.（由于大雪，送货延迟了。）
+  - Please forgive the delay in replying to your email.（请原谅我迟迟没有回复你的邮件。）
+  - Any delay in making a decision could cost us the whole project.（做决定上的任何拖延都可能让我们输掉整个项目。）
+  - ⚠️ delay = 延迟、耽搁（名词/动词）；delay in doing sth. = 做某事有延迟（in 后接动名词）；动词用法：delay doing sth.（推迟做某事，不接不定式）；without delay = 毫不拖延地、立即
+
+- A be replaced by B A 被 B 取代/替换
+  - Old paper tickets have been replaced by electronic ones in most cities.（在大多数城市，旧纸质票已被电子票取代。）
+  - The injured player was replaced by a younger teammate in the second half.（下半场，受伤的球员被一名更年轻的队友替换下场。）
+  - Traditional books won't be completely replaced by e-readers any time soon.（传统书籍短期内不会被电子书完全取代。）
+  - ⚠️ replace = 取代、替换；A be replaced by B = A被B取代（by 引出替代者）；主动式：replace A with B = 用B替换A；相关：replacement = 替换、替代品（名词）；区分：take the place of（代替，短语动词）
+
+- take the lead (in doing sth.) 领先；带头做某事
+  - The Chinese team took the lead in the first ten minutes of the match.（中国队在比赛前十分钟就取得了领先。）
+  - Our department will take the lead in developing the new software.（我们部门将带头开发这款新软件。）
+  - She always takes the lead when the team faces a difficult task.（团队遇到困难任务时，她总是带头冲在前面。）
+  - ⚠️ lead = 领先、领导（名词/动词）；take the lead = 取得领先地位、起带头作用；in doing sth. 说明在哪方面领先；反义：lose the lead（失去领先优势）；相关：leader（领导者）、leading（领先的，形容词）
+
+- lose one's lead 失去领先优势
+  - The company lost its lead in the smartphone market after several product failures.（几款产品失败后，这家公司失去了在智能手机市场的领先地位。）
+  - He was winning the race, but he lost his lead after making a mistake at the last corner.（他本来在比赛中领先，但在最后一个弯道失误后丢掉了优势。）
+  - Once you lose your lead, it's very hard to catch up again.（一旦失去领先优势，再追回来就非常困难。）
+  - ⚠️ lead 此处为名词 = 领先地位；lose one's lead = 从领先位置掉下来；对应：take/hold the lead（取得/保持领先）；lead 作名词时注意发音 /liːd/（不是金属铅 /led/）
+
+- be struck by 被……击中；被……深深打动/震撼
+  - The old tree was struck by lightning during last night's storm.（昨晚暴风雨中，那棵老树被闪电击中了。）
+  - I was struck by how confident she looked on stage.（她在台上看起来如此自信，让我印象深刻。）
+  - All the visitors were struck by the beauty of the ancient temple.（所有游客都被这座古寺的美震撼了。）
+  - ⚠️ strike 多义：① 击打、撞击（过去式 struck，过去分词 struck/stricken） ② 突然想到 ③ 给……留下深刻印象；be struck by 两层含义：物理上被击中 + 心理上被打动/震撼；类似表达：be impressed by（被……打动）、be hit by（被……击中）
+
+- from side to side 左右来回地；从一边到另一边
+  - The little boy shook his head from side to side, refusing to eat the vegetables.（小男孩左右摇头，不肯吃蔬菜。）
+  - The boat rocked from side to side in the rough sea, making everyone feel sick.（小船在汹涌的海面上左右摇晃，所有人都觉得恶心。）
+  - She looked from side to side before crossing the busy street.（穿过繁忙的街道前，她左右张望。）
+  - ⚠️ from side to side = 左右来回（水平方向的摆动）；相关短语：up and down（上下）、back and forth（前后/来回）、backwards and forwards（来回地）；常搭配动词：shake/swing/rock/sway from side to side
+
+- it became impossible to do sth. 做某事变得不可能
+  - As the fog grew thicker, it became impossible to see the road ahead.（雾越来越浓，前方的路变得看不清了。）
+  - After the bridge was destroyed, it became impossible to reach the village by car.（桥被毁后，开车到达那个村庄变得不可能了。）
+  - With so much noise outside, it became impossible to concentrate on reading.（外面噪音那么大，专心看书变得不可能了。）
+  - ⚠️ it 为形式主语，真正主语是后面的不定式 to do sth.；become = 变得（系动词，后接形容词）；类似句型：It is/was impossible to do sth.（做某事不可能）、It became difficult/hard/clear to do（做某事变得困难/清楚）
+
+- with great difficulty 费了很大劲；极其困难地
+  - The old man climbed the stairs with great difficulty.（老人费了很大劲才爬上楼梯。）
+  - She managed to finish the marathon, but only with great difficulty.（她总算跑完了马拉松，不过过程极其艰难。）
+  - He breathed with great difficulty after the long run.（长跑之后，他呼吸困难。）
+  - ⚠️ with difficulty = 困难地、费力地（作状语）；with great difficulty = 极其费力地（语气更强）；反义：with ease（轻松地）、easily（容易地）；相关：have difficulty (in) doing sth.（做某事有困难）
+
+- there is a danger that + 句子 存在……的危险；有……的风险
+  - There is a danger that the heavy rain will cause flooding in low-lying areas.（大雨有在低洼地区引发洪水的危险。）
+  - There is a real danger that these ancient languages will disappear within a generation.（这些古老语言确实有可能在一代人之内消失。）
+  - If the problem is ignored, there is a danger that the whole system will crash.（如果忽视这个问题，整个系统有崩溃的风险。）
+  - ⚠️ danger = 危险；There is a danger that... = 有……的危险（that 引导同位语从句，解释 danger 的具体内容）；相关搭配：in danger（处于危险中）、out of danger（脱离危险）、there is no danger that...（没有……的危险）
+
+- call in on / call in at 顺道拜访（人）/ 顺道去（某地）
+  - I'll call in on my grandmother on my way home to see if she needs anything.（回家路上我会顺道去看看奶奶，问她需要点什么。）
+  - We called in at a small café for coffee before heading to the station.（去车站之前，我们顺道去了一家小咖啡馆喝咖啡。）
+  - Why don't you call in on us next time you're in Shanghai?（下次你来上海，为什么不顺道来看看我们呢？）
+  - ⚠️ call in = 顺道访问、短暂拜访；call in on + 人（拜访某人）；call in at + 地点（去某处）；区分：call on sb.（正式拜访某人）、call at sp.（火车/船停靠某地）、call off（取消）、call up（打电话）
+
+- by now 到现在为止；此刻
+  - The train should have arrived by now—maybe it's running late.（火车这会儿本该到了——可能晚点了。）
+  - By now, most of you have probably heard the news about the merger.（到现在，你们大多数人可能已经听说合并的消息了。）
+  - He has been studying English for five years, so by now he can hold a simple conversation.（他学英语五年了，到现在已经能进行简单对话了。）
+  - ⚠️ by now = 到现在、此刻（常与完成时或 should have done 连用，表示预期某事已经发生）；相关：by then（到那时）、by this time（到这个时候）、by now vs until now（by now 强调时间点，until now 强调持续到现在）
+
+- There is no doubt that + 句子 毫无疑问……
+  - There is no doubt that exercise is good for both body and mind.（毫无疑问，运动对身心都有好处。）
+  - There is no doubt that she is the most qualified person for this job.（毫无疑问，她是这份工作最合适的人选。）
+  - There is no doubt that the internet has changed the way we live and work.（毫无疑问，互联网改变了我们生活和工作的方式。）
+  - ⚠️ doubt = 怀疑；There is no doubt that... = 毫无疑问……（that 引导同位语从句，that 可省略）；相关句型：There is some doubt whether...（对……是否……有些怀疑）、I have no doubt that...（我毫不怀疑……）、without doubt（毫无疑问地，作状语）
